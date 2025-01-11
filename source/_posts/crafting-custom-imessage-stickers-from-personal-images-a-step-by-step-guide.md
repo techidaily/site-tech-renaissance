@@ -1,7 +1,7 @@
 ---
 title: "Crafting Custom iMessage Stickers From Personal Images: A Step-by-Step Guide"
-date: 2025-01-01T16:25:02.624Z
-updated: 2025-01-04T16:11:02.360Z
+date: 2025-01-08T08:36:19.216Z
+updated: 2025-01-10T20:46:20.283Z
 tags:
   - apple
 categories:
@@ -62,6 +62,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -78,10 +82,6 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -89,7 +89,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -98,6 +98,10 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -105,10 +109,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -130,15 +130,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -146,15 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,24 +192,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-editors-guide-to-effective-lut-implementation/"><u>[New] The Editor's Guide to Effective LUT Implementation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-tips-for-effective-voice-to-text-in-google-docs/"><u>[Updated] Essential Tips for Effective Voice-to-Text in Google Docs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-6-budget-friendly-4k-sharp-projectors-for-2024/"><u>[Updated] Top 6 Budget-Friendly 4K Sharp Projectors for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-complete-understanding-of-srt-covering-everything-important/"><u>2024 Approved Complete Understanding of SRT, Covering Everything Important</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>2024 Approved Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/automatically-manage-your-safari-browser-windows-on-macos-mojave-for-a-clean-desktop-experience/"><u>Automatically Manage Your Safari Browser Windows on macOS Mojave for a Clean Desktop Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/download-ios-18-now-compatible-iphone-models-and-step-by-step-installation-guide-tech-insider/"><u>Download IOS 18 Now! Compatible iPhone Models & Step-by-Step Installation Guide | Tech Insider</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-spark-10-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Spark 10 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstations-finest-selections-your-must-have-list-of-30-pc-emulators/"><u>PlayStation's Finest Selections: Your Must-Have List of 30 PC Emulators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-how-to-manual-for-using-telnet-on-windows-pcs/"><u>The Essential How-To Manual for Using Telnet on Windows PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-essential-pathway-for-digital-lithuanian-study/"><u>The Essential Pathway for Digital Lithuanian Study</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-no-cost-email-services-we-recommend/"><u>Top 10 No-Cost Email Services We Recommend</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-picks-for-the-best-affordable-power-banks-overcoming-challenges-with-20-anker-charger/"><u>Top Picks for the Best Affordable Power Banks - Overcoming Challenges with $20 Anker Charger</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-analysis-and-reviews-by-tech-experts-pcmag/"><u>Top-Rated MagSafe Chargers : Comprehensive Analysis & Reviews by Tech Experts - PCMag</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-efficient-wireless-charger-models-of-2024-a-comprehensive-analysis-from-zdnet-experts/"><u>Ultimate Guide to the Most Efficient Wireless Charger Models of 2024: A Comprehensive Analysis From ZDNET Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-years-finest-mp3-devices-featured-by-zdnet/"><u>Ultimate Guide to the Year's Finest MP3 Devices – Featured by ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y78t-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y78t</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-m4-boosted-mac-mini-a-small-device-with-a-big-bang-like-apples-set-top-box-zdnet/"><u>Unveiling the M4-Boosted Mac Mini: A Small Device with a Big Bang Like Apple's Set-Top Box | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>[Updated] 2024 Approved From Iciness to Comfort Five Warm Backdrops Ideas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-beginners-guide-to-understanding-youtube-responses/"><u>[Updated] A Beginner's Guide to Understanding YouTube Responses</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-the-technological-splendor-m1-pro-vs-m1-max-for-2024/"><u>[Updated] Exploring the Technological Splendor M1 Pro Vs. M1 Max for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/alternative-secrets-to-sharing-files-efficiently-for-2024/"><u>Alternative Secrets to Sharing Files Efficiently for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-verizons-future-with-5g-technology/"><u>Anticipating Verizon's Future with 5G Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clear-your-web-browsing-history-cache-deletion-tutorial-for-major-browsers/"><u>Clear Your Web Browsing History: Cache Deletion Tutorial for Major Browsers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/cyberpower-cp685avrg-uninterruptible-power-supply-ups-reliable-protection-and-efficient-performance/"><u>CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/discovering-androids-premier-mobas-ranked-in-2024/"><u>Discovering Android's Premier MOBAs Ranked, In 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-online-presence-a-guide-to-blurring-your-backdrop-in-google-meet-sessions/"><u>Enhancing Your Online Presence: A Guide to Blurring Your Backdrop in Google Meet Sessions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-monitor-selection-the-perfect-matches-for-your-ps5-and-new-xbox-consoles/"><u>Navigating Monitor Selection: The Perfect Matches for Your PS5 & New Xbox Consoles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-t-mobiles-residential-cellular-coverage-guidelines/"><u>Navigating Through T-Mobile's Residential Cellular Coverage Guidelines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pinging-made-simple-innovative-techniques-to-reach-out-to-your-chosen-websites/"><u>Pinging Made Simple: Innovative Techniques to Reach Out to Your Chosen Websites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-afeela-crossover-vehicle-upcoming-launch-details-anticipated-costs-and-latest-gossip/"><u>Sony Afeela Crossover Vehicle: Upcoming Launch Details, Anticipated Costs & Latest Gossip</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ideal-summer-edc-checklist-seven-crucial-pieces-you-cant-live-without/"><u>The Ideal Summer EDC Checklist: Seven Crucial Pieces You Can't Live Without</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-truth-about-deleting-stock-applications-installed-with-iphones/"><u>The Truth About Deleting Stock Applications Installed with iPhones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-modifying-regional-settings-on-an-iphone/"><u>The Ultimate Tutorial for Modifying Regional Settings on an iPhone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/top-7-best-automated-video-editors-experience-the-trend-of-effortless-videa-edits/"><u>Top 7 Best Automated Video Editors: Experience the Trend of Effortless Videa Edits!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-toy-chest-of-digital-delights-optimal-gaming-systems-and-add-ons-for-kids/"><u>Ultimate Toy Chest of Digital Delights: Optimal Gaming Systems & Add-Ons for Kids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unstoppable-by-water-discover-the-premier-phone-armor-solutions/"><u>Unstoppable by Water - Discover the Premier Phone Armor Solutions</u></a></li>
 </ul></div>
 

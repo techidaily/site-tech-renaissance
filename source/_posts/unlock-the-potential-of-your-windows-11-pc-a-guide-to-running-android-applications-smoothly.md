@@ -1,7 +1,7 @@
 ---
 title: "Unlock The Potential of Your Windows 11 PC: A Guide to Running Android Applications Smoothly"
-date: 2024-11-11T04:03:53.110Z
-updated: 2024-11-15T16:38:03.217Z
+date: 2025-01-03T20:46:52.300Z
+updated: 2025-01-11T08:54:43.583Z
 categories:
   - BestProducts
 description: "This Article Describes Unlock The Potential of Your Windows 11 PC: A Guide to Running Android Applications Smoothly"
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -34,34 +38,26 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
-![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
-4. Select**120 Hz Output** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
+4. Select**120 Hz Output** .  
 
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
@@ -75,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -127,24 +120,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-canva-imagery-top-10-pro-level-techniques/"><u>[New] Mastering Canva Imagery Top 10 Pro-Level Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-boosting-engagement-customizing-your-shorts-first-impressions/"><u>[Updated] 2024 Approved Boosting Engagement Customizing Your Shorts' First Impressions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-key-points-to-consider-when-opting-for-a-youtube-tv-subscription/"><u>[Updated] 2024 Approved Key Points to Consider When Opting for a YouTube TV Subscription</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cost-outline-for-composing-sounds-to-screen-titles/"><u>[Updated] Cost Outline for Composing Sounds to Screen-Titles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-with-ease-learning-to-navigate-whatsapp-on-macos-devices/"><u>Connect with Ease: Learning to Navigate WhatsApp on macOS Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-the-whea-uncorrectable-issue-a-detailed-troubleshooting-guide/"><u>Eliminating the WHEA Uncorrectable Issue: A Detailed Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-todays-wwdc-announcements-innovations-in-ai-with-apple-and-updates-on-ios-nx-insights-for-tech-enthusiasts-gadgetguru/"><u>Exploring Today's WWDC Announcements: Innovations in AI with Apple and Updates on iOS nX - Insights for Tech Enthusiasts | GadgetGuru</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-a2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A2 Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/immerse-in-hd-celestial-wonders-online/"><u>Immerse in HD Celestial Wonders Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-cost-effective-pc-screenshot-wizards-listed/"><u>In 2024, Cost-Effective PC Screenshot Wizards Listed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nubia-red-magic-8s-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nubia Red Magic 8S Pro Face Lock?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-maintenance-revolution-apple-now-supports-refurbished-components-in-certain-repair-scenarios-insights/"><u>IPhone Maintenance Revolution: Apple Now Supports Refurbished Components in Certain Repair Scenarios - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-snag-an-apple-watch-series-10-for-only-99-before-others-insiders-tips-and-tricks-to-beat-the-rush/"><u>Score Big Savings! Snag an Apple Watch Series 10 for Only $99 Before Others - Insider's Tips and Tricks to Beat the Rush</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-anticipated-iphone-update-unveiling-new-ios-18-capabilities-and-the-dawn-of-integrated-ai-tech-insights/"><u>Top 5 Anticipated iPhone Update: Unveiling New iOS 18 Capabilities & The Dawn of Integrated AI | Tech Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y27s-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y27s Location | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphones-comprehensive-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top Rated iPhones : Comprehensive Reviews & Comparisons by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transferring-imessages-seamlessly-tips-for-windows-users-learn-how-expert-advice/"><u>Transferring iMessages Seamlessly: Tips for Windows Users – Learn How Expert Advice</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-c51-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme C51? Here is How | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-reveals-new-tech-for-iphone-16-enhanced-spatial-capture-capabilities-and-thinner-edges-on-every-model/"><u>ZDNet Reveals New Tech for iPhone 16: Enhanced Spatial Capture Capabilities and Thinner Edges on Every Model</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transform-your-media-quickly-macs-simple-guide-to-resized-insta-content/"><u>[New] 2024 Approved Transform Your Media Quickly Mac's Simple Guide to Resized Insta Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-instagrams-capabilities-for-podcast-promotion/"><u>[Updated] Leveraging Instagram's Capabilities for Podcast Promotion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-peephole-to-private-facebook-worlds-for-2024/"><u>[Updated] Peephole to Private Facebook Worlds for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-strategies-for-restoring-accidentally-erased-images-on-your-ipad/"><u>Comprehensive Strategies for Restoring Accidentally Erased Images on Your iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-15-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 15 If Youve Tried Everything</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-stride-solutions-top-vr-treadmills-reviewed/"><u>In 2024, Innovative Stride Solutions Top VR Treadmills Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-android-flip-digital-content-sequence/"><u>In 2024, Master Android Flip Digital Content Sequence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/line-chat-review-exploring-the-features-pros-and-cons-of-the-popular-messaging-app/"><u>Line Chat Review: Exploring the Features, Pros and Cons of the Popular Messaging App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-captions-in-instagram-stories-the-ultimate-how-to-guide/"><u>Mastering the Art of Captions in Instagram Stories: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-macs-recognition-problems-with-an-outside-monitor-a-comprehensive-guide/"><u>Overcoming Mac's Recognition Problems with an Outside Monitor: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-mystique-of-aether-an-introduction-and-guide-on-becoming-an-active-member/"><u>The Mystique of Aether: An Introduction & Guide on Becoming an Active Member</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-on-linking-nintendo-switch-to-television-setup-for-optimal-gaming-experience/"><u>Ultimate Tutorial on Linking Nintendo Switch to Television Setup for Optimal Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/verifying-the-authenticity-of-dolby-atmos-acoustic-performance-are-you-getting-it-right/"><u>Verifying the Authenticity of Dolby Atmos Acoustic Performance: Are You Getting It Right?</u></a></li>
 </ul></div>
 

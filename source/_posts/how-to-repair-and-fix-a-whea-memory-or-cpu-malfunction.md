@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Fix a WHEA Memory or CPU Malfunction
-date: 2024-08-20T10:34:53.121Z
-updated: 2024-08-21T10:34:53.121Z
+date: 2025-01-10T04:28:23.020Z
+updated: 2025-01-11T02:09:33.652Z
 categories:
   - BestProducts
 description: This Article Describes How to Repair and Fix a WHEA Memory or CPU Malfunction
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/aG3Rq2sMWHLMf_5ZsARBmUsd-6g=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/aG3Rq2sMWHLMf_5ZsARBmUsd-6g=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/aG3Rq2sMWHLMf_5ZsARBmUsd-6g=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-hand-tracking-techniques-for-modern-devices/"><u>[New] 2024 Approved Essential Hand Tracking Techniques for Modern Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>[Updated] Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-achieving-clear-dialogue-in-google-hangouts/"><u>[Updated] In 2024, Achieving Clear Dialogue in Google Hangouts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-apple-tv-os-evolution-unveiling-the-secrets-of-homeos-in-latest-developer-preview-insights/"><u>1. Apple TV OS Evolution: Unveiling the Secrets of 'homeOS' In Latest Developer Preview - Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-slow-your-roll-thriving-in-the-world-of-sluggish-youtube-content-52-chars/"><u>2024 Approved Slow Your Roll Thriving in the World of Sluggish YouTube Content (52 Chars)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-glimpse-into-tomorrow-unveiling-apples-vision-of-household-robotic-assistance/"><u>A Glimpse Into Tomorrow: Unveiling Apple's Vision of Household Robotic Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-xr-spectacles-overcome-tech-envy-with-apples-latest-innovation-techsavvy-review/"><u>Budget-Friendly XR Spectacles Overcome Tech Envy with Apple's Latest Innovation | TechSavvy Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-16-pro-and-iphone-14-pro-evaluating-if-the-new-release-justifies-an-upgrade-tech-insights/"><u>Comparing iPhone 16 Pro and iPhone 14 Pro: Evaluating if the New Release Justifies an Upgrade | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-enhanced-apple-vision-pro-experiences-tips-and-tricks-for-securing-your-demo-insights/"><u>Discover Enhanced Apple Vision Pro Experiences: Tips & Tricks for Securing Your Demo - Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-redmi-note-12t-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Redmi Note 12T Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-x100-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo X100 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-vs-iphone-14-pro-showdown-evaluating-the-enhancements-in-apples-newest-release-tech-comparison/"><u>IPhone 15 Pro vs iPhone 14 Pro Showdown: Evaluating the Enhancements in Apple's Newest Release | Tech Comparison</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/leading-software-solutions-for-creating-perfect-disk-copies-of-ssds-hdds-and-external-drives-on-windows-systems/"><u>Leading Software Solutions for Creating Perfect Disk Copies of SSDs, HDDs & External Drives on Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/security-alert-the-potential-hazards-of-facebook-games/"><u>Security Alert: The Potential Hazards of Facebook Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-elegance-top-rated-titanium-apple-watch-band-reviewed/"><u>Ultimate Elegance: Top-Rated Titanium Apple Watch Band Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninterrupted-gameplay-with-xbox-s-controller/"><u>Uninterrupted Gameplay with Xbox S Controller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-of-cmos-checksum-issues-a-comprehensive-guide-to-repair/"><u>Unraveling the Mystery of CMOS Checksum Issues – A Comprehensive Guide to Repair</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-4-new-ipados-16-enhancements-revealed-at-apples-wwdc-2024-compatible-devices-included/"><u>Unveiling the Top 4 New iPadOS 16 Enhancements Revealed at Apple's WWDC 2024, Compatible Devices Included</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reviews-favorite-phones-insider-look-at-the-smartphones-our-authors-choose/"><u>ZDNet Reviews Favorite Phones: Insider Look at the Smartphones Our Authors Choose</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->

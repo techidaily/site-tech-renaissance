@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Apple Keynote: M4 iPad Pro, Enhanced 13-Inch iPad Air & New Apple Pencil Pro - Comprehensive Recap"
-date: 2024-12-31T16:16:27.084Z
-updated: 2025-01-04T16:57:00.855Z
+date: 2025-01-05T19:51:14.870Z
+updated: 2025-01-11T08:18:50.053Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -56,10 +56,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,6 +71,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -92,22 +92,22 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,24 +160,19 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-twist-and-turn-the-screen-unleashing-your-inner-dancer-with-tiktok-and-macos/"><u>[New] 2024 Approved Twist & Turn the Screen Unleashing Your Inner Dancer with TikTok and MacOS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-complete-guide-to-creating-impactful-snapshots/"><u>[New] In 2024, The Complete Guide to Creating Impactful Snapshots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unraveling-the-mechanics-auto-play-yourtube-videos-on-fb-platform-for-2024/"><u>[New] Unraveling the Mechanics Auto-Play YourTube Videos on FB Platform for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nveiling-the-secrets-to-thriving-with-youtube-adsense-for-2024/"><u>[New] Unveiling the Secrets to Thriving With YouTube AdSense for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-capturing-adventure-an-in-depth-gopro-model-review/"><u>2024 Approved Capturing Adventure An In-Depth GoPro Model Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/5-best-ps1-emulators-for-pc/"><u>5 Best PS1 Emulators for PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-enhances-icloud-support-on-windows-platform-introducing-latest-improvements/"><u>Apple Enhances iCloud Support on Windows Platform, Introducing Latest Improvements</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-improvement-for-effective-online-communication-for-2024/"><u>Audio Improvement for Effective Online Communication for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/delving-into-aether-detailed-overview-and-path-to-inclusion/"><u>Delving Into Aether: Detailed Overview & Path to Inclusion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-macbook-gadgets-expertly-evaluated-and-rated-professional-insights-from-zdnet/"><u>Essential MacBook Gadgets : Expertly Evaluated and Rated | Professional Insights From ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-accessing-espn-plus-streams-through-your-lg-smart-television/"><u>Guide: Accessing ESPN Plus Streams Through Your LG Smart Television</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-14-pro-max-without-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 14 Pro Max without itunes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/important-points-to-check-prior-to-acquiring-secondhand-ipad-devices/"><u>Important Points to Check Prior to Acquiring Secondhand iPad Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-watchs-battery-endurance-with-these-simple-adjustments-insider-tips/"><u>Maximize Your Apple Watch's Battery Endurance with These Simple Adjustments - Insider Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-latest-innovation-the-camera-button-on-every-iphone-16-explore-its-functionality/"><u>Unveiling the Latest Innovation: The Camera Button on Every iPhone 16 - Explore Its Functionality!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-public-domain-video-downloads/"><u>Updated The Ultimate Guide to Public Domain Video Downloads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-dilemma-comparing-the-latest-macbook-procs-which-is-superior-m3-or-m2-zdnet-insights/"><u>Upgrade Dilemma: Comparing the Latest MacBook Procs - Which Is Superior, M3 or M2? | ZDNET Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-do-when-youre-not-getting-emails-on-yahoo-a-step-by-step-guide/"><u>What to Do When You're Not Getting Emails on Yahoo - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-i-wont-switch-to-the-iphone-16-pro-insights-from-an-iphone-14-user/"><u>Why I Won't Switch to the iPhone 16 Pro - Insights From an iPhone 14 User</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-stop-personalized-recommendations-for-podcasts-on-spotify/"><u>[New] 2024 Approved Stop Personalized Recommendations for Podcasts on Spotify</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-boosting-remote-meeting-effectiveness-through-optimized-zoom-recordings/"><u>[New] In 2024, Boosting Remote Meeting Effectiveness Through Optimized Zoom Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unlock-the-secret-of-youtube-to-gif-conversion-begin-here/"><u>[Updated] Unlock the Secret of YouTube-to-GIF Conversion - Begin Here!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722900332022-discover-the-best-note-taking-solutions-our-expert-picks/"><u>Discover the Best Note Taking Solutions : Our Expert Picks!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-diary-habits-with-our-selection-of-the-best-journaling-apps/"><u>Elevate Your Diary Habits with Our Selection of the Best ✍️ Journaling Apps</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/harness-the-power-of-cookiebot-for-enhanced-site-traffic-and-conversion-rates/"><u>Harness the Power of Cookiebot for Enhanced Site Traffic & Conversion Rates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-clicking-experience-with-updated-asus-mousepad-drivers-for-windows-download-now/"><u>Improve Your Clicking Experience with Updated ASUS Mousepad Drivers for Windows - Download Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/in-depth-solutions-for-overcoming-the-failed-service-startup-error-with-battleye-technology/"><u>In-Depth Solutions for Overcoming the 'Failed Service Startup' Error with BattlEye Technology</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leading-macos-sierra-choices-for-file-conversion/"><u>Leading MacOS Sierra Choices for File Conversion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-enhancing-your-photos-with-professional-selfie-light-sets/"><u>Top Tips for Enhancing Your Photos with Professional Selfie Light Sets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-restoring-normal-functionality-from-a-black-screen-on-android/"><u>Troubleshooting Tips: Restoring Normal Functionality From a Black Screen on Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-cognitive-features-of-android-systems/"><u>Understanding the Cognitive Features of Android Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/usb-20-explained-understanding-transfer-rates-cable-types-and-connector-varieties/"><u>USB 2.0 Explained: Understanding Transfer Rates, Cable Types, and Connector Varieties</u></a></li>
 </ul></div>
 

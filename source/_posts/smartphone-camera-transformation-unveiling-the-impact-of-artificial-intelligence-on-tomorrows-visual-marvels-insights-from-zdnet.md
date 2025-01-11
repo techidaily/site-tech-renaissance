@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights From ZDNet"
-date: 2024-12-31T16:06:45.933Z
-updated: 2025-01-04T16:47:35.526Z
+date: 2025-01-03T20:46:27.511Z
+updated: 2025-01-11T03:26:41.110Z
 tags:
   - apple
 categories:
@@ -24,15 +24,15 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -59,6 +59,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
 
@@ -101,7 +105,7 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -144,10 +148,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Object knowledge
 
 During the film era, some analog techniques were possible for image improvement. Now, AI and ML are critical when it comes to having intelligence about what's in a scene. Here are some of the powerful capabilities built into those smartphones I discussed earlier.
@@ -169,7 +169,7 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -195,7 +195,7 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -254,17 +254,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>[New] Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-finding-the-best-prices-on-vr-headsets-from-china-for-2024/"><u>[Updated] Finding the Best Prices on VR Headsets From China for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-flawless-foundations-top-youtube-skincare-routines/"><u>[Updated] In 2024, Flawless Foundations Top YouTube Skincare Routines</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 15/iPad | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-meizu-21-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Meizu 21 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/elevate-your-creative-content-on-instagram-using-loops-for-2024/"><u>Elevate Your Creative Content on Instagram Using Loops for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-iphone-utility-the-impact-of-integrating-googles-gemini-into-ios-insights-from-zdnet/"><u>Enhancing iPhone Utility: The Impact of Integrating Google's Gemini Into iOS - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-virtualization-at-no-cost-discover-the-steps-to-downloading-vmwares-latest-free-personal-edition-for-fusion-pro-and-workstation-pro-insights-from88/"><u>Experience Virtualization at No Cost: Discover the Steps to Downloading VMware's Latest Free Personal Edition for Fusion Pro and Workstation Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a05smirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A05sMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-comparison-why-the-ipad-air-outshines-the-ipad-pro-a-personal-review-by-techexpert/"><u>In-Depth Comparison: Why the iPad Air Outshines the iPad Pro - A Personal Review by TechExpert</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pollution-control-measures-are-crucial-in-preventing-contaminants-from-harming-ecosystems-and-human-health-these-include-the-clean-air-act-and-clean-water-a202/"><u>Pollution Control Measures Are Crucial in Preventing Contaminants From Harming Ecosystems and Human Health; These Include the Clean Air Act and Clean Water Act in the United States.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-buzz-alert-anticipated-launch-timeline-for-apples-latest-devices-including-macbook-air-ipad-pro-and-ipad-air-in-march-detailed-analysis/"><u>Tech Buzz Alert: Anticipated Launch Timeline for Apple's Latest Devices Including MacBook Air, iPad Pro & iPad Air in March? Detailed Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enablingdisabling-youtube-video-comments-for-2024/"><u>[Updated] Enabling/Disabling YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-vertical-sweep-capturing-broader-views-on-the-go/"><u>2024 Approved Vertical Sweep Capturing Broader Views On-the-Go</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/add-mp3-tracks-to-your-itunes-library-on-iphone-step-by-step-guide/"><u>Add MP3 Tracks to Your iTunes Library on iPhone - Step by Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888039286-dealing-with-nspr4dll-not-detected-top-strategies-and-tips/"><u>Dealing with 'Nspr4.dll Not Detected' - Top Strategies and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-a-408-response-code-identifying-issues-and-effective-remedies/"><u>Dealing with a 408 Response Code: Identifying Issues and Effective Remedies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-effective-free-registry-scrubbing-applications-of-2024/"><u>Discover the Most Effective Free Registry Scrubbing Applications of 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-13-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 13 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-dual-screen-setup-on-your-apple-devices/"><u>How To Enable Dual Screen Setup on Your Apple Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-12-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 12 Pro to Samsung | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stay-active-with-the-fitbit-versa-3-outstanding-inbuilt-gps-and-comprehensive-health-apps-for-enhanced-motivation/"><u>Stay Active with the Fitbit Versa 3: Outstanding Inbuilt GPS & Comprehensive Health Apps for Enhanced Motivation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722893847727-top-12-complimentary-keyboard-skills-classes-perfect-for-every-age-group/"><u>Top 12 Complimentary Keyboard Skills Classes Perfect for Every Age Group</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-must-have-food-tracking-applications/"><u>Top 6 Must-Have Food Tracking Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-watch-3-anticipated-features-pricing-details-and-launch-timeline-unveiled/"><u>Upcoming Google Pixel Watch 3: Anticipated Features, Pricing Details & Launch Timeline Unveiled</u></a></li>
 </ul></div>
 

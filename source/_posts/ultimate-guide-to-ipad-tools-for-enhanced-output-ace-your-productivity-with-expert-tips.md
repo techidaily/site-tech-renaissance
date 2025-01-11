@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to iPad Tools for Enhanced Output: Ace Your Productivity with Expert Tips"
-date: 2024-12-31T16:46:28.946Z
-updated: 2025-01-04T16:25:44.289Z
+date: 2025-01-05T18:20:51.881Z
+updated: 2025-01-11T01:47:56.596Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,20 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-embrace-freedom-no-cost-movie-player-software/"><u>[New] In 2024, Embrace Freedom No-Cost MOVIE PLAYER Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>[Updated] 2024 Approved Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-channel-success-story-turning-budget-into-brands/"><u>[Updated] Channel Success Story Turning Budget Into Brands</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-aligning-brands-with-youtube-content/"><u>2024 Approved The Art of Aligning Brands with YouTube Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/breakthrough-messaging-feature-for-safety-just-arrived-with-ios-from-apple-discover-the-details-at-zdnet/"><u>Breakthrough Messaging Feature for Safety Just Arrived with iOS #! From Apple | Discover the Details at ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/embark-on-an-adventure-in-the-marvel-dimension-via-apple-vision-pro-insiders-guide-revealed-may-30th/"><u>Embark on an Adventure in the Marvel Dimension via Apple Vision Pro, Insider's Guide Revealed May 30Th</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/galaxy-s24-ultra-versus-iphone-15-pro-max-who-wins-the-smartphone-supremacy/"><u>Galaxy S24 Ultra versus iPhone 15 Pro Max: Who Wins the Smartphone Supremacy?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-s23-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel S23 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-f54-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy F54 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-14-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 14 Pro Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/personalizing-the-quick-settings-on-your-iphone-using-ios-18-expert-advice/"><u>Personalizing the Quick Settings on Your iPhone Using iOS 18 | Expert Advice</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-imaging-iphone-16-integrates-advanced-visual-recognition-tech-mirroring-google-lens-features-zdnet-analysis/"><u>Revolutionizing Mobile Imaging: IPhone 16 Integrates Advanced Visual Recognition Tech, Mirroring Google Lens Features | ZDNET Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplified-steps-swiftly-move-all-your-macbook-info-with-these-surprising-techniques/"><u>Simplified Steps: Swiftly Move All Your MacBook Info With These Surprising Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transforming-doubt-into-action-channeling-vlogger-excellence-for-2024/"><u>Transforming Doubt Into Action Channeling Vlogger Excellence for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/urgent-alert-from-apple-protect-your-iphone-against-emerging-espionage-malware-learn-more-on-zdnet/"><u>Urgent Alert From Apple: Protect Your iPhone Against Emerging Espionage Malware - Learn More on ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-bridging-the-gap-converting-snapchats-flash-into-files/"><u>[Updated] In 2024, Bridging the Gap Converting Snapchat's Flash Into Files</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-your-shorts-appeal-with-personalized-thumbnails/"><u>2024 Approved Enhance Your Shorts' Appeal with Personalized Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-tone-refactoring-pro/"><u>2024 Approved Radiant Tone Refactoring Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advancing-task-management-adding-cli-to-windowed-console/"><u>Advancing Task Management: Adding CLI to Windowed Console</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fix-what-to-do-if-your-osdtcpdll-file-is-gone/"><u>Comprehensive Fix: What to Do If Your OSDTCP.dll File Is Gone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-closed-captions-on-amazon-prime-streaming/"><u>Disabling Closed Captions on Amazon Prime Streaming</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-s21-fe-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy S21 FE 5G (2023) Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-image-security-with-best-watermarks-software/"><u>In 2024, Master Image Security with Best Watermarks Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2024-showcase-selecting-the-top-13-free-pdf-manipulation-programs/"><u>July 2024 Showcase: Selecting the Top 13 Free PDF Manipulation Programs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-controlling-internet-usage-how-to-prevent-youtube-access-on-an-ipad/"><u>Master the Art of Controlling Internet Usage: How to Prevent YouTube Access on an iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-siri-a-step-by-step-guide-to-reading-out-text-on-iphone-and-mac/"><u>Mastering Siri: A Step-by-Step Guide to Reading Out Text on iPhone & Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-mts-video-editors-top-picks-and-reviews/"><u>New Best MTS Video Editors Top Picks and Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshade-techniques-to-safeguard-your-unique-artistic-creations/"><u>Nightshade Techniques to Safeguard Your Unique Artistic Creations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-joining-an-icloud-shared-photo-library/"><u>Step-by-Step Guide: Joining an iCloud Shared Photo Library</u></a></li>
 </ul></div>
 

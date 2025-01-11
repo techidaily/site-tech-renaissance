@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Bypassing Restrictions for the Kindle Paperwhite
-date: 2024-08-20T10:29:27.320Z
-updated: 2024-08-21T10:29:27.320Z
+date: 2025-01-07T03:00:52.577Z
+updated: 2025-01-11T11:11:57.459Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029f972da8e465d2fb4ae63f10.jpg
@@ -9,13 +9,15 @@ thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029
 
 ## Expert Tips on Bypassing Restrictions for the Kindle Paperwhite
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Jailbreak Kindle Paperwhite 2022
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7/20/2023 9:21:08 AM.
 
 4.8 [(86 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -53,6 +55,10 @@ At this step, we need to put the jailbreak files into Kindle Paperwhite. [Click 
 
 ![jailbreak-files](http://www.epubor.com/images/uppic/3-jailbreak-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Connect Kindle Paperwhite to your computer. Now you need to put these files into different directories of your device: Put _**MOBI8\_DEBUG**_ and _**jailbreak.sh**_ in the root directory and put _**jailbreak.mobi**_ in the "documents" folder. Just leave the _**README.txt**_ alone.
 
 ![put-files-at-root-directory](http://www.epubor.com/images/uppic/4-put-files-at-root-directory.jpg)
@@ -62,6 +68,10 @@ Connect Kindle Paperwhite to your computer. Now you need to put these files into
 Eject the device and you'll find there is a new personal document at home page.
 
 ![new-document](http://www.epubor.com/images/uppic/6-new-document.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open this file and click the "Jailbreak" link on the first page.
 
@@ -77,9 +87,6 @@ Follow these instructions and then your device will start the jailbreak process.
 
 After the process has been completed, the Kindle Paperwhite will turn back to normal. You will see the new document we mentioned above has changed into another one. This means the jailbreaking is successful.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Jailbreak Kindle with Firmware Version 5.6.5
 
 Kindle 5.6.5 jailbreak was released, it is not complicated to complete. But, make sure your Kindle's firmware version is 5.6.5\. If the firmware version is lower than 5.6.5, please [maually update it to 5.6.5](https://tools.techidaily.com/epubor/products/). If it is upper than 5.6.5, such as 5.7.2, you need to downgrade to 5.6.5\. ![jailbreak-kindle-paperwhite](http://www.epubor.com/images/uppic/10-jaibreak-log.jpg)
@@ -106,9 +113,6 @@ In the opened new page, Go to "Stage 1" first. And when it fails to load, return
 
 ![Jailbreak Kindle Paperwhite 5.6.5](http://www.epubor.com/images/uppic/jailbreak-kindle-paperwhite-5.6.5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 After it appears "run the ;fc-cache in the search bar", click "Search bar", type “**;fc-cache**” and click enter button.
 
 When you see a message "Jailbreak Succeeded", it means the process is finished, Turn on airplane mode quickly.
@@ -120,6 +124,10 @@ Connect Kindle to computer again, uncompress "JailBreak-1.14.N-FW-5.x-hotfix" zi
 Open your Kindle eReader and find "Update Device" option and click it. Normally the location is Home -> Menu (Three vertical dot) ->Settings -> Menu -> Update Your Kindle. And wait for restarting.
 
 After Kindle restarted, your kindle is fully jailbroken, and you can change the screensaver and read epub books now. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Jailbreak Kindle with Firmware Version 5.7.x/ 5.8.x
 
@@ -179,22 +187,9 @@ As long as you have downgraded your Kindle device to the specific version, you c
 ![jailbreak kindle](http://www.epubor.com/images/uppic/jailbreak-kindle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Suitable for Kindle Oasis, Kindle Voyage, Kindle Paperwhite 2/3, Kindle Touch 2/3**
 
 1\. [Download main-htmlviewer.tar.gz](https://www.mobileread.com/forums/attachment.php?attachmentid=150210&d=1468542166)
@@ -217,13 +212,14 @@ Key features:
 
 ![update your kindle](http://www.epubor.com/images/uppic/update-your-kindle.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10\. After the rebooting procession, your Kindle has been jailbroken.
 
 ![cro buttom](http://www.epubor.com/images/uppic/crobuttom.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 You must try these methods step by step. When the jailbreak procedure has been done, you can update your firmware to the latest version with the effective jailbreak. Learn the details of [how to update your Kindle firmware](https://tools.techidaily.com/epubor/products/).
 
 With these methods, you can jailbreak Kindle Paperwhite or other Kindle versions freely. If you have tried above methods and succeed, please leave your Kindle versions through the comment column to give others a reference.
@@ -252,6 +248,10 @@ Download the current hotfix package:
 
 For the last updating your Kindle Paperwhite firmware version part in the previous section of the article, please refer to [how-to-downgrade-kindle-firmware-2017](https://tools.techidaily.com/epubor/products/), but take notice of the following modification:  
 For Paperwhite3 – 32GB, please don’t use the firmware link in that article, but use [this file](https://s3.amazonaws.com/firmwaredownloads/update%5Fkindle%5Fall%5Fnew%5Fpaperwhite%5F5.8.9.bin) or get a 5.8.9.2 or newer firmware from Amazon. (5.8.10 or 5.8.11 are also ok).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 5\. Jailbreak Kindle PaperWhite 4 with Firmware Version 5.10.2-5.13.3
 
@@ -316,8 +316,9 @@ Enjoy your jailbroken Kindle PaperWhite now.sss
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### Q: What's the benefits of Jailbreak Kindle eReader?
 
 A: With a jailbroken Kindl e, you can change the screensaver and remove ads from Amazon. Install some plugins, such as KUAL and Koreader, these plugins will make it possible to read ePub and other formats on Kindle, and reflow PDF books for better reading experience.
@@ -354,9 +355,6 @@ Related Readings
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -364,8 +362,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 86 Comments
 
@@ -1352,8 +1348,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -1361,4 +1355,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unraveling-post-upload-functionality-in-youtube-videos/"><u>[New] Unraveling Post-Upload Functionality in YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-business-of-blogging-and-earning-on-youtube-platform/"><u>[Updated] In 2024, The Business of Blogging and Earning on YouTube Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-obsudios-analysis-selecting-the-ideal-recording-software/"><u>[Updated] Obsudio's Analysis Selecting the Ideal Recording Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtubes-potential-with-key-rank-tracker-software/"><u>[Updated] Unlock YouTube's Potential with Key Rank Tracker Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-0xc0000185-explained-causes-and-fixes-demystified/"><u>Error 0Xc0000185 Explained: Causes and Fixes Demystified</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-no-cost-methods-for-enjoying-netflix-streams/"><u>Exploring No-Cost Methods for Enjoying Netflix Streams</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-supercharge-your-content-key-seo-elements-for-youtube/"><u>In 2024, Supercharge Your Content Key SEO Elements for YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-find-n3-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo Find N3 Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-can-you-believe-these-specs-for-the-new-foldable-iphone/"><u>Inside Scoop: Can You Believe These Specs for The New Foldable iPhone?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-tips-for-installing-new-drivers-on-your-intel-centrino-advanced-n-wireless-card-6235/"><u>Latest Tips for Installing New Drivers on Your Intel Centrino Advanced-N Wireless Card (6235)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-post-a-step-by-step-guide-to-fitting-the-full-image-in-an-instagram-story/"><u>Maximizing Your Post: A Step-by-Step Guide to Fitting the Full Image in an Instagram Story</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-hashtag-efficacy-for-brand-promotion-on-facebook/"><u>Navigating Hashtag Efficacy for Brand Promotion on Facebook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-make-an-impact-top-pc-intro-makers-both-online-and-offline/"><u>New Make an Impact Top PC Intro Makers , Both Online and Offline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-best-ios-delightful-brain-teasers-inspired-by-classic-titles-the-room-and-myst/"><u>Uncover the Best iOS Delightful Brain-Teasers Inspired by Classic Titles 'The Room' And 'Myst'</u></a></li>
+</ul></div>
 

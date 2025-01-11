@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2024-12-30T16:53:34.152Z
-updated: 2025-01-04T16:08:40.581Z
+date: 2025-01-05T19:47:09.899Z
+updated: 2025-01-10T23:57:31.634Z
 tags:
   - apple
 categories:
@@ -44,17 +44,9 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -63,16 +55,12 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -87,6 +75,10 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -126,9 +118,17 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,22 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-durecorder-simplified-essential-guidelines-and-reviews/"><u>[Updated] 2024 Approved DuRecorder Simplified Essential Guidelines & Reviews</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-visual-flair-filmmaking-the-foremost-15-luts-for-gopro-videos/"><u>[Updated] In 2024, Visual Flair Filmmaking The Foremost 15 LUTs for GoPro Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipated-release-date-new-ipad-models-expected-in-late-spring-of-2024-insights-from-zdnet/"><u>Anticipated Release Date: New iPad Models Expected in Late Spring of 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-iphone-models-is-upgrading-from-iphone-14-pro-to-iphone-16-pro-a-smart-move-insights-and-analysis-for-tech-enthusiasts-zdnet/"><u>Comparing iPhone Models: Is Upgrading From iPhone 14 Pro to iPhone 16 Pro a Smart Move? Insights & Analysis for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elite-selection-premier-ceiling-speaker-choices/"><u>Elite Selection: Premier Ceiling Speaker Choices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ahead-with-apple-watch-series-10-preorders-essential-guide-and-top-tricks-for-savings/"><u>Get Ahead with Apple Watch Series 10 Preorders - Essential Guide & Top Tricks for Savings</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-note-30-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Note 30 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y200e-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y200e 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/investigating-the-evolution-of-back-and-filter-buttons-in-pt/"><u>Investigating the Evolution of Back & Filter Buttons in PT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g73-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G73 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/optimizing-your-machine-effective-strategies-for-boosting-computer-speed-guidance-from-yl-software/"><u>Optimizing Your Machine: Effective Strategies for Boosting Computer Speed - Guidance From YL Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-iphone-14-with-ios-18-for-effortless-content-production-as-featured-on-zdnet/"><u>Revolutionize Your iPhone 14 with iOS 18 for Effortless Content Production, as Featured on ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-3-iphone-13-gadgets-for-preserving-pristine-appearance-insights-from-zdnet/"><u>Top 3 iPhone 13 Gadgets for Preserving Pristine Appearance - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-1616-pro-case-selection-expert-ratings-and-reviews/"><u>Ultimate Guide to iPhone 16/16 Pro Case Selection: Expert Ratings and Reviews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-concepts-behind-ray-tracing/"><u>Unveiling the Concepts Behind Ray Tracing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/unveiling-windows-11s-protection-features-a-comprehensive-guide-by-yl-computing/"><u>Unveiling Windows 11'S Protection Features: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/winning-strategies-to-repair-osetupdll-not-detected-issues-effortlessly/"><u>Winning Strategies to Repair 'Osetup.dll Not Detected' Issues Effortlessly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-the-acquisition-of-stock-video-backgrounds/"><u>[New] 2024 Approved Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-transform-your-instagram-experience-with-obs-livestreaming-techniques/"><u>[New] 2024 Approved Transform Your Instagram Experience with OBS Livestreaming Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life-for-2024/"><u>[New] Humor in Captivity Top 20 Memes From Jail to Joys of Online Life for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ancient-aesthetics-public-domain-pieces/"><u>[Updated] Ancient Aesthetics Public Domain Pieces</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-trusted-recommendations-the-ultimate-10-for-real-time-tennis-and-rugby-viewing/"><u>[Updated] Trusted Recommendations The Ultimate 10 for Real-Time Tennis and Rugby Viewing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-configuring-parent-controls-on-discord/"><u>A Step-by-Step Guide to Configuring Parent Controls on Discord</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-no-cost-iphone-tunes-top-8-picks/"><u>Discover the Best No-Cost iPhone Tunes: Top 8 Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-free-computing-how-to-handle-fm20dll-not-found-issues/"><u>Error-Free Computing: How to Handle fm20.dll Not Found Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-clearing-space-by-deleting-apps-on-your-samsung-smart-tv/"><u>Expert Tips: Clearing Space By Deleting Apps on Your Samsung Smart TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-league-of-legends-game-crashes-fast-solutions-inside/"><u>Fix Your League of Legends Game Crashes: Fast Solutions Inside!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-magic-5-lite-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor Magic 5 Lite Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722903258846-what-to-expect-from-the-upcoming-samsung-galaxy-s25-ultra-price-predictions-and-release-date-insights/"><u>What to Expect From the Upcoming Samsung Galaxy S25 Ultra - Price Predictions & Release Date Insights</u></a></li>
 </ul></div>
 

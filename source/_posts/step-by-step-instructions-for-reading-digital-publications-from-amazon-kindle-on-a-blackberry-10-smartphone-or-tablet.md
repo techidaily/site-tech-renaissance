@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Reading Digital Publications From Amazon Kindle on a BlackBerry 10 Smartphone or Tablet
-date: 2024-08-20T10:29:45.234Z
-updated: 2024-08-21T10:29:45.234Z
+date: 2025-01-05T02:44:35.055Z
+updated: 2025-01-10T23:26:44.777Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e457144d63179eeaf5994b016.jpg
@@ -15,9 +15,11 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7
 
 3 [(0 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 No matter BlackBerry 10 hits a significant sales record or not, it is no doubt that Blackberry is catching our eyesights by BB10, Blackberry Z10 and Q10, compared to months ago when few people remembered there is a company called Blackberry.
 
@@ -34,8 +36,9 @@ After installing this app on your BlackBerry 10, run it and register with your A
 ![read kindle books on blackberry 10](http://www.epubor.com/images/read-kindle-books-on-blackberry-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### But this app still gets a long long way to go
 
 Pity is this app doesn't perform that well on BlackBerry 10, on the app page in BlackBerry World you can half of the reviews are reporting problems, such as "Started out great. Now it won't sync so can't read anything", "The site will not let you order books from a Z10", and "Don't even bother downloading". Even for a good review, it is just "Better than nothing".
@@ -43,12 +46,9 @@ Pity is this app doesn't perform that well on BlackBerry 10, on the app page in 
 ![kindle app for blackberry 10 reviews](http://www.epubor.com/images/kindle-for-bb10-bad-review.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Read them on better reading apps and make the most of your Kindle books
 
 Although Kindle app for BB10 is barely satisfactory, but the Kindle books remain a nice quality and friendly price. So if we can read Amazon Kindle books on Blackberry 10 with other better reading apps, that will be an enjoyment. And it is definitely possible.
@@ -70,8 +70,9 @@ It supports EPUB, MOBI, AZW, PDB, PRC, FB2, FB.ZIP,TXT and CHM formats. Notice: 
 ![book reader app for blackberry 10](http://www.epubor.com/images/book-reader-for-blackberry.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3Use this app to read your Kindle books
 
 Now find your Kindle books which have been decrypted in the first step, they must be DRM-free, or you can only read them by official Kindle app.
@@ -87,8 +88,9 @@ Transfer the books from your computer to DropBox via PC application or webpage, 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -96,8 +98,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 0 Comments
 
@@ -123,8 +123,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +130,20 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-insiders-guide-to-powerful-win10-habits/"><u>[New] Insider's Guide to Powerful Win10 Habits</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-the-m1-market-the-top-pick-for-apple-enthusiasts/"><u>[New] Mastering the M1 Market The Top Pick for Apple Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-mobile-app-dev-editing-systems/"><u>[Updated] Best Mobile App Dev Editing Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-of-steam-error-130-strategies-for-a-smooth-gaming-experience-fixed/"><u>Cracking the Code of Steam Error 130: Strategies for a Smooth Gaming Experience [FIXED]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-the-elusive-msxml4dll-file-a-detailed-tutorial/"><u>Diagnosing and Repairing the Elusive 'Msxml4.dll' File: A Detailed Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insights-to-scarlet-and-violets-rare-finds-92/"><u>Exclusive Insights to Scarlet & Violet's Rare Finds (92)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-top-10-preferred-free-email-platforms-for-your-needs/"><u>Explore These Top 10 Preferred Free Email Platforms for Your Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-and-powerful-top-13-pdf-editors-you-cant-miss-july-edition/"><u>Free & Powerful: Top 13 PDF Editors You Can't Miss (July Edition)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-correct-the-deadly-coding-mistakes-hindering-gameplay-in-activisions-call-of-duty-franchise/"><u>How to Correct the Deadly Coding Mistakes Hindering Gameplay in Activision's Call of Duty Franchise</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-encompassing-virtual-horizon-review/"><u>In 2024, All-Encompassing Virtual Horizon Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-correcting-ntdlldll-issues-across-different-windows-systems/"><u>Troubleshooting Tips for Correcting ntdll.dll Issues Across Different Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tips-for-successfully-playing-pokemon-unite-online/"><u>Ultimate Tips for Successfully Playing Pokémon Unite Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-samsung-z-fold-the-latest-model-what-to-expect-in-features-and-costs/"><u>Upcoming Samsung Z Fold The Latest Model – What to Expect in Features and Costs</u></a></li>
+</ul></div>
 

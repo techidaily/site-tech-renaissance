@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Intel-Based Smart Assistant in Your Mac or iPad – Is Yours Equipped with It?
-date: 2024-12-31T16:40:45.138Z
-updated: 2025-01-04T16:49:11.302Z
+date: 2025-01-05T20:16:01.146Z
+updated: 2025-01-10T23:56:56.241Z
 tags:
   - apple
 categories:
@@ -29,24 +29,16 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -56,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -63,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -73,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +126,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-master-the-craft-streamlining-your-online-television-recordings/"><u>[New] Master the Craft Streamlining Your Online Television Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>[New] The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/11-cinematic-masterpieces-that-will-inspire-you-today/"><u>11 Cinematic Masterpieces That Will Inspire You Today</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-in-depth-review-elevating-your-recording-game-with-showmore/"><u>2024 Approved In-Depth Review Elevating Your Recording Game with ShowMore</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipated-release-of-apple-vision-pro-in-february-revolutionizing-purchase-experience-tech-innovations-at-large/"><u>Anticipated Release of Apple Vision Pro in February, Revolutionizing Purchase Experience | Tech Innovations at Large</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-savvy-shooters-top-5-under-200-cameras-for-2024/"><u>Budget-Savvy Shooters Top 5 Under $200 Cameras for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-apples-latest-carplay-enhancements-unveiled-at-wwdc-2024-top-new-features-revealed-techcrunch/"><u>Discover Apple's Latest CarPlay Enhancements Unveiled at WWDC 2024: Top New Features Revealed | TechCrunch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-writing-on-macos-discover-the-power-of-craft-an-exceptional-document-tool-tips-and-tricks-zdnet/"><u>Elevate Your Writing on macOS: Discover the Power of Craft, an Exceptional Document Tool - Tips & Tricks | ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-review-ricoh-theta-s-unveiled-in-detail/"><u>Expert Review Ricoh Theta S Unveiled in Detail</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-for-beginner-3d-lut-masters/"><u>In 2024, Step-by-Step for Beginner 3D LUT Masters</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-paying-up-to-20-a-month-for-enhanced-apple-features-worth-it-industry-predictions-revealed-by-zdnet/"><u>Is Paying Up to $20 a Month for Enhanced Apple Features Worth It? Industry Predictions Revealed by ZDNet</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/les-meilleurs-liseurs-mkv-de-2020-tops-pour-windows-et-mac-installer-and-utiliser/"><u>Les Meilleurs Liseurs MKV De 2020 : Tops Pour Windows Et Mac, Installer & Utiliser</u></a></li>
-<li><a href="https://win-trending.techidaily.com/personalizing-windows-search-preferences-a-guide-by-yl-software-experts/"><u>Personalizing Windows Search Preferences: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-switch-moving-your-whatsapp-from-android-to-iphone-a-step-by-step-guide/"><u>Seamless Switch: Moving Your WhatsApp From Android to iPhone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-new-ipad-pro-air-and-pencil-pro-before-launch-top-deals-on-zdnet-now/"><u>Secure Your New iPad Pro, Air, and Pencil Pro Before Launch - Top Deals on ZDNET Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-selection-of-ideal-mobile-devices-for-children/"><u>ZDNet's Selection of Ideal Mobile Devices for Children</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>[New] 2024 Approved Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unboxing-the-power-of-yis-high-definition-cam/"><u>[New] In 2024, Unboxing the Power of YI's High Definition Cam</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rganize-and-share-music-how-to-make-youtube-playlists-easier-for-2024/"><u>[New] Organize and Share Music How to Make YouTube Playlists Easier for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-tubes-the-ultimate-video-share-sites-for-2024/"><u>[Updated] Beyond Tubes The Ultimate Video Share Sites for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-prime-pick-simple-effective-gaming-edit-suites/"><u>2024 Approved Prime Pick Simple, Effective Gaming Edit Suites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-there-connectivity-issues-with-the-psn-service-or-problems-on-your-end/"><u>Are There Connectivity Issues with the PSN Service or Problems on Your End?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-ieframedll-error-messages/"><u>Step-by-Step Solutions for Correcting ieframe.dll Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/switching-receivers-compatibility-guide-for-logitech-mice/"><u>Switching Receivers: Compatibility Guide for Logitech Mice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-viewing-star-trek-films-sequentially/"><u>The Ultimate Guide to Viewing Star Trek Films Sequentially</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveled-and-resolved-error-number-45/"><u>Unraveled and Resolved Error Number 45</u></a></li>
 </ul></div>
 

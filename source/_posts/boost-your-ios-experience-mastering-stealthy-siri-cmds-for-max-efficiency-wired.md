@@ -1,7 +1,7 @@
 ---
 title: "Boost Your iOS Experience: Mastering Stealthy Siri Cmds for Max Efficiency | Wired"
-date: 2024-12-29T17:01:05.530Z
-updated: 2025-01-04T16:57:44.523Z
+date: 2025-01-09T00:14:03.483Z
+updated: 2025-01-10T16:26:48.665Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ As many have come to know, iPhones are amazingly powerful little computers. Many
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -35,7 +35,7 @@ Voice dictation is another voice input mode. This is most often initiated by tap
 As it turns out, though, there's an incredibly powerful voice input mode that's hidden from most users because it's turned off by default. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Introducing Voice Control
@@ -57,7 +57,7 @@ You can say things like "tap number" or "pan up number", "swipe left" with an it
 To find out what commands work with Voice Control, start by saying, "What can I say?" iMore has an [excellent comprehensive list of all the commands](https://www.imore.com/everything-you-can-do-voice-control-iphone-and-ipad). Just point your browser there to see all that's available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Voice Control on your phone
@@ -67,7 +67,7 @@ Not only is Voice Control not turned on by default, but the code that runs Voice
 You'll know Voice Control is enabled when there's a little blue microphone icon at the top of your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Additional features
@@ -110,16 +110,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-eyecatcher-studio-wx-series/"><u>[Updated] In 2024, EyeCatcher Studio WX Series</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-impact-with-a-triad-of-tailored-copywriting-methods-for-2024/"><u>[Updated] Maximizing Impact with a Triad of Tailored Copywriting Methods for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-turn-fb-vids-into-savable-mp3-files-for-2024/"><u>[Updated] Turn FB Vids Into Savable MP3 Files for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-integrating-chroma-keying-into-your-edit-suite/"><u>2024 Approved Integrating Chroma Keying Into Your Edit Suite</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-adobe-tips-resurrect-the-color-of-faded-iphone-hdr-in-video-editing/"><u>In 2024, [Professional Adobe Tips] Resurrect the Color of Faded iPhone HDR in Video Editing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsofts-ai-struggle-revealed-as-apple-and-samsung-showcase-their-dominance-insights-for-tech-enthusiasts/"><u>Microsoft’s AI Struggle Revealed as Apple and Samsung Showcase Their Dominance | Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-watch-2-vs-apple-watch-series-9-showdown-determining-the-ultimate-smartwatch-investment/"><u>Pixel Watch 2 Vs. Apple Watch Series 9 Showdown: Determining the Ultimate Smartwatch Investment</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-zero-30-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Zero 30 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/siri-gets-smarter-in-apples-long-game-plan-with-major-upgrades-slated-and-beyond-digital-chronicle/"><u>Siri Gets Smarter in Apple's Long Game Plan with Major Upgrades Slated and Beyond | Digital Chronicle</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-waterproof-wearables-comprehensive-gadget-reviews-by-tech-experts/"><u>Top-Rated Waterproof Wearables - Comprehensive Gadget Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-next-leap-in-mobile-imaging-how-the-newly-introduced-camera-button-on-the-iphone-n-model-transforms-your-shootings-zdnet-insights/"><u>Unveiling the Next Leap in Mobile Imaging: How the Newly Introduced Camera Button on the iPhone N Model Transforms Your Shootings | ZDNET Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-larger-than-life-instagram-videos-tips-to-break-the-barrier/"><u>[New] In 2024, Larger-than-Life Instagram Videos Tips to Break the Barrier</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-youtube-channels-using-google-analytics/"><u>[Updated] Maximize Your YouTube Channels Using Google Analytics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ar-vs-vr-vs-mr-vs-xr-explained-key-differences-unveiled/"><u>AR vs VR vs MR vs XR Explained: Key Differences Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tips-and-tricks-for-plugging-in-the-ultimate-diy-electric-vehicle-charger-setup/"><u>Complete Tips and Tricks for Plugging In: The Ultimate DIY Electric Vehicle Charger Setup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evolving-narratives-in-virtual-cinema-landscapes/"><u>Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excellent-text-plugin-compendium/"><u>Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-essential-skills-for-efficient-teamsnap-photo-taking/"><u>In 2024, Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-100-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor 100 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-multi-tasking-made-easy-a-tutorial-on-splitting-your-screen/"><u>MacBook Air Multi-Tasking Made Easy: A Tutorial on Splitting Your Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preserving-the-past-digitally-how-to-efficiently-use-wayback-machine/"><u>Preserving the Past Digitally: How to Efficiently Use Wayback Machine</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/reviewing-the-impression-of-high-dynamic-range-on-aurora-tv/"><u>Reviewing the Impression of High Dynamic Range on Aurora TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/social-media-jargon-unraveled-what-does-it-mean-to-retweet-versus-a-re-tweet-on-twitter/"><u>Social Media Jargon Unraveled: What Does It Mean to 'Retweet' Versus a 'Re-Tweet' On Twitter?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-d3dx933dll-file-not-present-error/"><u>Solutions for Resolving d3dx9_33.dll File Not Present Error</u></a></li>
+<li><a href="https://discover-best.techidaily.com/step-by-step-guide-configuring-your-internet-setup-with-yl-computings-easy-tips/"><u>Step-by-Step Guide: Configuring Your Internet Setup with YL Computing's Easy Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962878415-streamlined-procedure-to-get-the-newest-synaptics-drivers-on-windows/"><u>Streamlined Procedure to Get the Newest Synaptics Drivers on Windows!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-6-student-favorites-apps-to-boost-homework-efficiency/"><u>The Ultimate List of 6 Student Favorites: Apps to Boost Homework Efficiency</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-mechanics-behind-oled-screen-functionality/"><u>Unveiling the Mechanics Behind OLED Screen Functionality</u></a></li>
 </ul></div>
 

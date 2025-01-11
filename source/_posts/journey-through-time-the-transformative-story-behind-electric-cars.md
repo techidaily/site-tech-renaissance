@@ -1,7 +1,7 @@
 ---
 title: "Journey Through Time: The Transformative Story Behind Electric Cars"
-date: 2024-08-20T10:35:28.558Z
-updated: 2024-08-21T10:35:28.558Z
+date: 2025-01-10T00:36:39.347Z
+updated: 2025-01-10T22:52:20.070Z
 categories:
   - BestProducts
 description: "This Article Describes Journey Through Time: The Transformative Story Behind Electric Cars"
@@ -30,11 +30,12 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
@@ -42,21 +43,19 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -70,6 +69,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select**Command Prompt** . You can now execute whatever command you needed to run.
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
 
@@ -90,12 +93,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -107,6 +104,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -143,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +151,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-premier-audio-archivers-for-teachings/"><u>[New] Premier Audio Archivers for Teachings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-blitzing-sharing-easy-youtube-playlist-methods-for-2024/"><u>[Updated] Blitzing Sharing Easy YouTube Playlist Methods for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-step-into-hd-color-on-windows-watch-edit-relish-videos/"><u>[Updated] In 2024, Step Into HD Color on Windows Watch, Edit, Relish Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-wwdc-unpacked-diving-deeper-into-visionos-2-updates-and-what-they-mean-for-tech-enthusiasts/"><u>Apple WWDC Unpacked: Diving Deeper Into VisionOS 2 Updates & What They Mean for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/become-an-elite-tester-unlock-preview-of-apple-vision-pro-with-testflight-now-detailed-guide-techblog/"><u>Become an Elite Tester: Unlock Preview of Apple Vision Pro with TestFlight Now! Detailed Guide | TechBlog</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-footage-top-10-action-cams-with-stabilization/"><u>Best Footage Top 10 Action Cams With Stabilization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experiencing-the-apple-studio-display-a-stylish-yet-pricey-27-5k-screen-perfect-for-professionals-using-mac-in-depth-review/"><u>Experiencing the Apple Studio Display: A Stylish, Yet Pricey 27 5K Screen Perfect for Professionals Using Mac - In-Depth Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-the-apple-vision-pro-release-begin-pre-orders-now-and-find-it-in-stores-by-february-2/"><u>Get Ready for the Apple Vision Pro Release – Begin Pre-Orders Now & Find It in Stores by February 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/global-smartphone-market-rankings-apple-surpasses-samsung-in-recent-shipment-figures-insights-from-zdnet/"><u>Global Smartphone Market Rankings: Apple Surpasses Samsung in Recent Shipment Figures - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-meizu-21-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Meizu 21 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inexpensive-essentials-for-creating-your-dream-home-theater/"><u>Inexpensive Essentials for Creating Your Dream Home Theater</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715701194645-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/solving-iphone-xs-identity-crisis-fixing-face-id-failures-for-2024/"><u>Solving iPhone X's Identity Crisis Fixing Face ID Failures for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-marital-affection-quotients-the-apple-vision-pro-selling-experience-as-discussed-on-zdnet/"><u>Unveiling Marital Affection Quotients: The Apple Vision Pro Selling Experience as Discussed on ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-funny-video-dubbing-apps-2023-edition/"><u>Updated 2024 Approved The Ultimate Guide to Funny Video Dubbing Apps (2023 Edition)</u></a></li>
+</ul></div>
 

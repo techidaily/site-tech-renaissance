@@ -1,7 +1,7 @@
 ---
 title: Mastering Archival Searches on the Wayback Machine for Research Purposes
-date: 2024-08-20T10:33:32.268Z
-updated: 2024-08-21T10:33:32.268Z
+date: 2025-01-08T21:18:09.220Z
+updated: 2025-01-11T10:58:55.906Z
 categories:
   - BestProducts
 description: This Article Describes Mastering Archival Searches on the Wayback Machine for Research Purposes
@@ -22,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Direct Code Entry
 
  The easiest way to program a universal remote is to enter a code that identifies the product you wish to control. Codes may be provided via a "code sheet" or a web page where the codes are listed by brand and type of device (TV, Blu-ray Disc player, Home Theater Receiver, Cable Box, VCRs, and sometimes media streamers).
@@ -36,8 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
  If you're using Direct Code Entry, write the successful code(s) in your user guide for later reference.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Auto Code Search
 
  You can use Auto Code Search if you don't have access to the specific code for the brand or type of device you wish to control. The remote will search through its database, testing several codes at a time.
@@ -54,8 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 8. Test several functions on the remote and see if they work for your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -74,8 +80,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -89,8 +96,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -102,10 +110,6 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Programming via PC
 
  Another programming option available for some remotes is with a PC. One brand that supports this option is[Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) .
@@ -118,9 +122,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## The Bottom Line
 
  A universal remote is a great way to clear that space on your coffee table, but also keep the following in mind:
@@ -163,8 +164,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +171,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-laptop-and-mobile-guide-for-initiating-google-meet/"><u>[Updated] In 2024, Laptop & Mobile Guide for Initiating Google Meet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-key-commodities-for-your-company-8-indispensable-tools-that-cant-be-ignored/"><u>[Updated] Key Commodities for Your Company 8 Indispensable Tools That Can’t Be Ignored</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-gif-making-software-showdown-for-2024/"><u>[Updated] The Ultimate GIF Making Software Showdown for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bust-a-laugh-with-these-smartphone-sneak-attacks-best-apple-pranks-ever/"><u>Bust a Laugh with These Smartphone Sneak Attacks: Best Apple Pranks Ever</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-analysis-of-iphone-n-series-smart-purchase-strategies-experts/"><u>Complete Analysis of iPhone N-Series - Smart Purchase Strategies Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-alarm-apps-a-comprehensive-review-of-the-top-seven-picks/"><u>Essential Alarm Apps: A Comprehensive Review of the Top Seven Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-fixing-the-elusive-code-28-error-in-windows/"><u>Expert Advice on Fixing the Elusive Code 28 Error in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3070-ti-download-official-graphics-cards-drivers-for-win-10-8-and-7-now/"><u>GeForce RTX 3070 Ti - Download Official Graphics Cards Drivers for Win 10, 8 & 7 Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-11-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 11 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-the-ultimate-guide-to-mac-based-document-automation-zdnet/"><u>Mastering Craft: The Ultimate Guide to Mac-Based Document Automation | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-alert-a-guide-to-correct-the-initialization-error-ls-0013-on-fortnite/"><u>Resolved Alert: A Guide to Correct the Initialization Error (LS-0013) on Fortnite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-apples-imessage-on-your-pc-with-windows/"><u>Step-by-Step Guide: Accessing Apple's iMessage on Your PC with Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-comfort-ebike-companion-in-depth-review-of-the-ride1up-cafe-cruiser-for-casual-cyclists-and-relaxed-commuters/"><u>The Ultimate Comfort Ebike Companion: In-Depth Review of the Ride1Up Cafe Cruiser for Casual Cyclists and Relaxed Commuters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-unmissable-last-minute-christmas-shopping-bargains-featured-on-zdnet/"><u>Top 11 Unmissable Last-Minute Christmas Shopping Bargains - Featured on ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transformez-gratuitement-un-fichier-aac-en-mp3-en-ligne-movavi/"><u>Transformez Gratuitement Un Fichier AAC en MP3 en Ligne - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-when-is-aol-mail-not-responding/"><u>Troubleshooting: When Is AOL Mail Not Responding?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-one-stop-resource-finding-official-apple-iphones-user-guides-online/"><u>Your One-Stop Resource: Finding Official Apple iPhones' User Guides Online</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Full Potential of Meta Quest 3 with Apple's Spatial Video Offerings – Step-by-Step Instructions | ZDNet
-date: 2025-01-02T16:18:09.885Z
-updated: 2025-01-04T16:56:15.919Z
+date: 2025-01-08T16:53:20.176Z
+updated: 2025-01-11T04:20:38.258Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -44,12 +40,16 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -57,6 +57,10 @@ When you tap on Software Update, your iPhone will check for the latest version o
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -78,10 +82,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -94,7 +94,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,24 +161,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-isprings-screen-recording-explored/"><u>[New] In 2024, ISpring's Screen Recording Explored</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-royale-rulers-the-best-gaming-showdowns/"><u>[New] Royale Rulers The Best Gaming Showdowns</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-creme-de-la-fluid-simulation-games/"><u>2024 Approved The Crème De La Fluid Simulation Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-apple-powerhouse-detailed-comparison-of-m2-and-m3-macbook-air-models-for-tech-enthusiasts/"><u>Choosing the Right Apple Powerhouse: Detailed Comparison of M2 and M3 MacBook Air Models for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-apples-holiday-deal-save-40-on-top-rated-airpods-before-independence-day-insights-from-zdnet/"><u>Discover Apple's Holiday Deal: Save $40 on Top-Rated AirPods Before Independence Day - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-sites-with-complimentary-childrens-movies-our-top-picks/"><u>Discover the Best Sites with Complimentary Children's Movies: Our Top Picks!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-messaging-hacks-save-data-and-money-on-your-mobile-plan/"><u>Effortless Messaging Hacks: Save Data and Money on Your Mobile Plan</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-apple-tv-experience-with-an-easy-to-use-airtag-attachment-learn-how/"><u>Enhance Your Apple TV Experience with an Easy-to-Use AirTag Attachment - Learn How!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-reveals-iphone-14s-optimal-functionality-for-users-needs/"><u>Expert Analysis Reveals iPhone 14'S Optimal Functionality for Users' Needs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-enhance-your-workspace-hook-up-two-screens-on-a-mac/"><u>How to Easily Enhance Your Workspace: Hook Up Two Screens on a Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-an-incorrect-cpu-usage-in-the-windows-task-manager/"><u>How to Fix an Incorrect CPU Usage in the Windows Task Manager</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-11-pro-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 11 Pro IMEI Checker</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-expert-techniques-for-high-quality-xbox-screenshots/"><u>In 2024, Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-remote-working-with-ipad-pro-a-comprehensive-guide-to-building-an-efficient-home-office-experts/"><u>Revolutionize Remote Working with iPad Pro: A Comprehensive Guide to Building an Efficient Home Office Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/should-i-get-a-ps5-here-are-4-key-reasons-to-secure-your-place-in-the-next-gen-world-of-gaming/"><u>Should I Get a PS5? Here Are 4 Key Reasons to Secure Your Place in the Next-Gen World of Gaming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartwatch-face-off-googles-pixel-edition-against-apple-watch-series-8-expert-buying-guide/"><u>Smartwatch Face-Off: Google's Pixel Edition Against Apple Watch Series 8 | Expert Buying Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-process-of-adding-new-blocks-by-mining-insights-from-yl-computings-expertise/"><u>The Process of Adding New Blocks by Mining: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-and-overcoming-6-gpt-vehicle-challenges/"><u>Understanding and Overcoming 6 GPT Vehicle Challenges</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[New] In 2024, From Shots to Screens The Importance of Camera Lenses in Vlogs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-iphone-hdr-photography-for-enthusiasts/"><u>[New] In 2024, IPhone HDR Photography for Enthusiasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-xsplit-download-and-review-for-2024/"><u>[New] XSplit Download and Review for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-quickly-snap-and-save-mac-desktop/"><u>[Updated] In 2024, How to Quickly Snap & Save MAC Desktop</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-how-to-save-youtube-live-events-a-comprehensive-guide-on-video-streaming-tools/"><u>1. How to Save YouTube Live Events: A Comprehensive Guide on Video Streaming Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-home-bot-expected-cost-availability-dates-technical-details-and-buzzing-speculations/"><u>Apple’s Revolutionary Home Bot: Expected Cost, Availability Dates, Technical Details, and Buzzing Speculations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-delete-the-apps-that-come-with-the-iphone/"><u>Can You Delete the Apps That Come With the iPhone?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convierta-sus-videos-m4v-gratuitamente-en-mp3-usando-la-herramienta-en-linea-de-movavi/"><u>Convierta Sus Videos M4V Gratuitamente en MP3 Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-techniques-for-inserting-horizontal-lines-into-your-word-files/"><u>Easy Techniques for Inserting Horizontal Lines Into Your Word Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/experts-choice-androids-best-large-group-calling/"><u>Expert's Choice Android's Best Large Group Calling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-emergency-and-amber-alert-notifications-how-to-disable-them/"><u>IPhone Emergency & AMBER Alert Notifications - How To Disable Them?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-coming-for-the-tech-world-detailed-rumors-on-google-pixel-fold-amoled-display-specs-and-launch-date-estimates/"><u>What's Coming for the Tech World? Detailed Rumors on Google Pixel Fold Amoled Display Specs and Launch Date Estimates</u></a></li>
 </ul></div>
 

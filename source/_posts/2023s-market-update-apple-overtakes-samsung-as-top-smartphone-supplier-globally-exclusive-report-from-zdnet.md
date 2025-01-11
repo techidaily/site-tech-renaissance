@@ -1,7 +1,7 @@
 ---
 title: "2023'S Market Update: Apple Overtakes Samsung as Top Smartphone Supplier Globally – Exclusive Report From ZDNet"
-date: 2025-01-02T16:41:35.179Z
-updated: 2025-01-04T16:27:40.206Z
+date: 2025-01-07T03:26:41.661Z
+updated: 2025-01-10T16:37:21.596Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Below, you'll find the best iPhone deals currently available through US carriers
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best iPhone deals
@@ -103,7 +103,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [View now at T-Mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:subid%5Fvalue/destination:https%3A%2F%2Fwww.t-mobile.com%2Fcell-phone%2Fapple-iphone-14) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Apple iPhone deals
@@ -135,7 +135,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Refurbished iPhones at Apple (save $100+) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Frefurbished%2Fiphone&subId1=subid%5Fvalue)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPhone accessory deals
@@ -153,7 +153,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=subid%5Fvalue)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these iPhone deals?
@@ -173,7 +173,7 @@ Factors influencing our recommendations include:
 The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch model is the largest of the iPhone 15 line and comes stacked with Apple's latest features, such as a strong, lightweight titanium design, Dynamic Island, an A17 Pro chip, and a 48MP Main camera that shoots detailed imagery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will the iPhone 16 come out?
@@ -228,20 +228,20 @@ ZDNET has scoured the web to find the best deals by category:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-5-budget-friendly-pinterest-video-grabs/"><u>[New] 2024 Approved Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-no-more-costs-discover-best-free-camera-screen-recorder-apps/"><u>[New] No More Costs? Discover Best FREE Camera Screen Recorder Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>[New] The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-fraps-as-a-video-recorder-what-you-need-to-know-for-2024/"><u>[Updated] Fraps as a Video Recorder What You Need To Know for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-harmonizing-tech-and-artistry-mac-studios-for-2024/"><u>[Updated] Harmonizing Tech & Artistry Mac Studios for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-aspects-of-sound-and-sight-in-asmr-recording/"><u>[Updated] In 2024, Elevate Your Aspects of Sound and Sight in ASMR Recording</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-timing-your-instagram-posts-for-optimal-results/"><u>[Updated] Timing Your Instagram Posts for Optimal Results</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-13-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/embrace-hassle-free-shopping-with-apple-pay-tips-for-utilizing-it-offline-and-online-according-to-zdnet-experts/"><u>Embrace Hassle-Free Shopping with Apple Pay: Tips for Utilizing It Offline and Online, According to ZDNet Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/game-on-make-sure-with-our-5-key-tips-before-buying-your-gaming-console/"><u>Game On? Make Sure with Our 5 Key Tips Before Buying Your Gaming Console</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-connection-tips-for-linking-up-airpods-with-quest-3-headphones-without-disturbing-others/"><u>Seamless Connection: Tips for Linking Up AirPods with Quest 3 Headphones Without Disturbing Others</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/story-2-the-myth-of-valine/"><u>Story 2: The Myth of Valine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Accessories - Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transforming-your-workspace-essential-tips-for-running-a-home-office-on-your-ipad-pro-insights-from-zdnet/"><u>Transforming Your Workspace: Essential Tips for Running a Home Office on Your iPad Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-analysis-best-valheim-seeds-for-growth/"><u>[Updated] In-Depth Analysis Best Valheim Seeds for Growth</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mobilizing-audience-engagement-igtv-and-fb-synchronization/"><u>[Updated] Mobilizing Audience Engagement IGTV and FB Synchronization</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secure-and-speedy-transfer-of-big-video-files-between-ios-and-os-x/"><u>[Updated] Secure and Speedy Transfer of Big Video Files Between iOS & OS X</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/boost-viewership-mastering-vimeo-distribution-for-2024/"><u>Boost Viewership Mastering Vimeo Distribution for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-samsung-in-ear-headphones-to-your-computer-a-simple-tutorial/"><u>Connecting Samsung In-Ear Headphones to Your Computer - A Simple Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-hal-initialization-errors-and-get-your-pc-running-smoothly-again/"><u>How to Overcome HAL Initialization Errors and Get Your PC Running Smoothly Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-ntdlldll-malfunctions-in-your-windows-operating-system/"><u>How to Repair ntdll.dll Malfunctions in Your Windows Operating System</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-ahead-to-samsung-galaxy-z-fold-7-rumored-specs-estimated-pricing-and-launch-dates-revealed/"><u>Inside Look Ahead to Samsung Galaxy Z Fold 7 - Rumored Specs, Estimated Pricing, and Launch Dates Revealed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ost-recording-choices-top-11-vlogger-essentials/"><u>Low-Cost Recording Choices Top 11 Vlogger Essentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-bandwidth-bottlenecks-techniques-to-accelerate-your-online-experience/"><u>Overcoming Bandwidth Bottlenecks: Techniques to Accelerate Your Online Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pro-player-advice-top-techniques-and-tricks-to-excel-at-subway-surfers/"><u>Pro Player Advice: Top Techniques and Tricks to Excel at 'Subway Surfers'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-secrets-of-the-samsung-galaxy-ring-price-overview-expected-arrival-date-full-tech-specifications-and-latest-developments/"><u>Unlocking Secrets of the Samsung Galaxy Ring: Price Overview, Expected Arrival Date, Full Tech Specifications & Latest Developments</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro/"><u>Updated In 2024, S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
 </ul></div>
 

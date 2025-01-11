@@ -1,7 +1,7 @@
 ---
 title: The Rise and Fall of Yahoo! Messenger - Understanding Its Legacy
-date: 2024-08-20T10:34:16.445Z
-updated: 2024-08-21T10:34:16.445Z
+date: 2025-01-04T09:44:25.118Z
+updated: 2025-01-10T18:06:37.011Z
 categories:
   - BestProducts
 description: This Article Describes The Rise and Fall of Yahoo! Messenger - Understanding Its Legacy
@@ -58,6 +58,10 @@ Whether you’re setting up an entire data center or need to tidy up the corner 
 [Navepoint 25U at Amazon](https://www.amazon.com/Navepoint-Professional-2-Post-Server-Network/dp/B00BTRCW3Q/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00BTRCW3Q)
 
 [Jump to Review](https://www.lifewire.com/#toc-best-floor-standing-navepoint-25u-2-post-open-frame-server-rack)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Full-Size
 
@@ -140,9 +144,6 @@ PHOTO: Amazon
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
 [Tripp Lite SRW6U](https://www.walmart.com/ip/SRW6U-SmartRack-6U-Low-Profile-Switch-Depth-Wall-Mount-Rack-Enclosure-Cabinet/23502131)
@@ -170,10 +171,6 @@ PHOTO: Walmart
 
  Mounting is simple, and the rack has optional casters for easy transportation, or it's ready for wall-mounting right out of the box.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Best On Wheels
 
 [Navepoint 22U](https://www.amazon.com/NavePoint-4-Post-Network-Rolling-Casters/dp/B01A6JQO4A/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB01A6JQO4A)
@@ -230,6 +227,10 @@ PHOTO: Walmart
 
  The open design makes it easy to access cabling and equipment, yet the posts are made of high-quality cold-rolled steel for ultimate durability. The only catch with this one is that it's so tall that you'll want to ensure you have enough clearance above it for air circulation, and depending on your server room layout and what you mount in it, you may need to bolt it down to keep it from tipping over.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Floor-Standing
 
 [Navepoint 25U](https://www.amazon.com/Navepoint-Professional-2-Post-Server-Network/dp/B00BTRCW3Q/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00BTRCW3Q)
@@ -256,9 +257,6 @@ PHOTO: Amazon
 
  Fortunately, all the cables that result from 4.5 feet of floor-standing server space are managed well with attachable cable mounts that can easily organize and keep your[network cables](https://www.lifewire.com/introduction-to-network-cables-817868) out of the way while servers are in use. You can use it with castors or bolted to the floor.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Look For in Network Server Racks and Enclosures
 
  If you have even a couple of network servers in your office, a good rack can be indispensable in helping keep things organized, and it's important to remember that these aren't just for servers either; network switches and hubs, telecom equipment, and even uninterruptible power supplies can all be neatly organized into a rack or enclosure to keep them under control.
@@ -271,14 +269,8 @@ PHOTO: Amazon
 
 ![Laptop and server panels in dark server room](https://www.lifewire.com/thmb/KHYZadtoYJXXQRAqJJ2eK-vARbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-and-server-panels-in-dark-server-room-719877853-593c59005f9b58d58a307499.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hero Images / Getty Images
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Why Buy a Network Server Rack?**
 
  You may think that network server racks are the kind of equipment that only large enterprise organizations need. After all, they bring to mind images of sprawling data centers, with endless rows of servers and other networking gear lined up like a robot army, and there's certainly no doubt that organizations with that kind of equipment need a way to keep it all properly and efficiently organized and managed.
@@ -309,20 +301,17 @@ PHOTO: Amazon
 
 ![Cables connected to an internet server](https://www.lifewire.com/thmb/6x-gscBbM80wErSJGlLp98lz_Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1082815270-5a4cd9fb94c04dfd96fadbb026d84463.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Alextov via Getty Images
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Installation Location**
 
  Where you plan to install your rack will also impact what kind of rack you choose and may even limit your choices. You'll not likely be picking up a full-sized 42U rack if you only have a cubbyhole available, and you may not want an open rack if you're installing it in an area that's more highly trafficked, like a photocopier room or supply room.
 
  Most racks can also be secured to a wall or floor for added stability, which you should consider doing, especially with taller racks. Still, on the other hand, if you have the space and a relatively isolated area, some racks offer support for wheels to allow you to move them around your server room when necessary.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cooling Options**
 
@@ -331,6 +320,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Some enclosures designed for networking equipment, like switches, provide cooling fans, which can help. Still, even with this at your disposal, you'll want to make sure that you install your rack or enclosure in a well-ventilated area, and if you're putting a lot of equipment into it, be sure to leave some space in between. For example, if you have 26 rack units of equipment to mount, consider buying a 42U rack to space things out and allow for better airflow.
 
  It's also possible to buy rack-mountable fans that generally fit into a 1U space to provide additional cooling support, but you'll still need to leave room around these for airflow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Physical Security**
 
@@ -355,14 +348,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images.jpg](https://www.lifewire.com/thmb/rc_q9ofTd5pecAGouEFQSLea2-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images-56a6f9905f9b58b7d0e5ca48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  © Maciej Frolow / Photographer's Choice RF / Getty Images
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Mounting Parts**
 
  Not all racks are created equally regarding what comes in the box, so you'll want to read the fine print. Some of the more inexpensive racks give you threaded holes and expect you to come up with the mounting screws yourself.
@@ -371,11 +365,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The good news is that threaded racks use standard-sized screws, so it's not too hard to find more screws should you need them down the road, but make sure you know what you're getting with the rack itself so that you know what else you'll need to have everything ready to install once it arrives.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### **Top Brands**
 
 **Navepoint**
@@ -386,6 +375,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Startech is a well-known “jack-of-all-trades” Canadian company that’s been making a wealth of computer accessories since the mid-eighties, ranging from cables to docking stations, USB hubs, mounts, video adapters, and pretty much every other accessory you could imagine needing for your computer system. Naturally, this includes server management hardware, too. While they don’t offer quite the same wealth of higher-end racks and enclosures, they provide some great, affordable options for smaller businesses that aren’t looking to outfit a large, dedicated server room.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Accessories**
 
  In addition to the mounting gear that you’ll need to get your equipment into your rack, you’ll find that several other rack-mountable components can be used to make for a smoother installation, and depending on your setup, you’ll want to consider at least some of these, too.
@@ -395,6 +388,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  If you’re installing servers into a rack, you’ll also want to add a keyboard and a monitor. While you can use a shelf for this if you have the space, rack-mountable keyboard trays and even flatscreen LCD panels can fold down into a 1U rack space when not in use.
 
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.
 
@@ -423,14 +420,11 @@ Tell us why!
 
  Submit
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -439,4 +433,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-speedy-windows-file-review-strategies/"><u>[New] Speedy Windows File Review Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-cross-promotion-the-art-of-collaborative-co-stars-for-2024/"><u>[Updated] Channel Cross-Promotion The Art of Collaborative Co-Stars for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streaming-success-story-which-video-site-tops-others-vimeo-youtube/"><u>[Updated] Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-navigating-the-world-of-mp4-edits-on-apple-devices/"><u>2024 Approved Navigating the World of MP4 Edits on Apple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-innovative-beats-products-insights/"><u>Apple Discontinues FineWoven Collection in Favor of Innovative Beats Products - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-the-latest-ios-181-preview-version-discover-apples-ai-enhancements-on-your-device-get-started-today/"><u>Download the Latest IOS 18.1 Preview Version: Discover Apple's AI Enhancements on Your Device – Get Started Today!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevate-your-editing-game-incorrances-and-tips-for-using-luts-in-adobe-after-effects-for-2024/"><u>Elevate Your Editing Game Incorrances and Tips for Using LUTs in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a23-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A23 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/integrate-your-ca-license-with-digital-wallets-simplified-steps-for-apples-and-googles-users-in-the-golden-state/"><u>Integrate Your CA License with Digital Wallets: Simplified Steps for Apples and Googles Users in the Golden State</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-and-value-discover-the-power-of-the-499-lenovo-chromebook-plus-a-cost-effective-alternative-to-expensive-laptops/"><u>Maximize Productivity and Value: Discover the Power of the $499 Lenovo Chromebook Plus - A Cost-Effective Alternative to Expensive Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/newly-released-ios-177-update-may-offer-enhanced-security-over-upcoming-ios-18-tech-news/"><u>Newly Released IOS 17.7 Update May Offer Enhanced Security Over Upcoming iOS 18 Tech News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-inbox-achieve-a-clutter-free-experience-with-one-simple-email-hack-no-extra-accounts-needed/"><u>Simplify Your Inbox: Achieve a Clutter-Free Experience with One Simple Email Hack, No Extra Accounts Needed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-why-cant-i-get-tekken-8-running-on-my-computer/"><u>Solving the Issue: Why Can't I Get Tekken 8 Running on My Computer?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-remedying-screen-tint-issues-and-warping-effects-on-pc-displays/"><u>Step-by-Step Guide: Remedying Screen Tint Issues & Warping Effects on PC Displays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-impressive-ipad-air-reviewed-by-zdnet-a-stunning-device-that-challenges-the-worth-of-an-ipad-pro-investment/"><u>The Impressive iPad Air Reviewed by ZDNet: A Stunning Device that Challenges the Worth of an iPad Pro Investment</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-leading-edge-of-tablets-discover-how-the-2018-apple-ipad-pro-11-inch-outshines-competitors/"><u>The Leading Edge of Tablets: Discover How the 2018 Apple iPad Pro (11-Inch) Outshines Competitors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple Unveils New AI at WWDC: A Step Forward or Just More of the Same? – Why It Might Not Excite You as Much"
-date: 2025-01-03T16:48:34.410Z
-updated: 2025-01-04T16:34:03.741Z
+date: 2025-01-07T01:40:06.783Z
+updated: 2025-01-11T01:30:22.910Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's where you can preorder the latest Apple products, as well as where to fin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 15 and iPhone 15 Plus
@@ -45,7 +45,7 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 15 Pro and iPhone 15 Pro Max
@@ -58,6 +58,10 @@ Meanwhile, Apple's more premium iPhone models have a new Titanium design that's 
 
 [PREORDER NOW Apple Store The iPhone 15 Pro and iPhone 15 Pro Max are available to preorder on Friday, September 15, starting at $999 and $1,199, respectively. On the Apple Store, you can also get up to $1,000 off on a new iPhone 15 Pro or iPhone 15 Pro Max when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 Pro and iPhone 15 Pro Max starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-pro-max-256gb-black-titanium-at-t%2F6525421.p%3FskuId%3D6525421&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW T-Mobile New and existing T-Mobile customers can get the iPhone 15 Pro for free (via 24 monthly bill credits when you trade in an eligible device on a Go5G Plus or Go5G Next plan). View at T-mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Ft-mobile.com)[PREORDER NOW AT&T New and existing customers at AT&T can get the iPhone 15 Pro for $1,000 off when they bring in an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch Series 9
 
 Jason Hiner/ZDNET
@@ -69,7 +73,7 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
@@ -83,14 +87,10 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PREORDER NOW
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AT&T
 
@@ -138,24 +138,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-beats-and-briefs-music-incorporation-guide-on-fb-stories/"><u>[New] 2024 Approved Beats and Briefs Music Incorporation Guide on FB Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-camera-buying-made-easy-for-film-novices-for-2024/"><u>[Updated] Camera Buying Made Easy for Film Novices for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/299-apple-ipad-10th-generation-limited-time-offer-after-prime-day-sale-zdnet-news/"><u>$299 Apple iPad (10Th Generation) Limited Time Offer After Prime Day Sale - ZDNet News</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/comment-recuperer-des-fichiers-perdus-avec-robocopymir-en-utilisant-deux-techniques-avancees/"><u>Comment Récupérer Des Fichiers Perdus Avec Robocopy/MIR en Utilisant Deux Techniques Avancées</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-apple-mac-lineup-tech-experts-picks-and-analyses/"><u>Discover the Ultimate Apple Mac Lineup : Tech Experts' Picks and Analyses</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expertly-curated-list-of-premier-iphones-for-2n24-in-depth-testing-and-honest-reviews/"><u>Expertly Curated List of Premier iPhones for 2N24: In-Depth Testing & Honest Reviews</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-or-professional-analyzing-the-benefits-of-youtube-converter-factories-which-is-right-for-you/"><u>Free or Professional? Analyzing the Benefits of YouTube Converter Factories - Which Is Right for You?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-essential-anker-charger-gadgets-for-your-upcoming-iphone-purchase/"><u>Get Ready: Essential Anker Charger Gadgets for Your Upcoming iPhone Purchase</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-access-and-utilize-mod-audiovideo-formats-for-optimal-performance/"><u>How to Access and Utilize MOD Audio/Video Formats for Optimal Performance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 8?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-pop-7-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Pop 7 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/july-2/"><u>July 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-proper-technique-for-handling-iphones-and-airpods-effectively-insights/"><u>Master The Proper Technique for Handling iPhones & AirPods Effectively Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-reactivating-a-dormant-snapchat-account/"><u>Mastering the Art of Reactivating a Dormant Snapchat Account</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/outlook-email-retrieval-tactics-how-to-restore-an-accidentally-deleted-message-with-simple-steps/"><u>Outlook Email Retrieval Tactics: How to Restore an Accidentally Deleted Message with Simple Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-9xl-vs-iphone-15pro-battle-unexpected-outcome-in-camera-face-off-techzeta/"><u>Pixel 9XL vs iPhone 15Pro Battle: Unexpected Outcome in Camera Face-Off | TechZeta</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722882370798-the-grand-introduction-all-you-need-to-know-about-the-new-samsung-phone/"><u>The Grand Introduction: All You Need to Know About the New Samsung Phone!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-your-inner-fan-with-apple-sports-discover-the-ultimate-complimentary-experience-on-your-iphone-exclusively-featured-by-zdnet/"><u>Unleash Your Inner Fan with Apple Sports: Discover the Ultimate Complimentary Experience on Your iPhone - Exclusively Featured by ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>[New] In 2024, Direct Directions Simple Techniques for Laptop Screening (Dell)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skills-required-how-to-gain-free-framed-vids/"><u>[Updated] Skills Required How To Gain Free Framed Vids</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm44k544og44o844k644gr44k144og44oq44ot44oh44kq5pku5b2x77ya5bcc6zaa55qe44gq5pa55rov44ks44kk44oj44cn/"><u>「スムーズにサムバビデオ撮影：専門的な方法ガイド」</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-electric-vehicles-perform-reliably-under-severe-hot-and-cold-conditions/"><u>Can Electric Vehicles Perform Reliably Under Severe Hot and Cold Conditions?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-between-the-latest-giants-iphone-15-pro-max-vs-galaxy-s24-ultra-showdown/"><u>Deciding Between the Latest Giants: IPhone 15 Pro Max Vs. Galaxy S24 Ultra Showdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-silence-voiceover-controls-on-a-samsung-tv-set/"><u>How To Silence Voiceover Controls On a Samsung TV Set</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 7 Plus</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/keywords-made-simple-oxford-and-mondlys-way/"><u>Keywords Made Simple: Oxford & Mondly's Way</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-typography-changing-your-windows-11-default-text-style/"><u>Mastering Typography: Changing Your Windows 11 Default Text Style</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-elite-infinite-savings-no-payment/"><u>Mondly Elite: Infinite Savings, No Payment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-challenge-of-zero-matches-on-bumble-a-comprehensive-guide/"><u>Overcoming the Challenge of Zero Matches on Bumble – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-potential-of-your-apple-tv-with-vlc-how-to-play-various-formats/"><u>Unlock the Potential of Your Apple TV with VLC - How to Play Various Formats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-ultimate-chromebook-savings-during-the-holidays-see-our-top-picks/"><u>Unlock the Ultimate Chromebook Savings During the Holidays – See Our Top Picks</u></a></li>
 </ul></div>
 

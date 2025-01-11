@@ -1,7 +1,7 @@
 ---
 title: "Top 41 Unbeatable Holiday Bargains on Apples: Your Ultimate Guide From ZDNet"
-date: 2024-12-28T16:17:28.708Z
-updated: 2025-01-04T16:05:27.650Z
+date: 2025-01-05T17:44:12.696Z
+updated: 2025-01-10T21:05:57.017Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -83,10 +87,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://www.amazon.com/ASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH/dp/B0CGJGZZ1L/ref=sxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa?tag=zdnet-buy-button-20): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://www.amazon.com/HP-Chromebook-Graphics-Keyboard-14a-na0226nr/dp/B09SVSBVP1?tag=zdnet-buy-button-20): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -96,7 +96,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://www.amazon.com/Apple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core/dp/B0CM5JV268?tag=zdnet-buy-button-20): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -106,6 +106,10 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://www.amazon.com/HP-2-1-Touch-Screen-i7-16GB/dp/B0CZ37N6DL/ref=sr%5F1%5F3?tag=zdnet-buy-button-20): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://www.amazon.com/HP-Display-i5-12450H-Dedicated-15-fa1029nr/dp/B0CVNJ7LLN?tag=zdnet-buy-button-20): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://www.amazon.com/HP-Generation-i3-1215U-Graphics-14-dq5009nr/dp/B0CS3XPZNH?tag=zdnet-buy-button-20): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -123,10 +127,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -134,6 +134,10 @@ Kyle Kucharski/ZDNET
 * [ASUS ROG Strix G16 for $1,289 (save $110)](https://www.amazon.com/ASUS-ROG-Strix-Gaming-Laptop/dp/B0CRDCXRK2/ref=sr%5F1%5F16?tag=zdnet-buy-button-20): If you're looking for a deal on a high-tier gaming laptop, 2024's 16-inch ROG model is a beast with an NVIDIA GeForce RTX 4060 graphics card and Intel Core i7 processor for just $1,099.
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://www.amazon.com/Microsoft-Surface-Tablet-High-Performance-Pre-Installed/dp/B0C5MW8R35/?tag=zdnet-buy-button-20): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://www.amazon.com/ASUS-VivoBook-Laptop-WUXGA-1920/dp/B0BT6NKLQR/?tag=zdnet-buy-button-20): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -156,16 +160,12 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,20 +230,19 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-virtual-background-for-google-meet/"><u>[New] In 2024, Best Virtual Background for Google Meet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-enhancing-synchronization-between-cameras-and-obs/"><u>[Updated] In 2024, Enhancing Synchronization Between Cameras and OBS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/advantages-of-driving-electric-how-evs-triumph-over-traditional-car-engines/"><u>Advantages of Driving Electric: How EVs Triumph Over Traditional Car Engines</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-bids-farewell-to-itunes-and-introduces-new-media-player-apps-on-windows-a-detailed-look-by-zdnet/"><u>Apple Bids Farewell to iTunes and Introduces New Media Player Apps on Windows - A Detailed Look by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discounted-powerbands-for-apple-watch-save-40-now-features-and-reviews-techradar/"><u>Discounted PowerBands for Apple Watch: Save $40 Now - Features & Reviews | TechRadar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ahead-with-the-latest-apple-watch-series-nnow-ultimate-pre-order-strategies-and-top-discounts-revealed-digital-gadgets-daily/"><u>Get Ahead with the Latest Apple Watch Series nNow! Ultimate Pre-Order Strategies & Top Discounts Revealed | Digital Gadgets Daily</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/next-gen-powerhouse-amds-flagship-zen-5-processor-dominates-rendering-tests-outshining-ryzen-9-7950x-by-24/"><u>Next-Gen Powerhouse: AMD’s Flagship Zen 5 Processor Dominates Rendering Tests, Outshining Ryzen 9 7950X by 24%</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016328763-quickly-resolve-your-bluetooth-audio-delay-problems-today/"><u>Quickly Resolve Your Bluetooth Audio Delay Problems Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-discounted-apple-watch-series-10-now-exclusive-pre-order-offer-starting-at-just-99-with-best-buy-detailed-guide/"><u>Secure Your Discounted Apple Watch Series 10 Now: Exclusive Pre-Order Offer Starting At Just $99 with Best Buy – Detailed Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-appeal-of-the-new-ipad-air-unveiled-by-apple-in-depth-review-and-reasons-to-upgrade/"><u>The Ultimate Appeal of the New iPad Air Unveiled by Apple | In-Depth Review & Reasons to Upgrade</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-enhancements-required-for-siri-ai-closing-the-gap-with-google-assistant-and-microsofts-cortana/"><u>Top 10 Enhancements Required for Siri AI: Closing the Gap with Google Assistant and Microsoft's Cortana</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/twice-the-joy-twice-the-fun-televised-repetition-made-easy/"><u>Twice the Joy, Twice the Fun Televised Repetition Made Easy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-bargain-apple-m2-mac-mini-now-just-479-exclusive-insight-from-zdnet/"><u>Unbeatable Bargain: Apple M2 Mac Mini Now Just $479 - Exclusive Insight From ZDNet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/understanding-your-potential-earnings-as-a-podcaster/"><u>Understanding Your Potential Earnings as a Podcaster</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-snappyscreen-recording-suite/"><u>[New] SnappyScreen Recording Suite</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-secrets-for-instagram-chat-success/"><u>[Updated] In 2024, Unveiling Secrets for Instagram Chat Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-5-ios-friendly-apps-unlocking-facebooks-richest-media-library-for-2024/"><u>[Updated] Top 5 iOS-Friendly Apps Unlocking Facebook's Richest Media Library for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-recovering-or-replacing-missing-winhttpdll-files-on-windows-pcs/"><u>Comprehensive Guide to Recovering or Replacing Missing Winhttp.dll Files on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-viewing-experience-how-to-link-apple-homepod-with-your-television-set/"><u>Enhancing Your Viewing Experience: How To Link Apple HomePod with Your Television Set</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oneplus-nord-n30-se-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any OnePlus Nord N30 SE Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nvidias-tailored-ai-services-usage-and-purpose/"><u>NVIDIA's Tailored AI Services: Usage & Purpose</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/restoring-functionality-how-to-replace-lost-or-damaged-keys-on-your-laptop/"><u>Restoring Functionality: How To Replace Lost or Damaged Keys On Your Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roku-not-responding-solutions-for-getting-your-smart-tv-back-online/"><u>Roku Not Responding? Solutions for Getting Your Smart TV Back Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-21-reproductores-de-pantalla-libres-y-sin-acunar-para-la-captura-perfecta-movavi/"><u>Top 21 Reproductores De Pantalla Libres Y Sin Acuñar Para La Captura Perfecta - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-fixing-wmvcoredll-absence-errors-effectively/"><u>Troubleshooting Steps for Fixing Wmvcore.dll Absence Errors Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722954294066-upgrade-your-printer-experience-hassle-free-epson-driver-downloads-and-updates/"><u>Upgrade Your Printer Experience: Hassle-Free Epson Driver Downloads & Updates!</u></a></li>
 </ul></div>
 

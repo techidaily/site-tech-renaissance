@@ -1,7 +1,7 @@
 ---
 title: "Future of Wearable Tech: Google's New Smartwatch - Discover Rumored Specs, Pricing and Expected Arrival Dates"
-date: 2024-08-20T10:34:30.352Z
-updated: 2024-08-21T10:34:30.352Z
+date: 2025-01-04T03:07:39.960Z
+updated: 2025-01-11T00:40:29.726Z
 categories:
   - BestProducts
 description: "This Article Describes Future of Wearable Tech: Google's New Smartwatch - Discover Rumored Specs, Pricing and Expected Arrival Dates"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Following two other Pixel-branded smartwatches, Google seems prepared to give their wearable an annual update. Nothing is official yet, but there's a good chance the Pixel Watch 3 will arrive in late 2024 and come in two sizes instead of just one. A bigger size could mean a bigger screen and longer battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Pixel Watch 3 Be Released?
 
  Based on how Google released the first two Pixel watches, we can expect the Pixel Watch 3 release date to coincide with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch. It will likely be revealed at[the next Made by Google event](https://www.lifewire.com/google-event-5205756) on August 13.
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 Look for an official Pixel Watch 3 announcement on August 13.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel Watch 3 Price Rumors
 
  The first two Pixel Watches started at $349.99\. This is likely how Google will price its next smartwatch. And, of course, you can expect to pay around $50 more for LTE.
@@ -46,8 +51,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 * **Pixel Watch 3 XL (45 mm / LTE)** : $429.99
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  You'll be able to pre-order the Pixel Watch 3 from the[Google Store](https://store.google.com/category/watches) . We'll drop the link here when pre-ordering starts.
@@ -55,8 +61,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 [The Best-Looking Smartwatches](https://www.lifewire.com/best-looking-smart-watches-3441410)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel Watch 3 Specs & Features
 
  The battery life in the[Pixel Watch 2](https://www.lifewire.com/google-pixel-watch-2-7498464) received a bump over the first edition. This update was much needed, but it can still be improved. For example,[Samsung's Galaxy Watch 6](https://www.lifewire.com/samsung-galaxy-watch-6-news-and-rumors-7371704) lasts around 30 hours with Always-on Display enabled, while Google claims the Pixel Watch 2 can sustain 24 hours of use.
@@ -76,8 +83,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 ![An illustration of a finger touching the edge of a smartwatch from US Patent 11775167](https://www.lifewire.com/thmb/-Lv4nrmDdZKHX1WluU4VTS0ae7A=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-watch-patent-11775167-86bd6ece12bb4c90b0534dc5223df168.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google
 
  We don't yet know if Google will change how this watch charges... again. The first two watches use two different chargers. Our guess? The Pixel Watch 3 will ship with the same magnetic pin charger as the PW2.
@@ -88,10 +96,6 @@ Google
 
  We'll know more about the Pixel Watch 3 hardware as images leak (hopefully) and reports surface closer to the August event. There's also Wear OS 5 to watch on the software front.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## The Latest News About the Pixel Watch 3
 
  You can [get the latest smart and connected news on Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Below are the latest stories about Google and smartwatches.
@@ -102,14 +106,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 [Google Drops 7 New Everyday Android Features](https://www.lifewire.com/google-adds-new-everyday-android-features-8655861)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +119,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-next-level-livestream-selecting-the-best-360-cameras-for-2024/"><u>[New] Next-Level Livestream Selecting the Best 360° Cameras for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[New] Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-complete-guide-icloud-drives-desktop-anddocuments-access-in-sierra-for-2024/"><u>[Updated] [Complete Guide] iCloud Drive’s Desktop &Documents Access in Sierra for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watchs-battery-performance-with-8-key-configuration-tweaks-tips-from-a-tech-expert/"><u>Boost Your Apple Watch's Battery Performance with 8 Key Configuration Tweaks: Tips From a Tech Expert</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/fast-tip-mastering-green-screen-techniques/"><u>Fast Tip Mastering Green Screen Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-watchs-longevity-top-8-essential-battery-saving-tweaks-revealed-insights-from-zdnet/"><u>Maximize Your Apple Watch's Longevity: Top 8 Essential Battery-Saving Tweaks Revealed - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-enhances-windows-11-with-ai-taskbar-companion-for-effortless-management/"><u>Microsoft Enhances Windows 11 with AI Taskbar Companion for Effortless Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-key-to-a-cohesive-audio-setup-steps-for-merging-different-bluetooth-speakers-with-one-central-device/"><u>The Key To A Cohesive Audio Setup: Steps for Merging Different Bluetooth Speakers With One Central Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-protective-covers-for-apples-newest-iphones-iphone-12-12-pro-reviews-and-picks/"><u>Top-Rated Protective Covers for Apple's Newest iPhones (iPhone 12, 12 Pro) - Reviews & Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-apples-new-vintage-mode-is-your-device-outdated-find-out-the-implications-on-zdnet/"><u>Understanding Apple's New 'Vintage Mode': Is Your Device Outdated? Find Out the Implications on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/victory-lap-strategies-for-conquering-device-black-screen-dilemmas/"><u>Victory Lap: Strategies for Conquering Device Black Screen Dilemmas</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/weekend-with-apple-vision-pro-my-top-3-insights-and-review-zdnet/"><u>Weekend with Apple Vision Pro: My Top 3 Insights & Review (ZDNet)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-in-depth-analysis-of-apples-newly-released-airpods-pro-gen-3-strategic-enhancements-unveiled/"><u>ZDNet's In-Depth Analysis of Apple's Newly Released AirPods Pro (Gen 3): Strategic Enhancements Unveiled</u></a></li>
+</ul></div>
 

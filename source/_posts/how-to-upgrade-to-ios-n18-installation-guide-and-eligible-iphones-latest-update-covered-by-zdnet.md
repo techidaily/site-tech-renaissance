@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2025-01-01T16:37:49.999Z
-updated: 2025-01-04T16:54:18.234Z
+date: 2025-01-09T19:23:39.383Z
+updated: 2025-01-11T03:54:05.551Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pros-selection-excellent-webcam-recorders-windows-11/"><u>2024 Approved Pro's Selection Excellent Webcam Recorders Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-galaxy-f54-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Galaxy F54 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-ideal-wrist-companion-google-pixel-watch-vs-apple-watch-series-9/"><u>Choosing the Ideal Wrist Companion: Google Pixel Watch Vs. Apple Watch Series 9</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-airpods-pro-add-ons-and-protectors-for-the-modern-user-the-ultimate-guide-zdnet/"><u>Essential AirPods Pro Add-Ons and Protectors for the Modern User: The Ultimate Guide (ZDNet)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-camera-techniques-in-ios-11-for-2024/"><u>Harnessing the Power Camera Techniques in iOS 11 for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apple-engineers-security-focused-os-to-power-its-advanced-ai-infrastructure-latest-discoveries-revealed-wiredtechnews/"><u>How Apple Engineers Security-Focused OS to Power Its Advanced AI Infrastructure - Latest Discoveries Revealed | WiredTechNews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apples-localized-ai-innovation-reaml-eclipses-microsofts-gpt-4-in-performance-digitalinsights/"><u>How Apple’s Localized AI Innovation, ReaML, Eclipses Microsoft's GPT-4 in Performance | DigitalInsights</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protecting-your-privacy-unveiling-the-secrets-of-apples-ai-cloud-safety-measures-insights-for-tech-enthusiasts-zdnet/"><u>Protecting Your Privacy: Unveiling the Secrets of Apple's AI Cloud Safety Measures - Insights for Tech Enthusiasts [ZDNet]</u></a></li>
-<li><a href="https://solve-help.techidaily.com/sieben-effektive-methoden-zum-erfolg/"><u>Sieben Effektive Methoden Zum Erfolg</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-drone-racing-headsets-ultimate-vr-experience/"><u>Top 5 Drone Racing Headsets Ultimate VR Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-mini-tablet-picks-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Mini Tablet Picks - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expand-film-length-for-youtube-posting/"><u>[Updated] 2024 Approved Expand Film Length for YouTube Posting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cross-device-connectivity-made-simple-linking-a-single-phone-number-with-different-smartphones-and-tablets/"><u>Cross-Device Connectivity Made Simple: Linking a Single Phone Number with Different Smartphones and Tablets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-startup-problems-a-comprehensive-tutorial-for-the-missing-bootmgr-issue/"><u>Fixing Startup Problems: A Comprehensive Tutorial for the Missing BOOTMGR Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-pratique-comment-conversion-dun-fichier-ogg-en-mp3/"><u>Guide Pratique : Comment Conversion D'un Fichier Ogg en MP3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-sharing-your-gaming-experience-on-the-ps5-console/"><u>Guide: Sharing Your Gaming Experience on the PS5 Console</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-driver-update-process-for-the-scansnap-ix500-on-windows-systems/"><u>Hassle-Free Driver Update Process for the ScanSnap iX500 on Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v30-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mailcom-subscription-checkup-identifying-expiration-dates/"><u>Mail.com Subscription Checkup: Identifying Expiration Dates</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-cryptocurrency-markets-a-step-by-step-guide-by-yl-software-specialists/"><u>Mastering Cryptocurrency Markets: A Step-by-Step Guide by YL Software Specialists</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-patch-tuesday-insights-into-regular-software-updates/"><u>Navigating Patch Tuesday: Insights Into Regular Software Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest Ⅱ Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-newly-revealed-sony-afeela-vehicle-specs-costs-and-arrival-forecasts-covered/"><u>The Newly Revealed Sony Afeela Vehicle – Specs, Costs, and Arrival Forecasts Covered</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-deleting-reposts-on-tiktok-and-managing-posts-effectively/"><u>The Ultimate Guide to Deleting Reposts on TikTok and Managing Posts Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-complimentary-languages-apps-a-must-try-list/"><u>Top 5 Complimentary Languages Apps : A Must-Try List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia C110? | Dr.fone</u></a></li>
 </ul></div>
 

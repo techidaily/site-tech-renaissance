@@ -1,7 +1,7 @@
 ---
 title: "Apple Loyalists Rejoice: Unveiling LG's New Audio Upgrade for Their Televisions, Featured"
-date: 2024-12-12T16:09:03.237Z
-updated: 2024-12-17T16:00:06.356Z
+date: 2025-01-07T06:34:01.300Z
+updated: 2025-01-11T03:12:38.690Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,19 +128,15 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagrams-filter-features-for-high-quality-images-for-2024/"><u>[New] Navigating Instagram's Filter Features for High-Quality Images for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns/"><u>[Updated] In 2024, Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-role-of-swot-analysis-in-shaping-a-robust-business-model/"><u>[Updated] The Role of SWOT Analysis in Shaping a Robust Business Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/differences-between-qled-and-oled-televisions-a-detailed-comparison-for-shoppers/"><u>Differences Between QLED and OLED Televisions: A Detailed Comparison for Shoppers</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/gratis-software-de-respaldo-y-restauracion-de-datos-personales-compatible-con-pcs-iphone-ipad-and-ipods/"><u>Gratis Software De Respaldo Y Restauración De Datos Personales Compatible Con PCs, iPhone, iPad & iPods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-voice-customization-in-free-fire-guide-included-no-cost/"><u>In 2024, Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost)</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029325694-iwara/"><u>Iwara動画ダウンロード＆セーブガイド: ステップバイステップ・プロセス</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-your-kids-mastering-discords-parental-control-options/"><u>Protect Your Kids: Mastering Discord's Parental Control Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-top-6-troubleshooting-tips-for-werfaultexe-errors-in-windows/"><u>Solving the Dilemma: Top 6 Troubleshooting Tips for WerFault.exe Errors in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-accessing-hulu-on-lg-smart-televisions/"><u>Step-by-Step Instructions for Accessing Hulu on LG Smart Televisions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-storytelling-enhanced-by-ais-intelligence/"><u>The Art of Storytelling Enhanced by AI's Intelligence</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y02t-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y02T Android SIM Unlock APK</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-art-of-slack-notifications-and-reminders/"><u>Ultimate Guide: Mastering the Art of Slack Notifications and Reminders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-the-enthusiasts-behind-shared-interests-on-instagram-how-to-know-who-preserved-your-posts/"><u>Uncover the Enthusiasts Behind Shared Interests on Instagram: How To Know Who Preserved Your Posts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dungeon-dominance-top-ten-rogue-classics/"><u>[New] Dungeon Dominance Top Ten Rogue Classics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-record-your-mac-in-hd-no-fee/"><u>[Updated] In 2024, Record Your Mac in HD No Fee</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-panning-crossfading-in-logic-pro-x/"><u>2024 Approved Perfect Panning Crossfading in Logic Pro X</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pocket-sized-worlds-googles-cardboard-meets-samsungs-gear/"><u>2024 Approved Pocket-Sized Worlds Google's Cardboard Meets Samsung's Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-to-selecting-advanced-360-cameras/"><u>A Step-by-Step Approach to Selecting Advanced 360 Cameras</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-fixing-the-whole-address-whea-unrecoverable-mishap/"><u>Comprehensive Solutions for Fixing the Whole Address (WHEA) Unrecoverable Mishap</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-digital-tagging-an-in-depth-look-into-categorizing-content/"><u>Demystifying Digital Tagging: An In-Depth Look Into Categorizing Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-8-premier-free-html-editing-tools-for-windows-users/"><u>Discover the 8 Premier Free HTML Editing Tools for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-live-stream-the-2024-summer-olympics/"><u>How to Live Stream the 2024 Summer Olympics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Reno 9A | Dr.fone</u></a></li>
 </ul></div>
 

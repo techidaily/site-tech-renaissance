@@ -1,7 +1,7 @@
 ---
 title: "Apple Maintains Strict Control Over European iPhone Sales: Insights"
-date: 2024-12-10T16:05:22.988Z
-updated: 2024-12-17T16:01:38.971Z
+date: 2025-01-05T23:46:27.871Z
+updated: 2025-01-11T03:42:52.123Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -55,6 +55,10 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -76,10 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,19 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-beat-it-right-constructing-mesmerizing-tiktok-dances-on-mac/"><u>[Updated] In 2024, Beat It Right Constructing Mesmerizing TikTok Dances on Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-screen-recorder-features-for-pcmac/"><u>[Updated] In 2024, Ultimate Screen Recorder Features for PC/Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-ipads-that-include-built-in-location-services/"><u>A Comprehensive Guide to iPads That Include Built-In Location Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-alternatives-to-messaging-best-ios-apps-for-free-sms/"><u>Affordable Alternatives to Messaging: Best iOS Apps for Free SMS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-home-theater-vs-stereo-receivers-key-distinctions-explained/"><u>Comparing Home Theater Vs. Stereo Receivers: Key Distinctions Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-green-blob-to-silver-marvel-discover-why-these-three-cutting-edge-iphone-16-aspects-might-persuade-an-android-user-to-switch/"><u>From Green Blob to Silver Marvel: Discover Why These Three Cutting-Edge iPhone 16 Aspects Might Persuade an Android User to Switch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/home-entertainment-made-easy-creating-the-ultimate-karaoke-experience-in-your-household/"><u>Home Entertainment Made Easy: Creating the Ultimate Karaoke Experience in Your Household</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-ray-tracing-work-in-computer-graphics/"><u>How Does Ray Tracing Work in Computer Graphics?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/quick-insights-into-simplified-ipad-and-iphone-recording-for-2024/"><u>Quick Insights Into Simplified iPad & iPhone Recording for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mystery-of-a-missing-msvcr80dll-file/"><u>Resolving the Mystery of a Missing msvcr80.dll File</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>Unleashing Visual Velocity Illustrator's Guide to Motion Blurs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722902801689-unlock-your-ideal-device-at-a-bargain-top-verizon-upgrade-offers-of-the-month/"><u>Unlock Your Ideal Device at a Bargain - Top Verizon Upgrade Offers of the Month!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[New] 2024 Approved Engaging Recorders Within Huawei Mate and P-Series for Video Capture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-best-zero-cost-image-booster-online-plus-mobile-app/"><u>[New] In 2024, Best Zero-Cost Image Booster Online + Mobile App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-best-fast-photo-viewer-for-windows-10-in-2024/"><u>[New] Top Best Fast Photo Viewer for Windows 10, In 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-freshest-innovation-meet-the-latest-macbook-on-the-market/"><u>Apple's Freshest Innovation: Meet the Latest MacBook on the Market</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chrome-browser-issues-how-to-load-stuck-pages-effectively/"><u>Chrome Browser Issues: How to Load Stuck Pages Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solution-for-fixing-absent-or-lost-physxloaderdll-errors/"><u>Comprehensive Solution for Fixing Absent or Lost PhysXLoader.dll Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-range-of-ipads-with-embedded-satellite-positioning-identifying-models-with-gps/"><u>Discover the Range of iPads with Embedded Satellite Positioning - Identifying Models With GPS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-lgs-multimedia-channels-and-platforms/"><u>Inside Look at LG's Multimedia Channels and Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-devices-with-incharge-x-the-ultimate-universal-cable-zdnet-exclusive/"><u>Mastering Your Devices with InCharge X: The Ultimate Universal Cable - ZDNet Exclusive</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/setting-up-a-countdown-on-your-iphones-camera-app-a-step-by-step-guide/"><u>Setting Up a Countdown on Your iPhone's Camera App: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-instagram-a-complete-overview/"><u>Understanding Instagram: A Complete Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-secrets-to-overcome-black-screens-on-your-android-phone-practical-fixes-for-common-issues/"><u>Unveiling Secrets to Overcome Black Screens on Your Android Phone: Practical Fixes for Common Issues</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-11-pro-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 11 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

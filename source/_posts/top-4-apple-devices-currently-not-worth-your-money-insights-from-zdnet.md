@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights From ZDNet"
-date: 2024-12-28T16:32:47.175Z
-updated: 2025-01-04T16:07:49.134Z
+date: 2025-01-08T19:33:19.746Z
+updated: 2025-01-10T17:35:28.808Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -61,7 +57,15 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Nice' list**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -94,7 +98,7 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -112,7 +116,7 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -129,10 +133,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 **Also: [M3 MacBook Pro buying advice: Who it's really for (and who should stick with M2 MacBook Air)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/)**
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
 
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,18 +214,24 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtubes-retro-playlist-trick-how-to-go-in-arrears/"><u>[Updated] 2024 Approved Youtube's Retro Playlist Trick How to Go in Arrears</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elite-group-16-youtube-entries-boosting-views/"><u>[Updated] In 2024, Elite Group 16 YouTube Entries Boosting Views</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-expand-your-horizons-with-these-elite-science-yts/"><u>[Updated] In 2024, Expand Your Horizons with These Elite Science YTs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-pick-for-on-the-go-gamers-top-portable-consoles-in-2n24/"><u>Best Pick for On-the-Go Gamers: Top Portable Consoles in 2N24</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-concealed-smart-home-radio-feature-within-your-mac-and-ipad-devices/"><u>Discover the Concealed 'Smart Home Radio' Feature Within Your Mac and iPad Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978177240-get-the-latest-seamless-driver-updates-for-your-microsoft-surface-book/"><u>Get the Latest: Seamless Driver Updates for Your Microsoft Surface Book!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-se-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone SE Lock Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 7 Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/purchase-iphone-15-pro-max-at-just-a-penny-exclusive-insider-guide-to-amazons-amazing-offer-learn-inside-scoop-now/"><u>Purchase iPhone 15 Pro Max at Just a Penny: Exclusive Insider Guide to Amazon's Amazing Offer - Learn Inside Scoop Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-error-5-message-in-windows-11-a-comprehensive-guide/"><u>Resolving the 'Error 5' Message in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamp-your-macos-experience-effortless-methods-to-refresh-and-update-your-applications/"><u>Revamp Your MacOS Experience: Effortless Methods to Refresh and Update Your Applications</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-p40-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Itel P40 Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-headphones-on-sale-in-march-2024-exclusive-offers-from-techradar/"><u>Top Rated Headphones on Sale in March 2024 - Exclusive Offers From TechRadar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-burst-to-blast-android-apps-transform-slow-motion/"><u>[New] Burst to Blast Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-soundscapes-spectrum-music-finder-service/"><u>[New] In 2024, Soundscapes Spectrum Music Finder Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-converting-imovie-edits-for-online-exhibition-youtube-edition/"><u>[Updated] In 2024, Converting iMovie Edits for Online Exhibition - YouTube Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitmedia-mastery-elevate-your-tweet-game-for-2024/"><u>[Updated] TwitMedia Mastery Elevate Your Tweet Game for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/airpods-alone-restoring-connection/"><u>Airpods Alone Restoring Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-ownership-explained-identifying-the-key-players/"><u>ChatGPT Ownership Explained: Identifying the Key Players</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-the-critical-process-died-stop-0x0000003d-problem-on-windows-pcs/"><u>Diagnosing and Repairing the Critical Process Died (STOP) 0X0000003D Problem on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-play-a-comprehensive-guide-to-setting-up-extra-storage-for-xbox-one-games/"><u>Expand Your Play: A Comprehensive Guide to Setting Up Extra Storage for Xbox One Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-errors-with-your-final-usb-gadget-when-windows-fails-to-detect/"><u>Fixing Errors with Your Final USB Gadget: When Windows Fails to Detect</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-hidden-system-files-on-a-mac-using-terminal-command-lines/"><u>How to Access Hidden System Files on a Mac Using Terminal Command Lines</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-6s-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 6s or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-usb-20-essentials-an-overview-of-transfer-speeds-wires-and-interfaces/"><u>Mastering USB 2.0 Essentials: An Overview of Transfer Speeds, Wires, and Interfaces</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-the-world-of-digital-to-analog-converters-dac/"><u>Navigating Through the World of Digital to Analog Converters (DAC)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722893643266-revamp-your-win-11-interface-download-the-15-most-amazing-free-themes-today/"><u>Revamp Your Win 11 Interface: Download the 15 Most Amazing Free Themes Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-addressing-missing-graphics-in-warzone-battles/"><u>Solution Found: Addressing Missing Graphics in Warzone Battles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-overcoming-black-screen-challenges-in-facetime-conversations/"><u>Step-by-Step Guide: Overcoming Black Screen Challenges in FaceTime Conversations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-finding-and-acquiring-an-appropriate-surge-protector/"><u>The Ultimate How-To: Finding and Acquiring an Appropriate Surge Protector</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-sony-xperia-10-v-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Sony Xperia 10 V.</u></a></li>
 </ul></div>
 

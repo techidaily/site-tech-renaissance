@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2025-01-01T16:27:19.664Z
-updated: 2025-01-04T16:51:24.591Z
+date: 2025-01-06T02:43:33.711Z
+updated: 2025-01-10T21:29:18.400Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-synchronize-your-surfing-master-multi-video-youtube-use/"><u>[Updated] 2024 Approved Synchronize Your Surfing Master Multi-Video YouTube Use</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-creating-compelling-call-to-actions-utilizing-three-critical-copy-techniques-for-2024/"><u>[Updated] Creating Compelling Call-To-Actions Utilizing Three Critical Copy Techniques for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-xs-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone XS Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-quality-discover-how-beats-latest-solo-earbuds-could-outshine-sub-100-competitors-like-apples-airpods-insights-from-zdnet/"><u>Affordable Quality: Discover How Beats' Latest Solo Earbuds Could Outshine Sub-$100 Competitors Like Apple's AirPods – Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-enhances-carplay-experience-with-new-upgrades-announced-at-wwdc-2024-the-latest-innovations-explained-gizmodo/"><u>Apple Enhances CarPlay Experience with New Upgrades Announced at WWDC 2024 - The Latest Innovations Explained | Gizmodo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/continue-to-score-huge-savings-ongoing-presidents-day-offers-at-major-retailers-including-best-buy-zdnet/"><u>Continue to Score Huge Savings: Ongoing Presidents’ Day Offers at Major Retailers Including Best Buy | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/erfolgreiches-wenden-sie-um-ruckerstattung-fur-winxdvd-nach-der-softwarerichtlinie-digitarti/"><u>Erfolgreiches Wenden Sie Um Rückerstattung Für WinXDVD Nach Der Softwarerichtlinie | DigitArti</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-factors-behind-the-historic-crowdstrike-windows-crisis-insights-from-zdnet/"><u>Exploring the Factors Behind the Historic CrowdStrike Windows Crisis - Insights From ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/foremost-companies-pioneering-vr-technology-for-2024/"><u>Foremost Companies Pioneering VR Technology for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fusion-functionality-combining-watch-mac-access-for-2024/"><u>Fusion Functionality Combining Watch, Mac Access for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-an-overview-of-basic-and-simplified-hdr-photography/"><u>In 2024, An Overview of Basic and Simplified HDR Photography</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-google-pixel-fold-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Google Pixel Fold Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g14s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G14s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snag-the-latest-9gen-ipad-for-just-250-after-apples-fresh-reveal-expert-analysis/"><u>Snag the Latest 9Gen iPad for Just $250 After Apple's Fresh Reveal | Expert Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-capturing-images-with-your-hp-notebook/"><u>Step-by-Step Guide: Capturing Images with Your HP Notebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/thousands-receive-apples-newly-launched-ai-education-program-opportunities-for-current-and-former-students-tech-news-zdnet/"><u>Thousands Receive Apple's Newly Launched AI Education Program: Opportunities for Current & Former Students | Tech News - ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/time-management-the-art-of-planning-zoom-meetings/"><u>Time Management The Art of Planning Zoom Meetings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-3-key-technology-innovations-you-cant-ignore/"><u>Top 3 Key Technology Innovations You Can't Ignore</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-apple-bargains-in-july-2024-iphone-apple-watch-ipad-offers-explored-by-zdnet/"><u>Top Apple Bargains in July 2024: IPhone, Apple Watch, iPad Offers Explored by ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unveiling-the-secrets-of-iphones-video-loops/"><u>2024 Approved Unveiling the Secrets of iPhone's Video Loops</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-and-repairing-website-security-blocks-the-401-unauthorized-code-guide/"><u>Decoding and Repairing Website Security Blocks - The 401 Unauthorized Code Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g14-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G14 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-art-of-audio-amalgamation-in-vimeo-videos/"><u>In 2024, The Art of Audio Amalgamation in Vimeo Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-mini-video-medley-where-does-your-audience-flock-youtubes-or-tiktoks/"><u>In 2024, The Mini-Video Medley Where Does Your Audience Flock? YouTubes or TikToks?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722848848078-is-twitch-really-down-or-is-your-connection-at-fault/"><u>Is Twitch Really Down, or Is Your Connection at Fault?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-portrait-photography-a-beginners-guide-to-the-best-selfie-lights/"><u>Mastering Portrait Photography: A Beginner's Guide to the Best Selfie Lights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-watch-originals-featured-on-max-streaming-service/"><u>Must-Watch Originals Featured on Max Streaming Service</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-income-impact-of-sharing-on-youtube-shorts-for-2024/"><u>The Income Impact of Sharing on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Hot 30i? | Dr.fone</u></a></li>
 </ul></div>
 

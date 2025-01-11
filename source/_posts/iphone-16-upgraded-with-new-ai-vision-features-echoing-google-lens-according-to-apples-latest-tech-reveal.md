@@ -1,7 +1,7 @@
 ---
 title: IPhone 16 Upgraded with New AI Vision Features Echoing Google Lens, According to Apple's Latest Tech Reveal
-date: 2024-12-29T16:54:31.163Z
-updated: 2025-01-04T16:42:37.406Z
+date: 2025-01-04T00:39:29.648Z
+updated: 2025-01-11T11:02:58.103Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -45,9 +45,17 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
 
@@ -56,10 +64,6 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 **Also: [iPhone 16 Pro hands-on: My 3 favorite things about this ridiculously overpowered supercomputer](https://www.zdnet.com/article/iphone-16-pro-hands-on/)**
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
 
@@ -79,13 +83,13 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
 
@@ -94,10 +98,6 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 **Also: [iPhone 14 Pro review: More innovation for the same price as the iPhone 13 Pro](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)**
 
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
 
@@ -110,7 +110,7 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 [iPhone 14 Pro (Pre-owned) $602.48 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7731a1c6-ddf3-463f-ba3a-43e9158c0add%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -147,19 +147,22 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-achieve-balance-in-visuals-through-aspect-choices/"><u>[New] 2024 Approved Achieve Balance in Visuals Through Aspect Choices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-download-vimeo-video-to-mp4/"><u>[New] 2024 Approved How To Download Vimeo Video to MP4</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-boost-your-videos-best-editing-apps-for-android-pc-users/"><u>[New] Boost Your Videos Best Editing Apps for Android, PC Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/erfecting-video-segmentation-for-enhanced-viewing-experience-on-youtube/"><u>[New] Perfecting Video Segmentation for Enhanced Viewing Experience on YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-vidharvest-instagram-live-fb-for-2024/"><u>[New] VidHarvest Instagram Live (FB) for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>2024 Approved Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-iphone-showdown-key-differences-between-the-iphone-16-and-iphone-15-for-potential-upgrades-analysis/"><u>Apple iPhone Showdown: Key Differences Between the iPhone 16 and iPhone 15 for Potential Upgrades Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-how-to-perform-a-soft-reset-for-your-apple-watch-insights-by-zdnet-technicians/"><u>Expert Advice on How to Perform a Soft Reset for Your Apple Watch – Insights by ZDNet Technicians</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-boosting-iphone-efficiency-with-advanced-siri-sounds-and-commands/"><u>Expert Tips for Boosting iPhone Efficiency with Advanced Siri Sounds and Commands</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-alert-get-your-hands-on-discounted-apple-airtag-4-pods-at-walmartsave-an-extra-24-details-inside-from-zdnet/"><u>Labor Day Alert: Get Your Hands on Discounted Apple AirTag 4-Pods at Walmart—Save an Extra $24, Details Inside From ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsoft-copilot-for-aspiring-digital-artists-how-to-craft-one-of-a-kind-images/"><u>Microsoft Copilot for Aspiring Digital Artists: How to Craft One-of-a-Kind Images</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-free-cash-for-school-tech-get-an-extra-150-off-on-your-next-mac-or-ipad-guide-inside-zdnet/"><u>Score Free Cash for School Tech! Get an Extra $150 Off on Your Next Mac or iPad (Guide Inside) | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-haul-video-guide-from-camera-to-final-cut/"><u>The Ultimate Haul Video Guide From Camera to Final Cut</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-release-a-guide-to-pre-ordering-and-expectations-of-the-latest-airpods-insights-from-zdnet/"><u>Upcoming Release: A Guide to Pre-Ordering & Expectations of the Latest AirPods - Insights From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>[New] 2024 Approved Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-most-advanced-youtube-mp3-converters-for-2024/"><u>[New] Unveiling the Most Advanced YouTube Mp3 Converters for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>[Updated] 2024 Approved The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-drivers-version-2410-update-and-features/"><u>AMD Radeon Graphics Drivers Version 24.10: Update and Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-factors-for-acquiring-a-pre-owned-ipad-device-a-five-point-guide/"><u>Crucial Factors for Acquiring a Pre-Owned iPad Device: A Five-Point Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-8-ebook-reader-apps-dominating-2024/"><u>Discover the Best 8 Ebook Reader Apps Dominating 2024!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891946210-diy-repair-handling-the-phase0exception-blue-screen-of-death-stopcode-0x0000007/"><u>DIY Repair: Handling the PHASE0_EXCEPTION Blue Screen of Death, Stopcode 0X0000007 #</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-steps-transforming-your-youtube-videos-into-high-quality-mp3-files/"><u>Easy Steps: Transforming Your YouTube Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-resolving-resident-evil-village-installation-issues/"><u>Fix Guide: Resolving Resident Evil Village Installation Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-12-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 12 or iPad?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-create-a-shared-spotify-experience-for-you-and-your-friends/"><u>How to Create a Shared Spotify Experience for You and Your Friends</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-upload-and-upgrade-your-horizons-in-igtvs-format/"><u>In 2024, How to Upload & Upgrade Your Horizons in IGTV's Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-account-creation-on-sonys-playstation-network/"><u>Mastering Account Creation on Sony’s PlayStation Network</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-d3dx940dll-disappearance-tips-and-fixes-for-error-free-operation/"><u>Navigating Through d3dx9_40.dll Disappearance: Tips and Fixes for Error-Free Operation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-frozen-macbook-air-with-simple-troubleshooting-steps/"><u>Reviving Your Frozen MacBook Air with Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-guide-to-pairing-your-camera-gimbal/"><u>Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-effects-of-automated-censorship-in-artificial-intelligence-chatbots-what-you-need-to-know/"><u>Unveiling the Effects of Automated Censorship in Artificial Intelligence Chatbots: What You Need to Know</u></a></li>
 </ul></div>
 

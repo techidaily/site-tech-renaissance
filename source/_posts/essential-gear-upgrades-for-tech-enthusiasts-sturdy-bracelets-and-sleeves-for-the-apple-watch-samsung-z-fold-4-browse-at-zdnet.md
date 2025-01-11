@@ -1,7 +1,7 @@
 ---
 title: "Essential Gear Upgrades for Tech Enthusiasts: Sturdy Bracelets and Sleeves for the Apple Watch, Samsung Z Fold 4 | Browse at ZDNET"
-date: 2024-12-30T17:02:19.076Z
-updated: 2025-01-04T16:40:50.107Z
+date: 2025-01-09T18:55:45.283Z
+updated: 2025-01-10T18:22:29.058Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
@@ -35,7 +31,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +49,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -72,6 +68,10 @@ Now that the major players have entered the competition, the big question this y
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Qi2 bridges a long-standing gap in charging
 
 The iPhone 15 Pro (left) next to the Samsung Galaxy S23 Ultra (right).
@@ -89,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -111,7 +111,7 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -168,19 +168,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-a-deep-dive-into-effective-animoji-utilization-on-iphone-x-for-2024/"><u>[New] A Deep Dive Into Effective Animoji Utilization on iPhone X for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-link-up-titles-video-upload-to-twittertumblr-for-2024/"><u>[Updated] Link-Up Titles Video Upload to Twitter/Tumblr for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-walkthrough-creating-a-new-account-for-your-oculus-quiet-or-quiet-2-headset/"><u>Beginner's Walkthrough: Creating a New Account for Your Oculus (Quiet or Quiet 2) Headset</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cutting-cost-not-quality-how-these-economical-xr-glasses-outperform-apples-luxury-product-for-fomo-relief/"><u>Cutting Cost, Not Quality: How These Economical XR Glasses Outperform Apple's Luxury Product for FOMO Relief</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-your-non-working-hp-keyboard-a-step-by-step-tutorial/"><u>Fix Your Non-Working HP Keyboard: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/free-mindset-tunes-no-copyrights/"><u>Free Mindset Tunes - No Copyrights</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-quick-fixes-for-professional-looking-youtube-thumbnails/"><u>In 2024, Quick Fixes for Professional-Looking YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts-for-2024/"><u>Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-on-sending-back-your-apple-vision-pro-insights/"><u>Step-by-Step Guide on Sending Back Your Apple Vision Pro - Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-setting-turmoil-a-pubg-guide-for-pc-users/"><u>Taming Setting Turmoil: A PUBG Guide for PC Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-apple-watch-series-a-comprehensive-overview-of-release-details-innovative-specs-price-points-and-recent-developments/"><u>The Next-Gen Apple Watch Series Ⅷ: A Comprehensive Overview of Release Details, Innovative Specs, Price Points & Recent Developments</u></a></li>
-<li><a href="https://win-web.techidaily.com/tutorials-expert-securiser-et-sauvegarder-sous-windows-11-via-nas-synology/"><u>Tutorials Expert: Sécuriser Et Sauvegarder Sous Windows 11 via NAS Synology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-apple-watch-series-nine-offer-huge-savings-post-prime-day-grab-your-exclusive-deal-now/"><u>Unbeatable Apple Watch Series Nine Offer - Huge Savings Post-Prime Day! Grab Your Exclusive Deal Now!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>2024 Approved Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/4-effektive-methoden-zum-testen-und-beheben-von-windows-11-festplattenfehlern/"><u>4 Effektive Methoden Zum Testen Und Beheben Von Windows 11-Festplattenfehlern</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-8-unveiled-official-launch-details-features-and-cost/"><u>Apple Watch Series 8 Unveiled: Official Launch Details, Features & Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-preschool-game-sites-a-guide-to-learning-and-fun/"><u>Discover the Best Free Preschool Game Sites - A Guide to Learning and Fun</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-guide-to-fix-streaming-hiccups-making-paramountplus-function-correctly-on-amazons-firestick/"><u>Easy Guide to Fix Streaming Hiccups: Making Paramount+ Function Correctly on Amazon's Firestick</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-audio-tuning-tech-mobile-and-pc-companions/"><u>Essential Audio Tuning Tech Mobile & PC Companions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/excellence-unleashed-top-tech-for-your-workspace/"><u>Excellence Unleashed - Top Tech For Your Workspace</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-and-update-secure-your-wi-fi-with-the-latest-wireless-driver-software/"><u>Fix & Update: Secure Your Wi-Fi with the Latest Wireless Driver Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-of-10-inspirational-movies/"><u>In 2024, The Ultimate Collection of 10 Inspirational Movies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-non-responsive-iphone-mailboxes-effective-strategies-explained/"><u>Resolving Non-Responsive iPhone Mailboxes: Effective Strategies Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-eradicating-installer-problems-on-windows-11/"><u>Strategies for Eradicating Installer Problems on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-joining-several-video-clips-into-a-single-high-quality-file/"><u>Ultimate Guide: Joining Several Video Clips Into a Single High-Quality File</u></a></li>
 </ul></div>
 

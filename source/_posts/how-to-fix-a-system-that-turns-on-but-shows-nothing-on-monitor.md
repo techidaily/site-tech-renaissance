@@ -1,7 +1,7 @@
 ---
 title: How to Fix a System That Turns On but Shows Nothing on Monitor?
-date: 2024-08-20T10:37:36.497Z
-updated: 2024-08-21T10:37:36.497Z
+date: 2025-01-03T22:49:30.381Z
+updated: 2025-01-10T21:05:24.349Z
 categories:
   - BestProducts
 description: This Article Describes How to Fix a System That Turns On but Shows Nothing on Monitor?
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
 ---
 
 ## Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Press and hold the**Side** button and either**Volume** button. Use the**Slide to Power Off** option on the screen.
@@ -25,13 +30,19 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
 1. Press and hold the**Side** button on the right and either**Volume** button on the left at the same time.  
 ![The volume (left) buttons and side button on an iPhone 15](https://www.lifewire.com/thmb/TmHUOU_P6SpM3wMTkgaBlQ6knbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Side-and-Volume-buttons-on-iPhone-15-Pro-ce7f29a6f4bb4cf3bb66ea8b0b928ba3.jpg)
 2. Drag the**Slide to Power Off** option to the right.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Settings to Restart iPhone 15
 
  If you’re having trouble using the device’s buttons to restart your iPhone 15, you can use the onscreen option instead. This method is also considered a soft restart.
@@ -41,14 +52,13 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
 3. Drag the**Slide to Power Off** option to the right.  
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
+
 ## How to Turn Off an iPhone 15 With Siri
 
  While Apple's virtual assistant wasn't always able to power off your iPhone, it can now. Hold the side button or use the voice command "**Siri** /**Hey, Siri** " to activate the assistant, and then say something like:
@@ -60,8 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Force Restart an iPhone 15
 
  When you can’t use the above methods to restart your device, or if your iPhone 15 isn’t responding at all, you can force it to restart. This is called a force restart, force reset, or hard reset.
@@ -92,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +110,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-enter-the-future-of-lettering-our-guide-to-the-best-9-websites-for-3d-graffiti-typefaces/"><u>[New] In 2024, Enter the Future of Lettering Our Guide to the Best 9 Websites for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-laughburst-app-for-all-humor-needs/"><u>2024 Approved LaughBurst App for All Humor Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-pencil-showdown-is-the-apple-pencil-pro-or-the-2nd-generation-better-for-your-creative-endeavors-insights-from-zdnets-latest-review/"><u>Apple Pencil Showdown: Is the Apple Pencil Pro or the 2Nd Generation Better for Your Creative Endeavors? Insights From ZDNet's Latest Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-wwdc-revelations-exploring-advanced-intelligence-capabilities-and-siri-improvements-in-ios-18-in-depth-coverage-by-zdnet/"><u>Apple WWDC Revelations: Exploring Advanced Intelligence Capabilities and Siri Improvements in iOS 18 | In-Depth Coverage by ZDNET</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-of-the-best-10-leading-video-call-apps-for-iphones-and-android-for-2024/"><u>Best of the Best 10 Leading Video Call Apps for iPhones & Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-batteries-a-deeper-dive-into-electric-car-sustainability/"><u>Beyond Batteries: A Deeper Dive Into Electric Car Sustainability</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-htc-by-drfone-android/"><u>In 2024, How to Bypass FRP on HTC?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-enhanced-logic-pro-with-ai-assistants-for-tablet-and-computer-music-creation-technewsz/"><u>Introducing Apple's Enhanced Logic Pro with AI Assistants for Tablet & Computer Music Creation | TechNewsZ</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-7-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 7 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-hashtags-for-a-6-figure-view-spike-on-youtube/"><u>Navigating Hashtags for a 6-Figure View Spike on YouTube</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/yl-computingyl-software/"><u>YL Computing/YL Software.</u></a></li>
+</ul></div>
 

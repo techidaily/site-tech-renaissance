@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights by ZDNET"
-date: 2024-12-30T16:09:10.294Z
-updated: 2025-01-04T16:28:39.955Z
+date: 2025-01-06T01:17:49.948Z
+updated: 2025-01-11T07:38:43.119Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-ideal-fix-for-immersive-experiences/"><u>[New] 2024 Approved Ideal Fix for Immersive Experiences</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>[New] 2024 Approved Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-storytelling-with-jump-cuts-technique-for-2024/"><u>[New] Enhancing Storytelling with Jump Cuts Technique for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-best-mp4-player-you-should-know/"><u>[Updated] Best MP4 Player You Should Know</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-steps-to-crafting-powerful-end-of-episode-notes/"><u>[Updated] Steps to Crafting Powerful End-of-Episode Notes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-drops-top-ranking-ad-during-super-bowl-break-steals-the-show/"><u>Apple Drops Top-Ranking Ad During Super Bowl Break, Steals the Show !</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-expert-reviews-and-picks-by-zdnet/"><u>Choosing the Perfect Phone for Your Child: Expert Reviews & Picks by ZDNet</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-picks-10-best-vectors-stock-sources/"><u>Essential Picks 10 Best Vectors Stock Sources</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exhaustive-review-of-razers-kiyo-cam-for-2024/"><u>Exhaustive Review of Razer's Kiyo Cam for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/grab-two-top-pick-nomad-iphone-cases-today-buy-one-get-one-at-a-steal-on-zdnet/"><u>Grab Two Top-Pick Nomad iPhone Cases Today: Buy One, Get One at a Steal on ZDNet!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-digitize-your-old-photos-and-turn-them-into-impressive-videos-for-2024/"><u>How to Digitize Your Old Photos and Turn Them Into Impressive Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/instagram-story-transcriptions-the-ultimate-guide-for-creators/"><u>Instagram Story Transcriptions: The Ultimate Guide for Creators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-174-launches-featuring-enhanced-podcast-accessibility-fresh-emoji-additions-and-notable-updates-to-apples-eu-app-marketplace-tech-insights-from-zdnet/"><u>IOS 17.4 Launches Featuring Enhanced Podcast Accessibility, Fresh Emoji Additions & Notable Updates to Apple's EU App Marketplace - Tech Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-special-score-an-amazing-deal-on-apple-ipads-for-just-199-dollars-inside-tips-and-tricks-from-the-amazon-sale-insights/"><u>Labor Day Special: Score an Amazing Deal on Apple iPads for Just 199 Dollars! Inside Tips & Tricks From the Amazon Sale Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-strategies-to-remove-grime-from-your-tv-remote-and-enhance-its-functionality/"><u>Simple Strategies to Remove Grime From Your TV Remote and Enhance Its Functionality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y78t-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y78t</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-get-your-meme-on-top-10-apps-for-creating-viral-content-for-2024/"><u>Updated Get Your Meme On Top 10 Apps for Creating Viral Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-ears-without-breaking-the-bank-zdnet-explores-beats-new-entry-level-earbuds-the-perfect-sub-100-competitor-to-airpods/"><u>Upgrade Your Ears Without Breaking the Bank: ZDNET Explores Beats' New Entry-Level Earbuds - The Perfect Sub-$100 Competitor to AirPods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-expert-analysis-on-newly-improved-3rd-generation-apple-airpods-what-you-need-to-know/"><u>ZDNET's Expert Analysis on Newly Improved 3Rd Generation Apple AirPods – What You Need to Know!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms/"><u>[New] 2024 Approved 20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-explore-interaction-tips-for-uploading-videos-from-twitter-snapchat/"><u>[New] Explore Interaction Tips for Uploading Videos From Twitter (Snapchat)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-hand-tracking-insights-detailed-exploration/"><u>[Updated] Hand Tracking Insights Detailed Exploration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>[Updated] In 2024, Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-free-h265-hevc-encoderdecoder-software-for-ultra-hd-and-8k-videos/"><u>1. Free H.265 HEVC Encoder/Decoder Software for Ultra HD & 8K Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-dynamic-animations-using-movie-maker/"><u>2024 Approved Tips for Dynamic Animations Using Movie Maker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chronological-adventure-the-best-way-to-experience-the-x-men-universe-on-screen/"><u>Chronological Adventure: The Best Way to Experience the X-Men Universe on Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-network-reach-premier-range-extender-picks/"><u>Enhance Your Network Reach: Premier Range Extender Picks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-motorola-moto-g24-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola Moto G24 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-magic5-ultimate-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor Magic5 Ultimate Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-hype-samsung-galaxy-rings-pricing-specifications-release-timeline-and-recent-news/"><u>Inside the Hype: Samsung Galaxy Ring's Pricing, Specifications, Release Timeline, and Recent News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/kickstarting-your-digital-journey-initial-steps-after-buying-a-new-computer/"><u>Kickstarting Your Digital Journey: Initial Steps After Buying a New Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rise-to-the-challenge-elite-tips-for-conquering-subway-surfers-gameplay/"><u>Rise to the Challenge: Elite Tips for Conquering Subway Surfers Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-on-utilizing-iphone-emojis-like-a-pro/"><u>The Complete Tutorial on Utilizing iPhone Emojis Like a Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-elusive-mfc71dll-tips-and-techniques-to-resolve-file-not-found-problems/"><u>Troubleshooting the Elusive mfc71.dll: Tips & Techniques to Resolve 'File Not Found' Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-solving-netflixs-ui-800-3-display-problem/"><u>Troubleshooting Tips for Solving Netflix's UI-800-3 Display Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-top-favorites-the-best-free-email-services-available-today/"><u>Unveiling Our Top Favorites: The Best Free Email Services Available Today</u></a></li>
 </ul></div>
 

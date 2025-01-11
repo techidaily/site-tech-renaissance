@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Fix and Prevent fm20.dll Errors for Smooth System Performance
-date: 2024-08-20T10:37:20.267Z
-updated: 2024-08-21T10:37:20.267Z
+date: 2025-01-06T01:07:42.513Z
+updated: 2025-01-10T23:03:03.947Z
 categories:
   - BestProducts
 description: This Article Describes Expert Tips to Fix and Prevent fm20.dll Errors for Smooth System Performance
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
 ---
 
 ## Boosting PS5 Performance for Ultra-Smooth Visuals at 120 Frames Per Second
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
 * Only certain games support 120 frames per second on PS5.
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On 120 FPS on PS5
 
@@ -27,18 +36,30 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -49,9 +70,6 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +114,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>[New] 2024 Approved Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-instantly-display-pics-on-platforms-with-this-guide/"><u>[New] In 2024, Instantly Display Pics on Platforms with This Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-tricks-to-enhance-your-ppt-impact-on-google-meet-any-device/"><u>[Updated] Tricks to Enhance Your PPT Impact on Google Meet, Any Device</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-step-by-step-for-quick-chromakey-application/"><u>2024 Approved Step-by-Step for Quick Chromakey Application</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/drive-success-a-comprehensive-list-of-the-best-fb-schedulers/"><u>Drive Success A Comprehensive List of the Best FB Schedulers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-tips-for-erasing-with-photoshop/"><u>Essential Tips for Erasing with Photoshop</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-energy-savings-optimizing-low-power-mode-on-macos-monterey/"><u>Mastering Energy Savings: Optimizing Low Power Mode on macOS Monterey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-apple-visionos-upgrade-revamps-persona-design-and-introduces-exciting-features-discover-more-in-our-detailed-review/"><u>New Apple VisionOS Upgrade Revamps Persona Design and Introduces Exciting Features - Discover More in Our Detailed Review!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-oleauto32dll-file-absence-on-your-pc/"><u>Troubleshooting the OleAuto32.dll File Absence on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-resolving-missing-mfc42ddll-error-messages-effectively/"><u>Troubleshooting: Resolving Missing mfc42d.dll Error Messages Effectively</u></a></li>
+</ul></div>
 

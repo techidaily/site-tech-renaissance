@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Your PC: Do RTX Graphics Cards Make a Difference?"
-date: 2024-08-20T10:36:06.250Z
-updated: 2024-08-21T10:36:06.250Z
+date: 2025-01-04T04:00:55.431Z
+updated: 2025-01-10T16:17:36.623Z
 categories:
   - BestProducts
 description: "This Article Describes Upgrading Your PC: Do RTX Graphics Cards Make a Difference?"
@@ -20,6 +20,10 @@ In This Article
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Must-Haves: Computers, Laptops and Peripherals
 
  Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
@@ -37,6 +41,10 @@ In This Article
 [Editor's Choice: The Best Tech Gifts for Back To School](https://www.lifewire.com/editor-s-choice-the-best-tech-gifts-for-back-to-school-7692969)
 
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Skynesher/Getty
 
@@ -61,8 +69,13 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -89,12 +102,6 @@ Skynesher/Getty
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
@@ -102,8 +109,9 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
  If your child loves using their smartphone, give them something parent-approved to use!
@@ -143,14 +151,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +164,18 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ios-snapshot-spectrum-your-quick-reference/"><u>[Updated] In 2024, IO's Snapshot Spectrum Your Quick Reference</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-techniques-to-reclaim-your-exclusive-snaps/"><u>[Updated] Techniques to Reclaim Your Exclusive Snaps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>2024 Approved Inside the Core A Thorough Insight Into XStudio Video Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-aligning-brands-with-youtube-content/"><u>2024 Approved The Art of Aligning Brands with YouTube Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-alternatives-to-apple-vision-pro-and-meta-quest-3-unveiled-experience-enhanced-xr-at-a-fraction-of-the-cost/"><u>Budget-Friendly Alternatives to Apple Vision Pro & Meta Quest 3 Unveiled! Experience Enhanced XR at a Fraction of the Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-superior-wallet-airtags-beyond-apple-and-tile-insider-report/"><u>Exploring Superior Wallet AirTags Beyond Apple and Tile – Insider Report</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-forcing-closure-on-unresponsive-windows-programs-using-advanced-techniques/"><u>Mastering the Art of Forcing Closure on Unresponsive Windows Programs Using Advanced Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-release-of-apple-m3-imac-fails-to-impress-diehard-27-inch-display-lovers-do-we-really-need-this-upgrade/"><u>The Release of Apple M3 iMac Fails to Impress Diehard 27-Inch Display Lovers – Do We Really Need This Upgrade?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-return-of-the-elusive-homeos-unveiled-within-new-tvos-beta-version-exclusive-report-by-zdnet/"><u>The Return of the Elusive 'homeOS': Unveiled Within New tvOS Beta Version | Exclusive Report by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-civi-3-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Civi 3 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-votre-fichier-amv-en-format-flv-sans-frais-solutions-rapides-et-faciles-avec-movavi/"><u>Transformez Votre Fichier AMV en Format FLV Sans Frais - Solutions Rapides Et Faciles Avec Movavi</u></a></li>
+</ul></div>
 

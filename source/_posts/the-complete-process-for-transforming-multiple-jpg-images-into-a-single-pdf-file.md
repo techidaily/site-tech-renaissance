@@ -1,7 +1,7 @@
 ---
 title: The Complete Process for Transforming Multiple .JPG Images Into a Single PDF File
-date: 2024-08-20T10:36:14.666Z
-updated: 2024-08-21T10:36:14.666Z
+date: 2025-01-08T00:55:13.850Z
+updated: 2025-01-10T16:41:50.325Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process for Transforming Multiple .JPG Images Into a Single PDF File
@@ -32,20 +32,27 @@ Close
  If you don't see**Print** , select**Show more options** .  
 ![Print in context menu on Windows 10](https://www.lifewire.com/thmb/3xVL2aLbBB03wybMTfT49-Wnycs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle48-e4ddc7b39d474a13b426c529d9d1dfce.jpg)
 4. Under**Printer** , choose**Microsoft Print to PDF** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see**Microsoft Print To PDF** as an option, you need to[ set up print to PDF](https://www.lifewire.com/print-to-pdf-4147601) in your Windows settings. On Windows 7 and 8, you need to install a[ PDF creator](https://www.lifewire.com/free-tools-to-create-pdf-files-1356335) like doPDF.  
 ![Microsoft Print to PDF in Windows 10 Printer dialog](https://www.lifewire.com/thmb/p3IiqiFSFIE5T7z1aC3c8Y9RVnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle49-bc1e4c00c6774f3facef9276808e1a6b.jpg)
 5. Adjust the image quality and choose from the layout options on the right side. Select**Options** if you want to sharpen the image. If your images appear cut off in the preview, uncheck the**Fit picture to frame** box.  
 ![Page layout options and Fit picture to frame in Windows 10 Printer dialog](https://www.lifewire.com/thmb/tkUIXck5JLhGBfEsRA02SwVbtNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle50-bcbea8fd36a64719a058a084fad2c4f0.jpg)
 6. Select**Print** , then enter a name for the PDF and choose where you want to save it. Select**Save** to finish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Print in the Windows 10 Print dialog](https://www.lifewire.com/thmb/2Ve0tNTzgukORg7veZOabgwkyD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle51-bee55e87fe864de785e575acb043f1b2.jpg)
 
  You now have a PDF file containing all your images you can print or attach to an email.  
 
  Websites like the[ JPG to PDF converter tool](https://smallpdf.com/jpg-to-pdf) also let you upload images and then download a PDF.  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Combine Images Into a PDF on a Mac 
 
  The easiest way to combine images in a PDF on Mac is using the[ Preview app](https://www.lifewire.com/preview-mac-image-editor-4135787) .  
@@ -53,25 +60,27 @@ Close
 1. Open your images in the Preview app. Press the**Command** key as you choose multiple images, then right-click and select**Open with** \>**Preview** .  
 ![Preview in the Finder context menu on Mac](https://www.lifewire.com/thmb/cd431MkhBC0DtgvHDda29AAVxyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle52-7e463ca835a8452a8e6255c8f84e7bc5.jpg)
 2. Click-and-drag the photos in the sidebar to rearrange their order. When you're satisfied, select**File** \>**Print** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![File > Print in the Preview App on Mac](https://www.lifewire.com/thmb/bTVXwB2AO30wNTho1uUG29uMbO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle53-cdf4bfc9cb524ba29d6066571dc99d05.jpg)
 3. In the**PDF** drop-down menu, choose**Save as PDF** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternately, choose**Send in Mail** to send the PDF to someone directly as an email attachment.  
 ![Save as PDF in Mac Printer dialog](https://www.lifewire.com/thmb/T5qiCILDPCq3USXycr-nMv-R36I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle54-46f2d6bf443140d78f6fc2c1494e5921.jpg)
 4. Give the PDF file a name, choose a location to save it to, and select**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you open the PDF, you can add more images by dragging them into the document. To delete an image, select it > go to the Preview menu > click**Edit** \>**Delete** .
 
 [  13 of Our Favorite Free PDF Editors (July 2024) ](https://www.lifewire.com/best-free-pdf-editors-4147622) 
@@ -103,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +119,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-exceptional-phones-topping-list-for-high-definition-video/"><u>[New] 2024 Approved Exceptional Phones Topping List for High Definition Video</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-optimal-spectrum-adjuster/"><u>[New] 2024 Approved Optimal Spectrum Adjuster</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-fraps-experience-for-game-capture/"><u>[New] In 2024, The Ultimate Fraps Experience for Game Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-top-10-screenshot-tools-of-2021/"><u>[Updated] In 2024, The Top 10 Screenshot Tools of 2021</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>2024 Approved Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compact-computing-reinvented-the-latest-m4-equipped-mac-mini-analyzed-is-it-the-new-standard-for-size-and-power-insights-from-zdnet/"><u>Compact Computing Reinvented: The Latest M4-Equipped Mac Mini Analyzed - Is It the New Standard for Size and Power? | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-training-conversations-a-guide-to-perfecting-chatgpt-prompt-strategies/"><u>Elevating Training Conversations: A Guide to Perfecting ChatGPT Prompt Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-enhancements-required-for-apple-vision-pros-successful-market-penetration-insights/"><u>Essential Enhancements Required for Apple Vision Pro's Successful Market Penetration: Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-latest-update-ios-18-release-for-iphones-now-live-installation-instructions-and-supported-devices/"><u>Get the Latest Update: IOS 18 Release for iPhones Now Live – Installation Instructions & Supported Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y100-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y100</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-tech-with-siri-understanding-artificial-intelligence-integration-in-upcoming-iphone-mac-and-ipad-models-zdnet/"><u>The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-ipad-air-4-to-ipad-air-e-is-it-worth-the-switch-insights-and-comparisons-by-zdnet/"><u>Upgrading From iPad Air 4 to iPad Air E: Is It Worth the Switch? Insights and Comparisons by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-the-new-apple-ipad-air-is-your-best-tablet-option-expert-review-on-zdnet/"><u>Why the New Apple iPad Air Is Your Best Tablet Option | Expert Review on ZDNET</u></a></li>
+</ul></div>
 

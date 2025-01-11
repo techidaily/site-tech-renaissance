@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Display Hidden File Attributes on Your Apple Computer via Terminal
-date: 2024-08-20T10:32:01.429Z
-updated: 2024-08-21T10:32:01.429Z
+date: 2025-01-08T19:59:47.669Z
+updated: 2025-01-10T17:56:04.934Z
 categories:
   - BestProducts
 description: This Article Describes A Step-by-Step Guide to Display Hidden File Attributes on Your Apple Computer via Terminal
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/klGzkHFGCUaqiWyKpafLJvoSONc=/400x300/fi
 ---
 
 ## Mastering the Art of Friendly Battles: A Guide to Teaming Up with Your Pokémon Pal in 'Go'
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Tap your trainer profile and select**Buddy History** to add or swap your_Pokémon Go_ buddy.
@@ -24,11 +29,12 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
  In_Pokémon Go_ , you’re allowed one buddy Pokémon at a time and can change this Pokémon for another one up to 20 times per day. Here’s how to swap your buddy Pokémon.  
@@ -38,15 +44,18 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
+
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -60,18 +69,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -88,11 +85,9 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
@@ -129,8 +124,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +131,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-capturing-moments-essential-cameras-reviewed/"><u>[Updated] 2024 Approved Capturing Moments Essential Cameras Reviewed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-jokes-unveiled-3-pc-based-methods/"><u>[Updated] Twitter Jokes Unveiled 3 PC-Based Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-foundations-of-vsco-photo-manipulation/"><u>2024 Approved The Foundations of VSCO Photo Manipulation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-se-2022-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone SE (2022)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-email-safety-a-simple-way-to-turn-on-gmail-2fa/"><u>Boosting Email Safety: A Simple Way to Turn On Gmail 2FA</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-lost-contacts-a-guide-to-retrieving-deleted-numbers-from-your-android-device/"><u>Discovering Lost Contacts: A Guide to Retrieving Deleted Numbers From Your Android Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-fix-putting-back-that-lost-key-on-your-laptop-keyscape/"><u>DIY Fix: Putting Back That Lost Key on Your Laptop Keyscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-appraisal-and-other-choices/"><u>In 2024, Exceptional Appraisal & Other Choices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-final-cut-pro-functions-and-features-for-2024/"><u>In-Depth Look at Final Cut Pro Functions and Features for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unleash-your-creativity-best-stop-motion-software-for-mac-and-pc/"><u>New 2024 Approved Unleash Your Creativity Best Stop Motion Software for Mac and PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-to-the-mfc4ndll-could-not-be-loaded-problem/"><u>The Ultimate Solution to the 'mfc4n.dll Could Not Be Loaded' Problem</u></a></li>
+</ul></div>
 

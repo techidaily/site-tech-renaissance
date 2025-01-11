@@ -1,7 +1,7 @@
 ---
 title: Navigating Facebook Marketplace Availability - What's Stopping You?
-date: 2024-08-20T10:36:12.655Z
-updated: 2024-08-21T10:36:12.655Z
+date: 2025-01-08T23:29:58.705Z
+updated: 2025-01-10T21:25:16.364Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Facebook Marketplace Availability - What's Stopping You?
@@ -15,6 +15,10 @@ Close
 
  You can't buy or sell on[ Facebook Marketplace](https://www.lifewire.com/what-is-facebook-marketplace-4589107) if the app icon is missing. Here's what's most likely happening and some steps you can take to get the icon back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Reasons Why the Facebook Marketplace Icon Is Missing 
 
  Here's a list of possible reasons your Facebook doesn't have the Marketplace option:
@@ -25,6 +29,10 @@ Close
 * **The wrong profile is selected** . Access to Facebook Marketplace is only available in your main profile, which is the one you made when you first got on Facebook.
 * **Your account is too new** . Facebook Marketplace has been known to not appear at all to new Facebook users. This is likely done to prevent scammers from creating new accounts and selling fake products soon after having previous accounts banned from the platform.
 * **Your access has been revoked** . This can happen if you used Marketplace in a way that violated Facebook's Terms of Service and other policies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Get Marketplace on Facebook 
 
@@ -39,6 +47,11 @@ Close
 6. Switch to your main profile. Other profiles do not support Marketplace. Tap the**menu** and then select the**profile image** to see your options.  
 ![The Facebook app menu and profile switch options](https://www.lifewire.com/thmb/oRVjQPdCw_s97pfHwrDGOweWXDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-switch-profile-e00ea826a1b2433eaf8861b98209d386.png)
 7. Give the Facebook app access to your location, and then log out and back in. If you traveled recently, the app might think you're in an unsupported country. Find Facebook in your device's Settings app provide location permissions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [ Fill out the Marketplace Item Appeal form](https://www.facebook.com/help/contact/953354718105045) . This is the only way to restore access to Facebook Marketplace if an item you were trying to sell wasn't approved because it didn't meet Facebook's policies.
 9. Use your Facebook account. If this is a new account,[ add some friends](https://www.lifewire.com/send-a-facebook-friend-request-5225904) and interact with them to show Facebook that your account is alive and real.
 10. Change your home country. This is a stretch, but it might work. To do this, select**About** \>**Places lived** from your profile page, and then change your location to a region located in a[ country where Facebook Marketplace is available](https://www.facebook.com/help/1968285150185577) .
@@ -46,8 +59,9 @@ Close
 [  How to Fake a GPS Location on Your Phone ](https://www.lifewire.com/fake-gps-location-4165524) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is There a Facebook Marketplace App? 
 
  While there are separate apps for Facebook and[ Messenger](https://www.lifewire.com/facebook-messenger-4103719) , Marketplace works in two places only: the Facebook mobile app and the Facebook website. Facebook does not make an app specifically for buying and selling on Marketplace.
@@ -74,8 +88,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +95,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-metaverse-designs-your-quick-start-for-avatars/"><u>[Updated] Mastering Metaverse Designs Your Quick-Start for Avatars</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-15ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 15/iPad/iPod</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/complete-process-of-shifting-a-sim-card-from-android-device-to-iphone/"><u>Complete Process of Shifting a SIM Card From Android Device to iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-upgrades-and-exclusions-revealed-by-zdnet/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11: Upgrades and Exclusions Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-resolve-haldll-error-messages-in-different-windows-os/"><u>Comprehensive Solutions to Resolve Hal.dll Error Messages in Different Windows OS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-dominion-rise-as-a-youtube-guru/"><u>Digital Dominion Rise as a YouTube Guru</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-apple-is-brewing-for-gamers-exploring-the-latest-rumors-and-insights-on-its-new-game-mode/"><u>Discover What Apple Is Brewing for Gamers: Exploring the Latest Rumors and Insights on Its New Game Mode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50i-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X50i Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screening-your-gaming-a-nintendo-switch-tutorial/"><u>In 2024, Screening Your Gaming A Nintendo Switch Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974788824-logitechs-ultimate-driving-experience-driving-force-gt-driver-download-for-windows-71011-now-available/"><u>Logitech's Ultimate Driving Experience: Driving Force GT Driver Download for Windows 7/10/11 Now Available</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-movie-experience-how-to-hook-up-amazon-firestick-with-projector/"><u>Maximize Your Movie Experience: How To Hook Up Amazon Firestick with Projector</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnecting-pc-to-ethernet-win-strategies/"><u>Reconnecting PC to Ethernet: Win Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-pricing-apple-introduces-the-affordable-m2-powered-mac-mini-at-just-479-unveiled-by-tech-guru-digitech-insights/"><u>Revolutionary Pricing: Apple Introduces the Affordable M2 Powered Mac Mini at Just $479 – Unveiled by Tech Guru | DigiTech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secret-superpowers-of-the-iphone-how-apple-has-masterfully-concealed-remarkable-features/"><u>The Secret Superpowers of the iPhone: How Apple Has Masterfully Concealed Remarkable Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-1-essential-app-you-need-on-your-fresh-macos-grab-the-discounted-offer-now-tips/"><u>Top 1 Essential App You Need on Your Fresh macOS: Grab the Discounted Offer Now | Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-pick-alert-the-ultimate-guide-to-choosing-apples-newest-innovation-the-m2-powered-ipad-air-what-you-need-to-know/"><u>Top Pick Alert: The Ultimate Guide to Choosing Apple's Newest Innovation, the M2-Powered iPad Air - What You Need to Know!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Models - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-best-buy-offers-in-june-2024-find-savings-on-tech-gadgets-zdnet-guide/"><u>Top-Rated Best Buy Offers in June 2024: Find Savings on Tech Gadgets - ZDNet Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-top-rated-iphone-se-cases-of-2022-safeguard-your-device-with-style/"><u>Ultimate Guide to Top-Rated iPhone SE Cases of 2022: Safeguard Your Device with Style</u></a></li>
+</ul></div>
 

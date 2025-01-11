@@ -1,7 +1,7 @@
 ---
 title: Boosting Engagement with Quick Multi-Photo Posts on Facebook – A Step-by-Step Guide
-date: 2024-08-20T10:32:46.742Z
-updated: 2024-08-21T10:32:46.742Z
+date: 2025-01-07T11:02:12.876Z
+updated: 2025-01-11T07:10:39.385Z
 categories:
   - BestProducts
 description: This Article Describes Boosting Engagement with Quick Multi-Photo Posts on Facebook – A Step-by-Step Guide
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/kwI7FeGzigkiZxWxzkHD1Ztl5U0=/400x300/fi
 
  You can apply various effects to both photo and video snaps on[Snapchat](https://www.lifewire.com/snapchat-trends-3485994) , including one that plays your video snap in reverse. Follow these instructions to learn how to reverse video snaps before sending them off to friends or posting them to your stories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reverse a Video Snap
 
  Reversing a video snap is as easy as[applying a filter](https://www.lifewire.com/apply-snapchat-filters-4157939) to it. You can do this in both the iOS and Android versions of the Snapchat app using the same steps.
@@ -25,8 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/kwI7FeGzigkiZxWxzkHD1Ztl5U0=/400x300/fi
 1. Record a new video snap in the app by tapping and holding the**record** button. Your video must be less than 10 seconds for the reverse filter to be available.  
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Note  
 
  You can apply the reverse filter effect only to videos that you've recorded on Snapchat. You won't be able to reverse video snaps from videos you[uploaded to Snapchat from your device](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) .
@@ -34,20 +39,22 @@ thumbnail: https://www.lifewire.com/thmb/kwI7FeGzigkiZxWxzkHD1Ztl5U0=/400x300/fi
 ![Steps to take to reverse a video on Snapchat with the record button and Reverse Filter icon highlighted](https://www.lifewire.com/thmb/fC-N-GZHtzhS6HfpjU3plsvT7c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123Reversesnapchat-21fd401ccb4347e3ab99f6189284d3a6.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip  
 
  The reverse video filter is about the eighth filter when swiping to the left. You can find the reverse filter by swiping right through filters, but that will take you longer to get to it. Some filters let you speed up your video snap (**rabbit** filter) or slow it down (**snail** filter).
 3. Optionally, add more effects (text, stickers, drawings, etc.) to your video snap. Tap**Send To** to send it to friends and/or post it to your stories.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When to Apply the Reverse Filter on Video Snaps
 
  Reversing your video snaps is a fun way to showcase a series of events backward. This filter is often best applied to action-packed videos.
@@ -83,8 +90,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +97,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-rising-stars-secrets-crafting-top-tier-desktop-tiktok-videos/"><u>[New] Rising Stars' Secrets Crafting Top-Tier Desktop TikTok Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-step-by-step-approach-to-crafting-customized-youtube-alerts-and-notifications/"><u>A Step-by-Step Approach to Crafting Customized Youtube Alerts & Notifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-ios-experience-mastering-stealthy-siri-cmds-for-max-efficiency-wired/"><u>Boost Your iOS Experience: Mastering Stealthy Siri Cmds for Max Efficiency | Wired</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparative-analysis-meta-quest-3-versus-apple-vision-pro-decoding-mark-zuckerbergs-reviews/"><u>Comparative Analysis: Meta Quest 3 Versus Apple Vision Pro | Decoding Mark Zuckerberg's Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphones-unveiling-the-enhanced-features-of-the-iphone-15-pro-over-its-predecessor-the-iphone-14-pro/"><u>Comparing iPhones: Unveiling the Enhanced Features of the iPhone 15 Pro Over Its Predecessor, the iPhone ^[14 Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-playtime-pathways-video-games-resembling-gta-v/"><u>In 2024, Playtime Pathways Video Games Resembling GTA V</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/power-up-your-game-with-the-asus-rog-rapture-gt-ax11000-the-gamers-optimal-router-choice/"><u>Power Up Your Game with the Asus ROG Rapture GT-AX11000 - The Gamer's Optimal Router Choice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/professional-video-production-on-your-iphone-with-apples-new-final-cut-app-exclusive-details-revealed-by-zdnet/"><u>Professional Video Production on Your iPhone with Apple's New Final Cut App: Exclusive Details Revealed by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-overcome-black-windows-with-easy-fixes/"><u>Swiftly Overcome Black Windows with Easy Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated/"><u>Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cloud-based-vertical-video-editing-software-top-picks-2023/"><u>Updated 2024 Approved Cloud-Based Vertical Video Editing Software Top Picks 2023</u></a></li>
+</ul></div>
 

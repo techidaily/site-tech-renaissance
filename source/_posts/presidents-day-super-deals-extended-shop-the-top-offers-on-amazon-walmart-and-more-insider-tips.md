@@ -1,7 +1,7 @@
 ---
 title: President's Day Super Deals Extended! Shop the Top Offers on Amazon, Walmart & More Insider Tips
-date: 2025-01-03T16:31:08.135Z
-updated: 2025-01-04T16:39:18.096Z
+date: 2025-01-08T21:10:28.977Z
+updated: 2025-01-10T21:56:03.468Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The best Presidents Day sale deals still live
 
 * [Shark FlexStyle Hair Styler](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fshark-flexstyle-air-styling-drying-system-powerful-hair-blow-dryer-and-multi-styler-for-straight-wavy-hair-stone%2F6514441.p%3F&publisher_slug=itechdaily19598&exclusive=1): $264 (save $36 at Best Buy)
@@ -43,6 +39,10 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Roborock Q7 Max+ Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09NNFNWZ9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $520 (save $180 with coupon at Amazon)
 * [Amazon Fire HD 8 Kids Pro Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09BG63ZMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $100 (save $50 at Amazon)
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $85 (save $45 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Presidents Day tech deals still live
 
@@ -67,6 +67,10 @@ June Wan/ZDNET
 * [Amazon Fire HD 10 Kids Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BL5SZ3VV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $150 (save $40 at Amazon)
 * [Asus TUF Gameing A17 Laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430%253FItem%253DN82E16834236430): $1,350 (save $450 at Newegg)
 * [Asus Gaming Desktop Predator Orion 3000](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Facer-po3-650-ub91-predator-orion-3000%252Fp%252FN82E16883101905%253FItem%253DN82E16883101905): $700 (save $500 at Newegg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Presidents Day headphones deals still live
 
@@ -113,10 +117,6 @@ Beth Mauder/ZDNET
 * [Roborock S8 Pro Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $1,400 (save $200 at Amazon)
 * [Roborock S8 Pro Vacuum and Mop](https://roborock.pxf.io/c/159047/1179705/14848?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-pro-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,400 (save $200 at Roborock)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Presidents Day home deals still live
 
 Arlo
@@ -131,12 +131,16 @@ Arlo
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $40 (save $40 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is President's Day?
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -145,16 +149,12 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does Amazon have a Presidents' Day sale?
 
@@ -202,18 +202,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-the-prime-selection-top-ranked-gopro-case-models/"><u>[Updated] The Prime Selection Top-Ranked GoPro Case Models</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/effizientes-rechnungsmanagement-fur-sberbank-kundinnen-und-kunden-mit-der-mobilen-app-powered-durch-abbyy-technologien/"><u>Effizientes Rechnungsmanagement Für Sberbank-Kundinnen Und Kunden Mit Der Mobilen App: Powered Durch ABBYY Technologien</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-the-next-level-of-smartwatch-mastery-with-the-new-apple-watch-ultra-2-unbeatable-features-and-a-special-labor-day-discount-from-zdnet/"><u>Experience the Next-Level of Smartwatch Mastery with the New Apple Watch Ultra 2 – Unbeatable Features and a Special Labor Day Discount From ZDNet!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/googles-latest-innovation-unveiled-stay-ahead-with-insight-into-pixel-tablet-specs-and-launch-date/"><u>Google's Latest Innovation Unveiled! Stay Ahead with Insight Into Pixel Tablet Specs and Launch Date</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-rapide-et-facile-pour-convertir-des-fichiers-asf-en-mp3-gratuits-en-ligne-avec-movavi/"><u>Guide Rapide Et Facile Pour Convertir Des Fichiers ASF en MP3 Gratuits en Ligne Avec Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improve-your-viewing-experience-updating-a-samsung-smart-tv-easily/"><u>Improve Your Viewing Experience: Updating a Samsung Smart TV Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-new-release-flawed-a-crucial-error-and-its-resolution-steps-insights-from-zdnet/"><u>IPad New Release Flawed: A Crucial Error and Its Resolution Steps | Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/proactive-strategies-for-resolving-4-typical-gpu-issues/"><u>Proactive Strategies for Resolving 4 Typical GPU Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartwatch-showdown-googles-new-contender-against-apple-watch-s8-making-the-right-pick-for-your-wrist/"><u>Smartwatch Showdown: Google's New Contender Against Apple Watch S8 | Making the Right Pick for Your Wrist</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/switching-to-the-newest-iphone-pros-and-cons-of-the-iphone-16-vs-iphone-15-expert-insights-for-your-tech-upgrade-decision/"><u>Switching to the Newest iPhone? Pros and Cons of the iPhone 16 Vs. IPhone 15: Expert Insights for Your Tech Upgrade Decision</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-headphone-detection-issues-in-windows-11/"><u>Troubleshooting Headphone Detection Issues in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-iphone-16-and-iphone-16-pro-case-options-features-and-reviews-from-industry-testers/"><u>Ultimate Guide to Choosing iPhone 16 & iPhone 16 Pro Case Options : Features and Reviews From Industry Testers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ultimate-picsart-analysis-and-tutorial/"><u>Ultimate PicsArt Analysis & Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-4k-brilliance-top-tips-for-selecting-a-superior-monitor/"><u>[New] 4K Brilliance Top Tips for Selecting a Superior Monitor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>[New] Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-echoes-in-the-digital-abyss-understanding-vr-ar-and-mr-for-2024/"><u>[Updated] Echoes in the Digital Abyss Understanding VR, AR, and MR for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essential-handbook-to-planning-zoom-sessions/"><u>[Updated] The Essential Handbook to Planning Zoom Sessions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/10-websites-for-premium-quality-vector-stock-images/"><u>10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-tos-for-immersive-nba-livestream-watching/"><u>2024 Approved How-To's for Immersive NBA Livestream Watching</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722876876536-change-your-discord-icon-easily-detailed-instructions-inside/"><u>Change Your Discord Icon Easily: Detailed Instructions Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722848683855-compatibility-insight-can-ps4-games-be-used-with-the-next-gen-ps5/"><u>Compatibility Insight: Can PS4 Games Be Used With The Next-Gen PS5?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smartphones-tablets-and-books-your-ultimate-guide-to-modern-reading-and-tech-essentials/"><u>Smartphones, Tablets & Books: Your Ultimate Guide to Modern Reading and Tech Essentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/spotting-and-handling-fake-friend-requests-proactive-strategies/"><u>Spotting and Handling Fake Friend Requests: Proactive Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-perfect-computing-velocity-you-need/"><u>Unveiling the Perfect Computing Velocity You Need</u></a></li>
 </ul></div>
 

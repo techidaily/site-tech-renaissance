@@ -1,7 +1,7 @@
 ---
 title: "Experience the Cutting-Edge of AR: Navigating Apple's Latest Update to Vision Pro's Spatial Personas Insights"
-date: 2025-01-03T16:40:56.028Z
-updated: 2025-01-04T16:40:14.069Z
+date: 2025-01-10T10:03:48.305Z
+updated: 2025-01-10T21:59:47.678Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -45,6 +41,10 @@ Now, Apple has announced that it's using machine learning to derive a left eye a
 Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+ on the Vision Pro. All the Marvel movies were filmed in 2D and digitally remastered into 3D movies. The 3D effect is pretty underwhelming. Sometimes an object seems to be pulled from the background, but otherwise, it's not much to write home about. 
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
 
@@ -60,6 +60,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -68,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -89,7 +93,7 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -99,6 +103,10 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -110,10 +118,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,21 +171,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-turn-the-last-scenes-first-with-android/"><u>[New] Turn the Last Scenes First with Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-the-economic-incentives-behind-youtubes-shorts-programme/"><u>[Updated] In 2024, Decoding the Economic Incentives Behind YouTube's Shorts Programme</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-perfectly-pivoted-videos-the-ultimate-android-editing-guide/"><u>[Updated] Perfectly Pivoted Videos The Ultimate Android Editing Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723807900441-how-to-fix-a-required-cddvd-drive-device-driver-is-missing-error/"><u>How to Fix 'A Required CD/DVD Drive Device Driver Is Missing' Error</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 2023 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-latest-update-logic-pro-enhances-music-creation-with-ai-powered-band-features-for-ipad-and-mac-discover-how/"><u>Introducing Apple's Latest Update: Logic Pro Enhances Music Creation with AI-Powered Band Features for iPad & Mac - Discover How!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-175-beta-2-unveiled-allowing-eu-citizens-to-download-apps-online-a-comprehensive-guide/"><u>IOS 17.5 Beta 2 Unveiled: Allowing EU Citizens to Download Apps Online - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-top-6-ai-enhancements-for-iphone-devices-and-future-updates-to-watch-out-for/"><u>IOS 18 Unveiled: Top 6 AI Enhancements for iPhone Devices & Future Updates to Watch Out For!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-ipads-detailed-inspections-and-expert-opinions-featured/"><u>Leading iPads : Detailed Inspections & Expert Opinions Featured</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/premiere-pro-a-launchpad-for-youtube-videos/"><u>Premiere Pro A Launchpad for YouTube Videos</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210404229-9781735740140-quantum-golf-2nd-edition/"><u>Quantum Golf 2nd Edition | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-d3dx933dll-file-cannot-be-located-a-step-by-step-guide/"><u>Resolving the d3dx9_33.dll File Cannot Be Located: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ipad-applications-boosting-efficiency-streamline-task-management-and-improve-focus-insights/"><u>Top iPad Applications Boosting Efficiency: Streamline Task Management & Improve Focus - Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-dfu-mode-on-your-iphone-a-comprehensive-guide/"><u>Understanding DFU Mode on Your iPhone: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-for-screen-recording-on-iphones-made-simple/"><u>ZDNet's Ultimate Guide for Screen Recording on iPhones Made Simple</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-adsense-income-on-youtube-per-1000-viewer-earning/"><u>[New] Navigating AdSense Income on YouTube Per 1,000 Viewer Earning</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-understanding-intellectual-property-rights-on-video-screen-captures/"><u>[Updated] In 2024, Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transform-every-moment-top-ideas-for-enriching-life-through-podcasts/"><u>2024 Approved Transform Every Moment Top Ideas for Enriching Life Through Podcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-social-media-presence-by-adding-a-pin-tab-on-your-facebook-profile/"><u>Boost Your Social Media Presence by Adding a Pin Tab on Your Facebook Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-hulu-and-huluplus-unveiling-key-distinctions/"><u>Comparing Hulu and Hulu+ - Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/continuous-monitoring-during-induction-is-critical-for-the-safety-of-both-mother-and-baby/"><u>Continuous Monitoring During Induction Is Critical for the Safety of Both Mother and Baby.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-methods-for-transforming-wav-file-stereo-sound-into-single-channel-mono/"><u>Effortless Methods for Transforming WAV File Stereo Sound Into Single-Channel Mono</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-of-the-fugetek-ft-568-premium-quality-and-durability-in-a-top-tier-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: Premium Quality and Durability in a Top-Tier Selfie Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-implement-bots-on-your-discord-server/"><u>How to Seamlessly Implement Bots on Your Discord Server</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-journey-into-the-metaverse-constructing-an-authentic-avatar/"><u>In 2024, Journey Into the Metaverse Constructing an Authentic Avatar</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>In 2024, Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-infinix-zero-30-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Infinix Zero 30 5G Phone Network-Ready</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimal-frequency-when-is-the-right-time-to-update-your-smartphone/"><u>Optimal Frequency: When Is the Right Time to Update Your Smartphone?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-of-the-phoenix-film-how-to-watch-all-harry-potter-movies-sequentially/"><u>Order of the Phoenix (Film): How to Watch All Harry Potter Movies Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revealing-the-curious-how-to-identify-readers-of-your-google-docs/"><u>Revealing the Curious: How to Identify Readers of Your Google Docs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spark-creativity-get-to-know-windows-11s-movie-maker-app/"><u>Spark Creativity Get to Know Windows 11'S Movie Maker App</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/synology-rt2600ac-wi-fi-router-evaluation-long-distance-connectivity-and-superior-child-safety-measures-included/"><u>Synology RT2600AC Wi-Fi Router Evaluation - Long Distance Connectivity and Superior Child Safety Measures Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-for-scanning-files-directly-from-a-printer-onto-your-computer/"><u>Ultimate Troubleshooting for Scanning Files Directly From a Printer Onto Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-hidden-gem-the-understated-ai-breakthrough-coming-to-wwdc/"><u>Unveiling Apple's Hidden Gem: The Understated AI Breakthrough Coming to WWDC</u></a></li>
 </ul></div>
 

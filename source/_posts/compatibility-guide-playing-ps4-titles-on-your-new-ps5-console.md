@@ -1,7 +1,7 @@
 ---
 title: "Compatibility Guide: Playing PS4 Titles on Your New PS5 Console"
-date: 2024-08-20T10:33:36.942Z
-updated: 2024-08-21T10:33:36.942Z
+date: 2025-01-05T20:12:01.713Z
+updated: 2025-01-11T00:51:00.461Z
 categories:
   - BestProducts
 description: "This Article Describes Compatibility Guide: Playing PS4 Titles on Your New PS5 Console"
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -58,18 +62,12 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
@@ -77,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Using Skype for Mobile Devices
 
  If you're using Skype on a tablet or phone, then your speakers and microphone are built-in to your device and can't be manually adjusted. However, there are still proper permissions that Skype requires in order to use your microphone, and if it doesn't have them, it won't let anyone hear what you say through it.
@@ -97,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -106,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -118,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -152,19 +146,28 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -196,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-change-saving-spot-for-macs-photos/"><u>[New] In 2024, Change Saving Spot for Mac's Photos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cut-down-on-effort-schedule-fb-posts-for-free/"><u>[New] In 2024, Cut Down on Effort Schedule Fb Posts for Free</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-overcoming-stability-problems-with-age-of-wonders-planetfall-for-pc-players/"><u>Comprehensive Guide to Overcoming Stability Problems with Age of Wonders: Planetfall for PC Players</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-now-the-most-recent-geforce-game-ready-driver-tailored-for-windows-11-and-10-users/"><u>Download Now! The Most Recent GeForce Game Ready Driver Tailored for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-elite-pcs-in-202n4-a-comprehensive-review-with-insights-on-leading-brands-like-apple-and-dell/"><u>Exploring Elite PCs in 202N4: A Comprehensive Review with Insights on Leading Brands Like Apple and Dell</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-apple-vision-pro-unveiling-its-costs-capabilities-and-user-experience-deep-dive-techzine/"><u>Exploring the Apple Vision Pro: Unveiling Its Costs, Capabilities & User Experience Deep Dive | TechZine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-skies-with-tech-how-does-apple-vision-pro-transform-flying-coach-for-you/"><u>Navigating the Skies with Tech: How Does Apple Vision Pro Transform Flying Coach for You?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/razer-naga-mouse-software-updates-and-installation-guide-for-windows-users/"><u>Razer Naga Mouse Software Updates and Installation Guide for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-timekeeping-experience-with-the-latest-upgrades-to-watchos-11-for-iphone-users-guide/"><u>Revolutionize Your Timekeeping Experience with the Latest Upgrades to WatchOS 11 for iPhone Users [Guide]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-inbox-discover-the-simple-method-that-eliminates-clutter-without-complicated-strategies-or-extra-email-addresses/"><u>Simplify Your Inbox: Discover the Simple Method That Eliminates Clutter Without Complicated Strategies or Extra Email Addresses!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-total-capacitance-in-series-ctotal-is-less-than-any-individual-capacitors-capacitance-in-the-series/"><u>The Total Capacitance in Series (C_total) Is Less than Any Individual Capacitor's Capacitance in the Series.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726808666644-understanding-immutable-linux-distributions-benefits-and-use-cases/"><u>Understanding Immutable Linux Distributions - Benefits and Use Cases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-lord-of-the-rings-in-order-a-step-by-step-viewing-plan/"><u>Watch ‘Lord of the Rings’ in Order: A Step-by-Step Viewing Plan</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-control-panel-essentials-how-to-access-and-link-your-computer-to-a-network-with-yl-software-solutions/"><u>Windows Control Panel Essentials: How to Access and Link Your Computer to a Network with YL Software Solutions</u></a></li>
+</ul></div>
 

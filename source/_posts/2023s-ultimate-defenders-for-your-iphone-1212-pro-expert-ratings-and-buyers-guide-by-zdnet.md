@@ -1,7 +1,7 @@
 ---
 title: "2023'S Ultimate Defenders for Your iPhone 12/12 Pro: Expert Ratings and Buyer’s Guide by ZDNet"
-date: 2025-01-03T16:24:57.814Z
-updated: 2025-01-04T16:53:41.754Z
+date: 2025-01-08T03:51:29.488Z
+updated: 2025-01-11T02:43:57.163Z
 tags:
   - apple
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -48,11 +48,11 @@ Pros
 Cons 
 * Slightly pricey
 
-## Pela case
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Pela case
 
 ### Best iPhone 12 case overall
 
@@ -74,11 +74,11 @@ Pros
 Cons 
 * Pricier
 
-## Apple Silicone Case with MagSafe
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Apple Silicone Case with MagSafe
 
 ### Best MagSafe iPhone 12 case
 
@@ -106,6 +106,10 @@ Cons
 
 ## Bodyguardz Ace Pro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget iPhone 12 case
 
 The iPhone 12 and 12 Pro can be delicate, especially because the front and back materials are glass. BodyGuardz offers protective cases with considerable drop protection -- while keeping prices under $20.
@@ -129,6 +133,10 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Casetify cases
 
 ### Best customizable iPhone 12 case
@@ -151,6 +159,10 @@ Pros
 
 Cons 
 * May still yellow over time
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ESR Air Armor
 
@@ -179,7 +191,7 @@ Cons
 * Price varies
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Incipio Organicore
@@ -207,10 +219,6 @@ Cons
 
 ## Nomad Rugged case
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best leather iPhone 12 case
 
 Nomad offers a few case options ranging in price from from $50 to $70 and ZDNET's Matthew Miller [spent time with a couple](https://www.zdnet.com/article/nomad-rugged-leather-cases-for-apple-iphone-12-classic-horween-leather-cases-provide-stylish-protection/)of the cases. If you're interested in a Horween leather case that ages well over time and looks great, then Nomad is definitely one of the best options to consider. The Horween leather case is sourced from Horween Leather Company and has a buttery surface that develops a unique patina over time. It costs $50 and offers 10-foot drop protection.
@@ -234,10 +242,6 @@ Pros
 Cons 
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Speck Presidio Edition
 
@@ -293,7 +297,7 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Totallee case                    | $19       | Unspecified         |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone case is right for you?
@@ -333,21 +337,17 @@ The Pela case is my favorite because it combines drop protection with environmen
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
 
@@ -389,22 +389,17 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>[New] 2024 Approved Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-seamless-integration-gopro-hacks-for-360-degree-cinematography/"><u>[New] Seamless Integration GoPro Hacks for 360-Degree Cinematography</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-ultimate-techniques-for-youtube-mp4-creation-for-2024/"><u>[New] Ultimate Techniques for YouTube MP4 Creation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-concealment-techniques-securing-image-integrity/"><u>[Updated] Concealment Techniques Securing Image Integrity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-mastering-location-sharing-on-macos-a-step-by-step-guide-and-benefits-techradar/"><u>1. Mastering Location Sharing on macOS: A Step-by-Step Guide & Benefits | TechRadar</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-to-insignia-usb-network-converter-driver-download/"><u>Complete Guide to Insignia USB Network Converter Driver Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciding-between-macbook-models-macbook-air-or-macbook-pro-which-fits-your-needs-best-gadgetguide/"><u>Deciding Between MacBook Models? MacBook Air or MacBook Pro: Which Fits Your Needs Best | GadgetGuide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-engagement-a-beginners-guide-to-captioning-your-instagram-story-highlights/"><u>Enhancing Engagement: A Beginner's Guide to Captioning Your Instagram Story Highlights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/freedom-in-focus-top-20-prisoner-wit-punchlines-on-social-media-for-2024/"><u>Freedom in Focus Top 20 Prisoner-Wit Punchlines on Social Media for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-best-wireless-magnetic-phone-charger-for-iphones-at-an-unbeatable-price-of-35-endorsed/"><u>Get Your Hands on the Best Wireless Magnetic Phone Charger for iPhones at an Unbeatable Price of $35 - Endorsed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-revive-your-profile-resetting-2023s-facebook-error/"><u>In 2024, Revive Your Profile Resetting 2023'S Facebook Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/personalizing-the-macos-sonoma-menu-bar-a-step-by-step-guide-to-customization-and-organization/"><u>Personalizing the MacOS Sonoma Menu Bar: A Step-by-Step Guide to Customization & Organization</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-the-ultimate-camera-showdown-ends-with-unexpected-results/"><u>Pixel 9 Pro XL vs iPhone 15 Pro: The Ultimate Camera Showdown Ends with Unexpected Results</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-mobile-phones-endorsed-by-zdnet-editors-authentic-reviews-and-testimonials/"><u>Top Mobile Phones Endorsed by ZDNet Editors - Authentic Reviews & Testimonials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-in-depth-testers-review-cnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: In-Depth Tester's Review | CNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-android-and-ios-wedding-timer-apps-top-10-selection-revealed/"><u>[New] Android & iOS Wedding Timer Apps Top 10 Selection Revealed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-tunepiercer-screen-capture-app-review/"><u>[New] TunePiercer Screen Capture App Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-user-testimonials-and-reviews-on-the-lg-bp350-monitor/"><u>[Updated] User Testimonials and Reviews on the LG BP350 Monitor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-unveiled-an-in-depth-guide-to-microsofts-ai-breakthrough/"><u>ChatGPT Unveiled: An In-Depth Guide to Microsoft's AI Breakthrough</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/delving-into-t-series-revenue-generation-on-video-platforms/"><u>Delving Into T-Series' Revenue Generation on Video Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722880803172-discovering-tomorrow-samsung-unpacked-2025-key-news-rumors-and-revelations-await/"><u>Discovering Tomorrow: Samsung Unpacked 2025 - Key News, Rumors & Revelations Await!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-mechanical-keyboard-maintenebrance-easy-cleaning-strategies-inside/"><u>DIY Mechanical Keyboard Maintenebrance: Easy Cleaning Strategies Inside</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-upload-srt-files-to-social-media-100-working-methods-for-2024/"><u>How to Upload SRT Files to Social Media (100% Working Methods) for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-picture-in-picture-mode-a-step-by-step-guide-for-android-devices/"><u>Mastering Picture-in-Picture Mode: A Step-by-Step Guide for Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/professional-tips-for-blurring-your-backdrop-during-google-meet-sessions/"><u>Professional Tips for Blurring Your Backdrop During Google Meet Sessions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/zenith-mounting-marvel-extensive-features-showcase/"><u>Zenith Mounting Marvel: Extensive Features Showcase</u></a></li>
 </ul></div>
 

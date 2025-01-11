@@ -1,7 +1,7 @@
 ---
 title: "Migrating Sony eBooks to Your Kobo Device: A Step-by-Step Guide"
-date: 2024-08-20T10:29:33.537Z
-updated: 2024-08-21T10:29:33.537Z
+date: 2025-01-03T18:57:09.812Z
+updated: 2025-01-11T06:35:37.916Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
@@ -9,13 +9,15 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ## Migrating Sony eBooks to Your Kobo Device: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Transfer Sony eBooks to Kobo
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 11/13/2017 2:41:15 PM.
 
 5 [(5 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -36,24 +38,23 @@ Also in the end of 2011, Amazon announced the Mobipocket.com would stop serving.
 Back to the middle of 2011, Microsoft retired MS Reader, all the users have to use ConvertLit software to strip the DRM to keep their purchased LIT eBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The consequence of closing an eBook store
 
 Closing an eBook store is not like closing a cloth store, which you just cannot buy clothes there anymore. If an eBook store is closed, in most cases your purchased eBooks would be in vain if you don't take actions (transfer to specific stores or back up safely).
 
 Because almost all the purchased eBooks are protected by DRM, when the eBook store is closed, they also shut the content server, which will make your purchased eBooks unable to be read anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Directly reading Sony books on Kobo
 
 Technically speaking, you can directly read Sony books on Kobo eReader as they are all using the Adobe Adept DRM, the books shall be shared each other via Adobe Digital Editions, but once your Sony eBook files are lost, you will be no longer able to get them again after Sony completely quiting US and Canada. Further more, the Adobe account, Sony account, and Kobo account would make your head mess up when you want to directly read Sony books on Kobo. Therefore, this is not a recommended way. If you want to try it, here is a [related guide.](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Transfer Sony books to Kobo via official channel
 
 As has been mentioned above, in March 2014, all the US and Canada Sony eBook Store customers will receive a notification email which contains a personalized link, with this unique link they can transfer most of their purchase Sony books to Kobo account.
@@ -65,9 +66,9 @@ But there are also **drawbacks** of this method.
 3\. Sony PRS-900/950 users will face an embarrassing situation, their devices would be only able to read DRM-free EPUB books. Because these two models are not contaned in Kobo's plan. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The most recommended way to protect your purchased Sony books
 
 To compeletely back up your Sony books safely, the most recommended way is strip the DRM. And below is the **advantages**.
@@ -85,8 +86,9 @@ If you already have the knowledge about removing DRM, here is the recommended so
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -94,8 +96,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/transfer/) 
-
-
 
 5 Comments
 
@@ -177,8 +177,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +184,19 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-combining-igtv-with-insta-stories/"><u>[New] 2024 Approved Mastering the Art of Combining IGTV with Insta Stories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>[New] Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-send-hidden-youtube-videos-using-google-login/"><u>[Updated] In 2024, How to Send Hidden YouTube Videos Using Google Login</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-virtual-producer-duel/"><u>[Updated] In 2024, Virtual Producer Duel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-best-mobile-companion-iphone-or-android/"><u>Choosing Your Best Mobile Companion: IPhone or Android?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-7-important-points-to-think-about-before-buying-a-cutting-edge-smart-tv/"><u>Discover 7 Important Points to Think About Before Buying a Cutting-Edge Smart TV</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration-for-2024/"><u>From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-90-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Honor 90 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-reclaim-deleted-mobile-contact-details-in-an-android-environment/"><u>How to Reclaim Deleted Mobile Contact Details in an Android Environment</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715860243638-in-2024-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>In 2024, High-Quality Video Calling Solutions Top 10 Best Apps Ranked!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mozilla-thunderbird-v52-the-next-level-of-email-management-and-security/"><u>Mozilla Thunderbird v52: The Next Level of Email Management and Security</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-ieframedll-error-issues-a-comprehensive-guide/"><u>Solving Ieframe.dll Error Issues: A Comprehensive Guide</u></a></li>
+</ul></div>
 

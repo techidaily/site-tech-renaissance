@@ -1,7 +1,7 @@
 ---
 title: "Hands-On Review: ESR Halolock's Durable Multi-Card Wallet & Sturdy Adjustable Stand for iPhones"
-date: 2024-12-30T16:53:40.915Z
-updated: 2025-01-04T16:17:00.697Z
+date: 2025-01-08T08:54:35.968Z
+updated: 2025-01-10T21:58:22.021Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ You may think that giving your kids a [phone](https://www.zdnet.com/article/best
 While there are some phones on the market made specifically for kids, other smartphones provide basic and affordable features that could be useful to your child. ZDNET rounded up the kid-friendly phones, with the best overall pick being [Apple iPhone SE](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-se%2F4.7-inch-display-128gb-red-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), but we also included devices from Samsung, Gabb, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best phone for kids in 2024
@@ -45,6 +45,10 @@ Cons
 * Old design
 
 ## Apple iPhone SE (3rd gen)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best phone for kids overall
 
@@ -75,11 +79,11 @@ Cons
 * Somewhat slow performance
 * Low internal storage
 
-## Moto G Pure
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Moto G Pure
 
 ### Best starter phone for kids
 
@@ -106,6 +110,10 @@ Pros
 
 Cons 
 * Limited internal storage
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy A32 5G
 
@@ -166,15 +174,7 @@ Cons
 * No microSD card support
 * No wireless charging support
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Pixel 6a 5G
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best secure phone for kids
 
@@ -208,7 +208,7 @@ Cons
 ## Bark Phone
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best phone for younger kids
@@ -238,10 +238,6 @@ Here's how the best phones for kids compare on price, screen size, and operating
 | Google Pixel 6a 5G    | $349               | 6.1-inches      | Android              |
 | Bark Phone            | Starting at $39/mo | 6.6-inches      | Android              |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right phone for your kid?
 
 Deciding which phone is right for your kid depends on a few factors, including age, overall cost, and which operating system you prefer. Once you know those details, you can narrow down your search and make a choice based on personal preference. 
@@ -263,10 +259,6 @@ Buying a device for your child is much different than buying a device for yourse
 * **Battery life:** A phone serves little purpose if it's out of battery, so look at devices with long battery lives so you don't have to constantly recharge.
 * **Price:** These days, smartphones can range dramatically in price. Since this will likely be your child's first phone and they simply need something more basic, find something more affordable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we test these phones for kids?
 
 I've reviewed phones for more than a decade. Not only have I tested these devices myself, but I've experienced my own kids reaching the age of needing their first phone. All five of these picks are something I would (and have) trust(ed) my kids to take care of. 
@@ -274,6 +266,10 @@ I've reviewed phones for more than a decade. Not only have I tested these device
 ZDNET does extensive hands-on testing of phones, including ease of use, and paying attention to specs like display, battery life, and overall experience while using the phone. For products we recommend, we write a product spotlight review that we update periodically with new features and pricing information.
 
 For the phones we have not gone hands-on with, we do extensive research into different products and brands, taking into consideration user reviews (both good and bad), competitor analysis, and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What about parental controls for a kids phone?
 
@@ -289,6 +285,10 @@ Sticking with your current carrier and adding a line to your account is going to
 
 If you opt to add a line to your account, most carriers allow you to mix and match plans. For example, you can have your number on a plan that allows unlimited data usage at full speed, and then give your child a plan that forfeits data speed when the network is busy. It saves you money while still giving your child access to everything they need a phone to do. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are there apps built in to keep track of my kid's location?
 
 Yes! If you set up Screen Time on an iPhone, you'll also set up Apple's Family Share feature that includes Find My. Find My is not only what you use to track down a lost iPhone, iPad, or Mac, but it's also used to keep tabs on friends or loved ones. 
@@ -298,7 +298,7 @@ Google Family Link offers the same functionality, or you can add your child to G
 **Also: [Did you lose a device? Here's how to track it](https://www.zdnet.com/article/how-to-gps-track-a-phone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative phones for kids worth considering?
@@ -351,20 +351,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-skys-brilliance-top-10-hd-renditions-websites/"><u>[New] Sky's Brilliance Top 10 HD Renditions Websites</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimize-your-mobile-browsing-with-cleaner-video-playback/"><u>[Updated] 2024 Approved Optimize Your Mobile Browsing with Cleaner Video Playback</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-does-rapid-subscription-improve-video-watching/"><u>[Updated] Does Rapid Subscription Improve Video Watching?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-smart-strategies-for-profitable-snapchat-partnerships-for-2024/"><u>[Updated] Smart Strategies for Profitable Snapchat Partnerships for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-macos-version-1441-ensures-secure-updates-for-your-apple-device-insights/"><u>How macOS Version 14.ˈ4.1 Ensures Secure Updates for Your Apple Device - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-the-department-of-justice-targeting-apple-might-influence-end-users-and-developers-insights-from-zdnet/"><u>How the Department of Justice Targeting Apple Might Influence End-Users & Developers, Insights From ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-reorganize-your-taste-preferences-by-disliking-all-tracks-on-spotify/"><u>How To Reorganize Your Taste Preferences by Disliking All Tracks on Spotify</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-leaps-ahead-with-built-in-ai-features-outpacing-apples-vision-pro-your-enablement-tutorial/"><u>Meta Quest 3 Leaps Ahead with Built-In AI Features, Outpacing Apple's Vision Pro - Your Enablement Tutorial</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-art-of-producing-captivating-facebook-video-content-for-2024/"><u>The Art of Producing Captivating Facebook Video Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/thinking-twice-before-investing-in-iphone-16-understand-the-limits-of-apples-artificial-intelligence/"><u>Thinking Twice Before Investing in iPhone 16? Understand the Limits of Apple's Artificial Intelligence.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/to-ai-or-not-to-ai-financial-wisdom-from-computers/"><u>To AI or Not to AI? Financial Wisdom From Computers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-ios-application-issues/"><u>Troubleshooting Guide: How to Fix ChatGPT iOS Application Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-and-testimonials-on-the-ring-doorbell-plus-model/"><u>Ultimate Guide & Testimonials on the Ring Doorbell (Plus) Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-airpods-release-date-features-and-pre-order-info-insights-from-zdnet/"><u>Upcoming AirPods Release Date, Features & Pre-Order Info - Insights From ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-windows-10-tips-for-maximum-productivity/"><u>[Updated] In 2024, Top Windows 10 Tips For Maximum Productivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-the-challenges-with-zoom-due-to-software-or-something-else/"><u>Are the Challenges with Zoom Due to Software, Or Something Else?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chromecast-remote-pairing-a-comprehensive-how-to-guide/"><u>Chromecast Remote Pairing: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-motorola-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Motorola FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-productivity-a-comprehensive-guide-to-multi-screen-functionality-on-macbook-air-devices/"><u>Enhance Productivity: A Comprehensive Guide to Multi-Screen Functionality on MacBook Air Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-iphone-android-which-has-the-better-youtube-experience/"><u>In 2024, IPhone, Android Which Has the Better YouTube Experience?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-instagram-increasingdecreasing-stories-frame-rate/"><u>In 2024, Mastering Instagram Increasing/Decreasing Stories' Frame Rate</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphoneai/"><u>IPhone写真をAIがぼかす！無料アプリなし、画像編集手順｜フル/パーツ/バックグラウンドぼかし</u></a></li>
+<li><a href="https://win-popular.techidaily.com/managing-applications-on-your-pc-adding-and-removing-with-windows-control-panel-tips-from-yl-software/"><u>Managing Applications on Your PC: Adding and Removing with Windows Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/oneplus-unveils-model-11-with-challenges-at-its-debut-what-to-know-about-this-latest-release/"><u>OnePlus Unveils Model 11 with Challenges at Its Debut – What to Know About This Latest Release</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-to-repairing-your-computers-ntldr-is-missing-problem/"><u>Unlock the Secrets to Repairing Your Computer's 'NTLDR Is Missing' Problem</u></a></li>
 </ul></div>
 

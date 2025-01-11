@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Auto-Sleep on MacBook When Lid Is Shut Tightly
-date: 2024-12-30T16:43:44.417Z
-updated: 2025-01-04T16:15:32.924Z
+date: 2025-01-08T06:16:35.076Z
+updated: 2025-01-11T09:59:04.428Z
 categories:
   - BestProducts
 description: This Article Describes How To Prevent Auto-Sleep on MacBook When Lid Is Shut Tightly
@@ -24,7 +24,7 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
  This article explains how to prevent your MacBook from sleeping when the lid is closed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Keep Your MacBook On When Closed
@@ -35,34 +35,34 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
 ![The Apple menu on a MacBook](https://www.lifewire.com/thmb/l1I1ckMK4T1_Bb8Nx1Ws760pXLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macos-apple-menu-6e1d16f2da7f416bb5b09df2e105dc93.png)
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
 
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Connect your MacBook to an external monitor using an adapter if necessary.
 6. You can now close your MacBook without the external display turning off. Note that the display on the MacBook itself does turn off, just not the external monitor.
 
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Does My MacBook Sleep When I Close the Lid?
 
@@ -71,7 +71,7 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
@@ -118,19 +118,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-beat-your-song-into-success-with-fb-top-vids-guide/"><u>[New] 2024 Approved Beat Your Song Into Success with FB Top Vids Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outubes-monetization-a-deep-dive/"><u>[New] YouTube's Monetization A Deep Dive</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhance-audio-visual-experience-windows-media-player-subtitles/"><u>[Updated] 2024 Approved Enhance Audio-Visual Experience Windows Media Player Subtitles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-success-secrets-maximizing-post-performance/"><u>[Updated] 2024 Approved Instagram Success Secrets Maximizing Post Performance</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-huawei-nova-y91-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Huawei Nova Y91 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-resurrects-ai-ambitions-an-overview-of-progress-and-persistent-challenges-zdnet-insights/"><u>Apple Resurrects AI Ambitions – An Overview of Progress and Persistent Challenges | ZDNET Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-wrist-tech-why-you-might-prefer-a-google-pixel-watch-over-an-apple-watch-series-8/"><u>Comparing Wrist Tech: Why You Might Prefer a Google Pixel Watch over an Apple Watch Series 8</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-on-the-markets-best-tablets-for-2eby2024-insider-ratings-and-evaluations-by-zdnet/"><u>Expert Analysis on the Market's Best Tablets for 2Eby2024: Insider Ratings and Evaluations by ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-camon-30-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Camon 30 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-perform-a-full-reset-on-your-printer-and-return-it-to-factory-settings-with-yl-solutions/"><u>How To Perform a Full Reset on Your Printer and Return It to Factory Settings with YL Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/icloud-note-integration-into-linux-systems-steps-and-strategies/"><u>ICloud Note Integration Into Linux Systems: Steps & Strategies</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-earn-on-youtube-beginners-path-to-profitability/"><u>In 2024, Earn on YouTube Beginner's Path to Profitability</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-cs6-for-macos-free-download-and-install-guide/"><u>New Adobe Premiere Pro CS6 for macOS Free Download and Install Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-world-of-digital-culture-decoding-the-meaning-of-memes/"><u>The World of Digital Culture: Decoding the Meaning of Memes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-comprehensive-overview-dji-inspire-2-for-2024/"><u>[New] Comprehensive Overview - DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-instant-verbal-to-written-conversion-for-nothing-for-2024/"><u>[New] Instant Verbal to Written Conversion for Nothing for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlock-instagram-speed-mastering-video-and-likes/"><u>2024 Approved Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-to-follow-instructions-hook-up-apple-tv-services-on-amazon-firestick/"><u>Easy-to-Follow Instructions: Hook Up Apple TV Services on Amazon Firestick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-when-your-instagram-stories-fail-to-upload/"><u>Effective Solutions for When Your Instagram Stories Fail to Upload</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-techniques-to-snip-your-screen-on-microsofts-latest-os-windows-11/"><u>Efficient Techniques to Snip Your Screen on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-social-media-savvy-crafting-your-best-self-with-top-tips-for-bios/"><u>In 2024, Social Media Savvy Crafting Your Best Self with Top Tips for Bios</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-your-next-skype-interview-proven-techniques/"><u>Master Your Next Skype Interview: Proven Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-to-thaw-a-frozen-macbook-air-screen-step-by-step/"><u>Quick Fixes to Thaw a Frozen MacBook Air Screen - Step by Step</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210266246-9781591434382-recentering-seth/"><u>Recentering Seth | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-jscriptdll-file-not-found-effective-solutions-and-troubleshooting-steps/"><u>Resolving 'JScript.dll' File Not Found: Effective Solutions and Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-ocidll-file-missing-issue-a-comprehensive-guide/"><u>Solving the oci.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-fix-a-nonfunctional-lenovo-webcam/"><u>Step-by-Step Solutions to Fix a Nonfunctional Lenovo Webcam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-reverting-back-to-defaults-in-your-pcs-firmware/"><u>The Ultimate Tutorial on Reverting Back to Defaults in Your PC's Firmware</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-efficient-gmail-substitutes-you-cant-miss/"><u>Top 8 Efficient Gmail Substitutes You Can't Miss</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-tips-for-stabilizing-your-dota-2-gameplay/"><u>Ultimate Troubleshooting Tips for Stabilizing Your Dota 2 Gameplay</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-the-secrets-of-pubg-sound-personalization-for-2024/"><u>Unlocking the Secrets of PUBG Sound Personalization for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-solution-cod-modern-warfares-first-person-shooter-update-released/"><u>Unveiling the Solution: Cod: Modern Warfare's First-Person Shooter Update Released</u></a></li>
 </ul></div>
 

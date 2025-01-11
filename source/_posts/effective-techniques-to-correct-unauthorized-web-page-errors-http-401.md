@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques to Correct 'Unauthorized' Web Page Errors (HTTP 401)
-date: 2024-08-20T10:36:02.671Z
-updated: 2024-08-21T10:36:02.671Z
+date: 2025-01-05T07:17:12.245Z
+updated: 2025-01-11T00:30:09.206Z
 categories:
   - BestProducts
 description: This Article Describes Effective Techniques to Correct 'Unauthorized' Web Page Errors (HTTP 401)
@@ -27,8 +27,18 @@ These instructions only work with a single page of code.
 1. Open the document you want the code to appear in, and select**Insert** .  
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
@@ -39,12 +49,22 @@ These instructions only work with a single page of code.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -55,9 +75,6 @@ These instructions only work with a single page of code.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.
@@ -95,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +119,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-top-10-no-cost-video-cutting-apps/"><u>[New] 2024 Approved Top 10 No-Cost Video Cutting Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-secure-techniques-to-boost-speed-in-spotify-listening-for-2024/"><u>[New] Secure Techniques to Boost Speed in Spotify Listening for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-your-facebook-cover-leading-websites-for-professionals/"><u>[Updated] 2024 Approved Enhancing Your Facebook Cover Leading Websites for Professionals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-guide-to-free-converting-youtube-videos-to-wav/"><u>[Updated] In 2024, The Ultimate Guide to Free Converting YouTube Videos to WAV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-essential-enhancements-for-apples-vision-pro-success-key-strategies-revealed-by-zdnet/"><u>1. Essential Enhancements for Apple's Vision Pro Success: Key Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-closer-look-at-the-evolution-understanding-netflixs-original-dvd-by-mail-service/"><u>A Closer Look at the Evolution: Understanding Netflix's Original DVD-by-Mail Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-with-these-5-superb-iphone-gps-tools/"><u>Explore the World with These 5 Superb iPhone GPS Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-vs-apple-wrist-tech-showdown-picking-the-right-smartwatch-insights/"><u>Pixel Vs. Apple Wrist Tech Showdown: Picking the Right Smartwatch – Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-steps-how-to-efficiently-combine-two-excel-sheets-into-one-column/"><u>Simplified Steps: How to Efficiently Combine Two Excel Sheets Into One Column</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-macbook-models-to-buy-techreview/"><u>Top-Ranking MacBook Models to Buy | TechReview</u></a></li>
+</ul></div>
 

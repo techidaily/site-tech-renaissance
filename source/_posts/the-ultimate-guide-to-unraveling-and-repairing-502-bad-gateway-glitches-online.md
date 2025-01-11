@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Unraveling & Repairing '502 Bad Gateway' Glitches Online
-date: 2024-08-20T10:34:56.589Z
-updated: 2024-08-21T10:34:56.589Z
+date: 2025-01-06T02:49:19.400Z
+updated: 2025-01-10T17:49:53.457Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Unraveling & Repairing '502 Bad Gateway' Glitches Online
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-logic-pros-way-to-softly-diminish-loud-passages/"><u>[New] 2024 Approved Logic Pro's Way to Softly Diminish Loud Passages</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>[New] In 2024, Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-emotionally-enhanced-youtube-commentary/"><u>[Updated] In 2024, Emotionally-Enhanced YouTube Commentary</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2-the-showdown-between-apple-pencils-pro-and-2nd-generation-which-reigns-supreme-for-artists/"><u>2. The Showdown Between Apple Pencils: Pro and 2Nd Generation Which Reigns Supreme for Artists?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-20-best-anime-opening-songs-of-all-time/"><u>2024 Approved 20 Best Anime Opening Songs of All Time</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>2024 Approved Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-match-image-taking-and-music-merging-technology-for-2024/"><u>Best Match Image Taking & Music Merging Technology for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-4013-strikes-discover-efficient-strategies-to-updaterestore-your-iphone-without-glitches/"><u>Error 4013 Strikes? Discover Efficient Strategies to Update/Restore Your iPhone Without Glitches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-insight-the-top-reason-professionals-cant-miss-with-apples-budget-friendly-m3-macbook-pro/"><u>Exclusive Insight: The Top Reason Professionals Can't Miss with Apple's Budget-Friendly M3 MacBook Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-found-detroit-the-human-experience-stabilizes-on-windows-pc/"><u>Fixes Found: Detroit - The Human Experience Stabilizes on Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-gmail-management-how-to-wipe-all-messages-from-your-phones-mail-app/"><u>Master Gmail Management: How to Wipe All Messages From Your Phone's Mail App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/professionals-guide-to-the-apple-studio-display-a-comprehensive-hands-on-evaluation-of-its-visual-appeal-versus-price-point-featured/"><u>Professional's Guide to the Apple Studio Display: A Comprehensive Hands-On Evaluation of Its Visual Appeal Versus Price Point – Featured</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-italian-explorers-vocabulary-100plus-must-learn-phrases/"><u>The Italian Explorer’s Vocabulary: 100+ Must-Learn Phrases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-enhancements-top-benefits-of-apple-watchs-new-update-with-watchos-11-tech-insights/"><u>Upcoming Enhancements: Top Benefits of Apple Watch's New Update with WatchOS 11 | Tech Insights</u></a></li>
+</ul></div>
 

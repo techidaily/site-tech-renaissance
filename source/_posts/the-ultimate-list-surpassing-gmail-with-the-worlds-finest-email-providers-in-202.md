@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List: Surpassing Gmail with the World's Finest Email Providers in 202"
-date: 2024-08-20T10:32:52.141Z
-updated: 2024-08-21T10:32:52.141Z
+date: 2025-01-05T17:27:01.716Z
+updated: 2025-01-10T16:06:24.483Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate List: Surpassing Gmail with the World's Finest Email Providers in 202"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -21,9 +25,18 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -37,9 +50,9 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -55,9 +68,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -75,9 +85,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -89,8 +96,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -101,9 +109,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -124,9 +129,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -147,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +156,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-easy-guide-to-converting-mov-files-to-different-formats-on-win-11/"><u>[New] In 2024, Easy Guide to Converting MOV Files to Different Formats on Win 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-innovative-techniques-for-capturing-every-play-of-your-ps3-games/"><u>2024 Approved Innovative Techniques for Capturing Every Play of Your PS3 Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-finewoven-series-introduces-beats-branded-case-alternatives-insights-from-zdnet/"><u>Apple Discontinues FineWoven Series; Introduces Beats-Branded Case Alternatives - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/decoding-auroras-advanced-photographic-capabilities/"><u>Decoding Aurora's Advanced Photographic Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-great-crowdstrike-windows-crisis-of-24-insights-from-history-zdnet/"><u>Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-refinement-on-your-laptop-display/"><u>Effortless Edge Refinement on Your Laptop Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-how-to-select-the-best-defense-for-your-smartphone/"><u>Expert Advice: How to Select the Best Defense for Your Smartphone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/global-sales-rankings-updated-iphones-reign-supreme-with-seven-of-the-highest-selling-phones-according-to-zdnet-analysis/"><u>Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-highest-quality-notetaking-tablets-of-202e-ratings-and-test-results-gizmoreview/"><u>Ultimate Guide to the Highest Quality NoteTaking Tablets of 202E - Ratings and Test Results | GizmoReview</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-free-sound-effects-for-video-editing-a-comprehensive-guide-for-final-cut-pro-users/"><u>Updated Free Sound Effects for Video Editing A Comprehensive Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-siri-is-now-essential-in-apples-search-strategy-embracing-the-future-with-ai-innovation/"><u>Why Siri Is Now Essential in Apple's Search Strategy: Embracing the Future with AI Innovation</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725289416998-winx-dvd-digiarty/"><u>WinX DVD 操作指南 - Digiartyソフトウェアの完全なユーザーマニュアル</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Accessing AZW4 Files for a Superior Reading Experience on Your Kindle Paperwhite or Voyage Device
-date: 2024-08-20T10:30:00.138Z
-updated: 2024-08-21T10:30:00.138Z
+date: 2025-01-09T23:40:23.564Z
+updated: 2025-01-10T21:19:43.868Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb092918116ea6d8f331f8e83e6.jpg
@@ -15,11 +15,17 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 12/6/2018 9:44:1
 
 5 [(4 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![read azw4 on kindle paperwhite and voyage](http://www.epubor.com/images/uppic/read-azw4-on-kindle-paperwhite-and-voyage.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As we know, Kindle eBooks are usually in Amazon unique format, such as AZW, Mobi, AZW3, AZW4, etc. We can read our downloaded AZW, Mobi or AZW3 files on Kindle devices(Kindle e-Ink readers and Kindle tablets) and Kindle app. But we are not allowed to view AZW4 files via Kindle e-Ink readers. So cannot we read AZW4 on Kindle Paperwhite and Kindle Voyage? I guess as a KPW or KV user, you may less or more has this doubt. But don't worry, though we cannot read AZW4 on KPW or KV directly, we still can find the way to solve this problem and make Kindle Paperwhite support AZW4.
 
@@ -27,7 +33,15 @@ As we know, Kindle eBooks are usually in Amazon unique format, such as AZW, Mobi
 
 AZW4 is an Amazon proprietary format for textbooks. Amazon also calls this format "Print Replica", which are always Kindle DRM protected. Compared with Mobi, AZW or AZW3 files, it's not common Kindle format. So far it's only supported by Kindle for PC/Mac, Kindle tablet such as Kindle Fire and Kindle for iPad/Android. Actually, we can say it's PDF file essentially. Owing to Kindle's small screen, reading AZW4 files on Kindle e-Ink devices, we cannot get a good reading experience. So this may be one of the reasons that Kindle e-Ink readers don't support AZW4 format. ![azw4](http://www.epubor.com/images/uppic/azw4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 But if we really need to read AZW4 books on Kindle Paperwhite and Voyage, there is also a way to help us deal with the issue. We can remove DRM from AZW4 files, convert them to PDF format, then transfer converted Kindle books to our KPW or KV and read AZW4 on Kindle Voyage. Next part, I will tell you how to for details.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to read AZW4 on Kindle Paperwhite and Voyage
 
@@ -50,21 +64,10 @@ Launch the software, then you will find all your Kindle books will show up under
 
 ![remove drm from Kindle books](http://www.epubor.com/images/uppic/remove-drm-from-kindle-azw4-files.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When the azw4 file has been decrypted, it will be in PDF format because it is actually the PDF which bas been added the DRM by Amazon.
 
 ![remove drm from Kindle books](http://www.epubor.com/images/uppic/convert-azw4-to-pdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 #### Convert AZW4 to PDF with Calibre
 
 After we have removed Kindle DRM successfully, now we can start converting decrypted AZW4 to PDF, then read AZW4 books on Kindle Paperwhite. As AZW4 is a PDF format in a PDB wrapper, many eBook converters can not guarantee the quality of conversion. Here I suggest you convert AZW4 to PDF with Calibre for better conversion result.
@@ -75,26 +78,21 @@ Launch [Calibre](http://calibre-ebook.com/download), then click drop-down list o
 
 ![get plugins to enhance calibre](http://www.epubor.com/images/uppic/add-plugin-to-calibre.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then a window below will appear, please input "unpack" in the search box to find the plugin called "KindleUnpack—The Plugin". Then click "Install" to install it to Calibre.
 
 ![search kindle unpack plugin](http://www.epubor.com/images/uppic/search-kindle-unpack.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 After the installation has been finished, we should restart Calibre, then we can see "KindleUnpack" button in Calibre top navigation bar.
 
 ![install kindleunpack successfully](http://www.epubor.com/images/uppic/kindle-unpack-added-successfully.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now that we have got Calibre and KindleUnpack plugin prepared, we can start converting AZW4 to PDF. It's easy. Just drag your AZW4 files to Calibre, click "KindleUnpack" button, choose AZW4—>Extract PDF, then your added AZW4 files will be converted PDF perfectly. We can see "PDF" appearing in “Formats” besides “AZW4” under the book cover on the right side, tap "click to open" to open the folder that saves converted PDF files and to check them.
 
 ![convert azw4 to pdf](http://www.epubor.com/images/uppic/convert-azw4-to-pdf.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Have converted AZW4 to perfect PDF successfully, now what we have to do is just to transfer converted Kindle books to our KPW or KV, then read AZW4 on Kindle Paperwhite and Voyage. You can read the guide [transfer Mobi and PDF books to Kindle](https://tools.techidaily.com/epubor/reader/) for details.
 
@@ -108,9 +106,6 @@ Read your AZW4 files freely on KPW and KV
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -118,8 +113,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 4 Comments
 
@@ -195,8 +188,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +195,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleashing-creative-potential-in-minecraft-with-circles-and-spheres/"><u>[Updated] In 2024, Unleashing Creative Potential in Minecraft with Circles & Spheres</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-email-safety-with-two-factor-auth-a-simple-guide-to-securing-your-gmail-account/"><u>Boost Email Safety with Two-Factor Auth: A Simple Guide to Securing Your Gmail Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722870276281-boosting-icloud-mail-safety-with-two-factor-authentication-techniques/"><u>Boosting iCloud Mail Safety with Two-Factor Authentication Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuit-de-fichiers-ogg-vers-flac-avec-movavi-faitez-le-vous-meme/"><u>Conversion Gratuit De Fichiers OGG Vers FLAC Avec Movavi - Faitez-Le Vous Même !</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722866156369-experience-high-end-technology-without-breaking-your-bank-top-picks/"><u>Experience High-End Technology without Breaking Your Bank: Top Picks!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-next-gen-viewing-hitachis-4k-uhd-tvs-featuring-integrated-roku/"><u>Experience Next-Gen Viewing: Hitachi's 4K UHD TVs Featuring Integrated Roku</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-clean-install-of-windows-11-on-a-new-internal-drive-a-comprehensive-guide/"><u>How to Perform a Clean Install of Windows 11 on a New Internal Drive – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-retrieve-lost-or-accidentally-deleted-data-from-your-samsung-t3-t5-x5-and-t7-external-ssds/"><u>How to Retrieve Lost or Accidentally Deleted Data From Your Samsung T3, T5, X5, and T7 External SSDs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-moto-g14-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola Moto G14</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24plus-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24+ Phone FRP Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-low-frames-per-second-in-dayz-fast-and-easy-solutions-for-gamers/"><u>Master Low Frames Per Second in DayZ: Fast and Easy Solutions for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-with-ai-assistant-the-ultimate-guide/"><u>Mastering Microsoft Teams with AI Assistant - The Ultimate Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-integrating-google-duo-with-your-gmail-experience/"><u>Mastering the Art of Integrating Google Duo with Your Gmail Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-streaming-a-step-by-step-guide-on-hooking-up-disneyplus-with-your-chromecast/"><u>Seamless Streaming: A Step-by-Step Guide on Hooking Up Disney+ with Your Chromecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-selecting-comparing-and-acquiring-the-ideal-televisions-for-your-household/"><u>Step-by-Step Strategies: Selecting, Comparing & Acquiring the Ideal Televisions for Your Household</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-wars-whos-leading-vimeo-or-popular-online-platforms-for-2024/"><u>Streaming Wars Who's Leading – Vimeo or Popular Online Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-for-troubled-feed-viewers-reveal-hidden-fb-videos/"><u>Tips for Troubled Feed Viewers Reveal Hidden FB Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-device-hoaxes-for-a-good-laugh-funny-ipod-iphone-and-ipad-gags-for-you/"><u>Top Apple Device Hoaxes for a Good Laugh: Funny iPod, iPhone and iPad Gags for You!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-gt-10-pro-by-drfone-android/"><u>Universal Unlock Pattern for Infinix GT 10 Pro</u></a></li>
+</ul></div>
 

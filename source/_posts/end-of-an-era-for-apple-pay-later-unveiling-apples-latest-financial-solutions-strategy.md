@@ -1,7 +1,7 @@
 ---
 title: "End of an Era for Apple Pay Later: Unveiling Apple’s Latest Financial Solutions Strategy"
-date: 2025-01-01T16:56:13.898Z
-updated: 2025-01-04T16:35:26.846Z
+date: 2025-01-09T20:23:55.304Z
+updated: 2025-01-11T08:09:14.165Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -60,7 +56,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -111,7 +107,7 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -129,7 +125,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -141,6 +137,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,16 +227,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-video-quality-in-obs-for-2024/"><u>[New] Mastering Video Quality in OBS for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-cost-effective-video-cameras-for-2024/"><u>[Updated] The Ultimate Guide to Cost-Effective Video Cameras for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-color-grading-integrating-free-lut-resources/"><u>2024 Approved Innovative Color Grading Integrating FREE LUT Resources</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ancestral-aesthetics-art-without-restrictive-rights-for-2024/"><u>Ancestral Aesthetics Art Without Restrictive Rights for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/bypassing-copyright-protection-a-guide-to-accessing-amazons-drm-encrypted-media/"><u>Bypassing Copyright Protection: A Guide to Accessing Amazon's DRM-Encrypted Media</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-apple-watch-compatibility-with-watchos/"><u>Comprehensive Guide to Apple Watch Compatibility with WatchOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-paramount-plus-not-working-correctly-on-fire-stick-and-compatible-channels/"><u>Easy Fixes for Paramount Plus Not Working Correctly on Fire Stick and Compatible Channels</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-5-free-mov-file-mergers-for-seamless-video-editing/"><u>New 2024 Approved Top 5 Free MOV File Mergers for Seamless Video Editing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-android-smartwatch-applications-a-comprehensive-guide/"><u>Top Android Smartwatch Applications: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranked-protective-gear-for-the-newest-iphones-iphone-16-and-16-pro-edition-testing-by-industry-experts-zdnets-2024-guide/"><u>Top-Ranked Protective Gear for the Newest iPhones - iPhone 16 & 16 Pro Edition (Testing by Industry Experts) | ZDNet's 2024 Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-ios-181-beta-version-discover-enhanced-apple-intelligence-and-join-the-testers-insights-from-zdnet/"><u>Unlocking iOS 18.1 Beta Version - Discover Enhanced Apple Intelligence & Join The Testers | Insights From ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vct-pro-capture-assessment-full-review-for-2024/"><u>[Updated] VCT Pro Capture Assessment Full Review for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-hulu-and-hulu-plus-key-features-and-benefits/"><u>Comparing Hulu & Hulu Plus: Key Features and Benefits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-8-people-finders-for-effective-searches/"><u>Discover the Best 8 People Finders for Effective Searches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tricks-for-integrating-playstation-vr-with-your-personal-computer/"><u>Easy Tricks for Integrating PlayStation VR with Your Personal Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-a-frozen-instagram-account-a-user-friendly-troubleshooting-guide/"><u>Fixing a Frozen Instagram Account: A User-Friendly Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-make-facetime-style-calls-using-windows-computers/"><u>How Can You Make FaceTime-Style Calls Using Windows Computers?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ingenious-webcam-use-cases-at-home/"><u>In 2024, Ingenious Webcam Use Cases at Home</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-integrate-streamlabs-with-ease-into-your-macs-obs/"><u>In 2024, Integrate Streamlabs with Ease Into Your Mac’s OBS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-list-of-video-editing-software-for-beginners/"><u>In 2024, The Ultimate List of Video Editing Software for Beginners</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-shortcut-wisdom-shrinking-down-software-in-win11/"><u>Keyboard Shortcut Wisdom: Shrinking Down Software in Win11</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/profi-tipps-zur-neuinstallation-von-lenovo-pc-setze-deinen-computer-zuruck-auf-die-fabrik-einstellungen-fur-eine-optimale-leistung/"><u>Profi-Tipps Zur Neuinstallation Von Lenovo PC: Setze Deinen Computer Zurück Auf Die Fabrik-Einstellungen Für Eine Optimale Leistung</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synergy-in-ai-triple-combination-of-chatgpt-and-wolframalpha/"><u>Synergy in AI: Triple Combination of ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-recommended-iphone-navigation-applications/"><u>Top 5 Recommended iPhone Navigation Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-repairing-your-surface-pros-wi-fi-connection/"><u>Troubleshooting Guide: Repairing Your Surface Pro's Wi-Fi Connection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Retro Reels: Discover These Top 10 Timeless '80S Cinematic Gems"
-date: 2024-12-30T16:25:57.452Z
-updated: 2025-01-04T16:46:22.311Z
+date: 2025-01-08T04:06:42.719Z
+updated: 2025-01-11T09:18:24.888Z
 categories:
   - BestProducts
 description: "This Article Describes Retro Reels: Discover These Top 10 Timeless '80S Cinematic Gems"
@@ -22,10 +22,6 @@ of 17
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Project Gutenberg](https://www.gutenberg.org/)
 
@@ -58,6 +54,10 @@ of 17
 
 ![ManyBooks horror books](https://www.lifewire.com/thmb/VUNvSbfPj4JxsPpoQ-aeLSDRMoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manybooks-horror-66393c2957f74d4e887e11a46e63cbae.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Selection includes more than just classics and Creative Commons books.
@@ -85,6 +85,10 @@ of 17
 
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Good alternative if Internet Archive is too confusing.
@@ -106,6 +110,10 @@ of 17
 04
 
 of 17
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Librivox](https://librivox.org/)
 
@@ -137,7 +145,7 @@ of 17
 ![Google Play's top free ebooks](https://www.lifewire.com/thmb/rWdOx4g3sL9wBs75Gen-8fKmwLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-play-free-books-7805ff6114d3413b981bad07ad9309a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -192,6 +200,10 @@ of 17
 
 ![Authorama free book library](https://www.lifewire.com/thmb/lYssuu_g6PSku3pyk0pf5_swye8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authorama-free-books-58fce73bc8574d86adfd5ea1ca34208f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Easily readable format.
@@ -220,10 +232,6 @@ of 17
 
 ![Wikisource home page](https://www.lifewire.com/thmb/MBfdbz4twoDq9wAPQBtLc2vgjh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikisource-a1d3f9ef301e4806b50e61c49375b852.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What We Like
 
 * Hundreds of thousands of pieces of content available to read.
@@ -245,7 +253,7 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Wikibooks](https://www.wikibooks.org/)
@@ -278,7 +286,7 @@ of 17
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -304,6 +312,10 @@ of 17
 ## [The Online Books Page](https://digital.library.upenn.edu/books/)
 
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -353,10 +365,6 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [International Children's Digital Library](http://childrenslibrary.org/)
 
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
@@ -380,10 +388,6 @@ of 17
 14
 
 of 17
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Everand](https://www.everand.com)
 
@@ -411,16 +415,12 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Free Computer Books](https://freecomputerbooks.com/)
 
 ![Free Computer Books](https://www.lifewire.com/thmb/kpGWwXVxeczS8A5cNT55XNUrNTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-computer-books-695ea6d8e0b940dbb08d6bd996afb63d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -468,13 +468,13 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [SlideShare](https://www.slideshare.net/)
 
 ![The Slideshare home page](https://www.lifewire.com/thmb/u86635z-EttY7kv47Qh_qv5FUwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slideshare-1843ff9a9d0c41389449798ac5a4aecf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -523,17 +523,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-securely-downloading-youtube-audios-3-easy-and-reliable-methods/"><u>[Updated] 2024 Approved Securely Downloading YouTube Audios 3 Easy & Reliable Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-the-right-apple-notebook-a-comprehensive-guide-on-whether-to-opt-for-a-macbook-pro-or-macbook-air-insights/"><u>Choosing the Right Apple Notebook: A Comprehensive Guide on Whether to Opt for a MacBook Pro or MacBook Air - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/finding-your-way-with-gpt-in-remote-landscapes/"><u>Finding Your Way with GPT in Remote Landscapes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782422-9781591439134-genesis-revisited/"><u>Genesis Revisited | Free Book</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-poco-x6-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco X6 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y56-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y56 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-time-to-switch-from-iphone-14-pro-to-iphone-16-pro-a-comprehensive-comparison/"><u>Is It Time to Switch From iPhone 14 Pro to iPhone 16 Pro? A Comprehensive Comparison</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-m6-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco M6 5G</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-best-strategies-for-saving-igtv-videos-mobilely-for-2024/"><u>The Best Strategies for Saving IGTV Videos Mobilely for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-leap-forward-how-apple-plans-to-introduce-household-robotics-for-enhanced-living/"><u>The Next Leap Forward: How Apple Plans to Introduce Household Robotics for Enhanced Living</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-reasons-to-stick-with-your-iphone-14-instead-of-upgrading-to-iphone-16-pro-a-deep-dive/"><u>Top Reasons to Stick with Your iPhone 14 Instead of Upgrading to iPhone 16 Pro - A Deep Dive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-computers-expert-reviews-by-zdnet/"><u>Top-Rated Apple Computers - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unleashing-potential-11-steps-to-enhance-facebook-traffic-through-video/"><u>[New] 2024 Approved Unleashing Potential 11 Steps to Enhance Facebook Traffic Through Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinning-down-content-5-superior-free-video-downloader-tools/"><u>[Updated] Pinning Down Content 5 Superior Free Video Downloader Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-analyzing-the-need-for-verified-instagramselfies/"><u>2024 Approved Analyzing the Need for Verified Instagramselfies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-guide-how-to-disable-unwanted-public-safety-notifications/"><u>Android Guide: How to Disable Unwanted Public Safety Notifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-resolve-photoshop-scratch-disk-overflow-issues/"><u>Effective Strategies to Resolve Photoshop Scratch Disk Overflow Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/eight-unbeatable-tablets-offering-richer-image-editing-experiences/"><u>Eight Unbeatable Tablets Offering Richer Image Editing Experiences</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-optimize-your-pc-essential-tips-from-yl-software-professionals/"><u>How to Optimize Your PC: Essential Tips From YL Software Professionals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-insider-guide-decoding-youtube-live-image-codes/"><u>In 2024, Insider Guide Decoding YouTube Live Image Codes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/refining-your-vision-easy-steps-for-zooming-inout-on-apple-devices/"><u>Refining Your Vision: Easy Steps for Zooming In/Out on Apple Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-razer-man-owar-headset-microphone-problems-effectively/"><u>Resolving Razer Man O'War Headset Microphone Problems Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-steamdll-file-not-detected-comprehensive-guide/"><u>Solving the 'Steam.dll' File Not Detected - Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-zero-cost-software-update-utilities-for-efficient-system-maintenance/"><u>Top 11 Zero-Cost Software Update Utilities for Efficient System Maintenance</u></a></li>
 </ul></div>
 

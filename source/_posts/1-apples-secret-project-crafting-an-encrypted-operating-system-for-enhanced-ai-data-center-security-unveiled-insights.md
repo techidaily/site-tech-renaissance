@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Secret Project: Crafting an Encrypted Operating System for Enhanced AI Data Center Security – Unveiled Insights"
-date: 2025-01-01T16:55:25.684Z
-updated: 2025-01-04T16:54:23.131Z
+date: 2025-01-05T22:55:50.836Z
+updated: 2025-01-10T23:23:58.066Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,18 +128,21 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-practices-in-confirming-your-youtube-access/"><u>[New] Best Practices in Confirming Your YouTube Access</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>[New] Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-expertise-in-format-switching-srt-to-advanced-standards/"><u>[Updated] 2024 Approved Expertise in Format Switching SRT to Advanced Standards</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-eye-catching-images-windows-10s-screenshot-feature/"><u>[Updated] 2024 Approved Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-key-strategies-to-restore-iphones-dictation-feature/"><u>5 Key Strategies to Restore iPhone's Dictation Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/electronic-health-records-ehrs/"><u>Electronic Health Records (EHRs)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apples-on-device-ai-system-realm-outshines-microsofts-gpt-4-unveiling-the-details/"><u>How Apple's On-Device AI System, ReaLM, Outshines Microsoft's GPT-4: Unveiling the Details</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/lost-airpods-discover-recovery-strategies-and-prevention-tips-now/"><u>Lost AirPods? Discover Recovery Strategies & Prevention Tips Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-your-journeys-smoothly-with-our-selection-of-top-8-travel-assistant-apps/"><u>Navigate Your Journeys Smoothly With Our Selection of Top 8 Travel Assistant Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionary-update-apple-unveils-innovative-tool-to-seamlessly-transfer-your-spotify-playlists/"><u>Revolutionary Update: Apple Unveils Innovative Tool to Seamlessly Transfer Your Spotify Playlists</u></a></li>
-<li><a href="https://some-tips.techidaily.com/surprising-twist-how-amazon-is-now-promoting-items-that-will-leave-you-baffled/"><u>Surprising Twist - How Amazon Is Now Promoting Items That Will Leave You Baffled!</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-device-usage-mastering-samsungs-dex-application/"><u>Transform Your Device Usage: Mastering Samsung's DeX Application</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-best-new-macs-of-2024-tech-insights/"><u>Ultimate Guide to the Best New Macs of 2024 | Tech Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/detailed-guide-on-resolving-unable-to-launch-rocket-league-problem/"><u>Detailed Guide on Resolving 'Unable to Launch Rocket League' Problem</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/everlasting-impressions-save-instagram-stories-endlessly/"><u>Everlasting Impressions Save Instagram Stories Endlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-criticalprocessdied-error-0xc0000185-in-windows/"><u>Fixing the CRITICAL_PROCESS_DIED Error (0XC0000185) in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-filmmakers-toolbox-in-depth-guide-to-cinematic-techniques-in-24/"><u>In 2024, The Filmmaker’s Toolbox In-Depth Guide to Cinematic Techniques in '24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-ac68u-fast-safe-and-superior-5g-networking-experience/"><u>In-Depth Analysis of the Asus AC68U - Fast, Safe, and Superior 5G Networking Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/masterful-platformers-the-top-6-super-mario-bros-games-to-play-on-windows-and-mac/"><u>Masterful Platformers: The Top 6 Super Mario Bros Games to Play on Windows and Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-pixel-device-unveiling-price-forecasts-expected-launch-date-and-insider-speculation/"><u>Next-Gen Pixel Device Unveiling: Price Forecasts, Expected Launch Date & Insider Speculation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-of-upgrading-your-iphone-or-ipad-with-ios-17/"><u>Pros and Cons of Upgrading Your iPhone or iPad with iOS 17</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx940dll-file-not-present-mishap-on-your-pc/"><u>Resolving d3dx9_40.dll File Not Present Mishap on Your PC</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/resolving-the-update-failed-for-system-protection-issue-on-windows-10/"><u>Resolving the 'Update Failed for System Protection' Issue on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-chrome-cache-miss-error-errcachemiss-a-step-by-step-guide/"><u>Solving the Chrome Cache Miss Error (ERR_CACHE_MISS): A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-fixing-stop-error-code-0x00000078-phase0exception/"><u>Step-by-Step Solution for Fixing STOP Error Code 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-and-in-depth-analysis-by-toms-technology-reviewers/"><u>Top Picks & In-Depth Analysis by Tom's Technology Reviewers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-when-your-system-cant-find-bootmgr-step-by-step-fixes/"><u>Troubleshooting When Your System Can't Find BOOTMGR: Step-by-Step Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-of-2024s-smartest-home-innovations-expertly-tested-and-scrutinized/"><u>ZDNet's Ultimate Selection of 2024'S Smartest Home Innovations: Expertly Tested and Scrutinized</u></a></li>
 </ul></div>
 

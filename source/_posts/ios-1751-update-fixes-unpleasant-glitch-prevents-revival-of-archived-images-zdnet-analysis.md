@@ -1,7 +1,7 @@
 ---
 title: IOS 17.5.1 Update Fixes Unpleasant Glitch, Prevents Revival of Archived Images – ZDNet Analysis
-date: 2024-11-13T19:57:24.787Z
-updated: 2024-11-15T16:55:44.186Z
+date: 2025-01-03T18:12:17.727Z
+updated: 2025-01-10T18:35:18.092Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ While this move towards a [more integrated software environment](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Observations of the new S2 UX
 
 The new Sonos S2 controller app for iPadOS.
@@ -57,10 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -76,10 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -101,10 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -122,10 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -166,19 +158,24 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-art-of-audio-integration-tunes-for-your-microsoft-slides/"><u>[Updated] 2024 Approved The Art of Audio Integration Tunes for Your Microsoft Slides</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/elevate-your-storytelling-with-instagram-and-youtube-vids-for-2024/"><u>Elevate Your Storytelling with Instagram & YouTube Vids for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/making-your-iphone-smarter-how-apples-integration-of-google-gemini-into-ios-enhances-functionality-zdnet/"><u>Making Your iPhone Smarter: How Apple's Integration of Google Gemini Into iOS Enhances Functionality | ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tailoring-textual-terminals/"><u>Tailoring Textual Terminals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/texting-mastery-learn-how-to-send-and-receive-smses-on-the-ipad-easily/"><u>Texting Mastery: Learn How to Send and Receive SMSes on the iPad Easily</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-routine-for-placing-imovie-in-the-vimeo-spotlight/"><u>The Ultimate Routine for Placing iMovie in the Vimeo Spotlight</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-agni-2-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava Agni 2 5G FRP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/to-upgrade-or-not-to-upgrade-the-iphone-16-debate-on-zdnet/"><u>To Upgrade or Not to Upgrade: The iPhone 16 Debate on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-june-july-2024-exclusive-offers/"><u>Top 11 Unbeatable Discounts on Apple Watches in June-July 2024: Exclusive Offers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-lock-apps-for-ios-discreet-security-on-your-iphone-featured/"><u>Top-Rated Smart Lock Apps for iOS: Discreet Security on Your iPhone, Featured</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-how-to-choose-best-audio-formats/"><u>Updated In 2024, How to Choose Best Audio Formats</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-3-easy-video-game-recording-solutions/"><u>Updated In 2024, The Ultimate Guide 3 Easy Video Game Recording Solutions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-image-marketing-dos-vs-donts-explained-for-2024/"><u>YouTube Image Marketing Dos vs Don'ts Explained for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-shocking-stats-mind-bending-youtube-visual-facts-17/"><u>[New] 2024 Approved Shocking Stats Mind-Bending Youtube Visual Facts ('17)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-youtube-titanics-1-8-vids-of-note/"><u>[New] 2024 Approved YouTube Titanics #1-#8 Vids of Note</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/illions-watch-but-how-much-do-they-earn/"><u>[New] Millions Watch, But How Much Do They Earn?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp/"><u>[Updated] Prolific Strategies for Broadcasting FB Videos on WhatsApp</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-growth-odyssey-of-ajey-nagar-on-youtube/"><u>2024 Approved The Growth Odyssey of Ajey Nagar on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/activating-dark-mode-on-your-iphone-a-comprehensive-guide/"><u>Activating Dark Mode on Your iPhone - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/blow-up-your-tiktok-presence-with-these-10-pro-tested-secrets/"><u>Blow Up Your TikTok Presence with These 10 Pro-Tested Secrets!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-methods-shutting-down-and-eliminating-your-yahoo-email-service/"><u>Comprehensive Methods: Shutting Down and Eliminating Your Yahoo Email Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-silence-the-reasons-behind-broken-car-speaker-systems/"><u>Diagnosing Silence: The Reasons Behind Broken Car Speaker Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-amber-alert-notifications-on-your-android-device-step-by-step-guide/"><u>Disabling AMBER Alert Notifications on Your Android Device: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-collection-of-ps5-exclusive-games/"><u>Discover the Ultimate Collection of PS5-Exclusive Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-yuva-3-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Yuva 3 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-phony-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing Phony Friend Requests Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-scrutiny-uncovering-the-dji-inspire-1-features/"><u>In 2024, Full Scrutiny Uncovering the DJI Inspire 1 Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-transfer-of-high-definition-fb-media/"><u>In 2024, Seamless Transfer of High Definition FB Media</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-sonys-224-innovations-and-press-highlights/"><u>Inside Look at Sony's 2^24 Innovations and Press Highlights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-vs-tablet-understanding-key-distinctions/"><u>IPad vs Tablet: Understanding Key Distinctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-forces-and-catch-em-all-team-up-for-ultimate-success-in-pokemon-go/"><u>Join Forces and Catch 'Em All: Team Up for Ultimate Success in Pokemon GO!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streaming-facebook-made-easy-pcmaclaptop-tips-and-tricks-for-2024/"><u>Streaming Facebook Made Easy PC/Mac/Laptop Tips and Tricks for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How the DOJ's Lawsuit on Apple Affects Your iPhone Experience & Mobile Software Developers | InnovateTech
-date: 2024-11-09T16:06:30.108Z
-updated: 2024-11-15T18:17:00.408Z
+date: 2025-01-04T07:30:37.198Z
+updated: 2025-01-11T09:25:19.294Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ Below, we'll walk you through how to add your ID to your iPhone, and how and whe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which states currently support adding your ID to the Apple Wallet app?
 
 The list remains a short one. Apple last year announced that Georgia is now a supported state, joining the longstanding list of Arizona, Colorado, and Maryland.
@@ -54,29 +58,19 @@ It's slow-going, but at least it's… _something?_
 
 ## How to add your driver's license or ID to the Wallet app
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make sure you have your physical driver's license or ID
 
 Before you start the process of adding your ID to Apple Wallet, you'll want to make sure you have your physical driver's license or ID nearby -- you'll have to scan both sides during the process. 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Open the Wallet app and tap the plus sign
 
 Start by opening the Wallet app, then tap on the + sign in the top-right corner of the screen. Next, select Driver's License or State ID, followed by your state.
 
 Screenshot by Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Scan your ID and go through a Face ID setup
 
@@ -85,6 +79,10 @@ The rest of the signup process consists of scanning the front and back of your c
 **Also:** [**How to use Apple Pay in stores and online**](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online/)
 
 You'll be asked to hold your iPhone steady, with the front-facing camera looking at you, and then turn your head to the left until your phone vibrates. You'll then be asked to open your mouth, smile, close your eyes, and then turn your head to the right. If you move your phone too much, the process starts all over, so be steady! 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Take a photo of yourself and submit all your information to the state DMV
 
@@ -103,16 +101,7 @@ The placeholder image for a Colorado driver's license.
 Screenshot by Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I have my ID in the Wallet app. Now what?
@@ -126,10 +115,7 @@ The [process is similar on the Apple Watch](https://www.youtube.com/watch?v=fFX%
 The most important part to note here is that even if someone were to try and force your iPhone to transmit your personal information, that doesn't actually happen until you've approved it using Face ID or Touch ID on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I live in New York State. Can I join the program?
@@ -172,22 +158,19 @@ The New York Mobile ID is not yet compatible with Apple Wallet, but considering 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>[New] 2024 Approved The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-film-length-conversion-hours-to-storage-gb-for-2024/"><u>[New] Film Length Conversion Hours to Storage (GB) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-androids-facetime-essentials-explained/"><u>[New] In 2024, Android's FaceTime Essentials Explained</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-easy-extraction-of-social-media-videos-with-chrome-plugs/"><u>[Updated] In 2024, Easy Extraction of Social Media Videos with Chrome Plugs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-professional-level-communication-on-skype/"><u>[Updated] In 2024, Professional-Level Communication on Skype</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearly-identify-the-subject-matter-of-each-article/"><u>Clearly Identify the Subject Matter of Each Article.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-15-pro-and-iphone-13-pro-is-it-time-for-an-upgrade-zdnet/"><u>Comparing iPhone 15 Pro and iPhone 13 Pro: Is It Time for an Upgrade? | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-updates-and-unsupported-models-revealed-zdnet/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11: Updates and Unsupported Models Revealed | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/converting-pages-documents-for-use-on-windows-computers/"><u>Converting Pages Documents for Use on Windows Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-western-digital-data-lifeguard-a-comprehensive-software-review/"><u>Expert Analysis: Western Digital Data Lifeguard - A Comprehensive Software Review</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-google-pixel-7a-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Google Pixel 7a</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-efficient-steps-for-capturing-iphone-screens/"><u>In 2024, Efficient Steps for Capturing iPhone Screens</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-apples-groundbreaking-glowtime-event-discover-the-innovations-in-ai-the-new-apple-watch-10-and-next-gen-airpods-revealed-by-zdnet/"><u>Inside Look: Apple's Groundbreaking Glowtime Event - Discover the Innovations in AI, the New Apple Watch 10, and Next-Gen AirPods Revealed by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-fix-for-osetupdll-errors-quick-guide-and-troubleshooting-steps/"><u>Master the Fix for Osetup.dll Errors: Quick Guide and Troubleshooting Steps</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolving-the-issue-of-vanished-desktop-icons-following-a-windows-11-system-update/"><u>Resolving the Issue of Vanished Desktop Icons Following a Windows 11 System Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-extending-hard-drive-size-at-zero-cost-in-windows/"><u>Strategies for Extending Hard Drive Size at Zero Cost in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-retrieving-wi-fi-passwords-on-windows-11-systems/"><u>Unlocking the Secrets: Retrieving Wi-Fi Passwords on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-essential-techniques-for-downloading-fb-stories-desktop-and-mobile/"><u>[New] In 2024, Essential Techniques for Downloading FB Stories (Desktop & Mobile)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-on-residential-ev-charging-what-you-must-know/"><u>Comprehensive Guide on Residential EV Charging: What You Must Know</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-perfect-print-quality-hp-laserjet-m506-drivers-free-downloads-available/"><u>Ensure Perfect Print Quality: HP LaserJet M506 Drivers - Free Downloads Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-spectre-x360-up-and-running-essential-windows-drivers-downloaded/"><u>Get Your HP Spectre X360 Up and Running: Essential Windows Drivers Downloaded!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/icloud-cleanup-without-losses-a-step-by-step-guide-for-iphone-users/"><u>ICloud Cleanup Without Losses: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-with-high-speed-cinematography/"><u>In 2024, Pushing Boundaries with High-Speed Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-experience-with-temus-off-brand-tech-gadgets-surprisingly-satisfactory/"><u>My Experience with Temu's Off-Brand Tech Gadgets - Surprisingly Satisfactory!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pioneering-progress-in-telecommunications-with-verizons-leap-to-5g/"><u>Pioneering Progress in Telecommunications with Verizon's Leap to 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-tutorial-for-crafting-a-top-tier-gamers-paradise-techradar/"><u>Step-by-Step Tutorial for Crafting a Top-Tier Gamer's Paradise | TechRadar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-myth-of-vanishing-apple-ids-what-you-need-to-know-before-it-goes-away/"><u>The Myth of Vanishing Apple IDs: What You Need to Know Before It 'Goes Away'</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-relaxation-top-10-mobile-idle-games-for-2024/"><u>Ultimate Relaxation Top 10 Mobile Idle Games for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-most-efficient-keys-locators-your-ultimate-selection/"><u>Unlocking the Most Efficient Keys Locators : Your Ultimate Selection</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y100t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y100t ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/who-are-phone-carriers-and-how-do-they-work-in-your-mobile-communication-system/"><u>Who Are Phone Carriers and How Do They Work in Your Mobile Communication System?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Preventing SMS Junk: A Quick Guide for iPhones (ZDNet's Advice)"
-date: 2024-11-12T20:30:40.178Z
-updated: 2024-11-16T03:35:21.478Z
+date: 2025-01-09T07:26:49.224Z
+updated: 2025-01-11T02:35:01.362Z
 tags:
   - apple
 categories:
@@ -31,10 +31,7 @@ The good news is that you can stop these text messages using a feature already i
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -46,10 +43,7 @@ Tap on Messages to access the settings for your Messages app.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
@@ -84,6 +78,10 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I stop spam calls on iPhone?
@@ -111,10 +109,7 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
@@ -127,10 +122,7 @@ If you keep getting messages from the same sender after reporting them, you can 
 4. Select Block this caller.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why is the 'Filter Unknown Senders' option turned off?
@@ -175,24 +167,21 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foundations-in-digital-visual-narratives/"><u>[New] Foundations in Digital Visual Narratives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-fhd-in-social-tweeting/"><u>[Updated] 2024 Approved Unveiling the Secrets to FHD in Social Tweeting</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-today-in-virtual-reality-hardware/"><u>2024 Approved Today in Virtual Reality Hardware</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlock-creative-potential-adding-text-to-windowsmac-images/"><u>2024 Approved Unlock Creative Potential Adding Text to Windows/Mac Images</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>2024 Approved Unveiling the Shadows A Systematic Guide to Hidden YouTube Content</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-2-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Lava Blaze 2 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipate-this-falls-tech-evolution-as-apple-reveals-new-upgrades-for-iphone-ipad-and-more-featuring-advanced-ai-analysis/"><u>Anticipate This Fall's Tech Evolution as Apple Reveals New Upgrades for iPhone, iPad, and More – Featuring Advanced AI | Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-ts-a-formatos-wmv-online-gratuitamente-con-herramientas-de-conversion-expertas/"><u>Cómo Convertir Archivos TS a Formatos WMV Online Gratuitamente Con Herramientas De Conversión Expertas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-404-errors-expert-tips-on-recovery-and-avoidance-techniques/"><u>Decoding 404 Errors: Expert Tips on Recovery and Avoidance Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/descubra-os-top-17-programas-essenciais-que-sua-computacao-com-windows-11-10-8-ou-7-nao-pode-faltar/"><u>Descubra Os Top 17 Programas Essenciais Que Sua Computação Com Windows (11, 10, 8 Ou 7) Não Pode Faltar!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-improved-apple-airpods-lineup-discover-the-4-key-upgrades-for-ultimate-audio-experience/"><u>Explore the Improved Apple AirPods Lineup - Discover the 4 Key Upgrades for Ultimate Audio Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ipad-pro-why-apples-cutting-edge-tablet-is-a-compelling-alternative-to-macbook-a-deep-dive-by-zdnet/"><u>Exploring the IPad Pro: Why Apple’s Cutting-Edge Tablet Is a Compelling Alternative to MacBook - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-unexpected-fluid-inside-iphone-charging-jack-solutions-and-tips/"><u>How to Resolve Unexpected Fluid Inside iPhone Charging Jack - Solutions & Tips!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analyzing-lgs-4k-wuhd-hdr-performance-for-2024/"><u>In Depth Analyzing LG's 4K WUHD HDR Performance for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-iphone-15-built-for-splashes-and-spills-a-look-at-its-durability-against-water/"><u>Is the iPhone 15 Built for Splashes and Spills? A Look at Its Durability Against Water</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplified-guide-quick-and-simple-techniques-to-seamlessly-move-your-macbook-data/"><u>Simplified Guide: Quick & Simple Techniques to Seamlessly Move Your MacBook Data</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-airpods-pro-gear-and-cases-must-have-add-ons-reviewed-by-tech-experts/"><u>Top AirPods Pro Gear & Cases : Must-Have Add-Ons Reviewed by Tech Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/will-windows-on-arm-revolutionize-the-market-against-apple-silicon-dominance/"><u>Will Windows on ARM Revolutionize the Market Against Apple Silicon Dominance?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultra-30-camera-a-detailed-examination-by-garmin/"><u>[New] 2024 Approved The Ultra 30 Camera - A Detailed Examination by Garmin</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>[New] Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-novice-necessities-for-superior-gopro-photography/"><u>[Updated] Novice Necessities for Superior GoPro Photography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860329316-2024-approved-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>2024 Approved Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/changing-your-samsung-smart-tvs-default-browser-a-comprehensive-guide/"><u>Changing Your Samsung Smart TV's Default Browser: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/complete-guide-to-restoring-damaged-word-documents-with-ifind-data-recovery/"><u>Complete Guide to Restoring Damaged Word Documents with IFind Data Recovery</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-steps-to-configure-user-management-and-permission-settings-with-yl-computings-software/"><u>Easy Steps to Configure User Management & Permission Settings with YL Computing's Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-web-based-converter-transforming-nef-photos-into-tiff-format-with-ease-using-movavi/"><u>Free Web-Based Converter: Transforming NEF Photos Into TIFF Format with Ease - Using Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gamers-choice-razer-portal-wireless-adapter-evaluation/"><u>Gamer's Choice Razer Portal Wireless Adapter Evaluation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-info-on-meta-quest-2-lite-anticipated-cost-and-launch-timeline-revealed/"><u>Insider Info on Meta Quest 2 Lite: Anticipated Cost & Launch Timeline Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-hashtag-conversations-on-twitter-using-our-top-tool-picks/"><u>Master Hashtag Conversations on Twitter Using Our Top Tool Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-ac1st16dll-file-missing-error-effectively/"><u>Resolving the ac1st16.dll File Missing Error Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-tips-for-linking-remote-storage-with-your-macos-device/"><u>Simple Tips for Linking Remote Storage with Your macOS Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-what-to-do-when-your-fire-stick-remote-fails-to-function/"><u>Solving the Dilemma: What To Do When Your Fire Stick Remote Fails to Function</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-507-unique-instagram-post-texts/"><u>Top 507 Unique Instagram Post Texts</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-failing-device-drivers-expert-advice-by-yl-software/"><u>Troubleshooting Failing Device Drivers: Expert Advice by YL Software</u></a></li>
 </ul></div>
 

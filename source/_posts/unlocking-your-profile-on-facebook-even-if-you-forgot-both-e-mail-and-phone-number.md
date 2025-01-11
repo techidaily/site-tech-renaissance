@@ -1,7 +1,7 @@
 ---
 title: Unlocking Your Profile on Facebook Even If You Forgot Both E-Mail and Phone Number
-date: 2024-08-20T10:35:15.835Z
-updated: 2024-08-21T10:35:15.835Z
+date: 2025-01-09T16:21:08.450Z
+updated: 2025-01-11T08:32:47.415Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking Your Profile on Facebook Even If You Forgot Both E-Mail and Phone Number
@@ -21,6 +21,10 @@ _If you click on links we provide, we may receive compensation._
 01
 
 of 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Organize All Your Notes Into Categorized Notebooks: Evernote](https://evernote.com/)
 
@@ -86,6 +90,10 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Use Cards to Make Note-Taking Fun and Colorful: Google Keep](https://www.google.com/keep/)
 
 ![Google Keep website](https://www.lifewire.com/thmb/ztU4ICqf971rpM5HCwySkDaAI1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.16.47PM-58ee7d993df78cd3fc52e00a.png)
@@ -123,14 +131,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Build on the Power of Microsoft Apps: OneNote](https://www.onenote.com/)
 
 ![OneNote website](https://www.lifewire.com/thmb/xpLJA58kh0a8DmchVzkQwbWvgBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.38.09PM-58ee827d3df78cd3fc5f8576.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Works with Chrome, Apple Watch, and browsers.
@@ -165,16 +173,14 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## [Note-Taking for the Minimalist: Simplenote](https://simplenote.com/)
 
 ![Simplenote website](https://www.lifewire.com/thmb/_9N5RUSjHN_SraN7hIAJ7L4x_yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.02.14PM-58ee79ed5f9b582c4dd97d0a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Design is minimalist and simple.
@@ -211,9 +217,6 @@ of 10
 
 ![Zoho.com Notebook website](https://www.lifewire.com/thmb/i99lX_6eh9Cpzoh3YeJ4FdYCpa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.17.45PM-58f28e545f9b582c4d61fae6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ​
 
  What We Like
@@ -247,9 +250,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
@@ -283,9 +283,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## [Best App for Taking Digital Handwritten Notes: Squid](https://www.squidnotes.com/)
 
 ![SquidNotes website](https://www.lifewire.com/thmb/elX17TRYlBrhykILBHZdUnmrAzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-18at3.28.23PM-58f669393df78ca159210743.png)
@@ -316,8 +313,9 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Most Flexible Note-Taking App: Bear](https://bear.app/)
 
 ![Bear-Writer website](https://www.lifewire.com/thmb/HfqVhGO6cwI3Ri8C9uk733BRr7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.04.58PM-58ee6cad3df78cd3fc28aae8.png)
@@ -350,14 +348,18 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Basic, Minimal, and Possibly All You Need: Notes](https://apps.apple.com/app/notes/id1110145109)
 
 ![Apple Notes website](https://www.lifewire.com/thmb/a3hdmF_cqcF1RmxUS5cVmozIgpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-25at7.10.21PM-58ffd86f5f9b581d59b97459.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ​
 
  What We Like
@@ -407,8 +409,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -416,4 +416,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leveraging-vlc-for-seamless-media-management/"><u>[New] 2024 Approved Leveraging VLC for Seamless Media Management</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-getting-started-in-vlogging-gear-and-software-guide-for-2024/"><u>[New] Getting Started in Vlogging Gear and Software Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-review-free-meme-makers-to-use-for-2024/"><u>[Updated] A Review Free Meme Makers to Use for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-download-to-implementation-installing-obs-on-a-macpc/"><u>[Updated] From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-nighttime-display-in-notepad-windows-11-edition/"><u>Activating Nighttime Display in Notepad Windows 11 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-alternative-to-apple-and-tile-expert-evaluation-of-the-best-wallet-airtags-zdnet-insights/"><u>Discover the Leading Alternative to Apple and Tile: Expert Evaluation of the Best Wallet AirTags | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ensuring-the-security-of-your-ai-data-in-the-cloud-unveiling-apples-strategies-and-impact-learn-on-zdnet/"><u>Ensuring the Security of Your AI Data in the Cloud: Unveiling Apple's Strategies & Impact - Learn on ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-undo-motion-recapturing-video-from-mobile-devices/"><u>In 2024, Undo Motion Recapturing Video From Mobile Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-showdown-pro-vs-air-decoding-features-to-find-your-perfect-match-for-work-and-play-zdnet/"><u>MacBook Showdown: Pro Vs. Air - Decoding Features to Find Your Perfect Match for Work and Play | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-iphone-storage-with-easy-de-cluttering-tips-techtut/"><u>Maximize Your iPhone Storage with Easy De-Cluttering Tips | TechTut</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/proper-maintenard-of-your-airpods-step-by-step-sanitizing-methods-and-benefits-explained/"><u>Proper Maintenard of Your AirPods: Step-by-Step Sanitizing Methods and Benefits Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-insiders-guide-to-dominating-first-person-shooter-rewards-in-mass-effect-legendary-edition/"><u>The Insider's Guide to Dominating First-Person Shooter Rewards in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-36-prime-day-tablet-bargains-of-2024-exclusive-offers-you-dont-want-to-miss/"><u>Top 36 Prime Day Tablet Bargains of 2024: Exclusive Offers You Don't Want to Miss!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-solutions-overcome-your-realtek-rtl8723be-drivers-problems/"><u>Troubleshooting & Solutions: Overcome Your Realtek RTL8723BE Drivers Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixes-for-when-d3d9dll-is-absent-or-unreachable/"><u>Troubleshooting and Fixes for When d3d9.dll Is Absent or Unreachable</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/veelvulpenreusse-vlac-to-m4r-konvertor-gebruik-onbruikbare-gratis-online-tool/"><u>Veelvulpenreusse VLAC-to-M4R Konvertor: Gebruik Onbruikbare Gratis Online Tool!</u></a></li>
+</ul></div>
 

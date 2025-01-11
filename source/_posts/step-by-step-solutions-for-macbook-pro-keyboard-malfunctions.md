@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for MacBook Pro Keyboard Malfunctions
-date: 2024-08-20T10:36:07.411Z
-updated: 2024-08-21T10:36:07.411Z
+date: 2025-01-08T08:27:35.131Z
+updated: 2025-01-10T20:28:02.230Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Solutions for MacBook Pro Keyboard Malfunctions
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-thrifty-filmmaker-best-economical-camera-lineup/"><u>[New] In 2024, Thrifty Filmmaker Best Economical Camera Lineup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-guide-to-smart-picture-editing-using-pixlr-for-2024/"><u>[New] The Ultimate Guide to Smart Picture Editing Using Pixlr for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-fiscal-footprint-of-mr-beast-for-2024/"><u>[Updated] Fiscal Footprint of Mr. Beast for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-resurrecting-windows-photo-viewer-via-windows-10-simple-fixes-for-2024/"><u>[Updated] Resurrecting Windows Photo Viewer via Windows 10 - Simple Fixes for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/could-apple-exclusive-intellectual-property-drive-a-new-revenue-stream-charging-users-up-to-20-per-month-the-future-is-now/"><u>Could Apple-Exclusive Intellectual Property Drive a New Revenue Stream, Charging Users Up to $20 per Month? The Future Is Now.</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/enhance-your-reading-experience-converting-ibooks-to-optimal-pdf-files/"><u>Enhance Your Reading Experience: Converting iBooks to Optimal PDF Files</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-info-on-the-next-gen-m4-mac-mini-preview-of-features-cost-estimates-and-release-timeline/"><u>Insider Info on the Next-Gen M4 Mac Mini: Preview of Features, Cost Estimates & Release Timeline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-14-analysis-achieving-adequate-performance-levels-for-users-according-to-zdnet-critique/"><u>IPhone 14 Analysis - Achieving Adequate Performance Levels for Users, According to ZDNet Critique</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-selection-of-top-8-high-quality-free-online-translators/"><u>Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-search-for-private-email-addresses-online/"><u>Mastering the Search for Private Email Addresses Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-airpods-pro-companions-2023-picks-cnet/"><u>The Ultimate Guide to AirPods Pro Companions - 2023 Picks | CNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-analysis-why-apples-latest-m2-powerhouse-is-the-ultimate-choice-for-consumers-insights/"><u>Top Rated iPad Air Analysis: Why Apple's Latest M2 Powerhouse Is the Ultimate Choice for Consumers - Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

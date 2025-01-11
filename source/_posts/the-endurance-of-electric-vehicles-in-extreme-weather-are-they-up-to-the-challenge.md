@@ -1,7 +1,7 @@
 ---
 title: The Endurance of Electric Vehicles in Extreme Weather – Are They Up to the Challenge?
-date: 2024-08-20T10:33:01.459Z
-updated: 2024-08-21T10:33:01.459Z
+date: 2025-01-07T03:19:24.544Z
+updated: 2025-01-11T00:55:28.538Z
 categories:
   - BestProducts
 description: This Article Describes The Endurance of Electric Vehicles in Extreme Weather – Are They Up to the Challenge?
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-catalog-films-for-streamlined-playback/"><u>[New] Catalog Films for Streamlined Playback</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-puns-and-plots-developing-7-funny-video-storylines/"><u>[New] In 2024, Puns & Plots Developing 7 Funny Video Storylines</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-journey-to-youtubes-command-center-of-creativity/"><u>[New] Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>[Updated] Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-12-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 12 Pro Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-ideal-sound-companion-comparing-the-original-homepod-with-the-sleeker-more-affordable-homepod-mini-find-out-which-fits-your-lifestyle-best/"><u>Choosing Your Ideal Sound Companion: Comparing the Original HomePod with the Sleeker, More Affordable HomePod Mini - Find Out Which Fits Your Lifestyle Best!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-dungeons-and-dragons-personas-with-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Crafting Dungeons & Dragons Personas with ChatGPT & DALL-E: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-capturing-your-iphones-display-in-hd-video-format/"><u>Expert Tips for Capturing Your iPhone's Display in HD Video Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-siri-improvements-with-apples-advanced-intelligence-set-reveal-news/"><u>Future Siri Improvements with Apple's Advanced Intelligence Set Reveal News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-phone-call-recording-on-iphone-tips-and-legal-considerations-by-state/"><u>Guide to Phone Call Recording on iPhone: Tips and Legal Considerations by State</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/packaging-perfection-strategies-for-stunning-first-touches-for-2024/"><u>Packaging Perfection Strategies for Stunning First Touches for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solved-asus-pce-ac56-wifi-adapter-compatibility-fixes-for-windows-11-8-and/"><u>Solved: ASUS PCE-AC56 WiFi Adapter Compatibility Fixes for Windows 11, 8 &</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-reality-of-high-fidelity-sound-in-todays-earphones-myth-busting-and-audio-quality-insights-techsavvy-scoop/"><u>The Reality of High-Fidelity Sound in Today’s Earphones: Myth Busting and Audio Quality Insights | TechSavvy Scoop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-choices-for-uncertain-occasions-expert-tips-on-perfect-presents-inspiration/"><u>Top Choices for Uncertain Occasions: Expert Tips on Perfect Presents - Inspiration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-se-cases-of-2022-ultimate-protection-and-style-options-reviewed-by-tech-experts/"><u>Top-Rated iPhone SE Cases of 2022: Ultimate Protection & Style Options Reviewed by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-qwerty-keyboards-comprehensive-testing-and-reviews-techadvisor/"><u>Top-Rated QWERTY Keyboards : Comprehensive Testing & Reviews | TechAdvisor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smartwatches-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smartwatches - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfolding-windows-solutions-for-stubborn-folders-on-double-click/"><u>Unfolding Windows: Solutions for Stubborn Folders on Double-Click</u></a></li>
+</ul></div>
 

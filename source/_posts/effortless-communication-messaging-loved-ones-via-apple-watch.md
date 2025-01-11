@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2024-12-31T16:26:12.216Z
-updated: 2025-01-04T16:35:34.029Z
+date: 2025-01-06T07:03:13.877Z
+updated: 2025-01-11T06:21:17.978Z
 tags:
   - apple
 categories:
@@ -27,16 +27,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -47,6 +43,10 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -76,10 +76,6 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -90,15 +86,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -109,7 +105,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,21 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-essential-information-for-successful-tiktok-use-on-macos/"><u>[Updated] 2024 Approved Essential Information for Successful TikTok Use on macOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>[Updated] Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-comedic-image-editor/"><u>2024 Approved Top-Ranked Comedic Image Editor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-historys-fabric-with-open-source-canvases/"><u>2024 Approved Unraveling History's Fabric with Open-Source Canvases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/3-simple-ways-to-block-unwanted-messages-on-iphone-a-step-by-step-guide-zdnet/"><u>3 Simple Ways to Block Unwanted Messages on iPhone: A Step-by-Step Guide (ZDNet)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/achieving-optimal-image-quality-with-advanced-picture-settings-on-a-4k-smart-tv-from-samsung/"><u>Achieving Optimal Image Quality with Advanced Picture Settings on a 4K Smart TV From Samsung</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-alternative-how-these-xr-glasses-beat-apple-vision-pro-and-ended-my-tech-envy-for-less/"><u>Affordable Alternative: How These XR Glasses Beat Apple Vision Pro and Ended My Tech Envy for Less!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discounted-labor-day-offer-save-on-the-new-generation-apple-pencil-at-only-95-shop-now/"><u>Discounted Labor Day Offer: Save on the New Generation Apple Pencil at Only $95 - Shop Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-project-your-desktop-onto-a-tv-with-chromecast-compatibility/"><u>Easy Ways to Project Your Desktop Onto a TV with Chromecast Compatibility</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-buying-guides-by-toms-technology-hub/"><u>Expert Reviews & Buying Guides by Tom’s Technology Hub</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/galaxy-s10plus-vs-s20-showdown-an-in-depth-comparison-and-review/"><u>Galaxy S10+ Vs. S20 Showdown: An In-Depth Comparison and Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-the-art-of-using-ez-grabber-with-this-tutorial/"><u>In 2024, Mastering the Art of Using EZ Grabber with This Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-apples-spatial-videos-with-your-meta-quest-3-watch-now/"><u>Unlock the Potential of Apple's Spatial Videos with Your Meta Quest 3 - Watch Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-ai-capabilities-for-windows-with-vivetool-help/"><u>Unlocking AI Capabilities for Windows with ViveTool Help</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-enigmatic-homeos-its-reappearance-within-tvos-developers-latest-beta-release-insights-by-zdnet/"><u>Unveiling Apple's Enigmatic 'homeOS': Its Reappearance Within tvOS Developers' Latest Beta Release – Insights by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-top-mac-computers-and-laptops-reviewed/"><u>ZDNet's Ultimate Guide: Top Mac Computers and Laptops Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-mac-recorder-plus-audio/"><u>[New] Comprehensive Mac Recorder Plus Audio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rofessionalizing-slides-with-youtube-videos-for-2024/"><u>[New] Professionalizing Slides with YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-transforming-your-footage-into-shareable-youtube-stories/"><u>[Updated] 2024 Approved Transforming Your Footage Into Shareable YouTube Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-accelerating-artistic-outputs-fast-tracked-google-collage-creation/"><u>[Updated] Accelerating Artistic Outputs Fast-Tracked Google Collage Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-video-standards-focus-on-aspect-ratios/"><u>[Updated] Twitter's Video Standards Focus on Aspect Ratios</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/building-a-solo-superman-saga-timeline-the-best-way-to-enjoy-all-the-superman-movies-in-sequence/"><u>Building a Solo Superman Saga Timeline: The Best Way to Enjoy All the 'Superman' Movies in Sequence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-troubleshoot-jscriptdll-not-found-errors-on-your-pc/"><u>Easily Troubleshoot Jscript.dll Not Found Errors on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enable-and-use-facetime-on-a-non-apple-device-with-windows/"><u>Enable and Use FaceTime on a Non-Apple Device with Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-asl-freely-discovering-the-ultimate-list-of-16-complimentary-language-resources/"><u>Explore ASL Freely: Discovering the Ultimate List of 16 Complimentary Language Resources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-texting-solutions-for-ipod-touch-owners-top-picks/"><u>Free Texting Solutions for iPod Touch Owners - Top Picks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo S17 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-6s-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 6s</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-the-missingnot-detected-error-for-d3dx9e34dll/"><u>Resolve The Missing/Not Detected Error for d3dx9_e34.dll</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-your-streaming-problems-what-to-do-when-netflix-titles-wont-play/"><u>Solve Your Streaming Problems – What To Do When Netflix Titles Won't Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stop-your-mac-from-hibernating-simple-ways-to-keep-it-running-continuously/"><u>Stop Your Mac From Hibernating: Simple Ways to Keep It Running Continuously</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/transferring-and-restoring-system-images-between-computers-in-various-scenarios/"><u>Transferring and Restoring System Images Between Computers in Various Scenarios</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-ring-launch-insights-on-price-release-schedule-and-potential-features/"><u>Upcoming Apple Ring Launch: Insights on Price, Release Schedule & Potential Features</u></a></li>
 </ul></div>
 

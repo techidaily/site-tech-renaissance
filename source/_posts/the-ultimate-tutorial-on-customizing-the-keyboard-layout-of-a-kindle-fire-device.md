@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Customizing the Keyboard Layout of a Kindle Fire Device
-date: 2024-08-20T10:29:49.802Z
-updated: 2024-08-21T10:29:49.802Z
+date: 2025-01-09T18:09:08.741Z
+updated: 2025-01-10T22:47:39.361Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f0122128d3845aaea9056bae9f.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 4/15/2020 3:36:45 PM.
 
 4.8 [(8 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -34,6 +32,10 @@ Rooting is needed as we have to get permission to modify system files. Here I su
 As you need to install third party apps, you have to allow installation of application of your Kindle Fire. Go to "Settings" – "Device" and enable the option "Allow Installation of Applications".
 
 ![allow-installation-of-application](https://www.epubor.com/images/remote/D4/1D/D41D8C_1-allow-installation-of-application.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2 Install keyboard app 
 
@@ -55,6 +57,10 @@ Tap the ICS keyboard and choose "Copy". Then navigate to _**/system/app**_ and p
 
 ![copy-keyboard-app](https://www.epubor.com/images/remote/D4/1D/D41D8C_4-copy-keyboard-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![paste-keyboard-app](https://www.epubor.com/images/remote/D4/1D/D41D8C_5-paste-keyboard-app.jpg)
 
 4 Reboot device and install keyboard again 
@@ -63,9 +69,17 @@ Reboot your Kindle Fire and navigate to _**/system/app**_ again. Find the ICS ke
 
 ![reinstall-keyboard-app](https://www.epubor.com/images/remote/D4/1D/D41D8C_6-reinstall-keyboard-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now go to anywhere you will use keyboard. Let's take the search box on the home page fox example. Tap the search box and you just see the original Kindle Fire keyboard as usual. Press the white search box and a small window will pop up to let you choose the input method. Tap the "Input Method" and you will see the ICS keyboard. Tap to choose it. Then you can see the keyboard has changed into ICS keyboard!
 
 ![search-box](https://www.epubor.com/images/remote/D4/1D/D41D8C_7-search-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![input-method](https://www.epubor.com/images/remote/D4/1D/D41D8C_8-input-method.jpg)
 
@@ -83,6 +97,10 @@ Not all keyboard apps have this problem. I guess it's the incompatibility. How t
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -90,8 +108,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 8 Comments
 
@@ -201,8 +217,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,8 +224,20 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>[New] Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-taming-figmas-backgrounds-a-comprehensive-guide-for-2024/"><u>[New] Taming Figma's Backgrounds A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-the-ultimate-guide-to-borders-on-insta-pics/"><u>[Updated] In 2024, Step-By-Step The Ultimate Guide to Borders on Insta Pics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-gripping-mysteries-with-these-13-true-crime-shows/"><u>Discover Gripping Mysteries with These 13 True Crime Shows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-the-top-8-free-easy-to-use-html-design-apps-for-windows-pcs/"><u>Find the Top 8 Free, Easy-to-Use HTML Design Apps for Windows PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579073886-mondlys-family-friendly-app-shines-in-2017/"><u>Mondly's Family-Friendly App Shines in 2017</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-a-comprehensive-guide-on-overcoming-the-red-screen-error/"><u>Resolved: A Comprehensive Guide on Overcoming the Red Screen Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-lost-correspondence-steps-for-finding-misplaced-gmail-emails/"><u>Revive Your Lost Correspondence: Steps for Finding Misplaced Gmail Emails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/scan-et-convertissez-vos-fichiers-mef-facilement-grace-a-la-version-gratuit-donlinescan-par-movavi/"><u>Scan Et Convertissez Vos Fichiers MEF Facilement Grâce À La Version Gratuit D'OnlineScan Par Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teach-yourself-the-secrets-of-seamless-multiple-picture-sharing-on-facebook-today/"><u>Teach Yourself the Secrets of Seamless Multiple Picture Sharing on Facebook Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-9-best-skype-interview-tips-of-2024/"><u>The 9 Best Skype Interview Tips of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uber-vs-taxi-a-cost-comparison/"><u>Uber vs Taxi: A Cost Comparison</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->

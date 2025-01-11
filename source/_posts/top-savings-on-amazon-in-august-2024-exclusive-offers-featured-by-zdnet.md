@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers Featured by ZDNet
-date: 2024-12-30T16:33:06.609Z
-updated: 2025-01-04T16:41:37.750Z
+date: 2025-01-06T08:35:46.126Z
+updated: 2025-01-10T18:48:30.650Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ Jason Hiner/ZDNET
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $1,300 (save $500)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon tech deals
@@ -55,7 +55,7 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -81,10 +81,6 @@ Maria Diaz/ZDNET
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $320 (save $280)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Amazon home deals
 
 Maria Diaz/ZDNET
@@ -99,13 +95,13 @@ Maria Diaz/ZDNET
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $198 (save $102)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
@@ -117,6 +113,10 @@ We also looked over customer reviews to find out what matters to real people who
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -166,17 +166,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-cutting-edge-gadgets-for-elite-gamers/"><u>[New] 2024 Approved Cutting-Edge Gadgets for Elite Gamers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-top-hd-lenses-for-youtube-creators/"><u>[New] 2024 Approved Top HD Lenses for YouTube Creators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-approach-to-lut-application-in-ae/"><u>[New] A Step-by-Step Approach to LUT Application in AE</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-ios-tools-for-ps2-game-replication/"><u>[New] In 2024, Innovative IOS Tools for PS2 Game Replication</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/st-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-tablet-picks-in-depth-reviews-and-ratings-from-industry-professionals-zdnet/"><u>Affordable Tablet Picks : In-Depth Reviews and Ratings From Industry Professionals | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-atandt-cellphone-savings-for-may-202n4-expert-reviews-and-tips-zdnet/"><u>Discover the Latest AT&T Cellphone Savings for May 202N4 – Expert Reviews and Tips | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ensure-peak-performance-explore-our-picks-for-the-best-free-updater-applications/"><u>Ensure Peak Performance: Explore Our Picks for the Best Free Updater Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-apple-processors-from-rosetta-to-m3-soc-essential-insights-for-savvy-consumers-zdnet/"><u>Navigating the World of Apple Processors: From Rosetta to M3 SoC - Essential Insights for Savvy Consumers | ZDNet</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stifled-expression-sudden-copyright-breach/"><u>Stifled Expression Sudden Copyright Breach</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategize-reach-the-top-of-every-game-milestone-list/"><u>Strategize: Reach the Top of Every Game Milestone List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-notetaker-tablet-picks-features-reviews-and-buying-guide-techradar/"><u>Top Notetaker Tablet Picks - Features, Reviews & Buying Guide | TechRadar</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-story-fundamentals-every-beginners-guide-to-go-to-tips/"><u>[New] 2024 Approved Facebook Story Fundamentals Every Beginner's Guide to Go-To Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-calculating-costs-in-youtube-advertising-campaigns/"><u>[New] In 2024, Calculating Costs in YouTube Advertising Campaigns</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-the-art-of-incorporating-youtube-in-slate-presentations/"><u>[Updated] In 2024, Mastering the Art of Incorporating YouTube in Slate Presentations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-snap-a-different-shot-11-best-instagram-tools/"><u>[Updated] Snap A Different Shot - 11 Best Instagram Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-minecraft-gameplay-a-family-friendly-creative-world/"><u>Comprehensive Guide: Minecraft Gameplay - A Family-Friendly Creative World</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-social-media-engagement-with-branded-icons-on-instagram/"><u>Enhancing Social Media Engagement with Branded Icons on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/erasing-your-digital-footprints-how-to-delete-a-tiktok-account-completely/"><u>Erasing Your Digital Footprints – How to Delete a TikTok Account Completely</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-effective-system-speed-does-your-pc-keep-up-with-demand/"><u>Evaluating Effective System Speed: Does Your PC Keep Up with Demand?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-legally-enjoy-free-music-downloads-from-these-15-platforms/"><u>How to Legally Enjoy Free Music Downloads From These 15 Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instructions-for-deactivating-closed-captions-while-watching-content-on-amazon-prime/"><u>Instructions for Deactivating Closed Captions While Watching Content on Amazon Prime</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-storylines-crafting-movie-magic/"><u>The Best Storylines Crafting Movie Magic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-elusive-pdhdll-file-a-step-by-step-guide/"><u>Troubleshooting the Elusive pdh.dll File - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tutorial-configuring-ipad-settings-to-hide-youtube-videos/"><u>Tutorial: Configuring iPad Settings to Hide YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-1011top12-seo/"><u>Windows 10・11用最新の無料オーディオ編集ツールTOP12ピック - SEO魅力的なタイトル</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-essential-guide-to-top-ranked-costless-car-racing-sims-for-pc-our-favorite-2024-lineup/"><u>Your Essential Guide to Top-Ranked, Costless Car Racing Sims for PC - Our Favorite 2024 Lineup!</u></a></li>
 </ul></div>
 

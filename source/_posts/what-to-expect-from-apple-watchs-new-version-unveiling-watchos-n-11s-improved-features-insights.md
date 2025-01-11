@@ -1,7 +1,7 @@
 ---
 title: What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights
-date: 2024-12-29T16:35:11.145Z
-updated: 2025-01-04T16:04:40.908Z
+date: 2025-01-05T05:41:19.259Z
+updated: 2025-01-10T19:54:28.541Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
 One of the biggest additions to the Apple Watch in WatchOS 11 is the new Vitals app, which helps you explore and contextualize your health by tracking your heart rate, respiratory rate, wrist temperature, and blood oxygen while you're asleep. These metrics are processed through an algorithm and displayed on a chart the next morning to tell you whether you're in your normal range. 
@@ -41,6 +45,10 @@ Serious athletes will likely be drawn to these features since this is the first 
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -62,15 +70,15 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -80,13 +88,13 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -94,29 +102,21 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -152,17 +152,22 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-pictorial-word-constructor/"><u>[New] In 2024, Pictorial Word Constructor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-computer-showdown-in-depth-review-of-leading-brands-like-apple-and-dell/"><u>2024'S Ultimate Computer Showdown: In-Depth Review of Leading Brands Like Apple and Dell</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-dealing-with-windows-code-19-errors-successfully-what-you-need-to-know/"><u>Comprehensive Guide: Dealing with Windows 'Code 19' Errors Successfully – What You Need To Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-an-affordable-and-personalized-chatgpt-clone-right-from-your-windows-desktop/"><u>Experience an Affordable and Personalized ChatGPT Clone Right From Your Windows Desktop!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-diablo-2-resurrected-sudden-shutdowns/"><u>Fixes for 'Diablo 2: Resurrected' Sudden Shutdowns</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-discover-top-5-cost-free-windows-10-screencast-recorders/"><u>In 2024, Discover Top 5 Cost-Free Windows 10 Screencast Recorders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-microsoft-poised-to-surpass-apple-with-optimized-windows-on-arm-architecture/"><u>Is Microsoft Poised to Surpass Apple with Optimized Windows on ARM Architecture?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-winmedia-tool-fault-x8007043c/"><u>Strategies for WinMedia Tool Fault X.8007043C</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tecnicas-faciles-de-hacer-videos-con-sonido-usando-movavi/"><u>Técnicas Fáciles De Hacer Videos Con Sonido Usando Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated Smartwatches - Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-you-should-consider-transitioning-to-claude-3-over-chatgpt/"><u>Why You Should Consider Transitioning to Claude 3 Over ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-decisional-balance/"><u>[New] 2024 Approved Decisional Balance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-science-of-color-representation-srgb-and-rgb/"><u>[New] The Science of Color Representation Srgb & Rgb</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>[Updated] In 2024, 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-steps-to-remove-your-profile-from-twitch/"><u>Complete Guide: Steps to Remove Your Profile From Twitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-whos-behind-microsofts-chatgpt-technology/"><u>Discover Who's Behind Microsoft's ChatGPT Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/farming-to-the-next-level-stardews-leading-mods-listed/"><u>Farming to the Next Level Stardew's Leading Mods Listed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-disable-sleep-settings-for-uninterrupted-mac-usage/"><u>How to Disable Sleep Settings for Uninterrupted Mac Usage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-itel-p55-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Itel P55 5G Phone?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/maximizing-ram-for-enhanced-minecraft-experience-for-2024/"><u>Maximizing RAM for Enhanced Minecraft Experience for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-boot-process-interruption-win11-boot-timer-shortening/"><u>Reducing Boot Process Interruption: Win11 Boot Timer Shortening</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24-messages-recovery-recover-deleted-messages-from-samsung-galaxy-s24-by-fonelab-android-recover-messages/"><u>Samsung Galaxy S24 Messages Recovery - Recover Deleted Messages from Samsung Galaxy S24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-new-marvel-dive-into-the-anticipated-release-date-cost-and-unique-attributes-of-the-galaxy-z-flip-n6/"><u>Samsung's New Marvel: Dive Into the Anticipated Release Date, Cost, and Unique Attributes of the Galaxy Z Flip N°6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-see-sports-films-currently-streaming/"><u>Top 10 Must-See Sports Films Currently Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essential-note-taking-apps-for-ipad-and-ipad-pro-enthusiasts/"><u>Top 7 Essential Note-Taking Apps for iPad & iPad Pro Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-pdhdll-files-on-your-computer-expert-tips/"><u>Troubleshooting Missing pdh.dll Files on Your Computer - Expert Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updating-your-presentation-a-step-by-step-guide-to-upgrading-powerpoint/"><u>Updating Your Presentation: A Step-by-Step Guide to Upgrading PowerPoint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/using-skype-for-business-as-an-alternative-to-facetime-for-windows-users/"><u>Using Skype for Business as an Alternative to FaceTime for Windows Users</u></a></li>
 </ul></div>
 

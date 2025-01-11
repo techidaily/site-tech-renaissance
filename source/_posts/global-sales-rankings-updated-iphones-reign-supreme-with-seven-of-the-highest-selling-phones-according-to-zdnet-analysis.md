@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2024-12-28T16:54:40.654Z
-updated: 2025-01-04T16:36:18.113Z
+date: 2025-01-04T07:08:29.909Z
+updated: 2025-01-10T23:17:24.724Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-identify-10-shadowy-instagram-story-observers/"><u>[New] Identify 10 Shadowy Instagram Story Observers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-choosing-the-best-footage-editor-hero-vs-polaroid-edition/"><u>[Updated] Choosing the Best Footage Editor Hero Vs. Polaroid Edition</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-first-steps-on-social-landscape-creating-a-facebook-account-for-2024/"><u>[Updated] First Steps on Social Landscape Creating a Facebook Account for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/charge-and-chill-with-the-ultimate-magsafe-multi-device-dock-for-apple-gadgets-zdnets-top-picks/"><u>Charge and Chill with the Ultimate MagSafe Multi-Device Dock for Apple Gadgets - ZDNet's Top Picks!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-all-iphones-compatible-with-apples-latest-artificial-intelligence-enhancements-siri-and-beyond-techsavvy/"><u>Comprehensive List of All iPhones Compatible with Apple's Latest Artificial Intelligence Enhancements: Siri and Beyond | TechSavvy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-features-of-an-iphone-case-with-a-standout-physical-keyboard-beyond-just-typing-techinsights/"><u>Exploring the Top Features of an iPhone Case with a Standout Physical Keyboard: Beyond Just Typing | TechInsights</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-execute-the-windows-startup-check/"><u>How to Execute the Windows Startup Check</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-tecno-pova-5-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Pova 5 Safely | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-90-lite-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor 90 Lite to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-7-mac-focused-vids/"><u>In 2024, Ultimate List 7 Mac-Focused Vids</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamp-your-iphone-experience-on-ios-18-learn-how-to-personalize-the-new-control-center/"><u>Revamp Your iPhone Experience on iOS 18 - Learn How to Personalize the New Control Center!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-walmart-slashes-24-from-apples-airtag-bundle-for-labor-day-insider-tips/"><u>Score Big Savings: Walmart Slashes $24 From Apple's AirTag Bundle for Labor Day - Insider Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-camon-20-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 20 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-silicon-valley-reshuffles-as-samsung-galaxy-ai-soars-post-google-antitrust-ruling-innovation-leaders-index/"><u>The Battle of Silicon Valley Reshuffles as Samsung Galaxy AI Soars Post-Google Antitrust Ruling | Innovation Leaders Index</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-ipad-tools-for-enhanced-output-ace-your-productivity-with-expert-tips-by-zdnet/"><u>Ultimate Guide to iPad Tools for Enhanced Output: Ace Your Productivity with Expert Tips by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-strategy-how-new-investments-signal-an-ai-future-for-the-iphone-techinsights/"><u>Unveiling Apple's Strategy: How New Investments Signal an AI Future for the iPhone | TechInsights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-new-with-apple-airpods-unveiling-three-must-know-enhancements-for-certain-models-this-fall-tech-buzz/"><u>What's New with Apple AirPods? Unveiling Three Must-Know Enhancements for Certain Models This Fall | Tech Buzz</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplify-slide-sharing-at-work-webcam-assisted-tips/"><u>[New] 2024 Approved Simplify Slide Sharing at Work Webcam-Assisted Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>[Updated] 2024 Approved Recording Techniques for Stellar Voice-Over Audio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[Updated] 2024 Approved The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>[Updated] Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-comprehensive-guide-to-setting-up-proper-video-aspect-ratios-for-youtube/"><u>[Updated] The Comprehensive Guide to Setting Up Proper Video Aspect Ratios for YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-best-value-in-tablets-the-2020-lenovo-tab-m10s-lush-high-definition-view/"><u>Discovering the Best Value in Tablets: The 2020 Lenovo Tab M10's Lush High-Definition View</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-remove-ai-copilot-tool-from-windows-11-a-step-by-step-guide/"><u>Efficiently Remove AI Copilot Tool From Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722851225094-enhance-your-viewing-experience-connect-apple-tv-plus-with-chromecast-in-minutes/"><u>Enhance Your Viewing Experience: Connect Apple TV Plus with Chromecast in Minutes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expert-advice-for-xbox-one-zooming-pros/"><u>Expert Advice for Xbox One Zooming Pros</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-wpcapsddll-missing-error-on-your-computer/"><u>How to Resolve 'wpcapsd.dll' Missing Error on Your Computer?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-fold-2-unveiled-anticipated-features-pricing-and-release-timeline-stay-updated-with-latest-buzz/"><u>Pixel Fold 2 Unveiled: Anticipated Features, Pricing & Release Timeline - Stay Updated with Latest Buzz!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-gamers-choice-in-depth-analysis-of-dough-spectrums-27-oled-display-top-tiers-in-color-precision-and-visual-fidelity/"><u>Professional Gamers' Choice: In-Depth Analysis of Dough Spectrum's 27 OLED Display - Top Tiers in Color Precision & Visual Fidelity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/qled-vs-oled-tvs-unveiling-the-distinctive-features/"><u>QLED Vs. OLED TVs: Unveiling the Distinctive Features</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love/"><u>Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-showdown-discover-4-easy-screenshot-strategies-you-need-to-know/"><u>Windows 11 Showdown: Discover 4 Easy Screenshot Strategies You Need to Know</u></a></li>
 </ul></div>
 

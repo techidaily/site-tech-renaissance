@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2024-12-28T16:00:15.136Z
-updated: 2025-01-04T16:06:26.847Z
+date: 2025-01-07T17:17:44.822Z
+updated: 2025-01-11T00:37:40.633Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ongwriting-in-action-a-guide-to-creating-content-with-musicians-for-2024/"><u>[New] Songwriting in Action A Guide to Creating Content with Musicians for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-revolutionizes-iphone-usage-by-enabling-nfc-for-external-applications-discover-the-incredible-benefits-awaiting-you-zdnet/"><u>Apple Revolutionizes iPhone Usage by Enabling NFC for External Applications - Discover the Incredible Benefits Awaiting You | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beyond-the-couch-potato-life-activating-remote-access-for-samsung-televisions/"><u>Beyond the Couch Potato Life: Activating Remote Access for Samsung Televisions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cat5-versus-cat6-a-detailed-comparison-for-optimal-connectivity/"><u>Cat5 Versus Cat6 - A Detailed Comparison for Optimal Connectivity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-top-5-exciting-features-of-the-newly-released-ios-18-public-beta-insights-from-zdnet/"><u>Discover Top 5 Exciting Features of the Newly Released iOS 18 Public Beta - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-enhanced-performance-discover-key-benefits-of-the-new-macos-15-update-for-your-macbook/"><u>Experience Enhanced Performance: Discover Key Benefits of the New MacOS 15 Update for Your MacBook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-features-of-an-exceptional-iphone-case-with-a-tactile-keyboard-more-than-meets-the-eye/"><u>Exploring the Top Features of an Exceptional iPhone Case with a Tactile Keyboard - More than Meets the Eye!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-free-software-top-8-vehicle-driver-updates-tools-july-2024-edition/"><u>Find Your Perfect Free Software: Top 8 Vehicle Driver Updates Tools - July 2024 Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Phone with Broken Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/market-15-could-mean-missing-essential-advancements-revealed-by-zdnet-analysis/"><u>Market 15 Could Mean Missing Essential Advancements, Revealed by ZDNET Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/markets-top-picks-premier-drone-gimbals-for-2024/"><u>Market's Top Picks Premier Drone Gimbals for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2622889-9781936740284-the-art-of-living-joyfully/"><u>The Art of Living Joyfully | Free Book</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-revolutionary-iphone-16-innovations-you-cant-miss-why-the-new-apple-model-is-a-must-have/"><u>Top 4 Revolutionary iPhone 16 Innovations You Can’t Miss: Why the New Apple Model Is a Must-Have</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/velocita-di-conversione-su-super-nitro-winxvideo-ai-usando-la-gpu-per-velocita-accelerata-audio-and-video/"><u>Velocità Di Conversione Su Super Nitro: Winxvideo AI Usando La GPU per Velocità Accelerata Audio & Video</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-trustedinstaller-securing-the-right-to-modify-system-files/"><u>Windows 11 and TrustedInstaller: Securing the Right to Modify System Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-live-video-logging-on-mac-free-for-2024/"><u>[New] Live Video Logging on Mac, Free for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-where-to-find-high-quality-pixel-ringers/"><u>2024 Approved Where to Find High-Quality Pixel Ringers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-your-laptop-when-it-powers-on-and-still-shows-black-screen/"><u>Fixing Your Laptop When It Powers On and Still Shows Black Screen</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-attention-with-eye-catching-intros-in-imovie-for-2024/"><u>Focusing Attention with Eye-Catching Intros in iMovie for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/glad-attack-grev-for-sverige/"><u>Glad Attack: Grev För Sverige</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-detecting-bogus-friend-requests/"><u>Identifying Inauthentic Connections: A Guide to Detecting Bogus Friend Requests</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-11f-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 11F 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/leading-rogue-adventures-10-game-compilation/"><u>Leading Rogue Adventures #10 Game Compilation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-meta-ai-integration-boost-your-presence-on-instagram/"><u>Mastering Meta AI Integration: Boost Your Presence on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/restoring-your-facebooks-lost-night-vision-a-guide-to-reactivating-dark-mode/"><u>Restoring Your Facebook's Lost Night Vision: A Guide to Reactivating Dark Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-update-the-essential-reasons-to-upgrade-to-ios-153-immediately/"><u>Urgent Update: The Essential Reasons to Upgrade to iOS 15.3 Immediately</u></a></li>
 </ul></div>
 

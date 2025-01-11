@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Trick: Tailoring Your Inbox by Building Advanced Rules in Gmail"
-date: 2024-08-20T10:32:56.805Z
-updated: 2024-08-21T10:32:56.805Z
+date: 2025-01-03T20:04:18.978Z
+updated: 2025-01-11T03:57:14.602Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Trick: Tailoring Your Inbox by Building Advanced Rules in Gmail"
@@ -26,6 +26,11 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 2. Press the**search options** button to the right of the search box.  
 ![Search results on the Gmail website](https://www.lifewire.com/thmb/oidnVze07sEZ4BeLK-DQapDOi6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-search-14d03bab233640a9ab5e6a723a12e1a4.png)
 3. Define one or more criteria for the new rule. These are your options:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **From** : Find emails from one or more specific senders  
    * **To** : Find emails sent to one or more specific recipients  
    * **Subject** : Specify partial or complete text in the message subject line  
@@ -43,11 +48,13 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 5. Select the check box next to the options that specify the behavior you want to apply to this rule. For example,**Skip the Inbox (Archive it)** will[archive the messages](https://www.lifewire.com/gmail-archived-mail-what-it-is-and-how-to-use-it-4165946) .  
 ![Skip the inbox (Archive it) option in Gmail](https://www.lifewire.com/thmb/ktWER261A7_PEGBgYemh10W6nls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_create-rules-in-gmail-4172416-3493f1c4c3f54a0aa26ddf60cd542a10.jpg)  
  Optionally choose**Also apply filter to \[#\] matching conversations** if you want existing emails to be pulled into this rule, too, and not just new messages.
-6. Select**Create filter** to activate the new rule.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Select**Create filter** to activate the new rule.
+
 ## How to Create a Gmail Rule From an Existing Email
 
  Follow these steps if you want to filter Gmail messages by a particular sender and you already have an email from them. This will speed up the process a little bit. Here's how it works:
@@ -56,39 +63,21 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 2. Choose**Filter messages like these** .  
 ![The 'Filter messages like these' option in Gmail](https://www.lifewire.com/thmb/9ePhxyfvZRvVtoCC1GQHcaLyBR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-filter-messages-5f2e5f60cc134f12b05d60ad36c078d6.png)
 3. Select the criteria to apply to the new rule.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Some options, like the**From** field, may be pre-populated with details from the selected message. We've seen strange characters show up here, so be sure to double-check that the information is correct for your specific filter.
 4. Select**Create filter** .  
 ![A Gmail filter with the 'Has the words' section filled out](https://www.lifewire.com/thmb/dz-oQgK_twK8jnlxwPxXuWdw48I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-filter-347693d0e5634ca5840f877f05e3b454.png)
 5. Pick one or more actions the filter should take. In our example, we're having Gmail auto-delete messages that match the filter, so we've picked**Delete it** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Send Self-Destructing Messages in Gmail](https://www.lifewire.com/send-self-destructing-messages-gmail-4691876)  
 ![A filter to delete emails in Gmail](https://www.lifewire.com/thmb/abXEQLzwg7OrhBLefgVKLQcc560=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-delete-filter-483c0610528d4507bd98d348329d85af.png)
 6. Select**Create filter** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
  One of Gmail's features is the ability to[make multiple aliases](https://www.lifewire.com/create-gmail-alias-4580315) associated with your primary email address. Emails addressed to these aliases are sent to your primary Gmail account.[To filter messages from a specified alias](https://www.lifewire.com/easy-gmail-address-hacks-1616186) , create a rule with the alias as the criteria, then assign behaviors to the rule.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## How to Manage Rules in Gmail
 
  It's easy to collect a bunch of rules over time. If you no longer want a specific filter to apply or you're[losing track of your messages](https://www.lifewire.com/how-to-recover-missing-emails-gmail-4585081) , it's easy to review and delete Gmail rules from the settings.
@@ -96,15 +85,18 @@ Key features:
 1. Select the**gear** icon, then choose**See all settings** .  
 ![The Gmail quick settings menu](https://www.lifewire.com/thmb/NGhz_2JNLPuNC3QQJnOfVu6TU3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-settings-menu-9a6efc96d2b2449aaa6c5fd6ee249b1e.png)
 2. Select the**Filters and Blocked Addresses** tab at the top of the page.
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. To make changes to a rule, select**edit** . To remove a rule so that it no longer filters your email, select**delete** .  
 ![A list of Gmail filters with the edit and delete buttons highlighted](https://www.lifewire.com/thmb/CZr8JpkwSsgnj4a1l_EIZ66SRZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_create-rules-in-gmail-4172416-0a8e01aac696434191fa2560121bcabe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  FAQ
 
 * How do I create an email signature in Gmail?  
@@ -132,8 +124,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +131,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-through-youtube-navigating-revenue-without-ads/"><u>[New] 2024 Approved Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ensuring-copyright-compliance-in-youtube-to-mp4/"><u>[Updated] In 2024, Ensuring Copyright Compliance in Youtube-to-MP4</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/addingremoving-applications-easily-a-guide-from-yl-computing-your-trusted-source-for-yl-software-solutions/"><u>Adding/Removing Applications Easily: A Guide From YL Computing - Your Trusted Source for YL Software Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/zing-why-youtube-features-specific-comments-for-2024/"><u>Analyzing Why YouTube Features Specific Comments for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-your-next-purchase-essential-comparisons-between-macbook-pro-and-macbook-air-zdnet/"><u>Decoding Your Next Purchase: Essential Comparisons Between MacBook Pro & MacBook Air | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-concept-a-comprehensive-look-into-phone-carriers/"><u>Demystifying the Concept: A Comprehensive Look Into Phone Carriers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-helperdll-errors-a-step-by-step-solution-for-users/"><u>Fixing 'Helper.dll' Errors - A Step-by-Step Solution for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-most-reliable-third-party-magsafe-wallet-during-clearance-insiders-pick/"><u>Snag the Most Reliable Third-Party MagSafe Wallet During Clearance - Insider's Pick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-issues-with-roku-subtitles-troubleshooting-guide/"><u>Solving Issues with Roku Subtitles - Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-presidential-discounts-above-60-active-savings-at-amazom-walmart-and-best-buy-explore-the-ultimate-guide/"><u>Top Presidential Discounts Above 60: Active Savings at Amazom, Walmart & Best Buy - Explore the Ultimate Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-software-a-comprehensive-guide/"><u>Top Rated Mac Software : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-random-freezes-with-vision-pro-what-experts-recommend-when-things-go-awry-tech-advice/"><u>Troubleshooting Random Freezes with Vision Pro: What Experts Recommend When Things Go Awry | Tech Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+</ul></div>
 

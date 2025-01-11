@@ -1,7 +1,7 @@
 ---
 title: "New Horizons in Mobile Payments: How Apple Extends iPhone NFC for Enhanced Third-Party Integration | Explore Usage Impact"
-date: 2025-01-02T16:34:01.910Z
-updated: 2025-01-04T16:35:39.962Z
+date: 2025-01-07T07:53:33.513Z
+updated: 2025-01-11T03:10:56.396Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Intelligence?
 
 Apple
@@ -39,10 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -63,6 +55,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -80,7 +76,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -94,6 +90,10 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -131,6 +131,10 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -146,10 +150,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,21 +210,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/approved-charting-youtubes-untapped-markets-niche-strategies/"><u>2024 Approved Charting Youtube's Untapped Markets Niche Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/directdraw-inactive-armor-implemented/"><u>DirectDraw Inactive, Armor Implemented</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-techniques-for-speedy-mov-to-mkv-video-file-conversion/"><u>Effortless Techniques for Speedy MOV to MKV Video File Conversion</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enlightening-the-path-to-uhd-tv-4k-insights/"><u>Enlightening the Path to UHD TV: 4K Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-iphone-15-pro-max-at-just-a-penny-unveiling-the-amazon-amazing-bargain-zdnet/"><u>Get Your iPhone 15 Pro Max at Just a Penny! Unveiling the Amazon Amazing Bargain - ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gta-5-freezes-no-more-troubleshooting-tips-for-smooth-gameplay/"><u>GTA 5 Freezes No More - Troubleshooting Tips for Smooth Gameplay</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guia-paso-a-paso-para-instalar-windows-11-con-el-simbolo-del-sistema/"><u>Guía Paso a Paso Para Instalar Windows 11 Con El Símbolo Del Sistema</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-apple-revitalize-tophat-vision-pro-expert-tips-analysis/"><u>How Can Apple Revitalize Tophat Vision Pro? Expert Tips Analysis</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-11-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 11 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-discounted-second-gen-apple-watch-se-a-hidden-gem-in-the-prime-day-aftermath-find-out-on-zdnet/"><u>Is the Discounted Second Gen Apple Watch SE a Hidden Gem in the Prime Day Aftermath? Find Out on ZDNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/next-gen-acer-integration-with-windows-11-updates/"><u>Next-Gen Acer Integration with Windows 11 Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ps5-game-sharing-guide-tips-and-tricks/"><u>PS5 Game Sharing Guide: Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplified-guide-quick-and-effortless-methods-for-moving-your-macbook-data/"><u>Simplified Guide: Quick and Effortless Methods for Moving Your MacBook Data</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-enhanced-user-experience-with-apples-vision-pro-spatial-personas-tutorial-inside/"><u>Unlocking Enhanced User Experience with Apple's Vision Pro Spatial Personas: Tutorial Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unmatched-macbook-air-m1-laptop-discount-get-yours-for-only-649-detailed-breakdown-and-offer-info-s-tech-insight/"><u>Unmatched MacBook Air M1 Laptop Discount: Get Yours for Only $649 - Detailed Breakdown & Offer Info 'S Tech Insight</u></a></li>
-<li><a href="https://discover-data.techidaily.com/1728500977287-windows-11/"><u>Windows 11で削除されたファイルの回復方法を学ぶ - ゴミ箱から</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-become-a-kinemaster-meme-wizard/"><u>[Updated] Become a KineMaster Meme Wizard</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>2024 Approved The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-windows-11-mov-to-avi-conversion-tutorial/"><u>2024 Approved Windows 11 MOV to AVI Conversion Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-and-chat-essential-tips-for-enabling-whatsapp-on-macos/"><u>Connect and Chat: Essential Tips for Enabling WhatsApp on macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-steps-to-successfully-change-your-ipads-battery/"><u>DIY Guide: Steps to Successfully Change Your iPad's Battery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-take-yourself-off-of-tiktok-a-detailed-walkthrough/"><u>Easy Steps to Take Yourself Off of TikTok – A Detailed Walkthrough</u></a></li>
+<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-high-definition-audio-codec-on-windows-10-solved/"><u>How to Install IDT High Definition Audio Codec on Windows 10 - Solved</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mass-movement-mastery-the-drone-top-list/"><u>In 2024, Mass Movement Mastery The Drone Top List</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/master-the-troubleshooting-of-device-driver-problems-halting-windows-10-performance/"><u>Master the Troubleshooting of 'Device Driver' Problems Halting Windows 10 Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Excessive CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-clearing-your-macs-dns-history/"><u>Step-by-Step Guide: Clearing Your Mac's DNS History</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-administrative-access-a-guide-to-dealing-with-trustedinstaller-in-windows-11/"><u>Unlock Administrative Access: A Guide to Dealing with TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-facebook-from-inception-to-favorites-and-essential-characteristics/"><u>Unveiling Facebook: From Inception to Favorites and Essential Characteristics</u></a></li>
 </ul></div>
 

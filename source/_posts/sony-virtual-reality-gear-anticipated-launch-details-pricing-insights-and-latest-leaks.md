@@ -1,7 +1,7 @@
 ---
 title: "Sony Virtual Reality Gear: Anticipated Launch Details, Pricing Insights & Latest Leaks"
-date: 2024-08-20T10:37:27.730Z
-updated: 2024-08-21T10:37:27.730Z
+date: 2025-01-09T20:04:14.505Z
+updated: 2025-01-10T20:24:22.254Z
 categories:
   - BestProducts
 description: "This Article Describes Sony Virtual Reality Gear: Anticipated Launch Details, Pricing Insights & Latest Leaks"
@@ -28,6 +28,10 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -42,6 +46,10 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -50,16 +58,14 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -77,15 +83,17 @@ iPhone Fold concept.
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -98,9 +106,6 @@ Michal Dufka
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -125,9 +130,6 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -138,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +153,24 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-engagement-on-instagram-stories-mastering-multi-image-techniques/"><u>[New] 2024 Approved Boost Engagement on Instagram Stories Mastering Multi-Image Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-endless-entertainment-building-addictive-ig-boomerangs-for-2024/"><u>[New] Endless Entertainment Building Addictive IG Boomerangs for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions/"><u>[New] In 2024, A Step-by-Step Guide to MP4 and Beyond VLC Conversions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prosperity-startups-the-13-least-experience-demanding-reddit-techniques/"><u>[Updated] Prosperity Startups The 13 Least Experience-Demanding Reddit Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-tablet-ipad-vs-ipad-air-a-comprehensive-comparison/"><u>Choosing the Right Tablet: IPad Vs. IPad Air – A Comprehensive Comparison</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rt-your-youtube-files-effortlessly-to-webm/"><u>Convert Your YouTube Files Effortlessly to WebM</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-mouse-driver-downloads-compatible-with-windows-os/"><u>Free Logitech Mouse Driver Downloads Compatible with Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/googles-new-challenger-pixel-watch-vs-apple-watch-series-8-expert-insights-for-your-perfect-buy-zdnet/"><u>Google's New Challenger: Pixel Watch Vs. Apple Watch Series 8 - Expert Insights for Your Perfect Buy | ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477168918-how-can-you-retrieve-deleted-facetime-pictures-find-out-here/"><u>How Can You Retrieve Deleted FaceTime Pictures? Find Out Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 11 Pro Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/identifying-and-correcting-issues-preventing-the-launch-of-your-farming-simulator-2022/"><u>Identifying & Correcting Issues Preventing the Launch of Your Farming Simulator 2022</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-unveiled-apples-premier-tablet-stands-out-despite-not-being-a-macbook-alternative-tech-analysis-by-zdnet/"><u>IPad Pro Unveiled: Apple’s Premier Tablet Stands Out, Despite Not Being a MacBook Alternative | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-vanished-snapsphere-presence-tips-for-bringing-back-a-dormant-snapchat-account/"><u>Revive Your Vanished Snapsphere Presence: Tips for Bringing Back a Dormant Snapchat Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/superior-selection-of-multi-person-video-conference-software/"><u>Superior Selection of Multi-Person Video Conference Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-crucial-5-features-android-must-adopt-to-rivet-against-iphones-ios-supremacy/"><u>The Crucial 5 Features Android Must Adopt to Rivet Against iPhone's iOS Supremacy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-cutting-edge-ipad-peripherals-insights-from-zdnet/"><u>The Ultimate Guide to Cutting-Edge iPad Peripherals : Insights From ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-release-detailed-guide-on-when-and-how-to-pre-order-next-generation-airpods-insights-from-zdnet/"><u>Upcoming Release: Detailed Guide on When & How to Pre-Order Next Generation AirPods - Insights From ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions on Choosing Multiple Messages in Gmail
-date: 2024-08-20T10:35:48.781Z
-updated: 2024-08-21T10:35:48.781Z
+date: 2025-01-03T23:28:29.545Z
+updated: 2025-01-11T00:51:39.357Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions on Choosing Multiple Messages in Gmail
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 ---
 
 ## Step-by-Step Instructions on Choosing Multiple Messages in Gmail
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * To select every email, click the**checkbox** above the messages, then click**Select all \[#\] conversations** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 * This works for the Inbox, All Mail, and other labels. You can then delete, label, and archive emails in bulk.
 
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Select All Emails in Gmail
 
@@ -26,17 +35,18 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select All Gmail Emails From a Search
 
  Gmail provides some powerful[search tools to help you find emails quickly](https://www.lifewire.com/how-to-search-mail-in-gmail-1172081) . For example, you can locate your biggest emails, look for messages that have attachments, or find emails that arrived on a specific date.
@@ -49,11 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## What You Can Do With Selected Emails
 
  Anything you can do with a single email, Gmail lets you do with a selection of messages. Here are some actions you can take when you select lots of emails at once:
@@ -106,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +121,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-non-commercial-art-creation-software/"><u>Cutting-Edge Non-Commercial Art Creation Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-s24-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy S24 Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Civi 3 Disney 100th Anniversary Edition to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-your-apple-device-outdated-insights-on-the-vintage-and-obsolete-status-revealed-by-tech-analyst/"><u>Is Your Apple Device Outdated? Insights on the 'Vintage' And 'Obsolete' Status Revealed by Tech Analyst</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782481-9781591437598-shamanic-awakening-2nd-ed/"><u>Shamanic Awakening (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-adjust-misinterpreted-cpu-data-on-task-manager-screen/"><u>Steps to Adjust Misinterpreted CPU Data on Task Manager Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-imperative-of-using-a-case-for-your-iphone-16-a-must-read-article-by-zdnet-even-if-youre-an-untried-user/"><u>The Imperative of Using a Case for Your iPhone 16 - A Must-Read Article by ZDNET, Even if You're an Untried User!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mp3-players-expert-review-by-zdnet/"><u>Top Rated MP3 Players : Expert Review by ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-guide-navigating-comments-and-outlining-issues-in-emeditor/"><u>Troubleshooting Guide: Navigating Comments & Outlining Issues in EmEditor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-superior-sound-on-lg-tvs-with-new-upgrades-perfect-for-apple-aficionados-insights/"><u>Unlock Superior Sound on LG TVs with New Upgrades Perfect for Apple Aficionados | Insights</u></a></li>
+</ul></div>
 

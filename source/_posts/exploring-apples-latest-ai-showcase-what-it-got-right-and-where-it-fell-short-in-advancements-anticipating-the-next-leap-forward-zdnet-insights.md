@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest AI Showcase: What It Got Right and Where It Fell Short in Advancements - Anticipating the Next Leap Forward | ZDNET Insights"
-date: 2024-12-29T16:56:58.888Z
-updated: 2025-01-04T16:40:56.486Z
+date: 2025-01-10T02:04:48.597Z
+updated: 2025-01-11T08:50:59.941Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,13 +48,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -65,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,24 +122,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-extracted-image-selection-from-videos-to-windows-photos-for-2024/"><u>[New] Extracted Image Selection From Videos to Windows Photos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-gift-wrapping-gurus-top-10-websites-for-handcrafted-presents/"><u>[Updated] 2024 Approved Gift Wrapping Gurus Top 10 Websites for Handcrafted Presents</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-phantom-gag-craftsman/"><u>[Updated] Phantom Gag Craftsman</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-strategic-storytelling-essential-language-for-marketers/"><u>[Updated] Strategic Storytelling Essential Language for Marketers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/assessing-the-cost-is-apple-vision-pro-worth-it/"><u>Assessing the Cost: Is Apple Vision Pro Worth It?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/choosing-the-right-gimbal-for-flawless-youtube-footage/"><u>Choosing the Right Gimbal for Flawless YouTube Footage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-why-apples-vision-pro-is-a-game-changer-with-our-expert-analysis-part-i-the-first-five-reasons-digitalinnovationhub/"><u>Discover Why Apple's Vision Pro Is a Game-Changer with Our Expert Analysis - Part I: The First Five Reasons | DigitalInnovationHub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficiently-power-and-cool-your-ios-gadgets-the-ultimate-3-in-1-magsafe-dock-a-comprehensive-review-techwise/"><u>Efficiently Power and Cool Your iOS Gadgets: The Ultimate 3-in-1 MagSafe Dock - A Comprehensive Review | TechWise</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-iphones-to-samsung-galaxies-the-future-of-cross-platform-switching-with-enhanced-apple-support/"><u>From iPhones to Samsung Galaxies: The Future of Cross-Platform Switching with Enhanced Apple Support</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-gaming-paradise-top-10-download-sites-for-pc-and-android/"><u>In 2024, Free Gaming Paradise Top 10 Download Sites for PC and Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-showdown-deciding-between-pro-and-air-models-an-in-depth-analysis-for-your-next-purchase-zdnet/"><u>MacBook Showdown: Deciding Between Pro and Air Models - An In-Depth Analysis for Your Next Purchase | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-partnership-unveils-chatgpt-on-apple-devices-explore-the-future-of-ai-with-openai-zdnet/"><u>New Partnership Unveils ChatGPT on Apple Devices: Explore the Future of AI with OpenAI | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-and-preserve-your-iphone-es-aesthetics-with-these-3-must-have-accessories-insights/"><u>Protect and Preserve Your iPhone E's Aesthetics with These 3 Must-Have Accessories | Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mac-software-a-comprehensive-list-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive List by ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-chatgpts-potential-with-simple-plugin-signups/"><u>Unlock ChatGPT's Potential with Simple Plugin Signups</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-secrets-of-apples-best-an-exhaustive-review-of-the-macbook-pro-m1-2021-with-a-16-inch-display/"><u>Unlocking The Secrets of Apple's Best: An Exhaustive Review of the MacBook Pro (M1, 2021) with a 16-Inch Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-resilience-how-apples-top-tier-iphone-case-stands-up-to-scrutiny-and-its-revolutionary-safety-aspect-exclusive/"><u>Unveiling the Resilience: How Apple’s Top-Tier iPhone Case Stands Up to Scrutiny and Its Revolutionary Safety Aspect Exclusive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-8-complimentary-streaming-gems-on-roku-this-year/"><u>Unveiling the Top 8 Complimentary Streaming Gems on Roku This Year</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-inspiring-14-animated-text-concepts/"><u>[New] 2024 Approved Inspiring 14 Animated Text Concepts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unmute-tracks-from-muted-video-tweets-for-2024/"><u>[Updated] Unmute Tracks From Muted Video Tweets for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-images-android-iphone-file-transfer-guide/"><u>2024 Approved Syncing Images Android-iPhone File Transfer Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/chamber-charm-for-communication-beginners/"><u>Chamber Charm for Communication Beginners</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-on-how-to-perform-a-factory-reset-on-samsung-soundbars/"><u>Complete Tutorial on How To Perform A Factory Reset On Samsung Soundbars</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-audio-gear-how-are-home-theater-amplifiers-different-from-stereo-receivers/"><u>Decoding Audio Gear: How Are Home Theater Amplifiers Different From Stereo Receivers?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>In 2024, Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-skyrocket-your-youtube-rankings-with-these-insider-moves/"><u>In 2024, Skyrocket Your YouTube Rankings with These Insider Moves</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-game-issues-fix-it-the-ultimate-guide-to-prevent-dragonebmas-dogma-2-from-crashing-on-your-pc/"><u>PC Game Issues? Fix It! The Ultimate Guide to Prevent Dragon'ebma's Dogma 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-brief-journey-through-the-development-of-evs/"><u>The Brief Journey Through the Development of EVs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-recommended-video-editing-tools-for-your-content-creation-needs/"><u>Top 5 Recommended Video Editing Tools for Your Content Creation Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-complimentary-educational-applications-for-the-new-school-year/"><u>Top 7 Complimentary Educational Applications for the New School Year</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-services-for-macos-comprehensive-reviews-by-tech-experts/"><u>Top-Rated VPN Services for macOS: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-8-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 

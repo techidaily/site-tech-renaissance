@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Innovations: WWDC Highlights Featuring Advanced Intelligence Technologies, Improved Siri Capabilities and Introduction of iOS 18"
-date: 2025-01-03T16:45:36.095Z
-updated: 2025-01-04T16:20:02.935Z
+date: 2025-01-09T19:17:58.473Z
+updated: 2025-01-11T00:59:15.229Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,19 +128,18 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-stealth-mode-best-apps-for-instagram-viewing/"><u>[New] Stealth Mode Best Apps for Instagram Viewing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-effective-habits-to-monitor-and-record-gotomeetings/"><u>[Updated] Effective Habits to Monitor and Record GoToMeetings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-approach-to-measuring-yt-popularity-and-revenue-for-2024/"><u>[Updated] Step-by-Step Approach to Measuring YT Popularity & Revenue for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gaining-traction-effective-seo-techniques-for-youtube-videos/"><u>2024 Approved Gaining Traction Effective SEO Techniques for YouTube Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-7710-drivers-step-by-step-tutorial-for-various-windows-os/"><u>Download and Install Epson WF-7710 Drivers: Step by Step Tutorial for Various Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-iphone-functionality-the-impact-of-integrating-googles-gemini-on-ios-devices/"><u>Enhancing iPhone Functionality: The Impact of Integrating Google's Gemini on iOS Devices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-l3150-printer-driver-download-and-upgrade-guide-for-windows-1087/"><u>Epson L3150 Printer Driver Download and Upgrade Guide for Windows 10/8/7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-s23plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy S23+ Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-personalize-and-optimize-your-iphones-control-panel-with-simple-steps-zdnet/"><u>IOS 18 Unveiled: Personalize & Optimize Your iPhone's Control Panel with Simple Steps | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-someone-secretly-following-me-how-to-determine-if-an-airtag-has-been-attached-digital-security-guide/"><u>Is Someone Secretly Following Me? How to Determine if an AirTag Has Been Attached – Digital Security Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launching-with-the-essentials-apple-vision-pro-integrates-word-and-excel-from-microsoft-365-right-away-zdnet/"><u>Launching with the Essentials: Apple Vision Pro Integrates Word & Excel From Microsoft 365 Right Away - ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-wiring-up-several-bluetooth-speakers-with-just-one-device/"><u>The Ultimate Guide: Wiring Up Several Bluetooth Speakers with Just One Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1727787561150-top-rated-smartwatches-comprehensive-analysis-by-tech-experts/"><u>Top-Rated Smartwatches - Comprehensive Analysis by Tech Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-potential-a-comprehensive-guide-to-podcast-seo-mastery/"><u>Unleash Potential A Comprehensive Guide to Podcast SEO Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[New] 2024 Approved Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-peer-reviewed-evaluation-of-action-screening-tech/"><u>[New] 2024 Approved Peer-Reviewed Evaluation of Action Screening Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-clearing-imagery-the-canva-method-for-clean-bounds/"><u>[New] In 2024, Clearing Imagery The Canva Method for Clean Bounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a78-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A78 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chromecast-mastery-how-to-successfully-connect-and-use-your-casting-remote/"><u>Chromecast Mastery: How To Successfully Connect and Use Your Casting Remote</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-our-ranking-of-the-32-most-popular-free-backup-apps-reviewed/"><u>Discover the Best: Our Ranking of the 32 Most Popular Free Backup Apps Reviewed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-ways-to-uninstall-preinstalled-software-bloatware-from-your-windows-computer/"><u>Effortless Ways to Uninstall Preinstalled Software (Bloatware) From Your Windows Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/managing-space-on-your-smart-tv-easy-instructions-for-removing-apps-on-samsung-devices/"><u>Managing Space on Your Smart TV: Easy Instructions for Removing Apps on Samsung Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/must-have-budget-friendly-iphone-add-on-for-all-trips/"><u>Must-Have Budget-Friendly iPhone Add-On for All Trips!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-wisdom/"><u>Navigating the World of Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-gem-the-galaxy-z-fold-6-anticipated-launch-dates-cost-estimates-and-feature-rundown/"><u>Samsung's Latest Gem: The Galaxy Z Fold 6 - Anticipated Launch Dates, Cost Estimates, and Feature Rundown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-deletion-of-icloud-images-without-losing-iphone-pics/"><u>Seamless Deletion of iCloud Images Without Losing iPhone Pics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-is-an-rtx-graphics-card-right-for-you/"><u>The Ultimate Guide: Is an RTX Graphics Card Right for You?</u></a></li>
 </ul></div>
 

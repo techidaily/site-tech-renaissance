@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between iPad Pro Models: A Detailed Comparison of the M1 Vs. M2 for Tech Enthusiasts | ZDNET Insights"
-date: 2024-12-31T16:17:36.700Z
-updated: 2025-01-04T16:11:46.674Z
+date: 2025-01-06T21:05:38.151Z
+updated: 2025-01-10T18:17:59.054Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Before you click that buy button, though, take a few minutes to figure out if yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -37,7 +37,7 @@ Before you click that buy button, though, take a few minutes to figure out if yo
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comparing iPad Pro models
@@ -59,6 +59,10 @@ Before you click that buy button, though, take a few minutes to figure out if yo
 
 Image: Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You use the Apple Pencil for everything
 
 The new iPad Pro models come with a new Apple Pencil feature that detects when the tip of the [2nd Generation Apple Pencil](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMU8F2AM%2FA%2Fapple-pencil-2nd-generation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is 12mm above the display and then adjusts the interface. 
@@ -70,10 +74,6 @@ On its site, Apple also shows a video of drawing tools previewing what they look
 To be clear: Samsung's Galaxy Note and now the [Galaxy Z Fold](https://www.zdnet.com/article/samsung-galaxy-z-fold-4-review/) have long had a similar hover feature for the S Pen, so Apple isn't inventing the wheel here.
 
 I'll have to wait to get my hands on the new iPad Pro before figuring out just how useful the new hover detection feature is, but it looks like it's more of a quality-of-life improvement than a ground-breaking new feature. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You plan on fully taking advantage of iPadOS 16 when it's finished
 
@@ -96,7 +96,7 @@ I currently own the [2021 iPad Pro](https://www.zdnet.com/product/apple-ipad-pro
 [Apple iPad Pro (2022) $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro%2F11-inch-display-1tb-space-gray-wifi-cellular&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should get last year's iPad Pro if…
@@ -117,10 +117,6 @@ However, Amazon is taking a couple hundred dollars off the price of Wi-Fi models
 
 **Also:** [**How to turn your old devices into Amazon gift cards**](https://www.zdnet.com/article/how-to-turn-your-old-devices-into-amazon-gift-cards/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You don't need all of that performance
 
 Even though Apple removed true external monitor support from iPadOS 16 during the beta process, I never felt that my M1 iPad Pro was underpowered during my early testing of the unfinished operating system. 
@@ -130,6 +126,10 @@ And while the M2 processor is sure to bring some performance gains, I'm not sold
 What that means to someone who doesn't have an iPad Pro is that you should see similar and totally acceptable performance from the 2021 iPad Pro. 
 
 Not only that, but the iPad Pro's hardware has been overpowered for years now, with users have been begging Apple to add more features and capabilities to iPadOS. And even though Stage Manager promises to do just that, I'm not convinced that the iPad Pro's hardware has finally met its match. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You don't want the new fancy Apple Pencil features
 
@@ -169,22 +169,19 @@ You can use the [second-generation Apple Pencil](https://buy.geni.us/Proxy.ashx?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-success-pushing-your-video-into-top-charts/"><u>[New] 2024 Approved Crafting Success Pushing Your Video Into Top Charts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-accessory-guide-for-apple-airtags-expert-insights-and-ratings/"><u>2024'S Ultimate Accessory Guide for Apple AirTags: Expert Insights and Ratings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-new-horizons-of-smartwatch-technology-unlocking-the-secrets-of-watchos-11/"><u>Explore the New Horizons of Smartwatch Technology - Unlocking the Secrets of WatchOS 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-c50-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Poco C50 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-camon-30-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Camon 30 Pro 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-6s-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 6s without Security Questions?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-meizuwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Meizuwith/without a PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tune-in-to-success-mastering-the-art-of-vocal-change-on-insta/"><u>In 2024, Tune in to Success Mastering the Art of Vocal Change on Insta</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphones-dwindling-battery-life-after-ios-1/"><u>IPhone's Dwindling Battery Life After iOS 1([...] [...].</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-next-tech-wave-the-role-of-artificial-intelligence-in-shaping-software-development-practices/"><u>Navigating the Next Tech Wave: The Role of Artificial Intelligence in Shaping Software Development Practices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-watch-series-3-addresses-major-concerns-in-googles-smartwatch-lineup-insights-from-zdnet/"><u>Pixel Watch Series 3 Addresses Major Concerns in Google's Smartwatch Lineup - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-finding-and-installing-the-right-printer-drivers-for-hp-laserjet-pro-m402n-on-a-windows-machine/"><u>Quick Start: Finding & Installing the Right Printer Drivers for HP LaserJet Pro M402n on a Windows Machine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-xlivedll-error-a-comprehensive-guide/"><u>Solving the xlive.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-18-unbeatable-primeside-tech-bargains-exclusive-offers-on-hp-apple-and-razer-limited-time-only/"><u>Top 18 Unbeatable Primeside Tech Bargains: Exclusive Offers on HP, Apple & Razer - Limited Time Only!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1727790430442-top-36-unbeatable-prime-day-bargains-on-apple-products-exclusive-offers-remaining/"><u>Top 36 Unbeatable Prime Day Bargains on Apple Products - Exclusive Offers Remaining!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-chatgpt-frauds-essential-tips-to-avoid-deception/"><u>Top 5 ChatGPT Frauds: Essential Tips to Avoid Deception</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upping-your-social-game-with-a-blue-badge-on-x-platform/"><u>Upping Your Social Game with a Blue Badge on X Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/avoiding-virtual-reality-nausea-tips-and-tricks-for-2024/"><u>Avoiding Virtual Reality Nausea Tips and Tricks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-tools-full-sphere-filming-and-photography/"><u>Best Tools Full Sphere Filming and Photography</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparative-guide-level-1-level-2-and-level-amoeba-charging-systems-unveiled/"><u>Comparative Guide: Level 1, Level 2 and Level Amoeba Charging Systems Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-ultimate-coolness-my-top-pick-for-gaming-phones-nubia-redmagic/"><u>Experience Ultimate Coolness: My Top Pick for Gaming Phones - Nubia RedMagic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-clearing-the-access-denied-hurdle-dealing-with-401-errors/"><u>Expert Advice on Clearing the 'Access Denied' Hurdle: Dealing with 401 Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-upcoming-google-pixel-9-speculations-on-costs-and-timeline/"><u>Exploring the Upcoming Google Pixel 9 - Speculations on Costs & Timeline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locate-your-next-charge-discovering-ev-plugs-through-google-maps/"><u>Locate Your Next Charge: Discovering EV Plugs Through Google Maps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-amassing-a-large-twitter-network/"><u>Master the Art of Amassing a Large Twitter Network</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-your-diet-with-these-top-6-mobile-trackers-for-nutrition-and-fitness-enthusiasts/"><u>Master Your Diet with These Top 6 Mobile Trackers for Nutrition and Fitness Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-iphone-utility-with-ios-16-unlocking-the-potential-of-the-enhanced-lock-screen-a-detailed-guide/"><u>Maximizing iPhone Utility with IOS 16: Unlocking the Potential of the Enhanced Lock Screen - A Detailed Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/next-level-game-monitoring-software-beyond-the-fbx-standard-for-2024/"><u>Next Level Game Monitoring Software Beyond the FBX Standard for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/premier-choices-for-efficient-twitter-client-solutions/"><u>Premier Choices for Efficient Twitter Client Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-best-for-broadcasting-obs-vs-twitch-studio/"><u>The Best for Broadcasting? OBS vs Twitch Studio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-tv-everything-you-need-to-know/"><u>YouTube TV - Everything You Need to Know</u></a></li>
 </ul></div>
 

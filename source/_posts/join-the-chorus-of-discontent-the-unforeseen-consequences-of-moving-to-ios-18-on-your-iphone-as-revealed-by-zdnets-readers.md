@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2025-01-02T16:59:31.438Z
-updated: 2025-01-04T16:01:26.011Z
+date: 2025-01-03T16:55:40.755Z
+updated: 2025-01-11T03:43:04.935Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-endings-that-wow-ranked-for-you-top-6-for-2024/"><u>[Updated] Free Endings That Wow - Ranked for You (Top 6) for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/5-quick-hacks-to-sharpen-your-indie-filmmaking-skills/"><u>5 Quick Hacks to Sharpen Your Indie Filmmaking Skills</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/amplifying-viewership-strategies-for-unboxing-tiktoks-for-2024/"><u>Amplifying Viewership Strategies for Unboxing TikToks for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-fitbit-versa-comprehensive-smartwatch-evaluation/"><u>Budget-Friendly Fitbit Versa: Comprehensive Smartwatch Evaluation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decluttering-inbox-made-easy-learn-the-simple-strategy-for-uncluttered-emails-without-multiple-accounts-or-rules-cybersavvy/"><u>Decluttering Inbox Made Easy: Learn the Simple Strategy for Uncluttered Emails without Multiple Accounts or Rules | CyberSavvy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-dvrs-what-are-they-and-how-do-they-work/"><u>Exploring the World of DVRs: What Are They and How Do They Work?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/galaxy-ais-rise-in-tech-innovations-outshines-googles-setback-from-antitrust-loss-zdnet-insights/"><u>Galaxy AI's Rise in Tech Innovations Outshines Google's Setback From Antitrust Loss | ZDNet Insights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-instant-setup-free-targus-docking-station-driver-download/"><u>Get Instant Setup: Free Targus Docking Station Driver Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fully-remove-and-cancel-your-yahoo-mail-account-securely/"><u>How To Fully Remove and Cancel Your Yahoo! Mail Account Securely</u></a></li>
-<li><a href="https://win11.techidaily.com/lockdown-windows-7-ways-to-secure-your-system/"><u>Lockdown Windows: 7 Ways to Secure Your System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/next-gen-siri-boosted-with-apples-intelligence-upgrades-major-overhaul-coming-insights-from-zdnet/"><u>Next-Gen Siri Boosted with Apple's Intelligence Upgrades; Major Overhaul Coming - Insights From ZDNet</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-to-setting-up-a-restoration-point-on-windows-server-200/"><u>Step-by-Step Guide to Setting Up a Restoration Point on Windows Server 200</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-mp4-editor-for-windows-8-fast-and-user-friendly-for-2024/"><u>The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-to-correctly-address-the-blue-screen-with-error-code-0x0000007b/"><u>Troubleshooting Tips to Correctly Address the Blue Screen with Error Code 0X0000007B</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/compatibility-canon-pixma-mp620-and-windows-11-clash/"><u>[Compatibility] Canon Pixma MP620 and Windows 11 Clash</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-diving-deep-into-the-world-of-professional-voice-overs-for-videos/"><u>[New] 2024 Approved Diving Deep Into the World of Professional Voice Overs for Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-infuse-your-reels-with-dynamic-music-choices/"><u>[New] 2024 Approved How to Infuse Your Reels with Dynamic Music Choices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-transfer-secrets-top-5-tactics-to-move-files-onto-your-pc/"><u>[New] In 2024, Transfer Secrets Top 5 Tactics to Move Files Onto Your PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-beginners-guide-to-recording-video-calls-with-google-meets/"><u>[Updated] 2024 Approved A Beginner's Guide to Recording Video Calls with Google Meets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-studio-editor-step-by-step-video-tutorial-creation/"><u>[Updated] 2024 Approved YouTube Studio Editor Step-by-Step Video Tutorial Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-dual-lens-approach-gaining-audience-insight-with-3-pov-strategies-for-youtube-reactions/"><u>[Updated] The Dual Lens Approach Gaining Audience Insight with 3 POV Strategies for YouTube Reactions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-dealing-with-printing-problems-between-an-ipad-and-a-printer/"><u>Expert Advice for Dealing with Printing Problems Between an iPad and a Printer</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tart-your-youtube-venture-top-equipment-choices-for-2024/"><u>Jumpstart Your YouTube Venture Top Equipment Choices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-alexa-silence-remedies-for-an-echo-that-doesnt-answer/"><u>Overcoming Alexa Silence: Remedies for an Echo That Doesn't Answer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-connect-apple-tv-plus-with-chromecast-a-step-by-step-tutorial/"><u>Seamlessly Connect Apple TV Plus with Chromecast - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-correcting-netflixs-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Correcting Netflix's Error NW-1-19</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tactics-correcting-the-error-when-you-cant-find-msvcr70dll-file/"><u>Troubleshooting Tactics: Correcting the Error When You Can't Find Msvcr70.dll File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-next-for-smartwatches-predictions-on-apple-watch-ultra-2-specs-launch-window-and-market-pricing/"><u>What's Next for Smartwatches? Predictions on Apple Watch Ultra 2 Specs, Launch Window & Market Pricing</u></a></li>
 </ul></div>
 

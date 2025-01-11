@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2024-12-29T16:30:34.563Z
-updated: 2025-01-04T16:08:21.659Z
+date: 2025-01-03T21:28:46.823Z
+updated: 2025-01-10T17:36:26.855Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,18 +175,24 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-empowering-your-iphones-capture-with-full-screen-images/"><u>[New] 2024 Approved Empowering Your iPhone's Capture with Full-Screen Images</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms/"><u>[New] Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-become-a-spotify-ad-expert-in-no-time/"><u>[Updated] Become a Spotify Ad Expert in No Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foundations-of-fast-and-easy-nft-innovation/"><u>[Updated] Foundations of Fast & Easy NFT Innovation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-apple-slashes-mac-mini-prices-new-m2-model-now-just-479-tech-news/"><u>1. Apple Slashes Mac Mini Prices: New M2 Model Now Just $479 - Tech News</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-50-mobile-app-mastering-ransomware-decryption-with-ai-powered-chatgpt/"><u>Decoding the $50 Mobile App: Mastering Ransomware Decryption with AI-Powered ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-7-free-academic-tools-to-help-prepare-your-child-for-school-successfully/"><u>Discover 7 Free Academic Tools to Help Prepare Your Child for School Successfully</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-12-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 Pro Activation Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-prevent-dragon-age-origins-from-crashing-on-windows-11/"><u>Resolved: How to Prevent Dragon Age: Origins From Crashing on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/this-months-treasure-trove-exclusive-list-of-top-ranking-max-documentaries-july-2024/"><u>This Month's Treasure Trove: Exclusive List of Top-Ranking Max Documentaries (July 2024)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-18-unbeatable-primeside-tech-bargains-on-computers-from-brands-like-hp-apple-and-razer-exclusive-offersprime-day-techinsight/"><u>Top 18 Unbeatable Primeside Tech Bargains on Computers From Brands Like HP, Apple & Razer - Exclusive Offers![Prime Day] | TechInsight</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-potential-with-best-sd-cards-for-gopro-hero-78/"><u>Unlock Potential with Best SD Cards for GoPro HERO 7/8</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/video-movie-maker-for-windows-8/"><u>Video Movie Maker for Windows 8</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-navigating-tiktok-to-perfect-your-digital-twin/"><u>[Updated] 2024 Approved Navigating TikTok to Perfect Your Digital Twin</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-turn-games-into-memories-no-fuss-nvidia-style/"><u>[Updated] 2024 Approved Turn Games Into Memories - No Fuss, NVIDIA Style</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimizing-profits-on-youtube-studio-for-all-device-users-for-2024/"><u>[Updated] Optimizing Profits on YouTube Studio for All-Device Users for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-gratis-aomei-software-fur-effizientes-incremental-and-differential-backup/"><u>1. Gratis AOMEI-Software Für Effizientes Incremental & Differential Backup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-dezipper-vos-fichiers-mp3-solutions-portables-dordinateur-et-sur-internet/"><u>Comment Dézipper Vos Fichiers Mp3 : Solutions Portables, D'ordinateur Et Sur Internet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-wi-fi-connectivity-failures-in-windows-10-tablets/"><u>Diagnosing and Repairing Wi-Fi Connectivity Failures in Windows 10 Tablets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/experts-list-of-elite-game-recording-software-for-2024/"><u>Expert's List of Elite Game Recording Software for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-7-plus-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 7 Plus iCloud Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-it-when-alexa-says-the-echo-is-offline/"><u>How to Fix It When Alexa Says the Echo Is Offline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insta-talk-tweaks-expert-tips-for-rewriting-your-chats-on-instagram/"><u>Insta-Talk Tweaks: Expert Tips for Rewriting Your Chats on Instagram</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-difference-between-home-theater-and-stereo-receivers/"><u>The Difference Between Home Theater and Stereo Receivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978150760-the-spread-of-market-economies-around-the-world-and-their-eventual-adoption-by-even-socialist-states-like-china/"><u>The Spread of Market Economies Around the World and Their Eventual Adoption by Even Socialist States Like China</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-msvcr100dll-not-found-tips-and-tricks-inside/"><u>The Ultimate Fix for 'MSVCR100.DLL' Not Found – Tips and Tricks Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-automated-posting-to-boost-your-twitter-presence-effectively/"><u>Top Tips for Automated Posting to Boost Your Twitter Presence Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-your-dorm-into-a-movie-hub-with-no-wires-needed/"><u>Transforming Your Dorm Into a Movie Hub with No Wires Needed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-what-to-do-when-your-computer-cant-find-openal32dll/"><u>Troubleshooting: What to Do When Your Computer Can't Find openAL32.dll</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-latest-samsung-galaxy-z-fold-6-unveiled-pricing-launch-timeline-and-detailed-specifications/"><u>Unfolding the Latest - Samsung Galaxy Z Fold 6 Unveiled: Pricing, Launch Timeline & Detailed Specifications</u></a></li>
 </ul></div>
 

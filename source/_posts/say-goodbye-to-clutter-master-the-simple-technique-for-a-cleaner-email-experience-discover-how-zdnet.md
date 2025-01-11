@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Clutter: Master the Simple Technique for a Cleaner Email Experience – Discover How | ZDNET"
-date: 2024-12-30T16:38:29.612Z
-updated: 2025-01-04T16:12:51.489Z
+date: 2025-01-04T18:31:17.700Z
+updated: 2025-01-11T10:06:13.993Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -38,7 +34,7 @@ If you're going to be one of those people, read on.
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Update
@@ -62,12 +58,16 @@ These are the iPhones that can run iOS 15:
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -105,6 +105,10 @@ Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. Wiping the old iPhone
 
 OK, you've done that, your data is safe, you've got your new iPhone, and that's all set up and working fine. 
@@ -132,10 +136,6 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
@@ -144,7 +144,7 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -187,21 +187,24 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-can-you-project-youtube-and-fb-videos-onto-your-hdtv-for-2024/"><u>[New] Can You Project YouTube & FB Videos Onto Your HDTV for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ecuring-your-youtube-profile-a-guide-for-2024/"><u>[New] Securing Your YouTube Profile A Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>[Updated] In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-latest-showdown-choosing-between-the-m3-and-m2-macbook-air-expert-comparisons-revealed/"><u>Apple's Latest Showdown: Choosing Between the M3 and M2 MacBook Air - Expert Comparisons Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks-on-zdnets-best-list/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks on ZDNet's Best List!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-home-theatre-vs-stereo-receivers-understanding-the-key-distinctions/"><u>Comparing Home Theatre Vs. Stereo Receivers: Understanding the Key Distinctions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-prompts-what-are-they-and-how-do-they-function/"><u>Exploring Artificial Intelligence Prompts: What Are They and How Do They Function?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-siri-improvements-with-apples-advanced-intelligence-set-reveal-zdnet-news/"><u>Future Siri Improvements with Apple's Advanced Intelligence Set Reveal | ZDNet News</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-instantly-professional-rapidly-crafting-valorant-game-imagery/"><u>In 2024, Instantly Professional Rapidly Crafting Valorant Game Imagery</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-master-your-mp3-ultimate-guide-to-youtube-converters/"><u>In 2024, Master Your MP3 Ultimate Guide to YouTube Converters</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-photographers-guide-to-pc-gaming-scenes/"><u>In 2024, The Photographer’s Guide to PC Gaming Scenes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-alert-score-an-unprecedented-700-off-the-new-202-ipad-pro-check-out-our-report-at-zdnet/"><u>Labor Day Savings Alert: Score an Unprecedented $700 Off the New 202# iPad Pro! Check Out Our Report at ZDNET.</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ering-brands-spotlight-on-top-9-free-youtube-logos-craftors-for-2024/"><u>Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-macbook-peripherals-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Peripherals - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-eye-candy-for-digital-performances-for-2024/"><u>Ultimate Eye Candy for Digital Performances for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-vpn-providers-in-depth-analysis-by-industry-experts-pcmag/"><u>Ultimate Guide to iPhone VPN Providers: In-Depth Analysis by Industry Experts | PCMag</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[Updated] 2024 Approved From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-chronological-tagging-adding-times-to-youtube-vids/"><u>[Updated] In 2024, Chronological Tagging Adding Times to YouTube Vids</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-pro-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-artwork-navigate-through-our-selection-of-the-top-17-graphic-design-platforms/"><u>Ace Your Artwork: Navigate Through Our Selection of the Top 17 Graphic Design Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722889355374-blown-away-by-emojis-10-startling-truths-you-need-to-see/"><u>Blown Away by Emojis? 10 Startling Truths You Need to See!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-instagram-storytelling-with-background-tunes-a-how-to-guide/"><u>Enhance Your Instagram Storytelling with Background Tunes: A How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-resolving-iphone-remote-software-problems-efficiently/"><u>Expert Advice for Resolving iPhone Remote Software Problems Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-potential-features-of-apples-new-ultra-series-2-watch-specs-price-forecasts-and-release-timeline/"><u>Exploring Potential Features of Apple's New Ultra Series 2 Watch: Specs, Price Forecasts, and Release Timeline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-avi-file-error-on-plex-why-isnt-it-recognizing-the-format/"><u>Fix Avi File Error on PLEX: Why Isn't It Recognizing the Format?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-your-steam-remote-play-up-and-running-with-these-expert-tips/"><u>Get Your Steam Remote Play Up and Running with These Expert Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-14-ultra-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi 14 Ultra Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-masterful-solutions-to-fix-issues-in-mordhau/"><u>No More Crashes - Masterful Solutions to Fix Issues in Mordhau</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-transition-installing-windows-11-on-your-latest-hard-drive-expansion/"><u>Seamless Transition: Installing Windows 11 on Your Latest Hard Drive Expansion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taming-troublesome-code-28-glitches-on-windows-machines-a-user-friendly-guide/"><u>Taming Troublesome Code 28 Glitches on Windows Machines - A User-Friendly Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-using-live-activities-on-your-iphone-ios-16/"><u>The Ultimate Tutorial for Using Live Activities on Your iPhone (iOS 16)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-infinix-hot-40-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Infinix Hot 40 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722875785006-unpacking-the-goodies-that-come-with-a-nintendo-switch-console/"><u>Unpacking the Goodies That Come with a Nintendo Switch Console</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/naries-of-marvellous-marvel-realities/"><u>Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/why-doesnt-my-pc-boot-up-uncover-common-causes-with-expert-advice-from-yl-technology-experts/"><u>Why Doesn't My PC Boot Up? Uncover Common Causes with Expert Advice From YL Technology Experts</u></a></li>
 </ul></div>
 
