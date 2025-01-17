@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 11: Solutions for Non-Responsive Search Function"
-date: 2024-08-19T00:24:24.971Z
-updated: 2024-08-20T00:24:24.971Z
+date: 2025-01-11T20:04:12.262Z
+updated: 2025-01-16T17:06:43.717Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Windows 11: Solutions for Non-Responsive Search Function"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
@@ -28,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -54,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -66,9 +79,9 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
@@ -106,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +126,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-7-best-online-voice-recorders-2023/"><u>[New] In 2024, 7 Best Online Voice Recorders 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-small-details-on-google-meet-screen/"><u>[New] Perfecting Small Details on Google Meet Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-flashback-screen-recorder-review-in-depth/"><u>[Updated] In 2024, FlashBack Screen Recorder Review in Depth</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-pivoting-careers-from-novice-to-industry-veteran-for-2024/"><u>[Updated] Pivoting Careers From Novice to Industry Veteran for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-examination-razer-kiyo-cam/"><u>2024 Approved Comprehensive Examination Razer Kiyo Cam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-recording-game-changer-for-facebook-streams/"><u>2024 Approved The Recording Game-Changer for Facebook Streams</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-chromebook-c202sa-evaluation-a-student-friendly-laptop-built-to-last/"><u>Asus Chromebook C202SA Evaluation - A Student-Friendly Laptop Built to Last</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boosting-engagement-navigate-to-these-8-best-apps-for-post-timers-for-2024/"><u>Boosting Engagement Navigate to These 8 Best Apps for Post Timers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones/"><u>Enhance Your Virtual Stage The Ultimate List of Top 6 Microphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-guide-addressing-the-missing-msdatsrcpdb-file-warning-on-pcs/"><u>Fix Guide: Addressing the Missing Msdatsrc.pdb File Warning on PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-modify-someone-elses-login-credentials-in-windows-os/"><u>Guide to Modify Someone Else’s Login Credentials in Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-diagnose-and-repair-microsoft-directxdll-not-found-problems-efficiently/"><u>How to Diagnose & Repair 'Microsoft DirectX.dll Not Found' Problems Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-d3dx92n26dll-file-not-detected-a-step-by-step-guide/"><u>Resolving the d3dx9_2n_26.dll File Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-missing-d3dx934dll-errors-on-windows/"><u>Step-by-Step Fix for Missing d3dx9_34.dll Errors on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-face-off-apples-ipad-pro-m4-versus-macbook-air-m3-a-detailed-comparison/"><u>The Ultimate Face-Off: Apple's iPad Pro (M4) Versus MacBook Air (M3) - A Detailed Comparison</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722886982682-top-10-best-free-email-services-to-try-today/"><u>Top 10 Best Free Email Services to Try Today</u></a></li>
+</ul></div>
 

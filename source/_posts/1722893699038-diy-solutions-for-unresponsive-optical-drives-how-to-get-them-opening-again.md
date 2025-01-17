@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again!
-date: 2024-08-19T00:22:08.609Z
-updated: 2024-08-20T00:22:08.609Z
+date: 2025-01-10T18:57:36.602Z
+updated: 2025-01-17T01:17:54.048Z
 categories:
   - BestProducts
 description: This Article Describes DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again!
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
  You've[correctly arranged your new speakers](https://www.lifewire.com/placing-speakers-correctly-3134857) . All the cables have been meticulously connected. Each piece of equipment has been switched on. Then, you hit "play" on the audio source, yet nothing happens. How frustrating!
 
  But don't toss your remote at the wall just yet. Instead, try these troubleshooting tips to get your brand new sound system up and working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Stereo Receiver That's Not Making Sound
 
@@ -27,6 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
  You'll need a 3.5 mm-to-RCA stereo audio cable to connect speakers that have 3.5 mm or RCA connections, such as a laptop or smartphone.
 5. **Check the source components** . First, test whatever source component (device) you're using—such as a CD player, DVD/Blu-ray player, or turntable—with another working TV or set of speakers. If the device still doesn't play properly, then your problem is most likely with the device.  
  If all source components are good, connect them back into the original receiver and set them to play some input. Toggle through each input source on the stereo receiver one by one. If the receiver works with some input sources but not others, the cables connecting the component to the receiver could be the problem. Replace any suspect cables and try the original component again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of a Stereo Receiver Not Making Sound
 
@@ -54,8 +62,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -63,8 +69,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/eciphering-youtubes-cost-per-mille-cpm-structure-for-2024/"><u>[New] Deciphering YouTube’s Cost Per Mille (CPM) Structure for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-clip-composition-blending-modes-techniques/"><u>[Updated] 2024 Approved Mastering Clip Composition Blending Modes Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>[Updated] 2024 Approved YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-specs-of-samsung-galaxy-z-fold-6-anticipated-price-point-and-availability-date-announced/"><u>Explore the Specs of Samsung Galaxy Z Fold 6: Anticipated Price Point & Availability Date Announced</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-newest-pc-audio-drivers-for-windows-here/"><u>Get Your Newest PC Audio Drivers for Windows Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-is-higher-frame-rate-better-weighing-30-vs-60fps-in-video/"><u>In 2024, Is Higher Frame Rate Better? Weighing 30 Vs. 60Fps in Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/nvidia-display-not-showing-heres-how-to-fix-an-unplugged-output-issue/"><u>Nvidia Display Not Showing? Here's How to Fix an Unplugged Output Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-disappeared-connections-restoring-removed-phone-numbers-on-android-phones/"><u>Revive Your Disappeared Connections: Restoring Removed Phone Numbers on Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897568445-switching-from-gmail-discover-the-leading-8-mail-providers-for-2n25/"><u>Switching From Gmail? Discover the Leading 8 Mail Providers for 2N25</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-simplest-way-to-hunt-down-profiles-on-facebook-a-guide-to-effective-searches/"><u>The Simplest Way to Hunt Down Profiles on Facebook – A Guide to Effective Searches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-to-using-snapchat-on-a-pc-a-comprehensive-tutorial/"><u>Unlocking the Secrets to Using Snapchat on a PC – A Comprehensive Tutorial</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->

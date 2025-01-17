@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights by ZDNET"
-date: 2025-01-06T01:17:49.948Z
-updated: 2025-01-11T07:38:43.119Z
+date: 2025-01-14T01:50:05.664Z
+updated: 2025-01-17T00:26:00.026Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms/"><u>[New] 2024 Approved 20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-explore-interaction-tips-for-uploading-videos-from-twitter-snapchat/"><u>[New] Explore Interaction Tips for Uploading Videos From Twitter (Snapchat)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-hand-tracking-insights-detailed-exploration/"><u>[Updated] Hand Tracking Insights Detailed Exploration</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>[Updated] In 2024, Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-free-h265-hevc-encoderdecoder-software-for-ultra-hd-and-8k-videos/"><u>1. Free H.265 HEVC Encoder/Decoder Software for Ultra HD & 8K Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-dynamic-animations-using-movie-maker/"><u>2024 Approved Tips for Dynamic Animations Using Movie Maker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chronological-adventure-the-best-way-to-experience-the-x-men-universe-on-screen/"><u>Chronological Adventure: The Best Way to Experience the X-Men Universe on Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-network-reach-premier-range-extender-picks/"><u>Enhance Your Network Reach: Premier Range Extender Picks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-motorola-moto-g24-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola Moto G24 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-magic5-ultimate-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor Magic5 Ultimate Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-the-hype-samsung-galaxy-rings-pricing-specifications-release-timeline-and-recent-news/"><u>Inside the Hype: Samsung Galaxy Ring's Pricing, Specifications, Release Timeline, and Recent News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/kickstarting-your-digital-journey-initial-steps-after-buying-a-new-computer/"><u>Kickstarting Your Digital Journey: Initial Steps After Buying a New Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rise-to-the-challenge-elite-tips-for-conquering-subway-surfers-gameplay/"><u>Rise to the Challenge: Elite Tips for Conquering Subway Surfers Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-on-utilizing-iphone-emojis-like-a-pro/"><u>The Complete Tutorial on Utilizing iPhone Emojis Like a Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-elusive-mfc71dll-tips-and-techniques-to-resolve-file-not-found-problems/"><u>Troubleshooting the Elusive mfc71.dll: Tips & Techniques to Resolve 'File Not Found' Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-solving-netflixs-ui-800-3-display-problem/"><u>Troubleshooting Tips for Solving Netflix's UI-800-3 Display Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-top-favorites-the-best-free-email-services-available-today/"><u>Unveiling Our Top Favorites: The Best Free Email Services Available Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-vive-headset-review-the-gateway-to-ultimate-virtuality/"><u>[New] In 2024, Vive Headset Review The Gateway to Ultimate Virtuality</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/charting-new-horizebs-with-cutting-edge-verizon-5g-solutions/"><u>Charting New Horizebs with Cutting-Edge Verizon 5G Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/demystifying-pop-up-advertising-comprehensive-insights-and-effective-seo-techniques-for-optimization/"><u>Demystifying Pop-Up Advertising: Comprehensive Insights & Effective SEO Techniques for Optimization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-iphone-to-smart-tv-connectivity-glitches-with-airplay/"><u>Easy Fixes for iPhone to Smart TV Connectivity Glitches with AirPlay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-video-playback-acceleration-for-2024/"><u>Harnessing the Power of Video Playback Acceleration for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-driving-traffic-and-likes-a-guide-for-instagram-pros/"><u>In 2024, Driving Traffic & Likes A Guide for Instagram Pros</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-xsplit-hub-compre-written-assessments/"><u>In 2024, XSplit Hub Compre Written Assessments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflixs-ui-800-3-blunder-heres-how-to-quickly-resolve-it/"><u>Netflix's UI-800-3 Blunder? Here’s How to Quickly Resolve It.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sony-virtual-reality-gear-anticipated-launch-details-pricing-insights-and-latest-leaks/"><u>Sony Virtual Reality Gear: Anticipated Launch Details, Pricing Insights & Latest Leaks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-unfolds-with-samsung-galaxy-z-fold-n7-release-info-expected-rrp-and-whats-inside-this-flexible-marvel/"><u>The Future Unfolds with Samsung Galaxy Z Fold N°7: Release Info, Expected RRP, and What's Inside This Flexible Marvel?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-11-must-visit-free-movie-torrent-sites/"><u>Ultimate List: 11 Must-Visit Free Movie Torrent Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-iphone-17-insights-anticipated-cost-availability-dates-and-latest-tech-revelations/"><u>Upcoming iPhone 17 Insights: Anticipated Cost, Availability Dates & Latest Tech Revelations</u></a></li>
 </ul></div>
 

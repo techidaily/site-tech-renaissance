@@ -1,7 +1,7 @@
 ---
 title: "Complete Walkthrough: Snapping Photos of Your Screen on an HP Device"
-date: 2024-08-19T00:19:53.011Z
-updated: 2024-08-20T00:19:53.011Z
+date: 2025-01-10T22:24:43.910Z
+updated: 2025-01-16T19:27:05.788Z
 categories:
   - BestProducts
 description: "This Article Describes Complete Walkthrough: Snapping Photos of Your Screen on an HP Device"
@@ -20,13 +20,18 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 [How to Take Screenshots in Windows 10, 8, and 7](https://www.lifewire.com/take-screenshot-windows-7-8-10-4049964)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the Keyboard to Take a Screenshot in Windows
 
  There are a few ways to take screenshots using the keyboard. Most methods require you to paste and save the screen capture in the image editor of your choice.  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Save the Screen to the Clipboard
 
  Use the**PrtSc** (Print Screen) button to capture everything visible on the screen to the clipboard. It's often on the far right of the top row of the keyboard. You will then need to paste the image into an editor like Paint (or some[other image editor](https://www.lifewire.com/free-photo-editors-1357098) ) to see and manipulate the image further.
@@ -41,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  On some keyboards, you must hold down the**FN** key as well, so the whole shortcut is**Win** +**Fn** +**PrtSc** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Capture Part of the Screen
 
  Simultaneously press**Win** +**Shift** +**S** . Drag your cursor over the area of the screen you want to capture. The selected section will be saved to the clipboard and also stored in the**Pictures\\Screenshots** folder.  
@@ -49,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  Use**Alt** +**PrtSc** to capture the active window and add it to the clipboard. You will see no indication that the capture actually happened.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Take a Screenshot With Snipping Tool
 
  The Windows Snipping Tool offers advanced options for capturing and editing screenshots. With it, you can take a screenshot of the laptop's whole screen at once, or just one window, or a specific part of the screen.
@@ -62,14 +68,8 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 3. Select**New** to start your screen capture.  
 !['New' and 'Full screen' highlighted in Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/g66hVFQzkmgPsL_-O_rBUg5_zcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ScreenshotonanHPLaptop-annotated-445623206c1e4eef89a213342557830b.jpg)
 4. Snipping Tool will open the screenshot in a new window. From here, you can use the tools up top to make notes and highlights, or copy the image to Paint, before you save the screenshot, which you can do from the**floppy disk** icon.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Editing tools and save button highlighted in the Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/UOBedWb_YxuBBdnppspmJ6w-akE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonanHPLaptop-annotated-f68b452cb4314b9097d3a1e2851933ec.jpg)  
  There are also third-party[screenshot apps for Windows](https://www.lifewire.com/best-screenshot-apps-windows-4177685) that offer more editing options.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Snip & Sketch in Windows 10  
 
@@ -77,32 +77,33 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 5. With the window or screen you want to capture open, click the**Start menu** .  
 ![The Start menu in Windows 10](https://www.lifewire.com/thmb/jhfqJPusffnGbRDz0h4z34Cr2KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-screenshot-on-an-hp-laptop-5113272-18280d7e9f2646ec9737b568a63e1f6d.jpg)
 6. Search for**Snip & Sketch** in the**search bar** and select it from the results.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Snip & Sketch in Windows 10 search](https://www.lifewire.com/thmb/BVW5_zNPQIiLElFJfb9LJncuxCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-screenshot-on-an-hp-laptop-5113272-90cfac0731be469b84f371dd350418b7.jpg)
 7. A menu will appear at the top of the screen. Click the fourth option to capture the whole image, which looks like a rectangle with marks in each corner.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Fullscreen Snap option in Snip & Sketch ](https://www.lifewire.com/thmb/J0OSAm42Pokyx2lgosQHb1FGec4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-screenshot-on-an-hp-laptop-5113272-e15fbcfa15374ebba4b40f6c9ae509e6.jpg)  
  The other options let you draw a rectangle to capture, make a freeform shape, or grab the active window.
 8. However you take the screen, Windows will save it to the clipboard, and a notification will appear. Select the notification (which includes a thumbnail of the screen you just took) to open a customization window.  
 ![A thumbnail of a screen from Snip & Sketch](https://www.lifewire.com/thmb/vToUxAoilJyyDCqp-p5WU7k9f44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-screenshot-on-an-hp-laptop-5113272-2b4f0f801846402e9a5b19baa15ea3d3.jpg)
 9. In this window, you can mark up, highlight, and crop the image using the tools at the top of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Editing tools in Snip & Sketch](https://www.lifewire.com/thmb/sYD0JV4SnJihP8vQIPKLDtLcK3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-screenshot-on-an-hp-laptop-5113272-9bdc8e07001c4cb6ba077d56b6f127b8.jpg)
 10. To save the screenshot, select the**Save** icon.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Save button in Snip & Sketch](https://www.lifewire.com/thmb/tne8-m5QuuEH054CwG8jz5Ysklc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-screenshot-on-an-hp-laptop-5113272-0d187feff1f046bb90f87e2567b2540c.jpg)
 11. In the next window, choose a file name, file type, and location for your saved screenshot, then select**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Save in the Save window in Windows Snip & Sketch](https://www.lifewire.com/thmb/ytqrZAnY_rgAb2JoVonbEBpA5H4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-screenshot-on-an-hp-laptop-5113272-5537372a44cc491baa434a42656ba761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Take a Screenshot on an HP Tablet
 
  HP dropped out of the tablet market in 2011, but you can capture the screen by pressing**Power** +**Volume Down** if you still have one. You can find screenshots in the**Photos** app.
@@ -110,8 +111,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 ![The Power and Volume Down buttons on an HP tablet](https://www.lifewire.com/thmb/LQyDhN14pOtcwoGTDvOYoDj3aKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-screenshot-on-an-hp-laptop-5113272-108a6439e9a64000a39c0ed68fa2f6c1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 HP
 
 [How to Screenshot on HP Envy](https://www.lifewire.com/take-screenshot-on-hp-envy-5187988)
@@ -145,8 +147,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +154,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-dive-into-history-the-definitive-list-of-student-friendly-channels-1-10/"><u>[Updated] 2024 Approved A Dive Into History The Definitive List of Student-Friendly Channels #1-10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unparalleled-mac-capture-tools-assessed/"><u>[Updated] 2024 Approved Unparalleled Mac Capture Tools Assessed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-9-powerful-applications-for-saving-youtube-content-on-android/"><u>[Updated] In 2024, 9 Powerful Applications for Saving YouTube Content on Android</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-editing-excellence-sports-videos-that-stand-out/"><u>[Updated] In 2024, Editing Excellence Sports Videos That Stand Out</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-your-youtube-clicks-with-optimal-dimensions-for-2024/"><u>[Updated] Maximizing Your YouTube Clicks with Optimal Dimensions for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-virtual-reality-vr-bikes-to-check-out/"><u>2024 Approved Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-no-cellular-signal-problems-on-apple-watch-tips-and-solutions/"><u>Addressing No Cellular Signal Problems on Apple Watch – Tips & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-performance-a-guide-to-unlocking-full-fps-potential-in-ps5-games/"><u>Boosting Performance: A Guide to Unlocking Full FPS Potential in PS5 Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-finding-and-downloading-user-manuals-for-all-iphone-models/"><u>Complete Guide: Finding and Downloading User Manuals for All iPhone Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-your-fire-tv-stick-remotes-connectivity-problems/"><u>Expert Tips for Fixing Your Fire TV Stick Remote's Connectivity Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-compelling-windows-to-start-up-in-safe-mode/"><u>Expert Tips on Compelling Windows to Start Up in Safe Mode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-13-proplus-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 13 Pro+ 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovation-hub-for-youtube-gurus/"><u>Innovation Hub for YouTube Gurus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-towards-electric-car-power-discovering-ev-charging-spots-via-google-maps/"><u>Navigate Towards Electric Car Power: Discovering EV Charging Spots via Google Maps</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gems-discover-the-best-nintendo-switch-docks/"><u>Next-Gen Gems: Discover the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-rpcrt4dll-is-not-found-windows-error/"><u>Troubleshooting the 'Rpcrt4.dll Is Not Found' Windows Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-effective-techniques-for-disinfecting-your-television-clicker/"><u>Ultimate Guide: Effective Techniques for Disinfecting Your Television Clicker</u></a></li>
+</ul></div>
 

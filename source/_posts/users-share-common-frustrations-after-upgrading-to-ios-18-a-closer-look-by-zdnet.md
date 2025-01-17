@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2025-01-03T21:06:20.302Z
-updated: 2025-01-11T08:01:22.408Z
+date: 2025-01-15T22:21:22.326Z
+updated: 2025-01-16T20:35:09.281Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-windows-animation-the-best-9-software-for-high-quality-gif-capture/"><u>[New] Mastering Windows Animation The Best 9 Software for High-Quality GIF Capture</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-virtual-realm-mastery-prime-metaverse-vr-equipment/"><u>[New] Virtual Realm Mastery Prime Metaverse VR Equipment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bypassing-common-drone-mistakes-with-this-essential-checklist/"><u>[Updated] Bypassing Common Drone Mistakes with This Essential Checklist</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-hidden-narrators-of-fb-nuggets-for-2024/"><u>[Updated] Hidden Narrators of FB Nuggets for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-global-viewership-kings-youtubes-viral-royalty/"><u>[Updated] In 2024, Global Viewership Kings YouTube's Viral Royalty</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-successfully-upgrading-to-windows-11-with-a-fresh-hard-drive/"><u>Complete Guide: Successfully Upgrading to Windows 11 with a Fresh Hard Drive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficient-methods-for-transforming-your-jpeg-images-into-a-comprehensive-pdf-file/"><u>Efficient Methods for Transforming Your JPEG Images Into a Comprehensive PDF File</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/head-to-head-comparison-ps5-slim-vs-full-sized-ps5/"><u>Head-to-Head Comparison: PS5 Slim vs Full-Sized PS5</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/hold-whole-page-snapshot-image-for-2024/"><u>Hold Whole Page Snapshot Image for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104746224-how-to-resolve-nvidia-geforce-gtx-950-code-43-error-on-your-windows-11-pc-easily/"><u>How to Resolve NVIDIA GeForce GTX 950 Code 43 Error on Your Windows 11 PC Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-reset-your-computer-despite-errors/"><u>How to Successfully Reset Your Computer Despite Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/oneplus-10-buzz-predictions-for-release-timeline-pricing-details-features-and-rumors/"><u>OnePlus 10 Buzz: Predictions for Release Timeline, Pricing Details, Features, and Rumors</u></a></li>
-<li><a href="https://win-dash.techidaily.com/overcome-xbox-peripheral-driver-challenges-in-windows-11-8-and-7-with-this-simple-solution/"><u>Overcome Xbox Peripheral Driver Challenges in Windows 11, 8 & 7 with This Simple Solution</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-arent-you-receiving-texts-on-your-android-phone-quick-fix-tips/"><u>Why Aren't You Receiving Texts on Your Android Phone? Quick Fix Tips!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/omprehensive-list-of-top-9-free-video-channel-branding-aids/"><u>[New] Comprehensive List of Top 9 Free Video Channel Branding Aids</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-timing-and-frequency/"><u>[Updated] Timing and Frequency</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728496547856-hddssd/"><u>逐步操作：完美地複製你現有系統的啟動硬碟到其他HDD或SSD上</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210676297-9781398464094-brains-got-the-shts-again/"><u>Brain's Got the Sh*ts Again | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-mov-videos-to-mp3-files-for-free-seamless-audio-extraction-using-movavis-web-converter/"><u>Convert MOV Videos to MP3 Files for Free: Seamless Audio Extraction Using Movavi's Web Converter</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-steams-recognition-for-your-games/"><u>Enhancing Steam's Recognition for Your Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-x6-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco X6 Pro Devices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/liberate-ebooks-from-drm-comprehensive-guide-to-safe-epub-decryption-techniques/"><u>Liberate eBooks From DRM - Comprehensive Guide to Safe EPub Decryption Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revitalize-your-online-presence-with-the-latest-updates-and-tweaks/"><u>Revitalize Your Online Presence with the Latest Updates and Tweaks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-setting-up-koreader-application-on-your-kindle-device/"><u>Step-by-Step Guide to Setting Up Koreader Application on Your Kindle Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-adding-a-protective-watermark-to-your-pdf-documents/"><u>Step-by-Step Guide: Adding a Protective Watermark to Your PDF Documents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-moving-ebooks-from-your-computer-to-a-kindle-reader/"><u>Step-by-Step Guide: Moving eBooks From Your Computer to a Kindle Reader</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transferring-epubpdf-reads-onto-your-kobo-and-sony-digital-book-devices/"><u>Step-by-Step Guide: Transferring EPUB/PDF Reads Onto Your Kobo & Sony Digital Book Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/superior-speech-logging-apps-for-ipads-3-for-2024/"><u>Superior Speech Logging Apps for iPads #3 for 2024</u></a></li>
 </ul></div>
 

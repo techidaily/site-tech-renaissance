@@ -1,7 +1,7 @@
 ---
 title: How To Discontinue Access on Paramount+ Platform
-date: 2024-08-19T00:24:13.112Z
-updated: 2024-08-20T00:24:13.112Z
+date: 2025-01-16T01:42:01.071Z
+updated: 2025-01-16T20:36:56.420Z
 categories:
   - BestProducts
 description: This Article Describes How To Discontinue Access on Paramount+ Platform
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/DRPKfwxq1O5D20YIAHSU0o38OZM=/400x300/fi
 
 [How to Stop Spotify From Opening on Startup on a Mac](https://www.lifewire.com/stop-spotify-from-opening-on-startup-on-a-mac-5209503)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Apple Music From Automatically Playing on iPhone
 
  By default, the[iOS Music app](https://www.lifewire.com/apple-music-on-ios-4684678) will continuously play songs from the Apple Music library until told otherwise. It can be frustrating when you want to listen to a single tune or album and then go about your day.
@@ -35,15 +39,24 @@ thumbnail: https://www.lifewire.com/thmb/DRPKfwxq1O5D20YIAHSU0o38OZM=/400x300/fi
 4. If Autoplay is activated, you should see an Autoplay playlist in the lower half of the screen and a highlighted Autoplay icon to the right of the song playing. Tap the**Autoplay** icon to disable it.  
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/5RZwYhTcpXjS0K1VBHG9SGvcj9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW10-d805952bf4c34b1bbaef6067467b8299.jpg)  
  The**Autoplay** icon is the one that looks like an infinity symbol.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If done correctly, the Autoplay playlist should immediately disappear, and Apple Music will now stop automatically playing.
 6. You can now return to the app's front screen by tapping the**Up Next** icon once again and then swiping down to minimize the player.  
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/YoFjmsf47ULgcOPG60luN9ht2os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW11-526478ba77314060b7b3b20047261680.jpg)  
  To enable Autoplay in Apple Music, repeat these steps and make sure that the icon is highlighted and the Autoplay playlist is visible.  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips to Stop Apple Music From Playing Automatically  
 
  Sometimes Apple Music can seem to start up automatically when connecting to a car system, a speaker, or a pair of headphones or earphones. While it’s unlikely that the cause is an official iPhone or Apple Music feature, there are still several things you may want to try to prevent this from happening.  
@@ -55,9 +68,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Disable Handoff** . The[iPhone’s Handoff feature](https://www.lifewire.com/everything-you-need-to-know-about-handoff-4079966) continues media playback on devices once they’re detected automatically. You can customize and even disable Handoff by opening**Settings** and going to**General** \>**AirPlay & Handoff** .  
 ![iPhone Settings showing path to AirPlay & Handoff](https://www.lifewire.com/thmb/-G0RK2zIvlOyL5-54T1esisg2Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-stop-apple-music-from-automatically-playing-5119158-a00b00cf58384f85a4071b2272798f2c.jpg)  
  FAQ  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * How do I stop an Apple Music subscription?  
     To[cancel an Apple Music subscription](https://www.lifewire.com/cancel-apple-music-subscription-1999488) on an iPhone, launch**Settings** , tap**your** **name** \>**Subscriptions** , select**Apple Music** , and tap**Cancel Subscription** . Or, go to the[Apple Music website](https://music.apple.com/browse) , sign in, tap your**account** icon >**Settings** \>**Subscriptions** \>**Manage** , and choose**Cancel Subscription** .  
 * How do I stop SharePlay on Apple Music?  
@@ -85,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +107,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/free-download-official-creative-studio-sound-blaster-audigy-driver-set/"><u>[Free Download] Official Creative Studio Sound Blaster Audigy Driver Set</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-boosting-instagram-videos-online-strategies-for-faster-views/"><u>[New] In 2024, Boosting Instagram Videos Online Strategies for Faster Views</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>[New] Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/augmented-reality-meets-text-messaging-on-fb-messenger/"><u>Augmented Reality Meets Text Messaging on FB Messenger</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-selection-of-free-texting-apps-for-iphones-and-ipod-touch-devices/"><u>Exclusive Selection of Free Texting Apps for iPhones & iPod Touch Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-mastering-the-art-of-sending-audio-notes-from-your-iphone/"><u>Guide: Mastering the Art of Sending Audio Notes From Your iPhone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-11-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 11 Pro?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instamixer-uniting-android-and-ios-photo-sessions/"><u>InstaMixer Uniting Android & iOS Photo Sessions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-4k-clarity-customizing-your-samsung-smart-tv-display-options/"><u>Mastering the Art of 4K Clarity: Customizing Your Samsung Smart TV Display Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/newly-leaked-touchscreen-macbook-details-anticipated-costs-debut-date-features-and-speculations/"><u>Newly-Leaked Touchscreen MacBook Details - Anticipated Costs, Debut Date, Features & Speculations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amd-load-failure-on-windows-10/"><u>Overcoming AMD Load Failure on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fix-guide-tackling-msvbvm50dll-error-missing-files-and-solutions/"><u>Quick Fix Guide: Tackling Msvbvm50.dll Error - Missing Files and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-edge-of-electric-vehicles-in-comparison-to-gasoline-autos-exploring-the-benefits/"><u>The Edge of Electric Vehicles in Comparison to Gasoline Autos: Exploring the Benefits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-elite-choices-a-guide-to-hdr-cameras-for-2024/"><u>Unveiling Elite Choices A Guide to HDR Cameras for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-capabilities-a-closer-look-at-snappy-driver-installer-v113/"><u>Unveiling the Capabilities: A Closer Look at Snappy Driver Installer V1.13</u></a></li>
+</ul></div>
 

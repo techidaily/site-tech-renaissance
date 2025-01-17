@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows"
-date: 2025-01-03T16:33:35.490Z
-updated: 2025-01-10T19:37:42.074Z
+date: 2025-01-09T21:26:57.647Z
+updated: 2025-01-16T19:19:02.104Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -78,6 +82,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -96,10 +104,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
 
 ## 1\. Install Intel Unison
@@ -109,10 +113,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -127,7 +127,7 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -136,6 +136,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -143,7 +147,7 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,17 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/alternative-video-editors-for-laptops-for-2024/"><u>Alternative Video Editors for Laptops for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connecting-your-printer-to-your-laptop-seamlessly-wireless-and-usb-methods-explained/"><u>Connecting Your Printer to Your Laptop Seamlessly: Wireless and USB Methods Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-necessary-speed-for-optimal-pc-performance/"><u>Deciphering the Necessary Speed for Optimal PC Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-setting-up-fandango-streams-on-apple-tv-a-cozy-home-theater-experience/"><u>Easy Steps for Setting Up Fandango Streams on Apple TV - A Cozy Home Theater Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-1-boosting-local-communities-through-volunteer-tourism-a-sustainable-approach-to-traveling/"><u>Explore These 1 # Boosting Local Communities Through Volunteer Tourism: A Sustainable Approach to Traveling</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-keeping-track-saving-insta-visuals-on-iphone/"><u>In 2024, Keeping Track Saving Insta Visuals on iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-ultimate-watchlist-youtubes-greatest-hits/"><u>In 2024, Ultimate Watchlist YouTube's Greatest Hits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-and-wi-fi-woes-heres-how-you-can-get-connected-again/"><u>IPad and Wi-Fi Woes? Here's How You Can Get Connected Again!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317124-9781401943738-light-the-flame/"><u>Light the Flame | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002024009-lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-childrens-favorite-movies-to-watch-on-netflix/"><u>Ultimate List of Children's Favorite Movies to Watch on Netflix</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-livestream-capturing-gear-for-online-content-makers/"><u>[New] 2024 Approved Best Livestream Capturing Gear for Online Content Makers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-an-exclusive-guide-to-deck-to-deck-technology-durecorder/"><u>[New] An Exclusive Guide to Deck-to-Deck Technology DuRecorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>[Updated] The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-on-modifying-your-windows-10-taskbar-color-scheme/"><u>Comprehensive Guide on Modifying Your Windows 10 Taskbar Color Scheme</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-correcting-the-stop-error-0x00000078-caused-by-phase0exception/"><u>Comprehensive Guide to Correcting the STOP Error (0X00000078) Caused by PHASE0_Exception</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dell-device-hygiene-101-how-to-thoroughly-wipe-and-disinfect-your-laptop/"><u>Dell Device Hygiene 101: How to Thoroughly Wipe and Disinfect Your Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-world-of-crime-and-investigation-13-favorite-true-crime-podcast-episodes-revealed/"><u>Dive Into the World of Crime and Investigation: 13 Favorite True Crime Podcast Episodes Revealed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-to-overcome-mfcmapi20dll-file-absence-issues-on-your-pc/"><u>Easy Solutions to Overcome MFCMAPI20.DLL File Absence Issues on Your PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-list-the-10-leading-vimeo-downloaders-web/"><u>Essential List The 10 Leading Vimeo Downloaders Web</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplified-approach-to-nvidia-screen-recording/"><u>In 2024, Simplified Approach to NVIDIA Screen Recording</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-14-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 14</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-chatgpt-history-syncing-the-best-extensions-you-need/"><u>Seamless ChatGPT History Syncing - The Best Extensions You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-overcoming-unable-to-confirm-match-by-vac-issues/"><u>Solution Guide: Overcoming 'Unable To Confirm Match by VAC' Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-news-compilation-services-our-picks/"><u>The Best News Compilation Services - Our Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-victory-conquering-the-fierce-lynel-in-breath-of-the-wild/"><u>Ultimate Guide to Victory: Conquering the Fierce Lynel in Breath of the Wild</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-effective-techniques-for-deep-cleaning-household-stereo-speakers/"><u>Ultimate Guide: Effective Techniques for Deep-Cleaning Household Stereo Speakers</u></a></li>
 </ul></div>
 

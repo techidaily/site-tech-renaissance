@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2025-01-09T19:23:39.383Z
-updated: 2025-01-11T03:54:05.551Z
+date: 2025-01-11T22:29:34.980Z
+updated: 2025-01-16T18:01:19.582Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expand-film-length-for-youtube-posting/"><u>[Updated] 2024 Approved Expand Film Length for YouTube Posting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cross-device-connectivity-made-simple-linking-a-single-phone-number-with-different-smartphones-and-tablets/"><u>Cross-Device Connectivity Made Simple: Linking a Single Phone Number with Different Smartphones and Tablets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-startup-problems-a-comprehensive-tutorial-for-the-missing-bootmgr-issue/"><u>Fixing Startup Problems: A Comprehensive Tutorial for the Missing BOOTMGR Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-pratique-comment-conversion-dun-fichier-ogg-en-mp3/"><u>Guide Pratique : Comment Conversion D'un Fichier Ogg en MP3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-sharing-your-gaming-experience-on-the-ps5-console/"><u>Guide: Sharing Your Gaming Experience on the PS5 Console</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-driver-update-process-for-the-scansnap-ix500-on-windows-systems/"><u>Hassle-Free Driver Update Process for the ScanSnap iX500 on Windows Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v30-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mailcom-subscription-checkup-identifying-expiration-dates/"><u>Mail.com Subscription Checkup: Identifying Expiration Dates</u></a></li>
-<li><a href="https://fox-making.techidaily.com/mastering-cryptocurrency-markets-a-step-by-step-guide-by-yl-software-specialists/"><u>Mastering Cryptocurrency Markets: A Step-by-Step Guide by YL Software Specialists</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-patch-tuesday-insights-into-regular-software-updates/"><u>Navigating Patch Tuesday: Insights Into Regular Software Updates</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest Ⅱ Profile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-newly-revealed-sony-afeela-vehicle-specs-costs-and-arrival-forecasts-covered/"><u>The Newly Revealed Sony Afeela Vehicle – Specs, Costs, and Arrival Forecasts Covered</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-deleting-reposts-on-tiktok-and-managing-posts-effectively/"><u>The Ultimate Guide to Deleting Reposts on TikTok and Managing Posts Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-complimentary-languages-apps-a-must-try-list/"><u>Top 5 Complimentary Languages Apps : A Must-Try List</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-comprehensive-review-of-facetunes-latest-updates/"><u>[New] In 2024, Comprehensive Review of Facetune's Latest Updates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-gear-to-minimize-camera-movement/"><u>[New] Pro Gear to Minimize Camera Movement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-past-web-pages-easily-your-wayback-machine-user-manual/"><u>Access Past Web Pages Easily: Your Wayback Machine User Manual</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-wifi-and-voip-software-of-2024-top-ranked-programs-for-cost-effective-business-communication/"><u>Best Free WiFi & VoIP Software of 2024: Top Ranked Programs for Cost-Effective Business Communication</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ructing-captivating-youtube-music-selections-for-2024/"><u>Constructing Captivating YouTube Music Selections for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-12-no-cost-typing-courses-aimed-at-enthusiasts-of-any-age/"><u>Discover 12 No-Cost Typing Courses Aimed at Enthusiasts of Any Age</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dominance-index-top-ten-royale-survival-games/"><u>In 2024, Dominance Index Top Ten Royale Survival Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participation-in-xtwitter-discussions/"><u>Mastering the Art of Participation in X/Twitter Discussions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-replacing-your-ipads-power-source/"><u>Step-by-Step Guide: Replacing Your iPad's Power Source</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-powerpoint-soundscape-fixes-for-common-audio-hiccups/"><u>Troubleshoot Your PowerPoint Soundscape - Fixes for Common Audio Hiccups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-smart-tvs-connectivity-and-features-for-modern-entertainment/"><u>Understanding Smart TVs: Connectivity and Features for Modern Entertainment</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-free-tiktok-watermark-remover-websites/"><u>Updated The Ultimate List of Free TikTok Watermark Remover Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-new-google-pixel-pricing-forecasts-release-window-and-feature-rumors-revealed/"><u>What to Know About the New Google Pixel: Pricing Forecasts, Release Window & Feature Rumors Revealed</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728468541819-onedrive5/"><u>エクスプローラでOneDriveが見えない問題に対して有効な5方法を発表</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Turn the Virtual Keyboard on and Off in Windows 11 – Easy Instructions for Users
-date: 2024-08-19T00:20:21.063Z
-updated: 2024-08-20T00:20:21.063Z
+date: 2025-01-10T02:22:28.285Z
+updated: 2025-01-17T01:13:39.795Z
 categories:
   - BestProducts
 description: This Article Describes Turn the Virtual Keyboard on and Off in Windows 11 – Easy Instructions for Users
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 ---
 
 ## Turn the Virtual Keyboard on and Off in Windows 11 – Easy Instructions for Users
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The quickest methods: Press**Win + Ctrl + O** or type**RUN** in the Windows search box. In the Run dialog box, type**OSK** . Click**OK** .
@@ -25,8 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  Use the RUN command to open the keyboard, too. Type**RUN** in the search box, then type**OSK** and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn on the On-Screen Keyboard Using the Ease of Access Center
 
  To enable the screen keyboard, follow these steps:  
@@ -37,21 +43,22 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 3. Scroll down and click**Keyboard** .  
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
 4. Under**Use your device without a physical keyboard** , slide the button to**On** .  
-![The Keyboard options screen showing the option to use a device without a physical keyboard.](https://www.lifewire.com/thmb/QkxWcrry9HnFsPsk1ixTsNPhXJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/toggleon-b63e004ff9974c34b8a59843bf60688b.jpg)
-5. The keyboard will appear on your screen. You can use it with your mouse or a touchscreen; many physical keyboards will still work even when the on-screen keyboard is showing.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-![The on-screen keyboard available with Windows 10.](https://www.lifewire.com/thmb/TcjvO73LfsRmjJ80IOKkBTkIui4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onscreenkeyboard-2e1ad540f6a24cd2a6d3ca0dac3761bc.jpg)
-6. To close the keyboard, click the close button (**X)** at the top right of the keyboard or follow the above steps and move the slider back to**Off** . Either method will remove the keyboard from your screen and reposition the use of the on-screen keyboard to its default "off" option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-![On-screen keyboard with the close (X) highlighted](https://www.lifewire.com/thmb/kYDMvug0GyD3GrUTRQRSdjAKAxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Closekeyboard-e71f23764cb9422aa37acc4cd54de131.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Keyboard options screen showing the option to use a device without a physical keyboard.](https://www.lifewire.com/thmb/QkxWcrry9HnFsPsk1ixTsNPhXJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/toggleon-b63e004ff9974c34b8a59843bf60688b.jpg)
+5. The keyboard will appear on your screen. You can use it with your mouse or a touchscreen; many physical keyboards will still work even when the on-screen keyboard is showing.  
+![The on-screen keyboard available with Windows 10.](https://www.lifewire.com/thmb/TcjvO73LfsRmjJ80IOKkBTkIui4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onscreenkeyboard-2e1ad540f6a24cd2a6d3ca0dac3761bc.jpg)
+6. To close the keyboard, click the close button (**X)** at the top right of the keyboard or follow the above steps and move the slider back to**Off** . Either method will remove the keyboard from your screen and reposition the use of the on-screen keyboard to its default "off" option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![On-screen keyboard with the close (X) highlighted](https://www.lifewire.com/thmb/kYDMvug0GyD3GrUTRQRSdjAKAxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Closekeyboard-e71f23764cb9422aa37acc4cd54de131.jpg)
+
 ## How to Get the On-Screen Keyboard (Kind of) Permanently
 
  You can't keep the keyboard displayed on your screen permanently; it will close when you turn off your computer. However, you can pin it to the Start menu, so it's quick and easy to find the Ease of Access menu and toggle the keyboard on when you need it.
@@ -64,18 +71,17 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 3. Click**Ease of Access** .  
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
 4. Right-click**Keyboard** and click**Pin to Start** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![The Keyboard Pin to Start option.](https://www.lifewire.com/thmb/6onPeVu62gKPqEMc0mF5EZgPkl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pintostart-43a98be5b4e5458ebea70c1f99142f42.jpg)
 5. A pop-up window will ask you to confirm you want to pin the keyboard to Start. Click**Yes** .  
 ![The pop up windows asking for confirmation before pinning the keyboard to Start.](https://www.lifewire.com/thmb/jdpQp9RhLDBPwiQqxerbtKzXDrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yes-b467b978554447f4bc4943f875534a98.jpg)
 6. The on-screen keyboard tile will now appear when you click the**Start** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![The Keyboard tile in the Start menu.](https://www.lifewire.com/thmb/N7xGBRkclSjmboYKhBv_J28ZglM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Keyboardtile-49c06bd0dbda47f792a1457560d7a768.jpg)
 7. Click**Keyboard** to take you directly to the Ease of Access menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Toggle the keyboard to**On** .
 
 [How to Turn off the On-Screen Keyboard in Windows 10](https://www.lifewire.com/turn-off-on-screen-keyboard-in-windows-10-5190892)
@@ -109,8 +115,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +122,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-step-by-step-approach-to-twitter-archive-usage/"><u>[New] 2024 Approved The Step-by-Step Approach to Twitter Archive Usage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elite-8-cameras-revolutionizing-online-broadcasts/"><u>[New] In 2024, Elite 8 Cameras Revolutionizing Online Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-bebops-avian-acrobatics-a-parrot-revelation/"><u>[Updated] Bebop's Avian Acrobatics – A Parrot Revelation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808078066-directx-download-for-windows-11-and-10-quickly-and-easily/"><u>DirectX Download for Windows 11 & 10. Quickly & Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/problemas-de-conectividad-como-superar-la-barrera-del-acceso-a-wd-my-cloud-en-tu-pc-con-sistema-operativo-windows-10/"><u>Problemas De Conectividad: Cómo Superar La Barrera Del Acceso a WD My Cloud en Tu PC Con Sistema Operativo Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-steam-not-functioning-for-game-launch-on-windows-11/"><u>Resolving Steam Not Functioning for Game Launch on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808246011-spotting-overheating-signs-in-your-pcs-central-unit-fixes-inside/"><u>Spotting Overheating Signs in Your PC's Central Unit – Fixes Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-for-impeccable-audio-in-windows-11-harnessing-the-power-of-an-equalizer/"><u>The Ultimate Trick for Impeccable Audio in Windows 11: Harnessing the Power of an Equalizer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-now-fix-cutting-out-voices-in-fortnite-without-delay/"><u>Troubleshoot Now: Fix Cutting Out Voices in Fortnite Without Delay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-unrecognized-amd-graphics-driver-in-device-manager-solved/"><u>Troubleshooting Steps for Unrecognized AMD Graphics Driver in Device Manager [Solved]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-performing-a-complete-windows-10-system-restore-in-just-four-steps/"><u>Ultimate Guide: Performing a Complete Windows 10 System Restore in Just Four Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-system-potential-with-a-hard-reboot-for-windows-11-users/"><u>Unlocking System Potential with a Hard Reboot for Windows 11 Users</u></a></li>
+</ul></div>
 

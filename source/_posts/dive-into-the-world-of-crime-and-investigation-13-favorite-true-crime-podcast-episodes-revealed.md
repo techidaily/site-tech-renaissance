@@ -1,7 +1,7 @@
 ---
 title: "Dive Into the World of Crime and Investigation: 13 Favorite True Crime Podcast Episodes Revealed!"
-date: 2024-08-19T00:23:40.368Z
-updated: 2024-08-20T00:23:40.368Z
+date: 2025-01-15T21:46:23.611Z
+updated: 2025-01-16T21:23:11.002Z
 categories:
   - BestProducts
 description: "This Article Describes Dive Into the World of Crime and Investigation: 13 Favorite True Crime Podcast Episodes Revealed!"
@@ -68,13 +68,14 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Best Podcast for White-Collar Crime: Swindled](http://swindledpodcast.com/) 
 
 ![The Swindled podcast's website](https://www.lifewire.com/thmb/zv5iLpTvW-Y0MzVY3p1Q6iTgH4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/swindled-podcast-f1c82a2d461d4898abf8343a667421f3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Insight into outlandish scams and corporate injustices.
@@ -95,6 +96,10 @@ of 13
 04
 
 of 13
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ A True-Crime Podcast That Tackles Flawed Investigations: In the Dark](https://features.apmreports.org/in-the-dark/) 
 
@@ -119,16 +124,10 @@ of 13
 
 of 13
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## [ A True-Crime Podcast for Fans of The Wire: Crimetown](https://gimletmedia.com/shows/crimetown) 
 
 ![A summary of the Crimetown podcast](https://www.lifewire.com/thmb/HD9r6gw7iZ6-oPPuZATGG5Ld188=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crimetown-2cf84268762b4e3383c84d9a6e491567.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Puts crime in a broad political and economic context.
@@ -150,12 +149,13 @@ _Crimetown_ is a true-crime podcast with an original, wide-lensed angle from the
 
 of 13
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## [ A Fascinating Podcast for Unsolved Crime Fans: Atlanta Monster](https://atlantamonster.com/) 
 
 ![Atlanta Monster podcast](https://www.lifewire.com/thmb/2WOtojt5iuS-sYghn21faxnzs6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-05-30at12.37.05-5b0e8cfb1d6404003786c847.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -180,16 +180,13 @@ of 13
 of 13
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Crime Podcast for Variety: Criminal](https://www.thisiscriminal.com/) 
 
 ![An episode summary from the Criminal podcast](https://www.lifewire.com/thmb/zLNjw6soLyvbLZa7jrf6D1sMmZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/this-is-criminal-podcast-30107282d992486a85459bb9e6137f1f.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Crimes are reconstructed in absorbing detail.
@@ -211,13 +208,18 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Unsettling Murder Stories for Horror Enthusiasts: Casefile](https://casefilepodcast.com/) 
 
 ![Casefile podcast](https://www.lifewire.com/thmb/rAL5zZT5hA44_2JRex5nGWHBXLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-best-true-crime-podcasts-4165864-d9f60f77e6a44b44a9ddc212ef2267bf.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * The podcast's worldwide focus.
@@ -239,16 +241,14 @@ of 13
 
 of 13
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ##  A Crime Podcast for Armchair Psychologists: Dirty John 
 
 ![Dirty John podcast](https://www.lifewire.com/thmb/gP5q3bdvuxMrXQPKsMcWF7B_9EY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-best-true-crime-podcasts-4165864-ca843260508948309252205119fde4dd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Forensic examination of John's psychology.
@@ -324,8 +324,9 @@ of 13
 ![Heaven's Gate podcast](https://www.lifewire.com/thmb/BTxVS0Zx5jvQ5d8rhWdQDBmy8Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-best-true-crime-podcasts-4165864-770738bdf98e481ea9fe72657a2e82a4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Unique subject matter handled thoughtfully.
@@ -347,6 +348,10 @@ _Heaven's Gate_ is a relatively short crime podcast exploring the religious cult
 13
 
 of 13
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Crime Podcast Heavy With Drama: Unsolved Murders 
 
@@ -392,8 +397,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -401,4 +404,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-high-quality-banners-free-for-content-developers/"><u>[Updated] 2024 Approved Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerate-your-metaverse-journey-with-7-must-have-devices/"><u>2024 Approved Accelerate Your Metaverse Journey with 7 Must-Have Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-launch-googles-answer-to-the-challenge-from-chatgpt/"><u>Bard's Launch: Google's Answer to the Challenge From ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-solutions-repairing-top-issues-with-your-television/"><u>DIY Solutions: Repairing Top Issues with Your Television</u></a></li>
+<li><a href="https://fox-http.techidaily.com/easy-color-techniques-for-professional-outputs-for-2024/"><u>Easy Color Techniques for Professional Outputs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-mastering-the-art-of-screenshotting-on-your-hp-computer/"><u>Easy Steps for Mastering the Art of Screenshotting on Your HP Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-unlike-all-songs-on-spotify-a-users-guide/"><u>Efficiently Unlike All Songs on Spotify: A User's Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco M6 Pro 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>In 2024, Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-time-online-a-comprehensive-guide-to-using-the-internet-archives-wayback-machine/"><u>Navigating Time Online: A Comprehensive Guide to Using the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/podcasts-vs-youtube-which-should-you-choose/"><u>Podcasts Vs. YouTube Which Should You Choose?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/setting-up-for-success-an-instagram-business-account-blueprint/"><u>Setting Up for Success An Instagram Business Account Blueprint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error - Causes and Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleashing-the-mighty-potential-in-depth-review-of-the-beatit-bt-d11-power-prodigy/"><u>Unleashing the Mighty Potential: In-Depth Review of the Beatit BT-D11 Power Prodigy</u></a></li>
+</ul></div>
 

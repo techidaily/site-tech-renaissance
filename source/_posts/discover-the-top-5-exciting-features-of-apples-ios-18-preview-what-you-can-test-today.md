@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 5 Exciting Features of Apple's iOS 18 Preview - What You Can Test Today
-date: 2025-01-06T01:05:16.991Z
-updated: 2025-01-11T10:09:16.710Z
+date: 2025-01-10T17:40:06.292Z
+updated: 2025-01-16T22:29:41.734Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,22 +120,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality/"><u>[Updated] An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-photographing-for-youtube-the-ultimate-instructions/"><u>2024 Approved Photographing for YouTube The Ultimate Instructions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-to-text-converter-for-videos-for-2024/"><u>Audio-to-Text Converter for Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722885403861-best-educational-apps-for-students-in-high-school-the-ultimate-list/"><u>Best Educational Apps for Students in High School - The Ultimate List</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-circles-worldwide-winners-waypoints/"><u>Champion Circles: Worldwide Winners' Waypoints</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-6s-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 6s Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-keeping-your-mechanical-keyboard-spotless-and-functional/"><u>Expert Tips for Keeping Your Mechanical Keyboard Spotless and Functional</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-correctly-address-and-fix-microsoft-error-code-19-in-windows-operating-systems/"><u>Expert Tips to Correctly Address and Fix Microsoft 'Error Code 19' In Windows Operating Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-novice-to-pro-a-comprehensive-guide-for-using-googles-measure-app-on-android-phones/"><u>From Novice to Pro: A Comprehensive Guide for Using Google's Measure App on Android Phones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-decoding-the-fisheye-dilemma-in-gopro-videos/"><u>In 2024, Decoding the Fisheye Dilemma in GoPro Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/kinemaster-insider-the-art-of-seamless-video-transitions-for-2024/"><u>Kinemaster Insider The Art of Seamless Video Transitions for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-see-kid-friendly-flicks-streaming-on-netflix/"><u>Must-See Kid-Friendly Flicks Streaming on Netflix</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/professional-screen-capture-techniques-orderly-tutorials/"><u>Professional Screen Capture Techniques - Orderly Tutorials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-to-resolve-dsounddll-error-missing-file-on-your-pc/"><u>Solutions to Resolve dsound.dll Error: Missing File on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-top-8-alternatives-to-gmail-in-the-new-year/"><u>The Ultimate List of Top 8 Alternatives to Gmail in the New Year</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-factors-to-evaluate-when-choosing-a-health-and-activity-monitor/"><u>Top 5 Factors To Evaluate When Choosing A Health & Activity Monitor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-picking-out-your-ultimate-cellphone-case/"><u>Top Tips for Picking Out Your Ultimate Cellphone Case</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-essential-cloud-hacks-for-ample-space-savings-for-2024/"><u>[New] Essential Cloud Hacks for Ample Space Savings for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/app-tracking-decline-iphone-users-unite/"><u>App Tracking Decline: IPhone Users Unite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dynamic-adaptive-web-design-the-future-of-responsive-layouts/"><u>Dynamic Adaptive Web Design: The Future of Responsive Layouts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-conversion-tips-how-to-change-azw4-ebooks-to-compatible-epub-files/"><u>Easy Conversion Tips: How to Change AZW4 eBooks to Compatible EPUB Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-access-and-listen-to-audiobooks-through-your-iphone-apps/"><u>Easy Steps to Access & Listen to Audiobooks Through Your iPhone Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-convert-amazon-kindle-azw-books-to-epub-compatible-with-ipad-kobo-nook-and-more/"><u>Easy Steps to Convert Amazon Kindle AZW Books to ePub: Compatible with iPad, Kobo, Nook, & More</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/razer-book-13-review-pint-sized-powerhouse/"><u>Razer Book 13 Review: Pint-Sized Powerhouse</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-15-smartest-ways-to-watch-nba-live-in-action/"><u>The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
 </ul></div>
 

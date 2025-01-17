@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy S25 Tease: Release Forecasts, Estimated Costs, and Potential Features Leaked So Far"
-date: 2024-08-19T00:20:04.554Z
-updated: 2024-08-20T00:20:04.554Z
+date: 2025-01-14T16:56:02.521Z
+updated: 2025-01-16T22:08:09.934Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung Galaxy S25 Tease: Release Forecasts, Estimated Costs, and Potential Features Leaked So Far"
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
 January or February 2025 is our best guess right now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Price Rumors
 
  Nobody knows for sure what Samsung will charge for the Galaxy S25 and S25+. Official prices won't be revealed until the phones are formally announced next year. However, if we look at the pricing trend of the latest phones, we can estimate how much the Galaxy S25 might cost:
@@ -47,18 +51,12 @@ January or February 2025 is our best guess right now.
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Samsung Galaxy S25 pre-orders will start when the phones are announced early next year.
 
  Interested in a foldable phone? Samsung's[Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) and[Z Flip 6](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840) are coming this year.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Features
 
 [Android 15 will arrive later this year](https://www.lifewire.com/android-15-7547471) , so the Galaxy S25 will run that version of the Android OS (with the[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7 skin). Samsung will likely support the S25 for the same length of time as in past years, meaning you'll get major Android operating system updates and security fixes for seven years.
@@ -70,9 +68,6 @@ January or February 2025 is our best guess right now.
 
 [Is Samsung an Android? Yes, Here’s What You Need to Know](https://www.lifewire.com/is-samsung-an-android-5215944)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Specs and Hardware
 
  Despite many months remaining until the 2025[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event, there are some Galaxy S25 leaks and rumors we can review thus far. Of course, certain aspects are likely to remain consistent, such as the flat edge design and minimal bezels.
@@ -80,13 +75,18 @@ January or February 2025 is our best guess right now.
  Aside from the possibility of some slight design changes (that's all we've heard; no details yet), here are the bigger changes we're looking forward to:  
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Newer Processor
 
  The next Samsung Galaxy phones will likely be powered by the Qualcomm Snapdragon 8 Gen 4 in the US and the Exynos 2500 everywhere else. The Qualcomm processor[is said to support faster RAM](https://wccftech.com/lpddr6-support-for-snapdragon-8-gen-not-for-a18-pro/) , which will be much needed as on-device AI continues to work its way into these phones.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Larger Displays
 
@@ -94,9 +94,6 @@ January or February 2025 is our best guess right now.
 
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -108,13 +105,18 @@ January or February 2025 is our best guess right now.
  It also looks like[the battery isn't changing either](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/) . The same 4000mAh battery found in the S24 might be used for at least another year.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Other Changes
 
 * In addition to faster RAM, these phones might come with faster hard drives,[potentially doubling the speed to 8 GB/s](https://www.sammobile.com/news/next-gen-samsung-galaxy-phones-faster-storage/) . This, again, is useful for everything you do on your phone but is especially beneficial for all the local AI smarts the S25 lineup will surely include.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Latest News About Samsung Galaxy S25
 
@@ -132,8 +134,6 @@ January or February 2025 is our best guess right now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,26 @@ January or February 2025 is our best guess right now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-exploring-ice-cream-screen-recorder-technology/"><u>[New] Exploring Ice Cream Screen Recorder Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-high-speed-windows-photo-explorer-tool/"><u>[New] High-Speed Window's Photo Explorer Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-converting-fb-videos-to-tv-friendly-formats/"><u>[Updated] Converting FB Videos to TV-Friendly Formats</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>[Updated] In 2024, Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sky-high-insights-comprehensive-phantom-4-breakdown-for-2024/"><u>[Updated] Sky-High Insights Comprehensive Phantom 4 Breakdown for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-display-adapter-not-visible-in-windows-1011-heres-how-you-can-fix-it/"><u>AMD Display Adapter Not Visible in Windows 10/11? Here’s How You Can Fix It</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-revamps-ai-with-promising-upgrades-yet-challenges-remain-an-in-depth-analysis-by-zdnet/"><u>Apple Revamps AI with Promising Upgrades, Yet Challenges Remain: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audio-enabled-hdmi-to-dvi-bridge-for-seamless-laptop-desktop-setup/"><u>Audio-Enabled HDMI to DVI Bridge for Seamless Laptop-Desktop Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-the-update-blockade-fix-your-windows-11-update-problems-with-this-0x80248007-hack/"><u>Beat the Update Blockade: Fix Your Windows 11 Update Problems with This 0X80248007 Hack</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-farewell-to-terraria-crashing-issues-with-these-expert-strategies/"><u>Bid Farewell to Terraria Crashing Issues with These Expert Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bluetooth-basics-a-comprehensive-guide-to-connecting-devices-with-your-pc/"><u>Bluetooth Basics: A Comprehensive Guide to Connecting Devices with Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-running-minecraft-in-solo-mode-without-internet-on-windows-10/"><u>Complete Guide: Running Minecraft in Solo Mode Without Internet on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/directx-12-installation-guide-latest-compatible-version-for-windows-11/"><u>DirectX 12 Installation Guide: Latest Compatible Version for Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dominate-the-storm-circle-with-these-insider-secrets-to-elevating-your-fortnite-fps-game-in-2e24/"><u>Dominate the Storm Circle with These Insider Secrets to Elevating Your Fortnite FPS Game in 2E24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-installation-hp-driver-downloads-compatible-with-windows-10/"><u>Easy Installation: HP Driver Downloads Compatible with Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209659317-hidden-in-plain-sight-your-sd-card-solution/"><u>Hidden in Plain Sight - Your SD Card Solution!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-master-the-art-of-file-conversion-selecting-best-free-tools-for-instagram-videos-windowsosx/"><u>In 2024, Master the Art of File Conversion Selecting Best Free Tools for Instagram Videos [Windows/OSX]</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mastering-memory-management-in-your-programs-with-expert-tips-from-yl-software-experts/"><u>Mastering Memory Management in Your Programs with Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808129159-the-ultimate-guide-to-enhancing-gameplay-performance-in-windows-1nvite-gamers-to-conquer-with-optimized-settings/"><u>The Ultimate Guide to Enhancing Gameplay Performance in Windows 1Nvite Gamers to Conquer with Optimized Settings</u></a></li>
+</ul></div>
 

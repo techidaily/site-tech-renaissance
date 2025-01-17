@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Adding Soundtracks to Instagram Footage
-date: 2024-08-19T00:23:56.534Z
-updated: 2024-08-20T00:23:56.534Z
+date: 2025-01-10T22:21:02.188Z
+updated: 2025-01-16T18:54:11.450Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Tutorial on Adding Soundtracks to Instagram Footage
@@ -20,6 +20,10 @@ Close
 * You can also share a song from Spotify: Choose the song in the Spotify app > tap**Share** \>**Stories** \>**Your Story** .
 
  This article explains how to add music to your[ Instagram story](https://www.lifewire.com/post-a-story-on-instagram-5069910) . The easiest way to add music to your Instagram Story is to use the special Music sticker, which is available within the latest versions of the official Instagram app on iOS and Android devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Music to Instagram Stories With Music Stickers 
 
@@ -45,8 +49,9 @@ Close
 ![Options for publishing or sharing an Instagram story in the mobile app.](https://www.lifewire.com/thmb/4k8ek_iSJRkAiCUe3KarqByx4SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-add-music-to-instagram-video-4691372-70e075578ac64b8ba4a2a6c8a3447218.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Add Spotify Music to an Instagram Story 
 
  Another option for sharing music to an Instagram story is to use the share link from Spotify. Here's how to do that.
@@ -57,9 +62,6 @@ Close
 4. Scroll down the options and select**Share** .  
 ![Song sharing options in the Spotify mobile app.](https://www.lifewire.com/thmb/Ee46gPQCwIG_-4w2qvJmUkvkoew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-add-music-to-instagram-video-4691372-700037e60d4a489dba4be5d22e17bdf1.jpg)
 5. Choose**Stories** from the list to open a new Story in the Instagram app.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Edit your Story as you usually would, adding filters, text, etc.
 7. When you're ready, select**Your story** or the arrow to view other sharing options.
 8. Select**Share** when you've made your selection.  
@@ -67,8 +69,13 @@ Close
  The song you share in your Instagram story won't play automatically, but followers can tap**Play on Spotify** in your Story to listen directly in Spotify mobile app.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add Music for Instagram Videos 
 
  In addition to allowing you to crop and add filters to videos, Instagram lets you add music to this type of content. The process is similar to adding music to an Instagram Story.
@@ -81,21 +88,16 @@ All video posts are published as Reels.
 4. Search for and select a track to add to the video.  
 ![Adding music to a video post in the Instagram mobile app.](https://www.lifewire.com/thmb/GC4rH4CFt0ZRVfY3axHl6SA_AL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-add-music-to-instagram-video-4691372-bb4e62867f944fa8b43401794f5f21be.jpg)
 5. Choose the way the song displays and the clip to play and make any other edits.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. When you're happy with your work, select**Done** .
 7. Tap**Next** .
 8. Add captions and adjust other preferences, and select**Share** when you're ready to post the video.  
 ![Adjusting the way music displays before sharing a video post on the Instagram mobile app.](https://www.lifewire.com/thmb/KvWaS_RI-yZiFNaDAu4n6yGBrQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-add-music-to-instagram-video-4691372-efd8ee6360fa44c3a93eced552472ea0.jpg)  
 [  5 Best Free Video Editors for YouTube in 2024 ](https://www.lifewire.com/video-editor-for-youtube-4588689)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Where to Find Music for Instagram Videos 
 
  If you’re adding music to your Instagram Story with the Music sticker, you don’t need to worry about finding tunes since the sticker provides access to a music library of current songs.
@@ -126,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-live-streams-with-obsplusstreamlabs-mac/"><u>[Updated] Transform Live Streams with OBS+Streamlabs (Mac)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-perfect-photo-collage-in-your-iphone-app/"><u>2024 Approved Crafting Perfect Photo Collage in Your iPhone App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-selective-blurry-effects-in-digital-imagery/"><u>2024 Approved Master Selective Blurry Effects in Digital Imagery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/4kplus-3d-blu-ray-magic-high-end-players-guide/"><u>4K+ 3D Blu-Ray Magic High-End Players Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-music-manual-play-control-how-to-avoid-songs-auto-playing/"><u>Apple Music Manual Play Control: How to Avoid Songs Auto-Playing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comparacion-avi-vs-mp4-evaluando-el-mejor-formato-de-video-para-su-uso/"><u>Comparación AVI vs MP4: Evaluando El Mejor Formato De Video Para Su Uso</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-handling-a-504-gateway-problem/"><u>Comprehensive Fixes for Handling a 504 Gateway Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-a-missing-zlibdll-error-on-your-computer/"><u>How to Correctly Address a Missing zlib.dll Error on Your Computer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leveraging-educational-perks-a-step-by-step-to-acquiring-a-dell-student-offer/"><u>Leveraging Educational Perks: A Step-by-Step to Acquiring a Dell Student Offer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-pace-and-flow-in-film-using-kinemaster/"><u>Perfecting Pace and Flow in Film Using Kinemaster</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-your-xbox-one-a-comprehensive-guide-to-using-external-drives/"><u>Setting Up Your Xbox One: A Comprehensive Guide to Using External Drives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-your-chromecast-screen-a-how-to-guide-for-new-themes/"><u>Transforming Your Chromecast Screen: A How-To Guide for New Themes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-skype-try-our-10-strategies-for-seamless-connectivity/"><u>Trouble with Your Skype? Try Our 10 Strategies for Seamless Connectivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-your-mobile-network-provider-what-defines-a-telecommunications-carrier/"><u>Understanding Your Mobile Network Provider: What Defines a Telecommunications Carrier?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/weatherproof-and-stunning-discover-the-powerful-performance-of-the-sunbrite-veranda-55-inch-tv-in-crystal-clear-4k/"><u>Weatherproof & Stunning: Discover the Powerful Performance of the SunBrite Veranda 55 Inch TV in Crystal Clear 4K</u></a></li>
+</ul></div>
 

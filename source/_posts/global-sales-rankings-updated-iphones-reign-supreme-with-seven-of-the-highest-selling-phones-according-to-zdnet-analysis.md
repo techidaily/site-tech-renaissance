@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2025-01-04T07:08:29.909Z
-updated: 2025-01-10T23:17:24.724Z
+date: 2025-01-13T23:11:45.262Z
+updated: 2025-01-16T18:32:09.492Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplify-slide-sharing-at-work-webcam-assisted-tips/"><u>[New] 2024 Approved Simplify Slide Sharing at Work Webcam-Assisted Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>[Updated] 2024 Approved Recording Techniques for Stellar Voice-Over Audio</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[Updated] 2024 Approved The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>[Updated] Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-comprehensive-guide-to-setting-up-proper-video-aspect-ratios-for-youtube/"><u>[Updated] The Comprehensive Guide to Setting Up Proper Video Aspect Ratios for YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-best-value-in-tablets-the-2020-lenovo-tab-m10s-lush-high-definition-view/"><u>Discovering the Best Value in Tablets: The 2020 Lenovo Tab M10's Lush High-Definition View</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficiently-remove-ai-copilot-tool-from-windows-11-a-step-by-step-guide/"><u>Efficiently Remove AI Copilot Tool From Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722851225094-enhance-your-viewing-experience-connect-apple-tv-plus-with-chromecast-in-minutes/"><u>Enhance Your Viewing Experience: Connect Apple TV Plus with Chromecast in Minutes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/expert-advice-for-xbox-one-zooming-pros/"><u>Expert Advice for Xbox One Zooming Pros</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-wpcapsddll-missing-error-on-your-computer/"><u>How to Resolve 'wpcapsd.dll' Missing Error on Your Computer?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-fold-2-unveiled-anticipated-features-pricing-and-release-timeline-stay-updated-with-latest-buzz/"><u>Pixel Fold 2 Unveiled: Anticipated Features, Pricing & Release Timeline - Stay Updated with Latest Buzz!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/professional-gamers-choice-in-depth-analysis-of-dough-spectrums-27-oled-display-top-tiers-in-color-precision-and-visual-fidelity/"><u>Professional Gamers' Choice: In-Depth Analysis of Dough Spectrum's 27 OLED Display - Top Tiers in Color Precision & Visual Fidelity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/qled-vs-oled-tvs-unveiling-the-distinctive-features/"><u>QLED Vs. OLED TVs: Unveiling the Distinctive Features</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love/"><u>Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-showdown-discover-4-easy-screenshot-strategies-you-need-to-know/"><u>Windows 11 Showdown: Discover 4 Easy Screenshot Strategies You Need to Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/levate-content-discovery-the-tubebuddy-way/"><u>[New] Elevate Content Discovery The TubeBuddy Way</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-execution-creating-youtube-trailers-in-filmora-for-2024/"><u>[New] From Idea to Execution Creating YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remier-choice-the-best-10-recorders-for-tech-talks-for-2024/"><u>[New] Premier Choice The Best 10 Recorders for Tech Talks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-increase-followers-on-facebook-10-effective-ways-for-2024/"><u>[Updated] How to Increase Followers on Facebook (10 Effective Ways ) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-hasty-instruction-saving-your-photos-as-youtube-channel-thumbnails/"><u>2024 Approved Hasty Instruction Saving Your Photos as YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/charging-solutions-recharge-your-smartphone-without-the-original-adapter/"><u>Charging Solutions: Recharge Your Smartphone without the Original Adapter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Techniques: Prevent Your Mac From Entering Sleep Mode</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/guiding-iphone-and-android-owners-to-fix-video-sending-problems-in-fb-chat-for-2024/"><u>Guiding iPhone & Android Owners to Fix Video Sending Problems in FB Chat for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-microsoft-word-files-that-refuse-to-open/"><u>How to Fix Microsoft Word Files That Refuse to Open</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Civi 3 Disney 100th Anniversary Edition by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/integrating-icloud-picture-sharing-between-apple-windows-and-android-systems/"><u>Integrating iCloud Picture Sharing Between Apple, Windows and Android Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/phone-as-webcam-a-step-by-step-guide-for-mobile-video-capture/"><u>Phone as Webcam A Step-by-Step Guide for Mobile Video Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-accessing-gmail-on-mobile-platforms/"><u>Step-by-Step Instructions for Accessing Gmail on Mobile Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taming-the-tech-wildness-steps-to-correct-a-vibrating-surface-pro-visual-panel/"><u>Taming the Tech Wildness: Steps to Correct a Vibrating Surface Pro Visual Panel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ps5-gaming-experience-is-it-justified-by-its-price-find-out-here/"><u>The PS5 Gaming Experience: Is It Justified by Its Price? Find Out Here!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-selection-of-ces-2024s-finest-laptops-explore-the-leading-tech-reviewed/"><u>Top Picks: The Ultimate Selection of CES 2024'S Finest Laptops - Explore the Leading Tech Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-tech-bargains-during-amazons-prime-day-event/"><u>Top-Rated Tech Bargains During Amazon's Prime Day Event</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-a-408-request-timeout-mean-diagnosis-and-fixing-techniques/"><u>What Does a 408 Request Timeout Mean? Diagnosis & Fixing Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-touchpad-scrolling-in-windows-11-solutions-for-common-issues/"><u>Why Isn't My Touchpad Scrolling in Windows 11? Solutions for Common Issues</u></a></li>
 </ul></div>
 

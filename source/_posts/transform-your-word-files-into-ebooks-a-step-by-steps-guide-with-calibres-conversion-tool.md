@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Word Files Into eBooks: A Step-by-Steps Guide with Calibre's Conversion Tool"
-date: 2024-08-20T10:30:28.626Z
-updated: 2024-08-21T10:30:28.626Z
+date: 2025-01-09T22:02:33.183Z
+updated: 2025-01-16T16:32:05.489Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/e350204044526aae4dc95dcf2061d143539918222d877d21899914ec625ed9d1.jpg
@@ -9,13 +9,15 @@ thumbnail: https://thmb.techidaily.com/e350204044526aae4dc95dcf2061d143539918222
 
 ## Transform Your Word Files Into eBooks: A Step-by-Steps Guide with Calibre's Conversion Tool
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Convert Word to EPUB with Calibre
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 11/28/2018 2:58:58 PM.
 
 5 [(1 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -47,19 +49,24 @@ Run calibre, then click "Add books" to choose your word documents which are with
 
 ![convert word docx to epub calibre](http://www.epubor.com/images/uppic/docx2epub.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4Convert docx to epub
 
 Click on "Convert books", then at the output format pull-down list select epub please. Then "OK" the conversion.
 
 ![convert docx to epub](http://www.epubor.com/images/uppic/convert-docx-to-epub.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After completed, you can "click to open" to get a preview. Now you can read your epub files on your computer, and even transfer them to another devices such as iPad, Kobo, etc.
 
 **Tips:** If you want to convert your word documents to PDF high polished to print good, choose [PDF Creator](https://tools.techidaily.com/epubor/products/).  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to convert doc to epub Calibre
 
 This part is for those people who are using Office 2003 or below. As Calibre doesn't support the format of doc, we need firstly convert our word document to html, then convert html to epub.
@@ -81,24 +88,17 @@ Upload your just saved html files to Calibre with "Add books". Then click on "Co
 ![add html to calibre](http://www.epubor.com/images/uppic/html-to-calibre.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 At the pop up window, hit the **"Metadata"** to edit, such as title, author, cover, tags, etc.
 
 ![edit html metadata](http://www.epubor.com/images/uppic/edit-html-metadata.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 From the left side menu, click on **"Look & Feel"**, select "Removing spacing between paragraphs".
 
 ![edit html look and feel](http://www.epubor.com/images/uppic/edit-html-look-and-feel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 Go on with the edit job, click on **"Table of Contents"**, select the "Level 1 TOC" wizard button.
 
 ![edit html table of contents](http://www.epubor.com/images/uppic/edit-html-table-of-contents.jpg)
@@ -106,6 +106,10 @@ Go on with the edit job, click on **"Table of Contents"**, select the "Level 1 T
 A new window named "Match HTML tags with tag name" will top up. From the drop down list select "h1" please.
 
 ![edit html h1](http://www.epubor.com/images/uppic/edit-html-h1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then click "OK", you will see **"//h:h1"** is listed in the Level 1 TOC field.
 
@@ -132,16 +136,9 @@ Still think this is a little difficult to understand? How about trying this tool
 ![convert word to epub with wordmate](https://epubor.com/images/uppic/conver-word-to-epub-with-wordmate.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Related Readings
 
 \-How to convert [acsm to epub](https://tools.techidaily.com/epubor/products/).
@@ -157,8 +154,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 1 Comments
 
@@ -196,8 +191,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +198,18 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-building-believable-characters-through-dialogue/"><u>[Updated] 2024 Approved Building Believable Characters Through Dialogue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tackling-the-zero-view-conundrum-strategies-for-youtube-success/"><u>[Updated] Tackling the Zero View Conundrum Strategies for YouTube Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-immerse-audiences-integrating-sound-effectively-in-canva-films/"><u>2024 Approved Immerse Audiences Integrating Sound Effectively in Canva Films</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/citing-ai-tools-correctly-the-step-by-step-process-for-mentioning-chatgpt/"><u>Citing AI Tools Correctly: The Step-by-Step Process for Mentioning ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-disguise-your-phones-real-world-geolocation-with-ease/"><u>How To Disguise Your Phone's Real World Geolocation with Ease</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-analyzing-video-platforms-vimeo-and-youtube/"><u>In 2024, Analyzing Video Platforms Vimeo and YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-inbox-with-these-steps-to-modify-gmail-sound-settings/"><u>Revolutionize Your Inbox with These Steps to Modify Gmail Sound Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secrets-revealed-your-essential-guide-to-navigating-amazon-prime-day-2024/"><u>Secrets Revealed: Your Essential Guide to Navigating Amazon Prime Day 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-troubleshooting-tips-for-fixing-stop-code-0x0000003d-issues/"><u>Step-by-Step Troubleshooting Tips for Fixing Stop Code 0X0000003D Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-must-have-mobile-apps-for-diy-home-painters/"><u>Top 4 Must-Have Mobile Apps for DIY Home Painters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-or-reach-for-more-a-head-to-head-comparison-of-the-iphone-15-pro-and-pro-max/"><u>Upgrade or Reach for More? A Head-to-Head Comparison of the iPhone 15 Pro & Pro Max</u></a></li>
+</ul></div>
 

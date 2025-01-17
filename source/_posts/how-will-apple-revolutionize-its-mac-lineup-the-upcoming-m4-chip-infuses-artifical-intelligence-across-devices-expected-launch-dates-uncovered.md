@@ -1,7 +1,7 @@
 ---
 title: How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered
-date: 2025-01-08T21:00:34.621Z
-updated: 2025-01-11T08:31:59.706Z
+date: 2025-01-12T21:41:02.284Z
+updated: 2025-01-17T00:39:39.637Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -104,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/a-detailed-comparison-between-ipad-pro-m4-and-macbook-air-m3-exploring-their-unique-traits/"><u>A Detailed Comparison Between iPad Pro (M4) and MacBook Air (M3): Exploring Their Unique Traits</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/dable-gear-for-aspiring-content-creators-for-2024/"><u>Affordable Gear for Aspiring Content Creators for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearing-up-confusion-how-ev-types-differ-from-bevs-and-phevs-to-fcevs-and-hybrids/"><u>Clearing Up Confusion: How EV Types Differ - From BEVs and PHEVs to FCEVs & Hybrids</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/corrective-measures-when-your-firestick-remote-stopped-responding/"><u>Corrective Measures When Your Firestick Remote Stopped Responding</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-5-gps-apps-to-enhance-your-iphone-experience/"><u>Discover the Leading 5 GPS Apps to Enhance Your iPhone Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/express-or-stick-a-comprehensive-guide-to-choosing-your-roku-model/"><u>Express or Stick? A Comprehensive Guide to Choosing Your Roku Model</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-paso-a-paso-para-transformar-videos-en-formato-webm-y-revertirlos/"><u>Guía Paso a Paso Para Transformar Videos en Formato WebM Y Revertirlos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-xiaomi-redmi-12-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Xiaomi Redmi 12 5G Easily?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-premier-annual-update-best-free-livestream-software-and-apps-review/"><u>In 2024, Premier Annual Update Best Free Livestream Software & Apps Review</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/intergalactic-file-recovery-resource/"><u>Intergalactic File Recovery Resource</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-email-options-as-great-substitutes-for-gmail-your-comprehensive-guide/"><u>Leading Email Options as Great Substitutes for Gmail - Your Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-missing-incoming-messages-in-yahoo-mail/"><u>Resolving the Issue of Missing Incoming Messages in Yahoo Mail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-when-your-surface-pro-cant-connect-to-wi-fi/"><u>Solving the Dilemma: When Your Surface Pro Can't Connect to Wi-Fi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-overcoming-opengl32dll-missing-errors-on-your-pc/"><u>The Definitive Guide to Overcoming OpenGL32.dll Missing Errors on Your PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-snapchat-boomerang-handbook/"><u>The Ultimate Snapchat Boomerang Handbook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-the-mysteries-high-quality-minecraft-capture-on-macos-for-2024/"><u>Unveiling the Mysteries High-Quality Minecraft Capture on MacOS for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-free-music-production-software-top-picks-for-windowsmac-users/"><u>Updated In 2024, Free Music Production Software Top Picks for Windows/Mac Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-seconds-spent-watching-a-20mb-video/"><u>[Updated] In 2024, Seconds Spent Watching a 20MB Video</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-to-amazons-azw-digital-book-files/"><u>A Beginner's Guide to Amazon's AZW Digital Book Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c22-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C22 Device SIM</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-fixing-chatgpts-moderation-error-quickly/"><u>Expert Tips: Fixing ChatGPT's Moderation Error Quickly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-hire-harmony-a-collection-of-inspirational-clips/"><u>In 2024, Hire Harmony A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-how-to-block-spotifys-unrequested-podcast-episodes/"><u>In 2024, How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-best-reading-applications-for-android-devices-analyzed-and-compared/"><u>Ultimate List of Best Reading Applications for Android Devices Analyzed and Compared</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-full-potential-of-your-kindle-paperwhite-n-discover-the-5-must-have-apps/"><u>Unlock the Full Potential of Your Kindle Paperwhite N: Discover the 5 Must-Have Apps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-content-how-to-safely-remove-acsm-protection-from-downloads-for-better-playback-experience/"><u>Unlocking Content: How to Safely Remove ACSM Protection From Downloads for Better Playback Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/vision-capture-expert-insights-into-video-tech-for-2024/"><u>Vision Capture Expert Insights Into Video Tech for 2024</u></a></li>
 </ul></div>
 

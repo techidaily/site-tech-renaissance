@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2025-01-03T16:55:40.755Z
-updated: 2025-01-11T03:43:04.935Z
+date: 2025-01-13T17:02:14.648Z
+updated: 2025-01-16T18:01:08.216Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/compatibility-canon-pixma-mp620-and-windows-11-clash/"><u>[Compatibility] Canon Pixma MP620 and Windows 11 Clash</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-diving-deep-into-the-world-of-professional-voice-overs-for-videos/"><u>[New] 2024 Approved Diving Deep Into the World of Professional Voice Overs for Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-infuse-your-reels-with-dynamic-music-choices/"><u>[New] 2024 Approved How to Infuse Your Reels with Dynamic Music Choices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-transfer-secrets-top-5-tactics-to-move-files-onto-your-pc/"><u>[New] In 2024, Transfer Secrets Top 5 Tactics to Move Files Onto Your PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-beginners-guide-to-recording-video-calls-with-google-meets/"><u>[Updated] 2024 Approved A Beginner's Guide to Recording Video Calls with Google Meets</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-studio-editor-step-by-step-video-tutorial-creation/"><u>[Updated] 2024 Approved YouTube Studio Editor Step-by-Step Video Tutorial Creation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-dual-lens-approach-gaining-audience-insight-with-3-pov-strategies-for-youtube-reactions/"><u>[Updated] The Dual Lens Approach Gaining Audience Insight with 3 POV Strategies for YouTube Reactions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-dealing-with-printing-problems-between-an-ipad-and-a-printer/"><u>Expert Advice for Dealing with Printing Problems Between an iPad and a Printer</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tart-your-youtube-venture-top-equipment-choices-for-2024/"><u>Jumpstart Your YouTube Venture Top Equipment Choices for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-alexa-silence-remedies-for-an-echo-that-doesnt-answer/"><u>Overcoming Alexa Silence: Remedies for an Echo That Doesn't Answer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamlessly-connect-apple-tv-plus-with-chromecast-a-step-by-step-tutorial/"><u>Seamlessly Connect Apple TV Plus with Chromecast - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-correcting-netflixs-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Correcting Netflix's Error NW-1-19</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tactics-correcting-the-error-when-you-cant-find-msvcr70dll-file/"><u>Troubleshooting Tactics: Correcting the Error When You Can't Find Msvcr70.dll File</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-next-for-smartwatches-predictions-on-apple-watch-ultra-2-specs-launch-window-and-market-pricing/"><u>What's Next for Smartwatches? Predictions on Apple Watch Ultra 2 Specs, Launch Window & Market Pricing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-crafting-compelling-compositions-with-magix-fruity-loops-for-2024/"><u>[New] Crafting Compelling Compositions with Magix Fruity Loops for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-livechat-recorder-pro-hd/"><u>[Updated] LiveChat Recorder Pro HD</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>2024 Approved Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-optimal-viewing-8-strategies-to-address-the-blue-color-imbalance-on-televisions/"><u>Achieving Optimal Viewing: 8 Strategies to Address the Blue Color Imbalance on Televisions</u></a></li>
+<li><a href="https://facebook.techidaily.com/covid-deception-12-influencer-misinformation-role/"><u>Covid Deception: 12 Influencer Misinformation Role</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-fresh-horizons-in-technology-discovering-samsungs-newest-device-launch/"><u>Exploring Fresh Horizons in Technology - Discovering Samsung's Newest Device Launch</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-video-audio-extraction-made-simple-for-mp3-lovers/"><u>FB Video Audio Extraction Made Simple for MP3 Lovers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-15-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 15 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth-for-2024/"><u>Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-ocidll-files-on-your-pc/"><u>Resolving Missing oci.dll Files on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-ring-specs-revealed-when-to-expect-and-how-much-will-it-cost/"><u>Samsung Galaxy Ring Specs Revealed – When to Expect and How Much Will It Cost?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-missing-youtube-comments-and-how-to-restore-them/"><u>Solving the Mystery: Missing YouTube Comments and How to Restore Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-mend-your-windows-apps-online-deficiencies/"><u>Swiftly Mend Your Windows Apps' Online Deficiencies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-historys-secrets-with-the-internet-archives-wayback-machine/"><u>Unlocking History's Secrets with The Internet Archive’s Wayback Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-maximum-number-of-youtube-channels-you-can-own/"><u>What's the Maximum Number of YouTube Channels You Can Own?</u></a></li>
 </ul></div>
 

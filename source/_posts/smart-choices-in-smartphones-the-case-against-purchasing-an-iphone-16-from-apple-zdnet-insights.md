@@ -1,7 +1,7 @@
 ---
 title: "Smart Choices in Smartphones: The Case Against Purchasing an iPhone 16 From Apple | ZDNet Insights"
-date: 2025-01-10T08:46:33.737Z
-updated: 2025-01-10T18:52:56.617Z
+date: 2025-01-13T22:54:48.653Z
+updated: 2025-01-16T20:13:38.109Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | **Features**       | **iPhone 16 Pro**            | **iPhone 14 Pro**            |             |                        |         |             |
@@ -49,6 +45,10 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. You want Apple Intelligence
 
 Apple's artificial intelligence push, aptly named Apple Intelligence, will be available over the coming months on the iPhone 16 lineup, but it's not coming to the iPhone 14 Pro. Though the iPhone 14 Pro will get iOS 18, it'll soon be short on AI features, rendering it outdated. If you'd like to stay up-to-date with the latest AI features or already use other AI tools in your day-to-day life, the iPhone 16 Pro is likely a worthy upgrade.
@@ -58,7 +58,7 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
@@ -68,6 +68,10 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 **Also: [Every iPhone 16 model compared: Which iPhone should you buy today?](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/)**
 
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
 
@@ -80,16 +84,12 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
 
@@ -100,7 +100,7 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
@@ -147,19 +147,24 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-stock-success-the-ultimate-list-of-channels-for-2024/"><u>[Updated] Stock Success The Ultimate List of Channels for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>2024 Approved The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-lava-storm-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Lava Storm 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-ussd-an-in-depth-look-at-unstructured-supplementary-service-data/"><u>Demystifying USSD: An In-Depth Look at Unstructured Supplementary Service Data</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-appetizing-cooking-show-collections-to-binge-watch-on-netflix/"><u>Discover the Most Appetizing Cooking Show Collections to Binge Watch on Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-pc-aesthetics-the-top-15-no-cost-windows-11-designs-to-try-today/"><u>Elevate Your PC Aesthetics: The Top 15 No-Cost Windows 11 Designs to Try Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ending-the-darkness-effective-strategies-to-fix-black-screen-issues-on-your-windows-11-pc/"><u>Ending the Darkness: Effective Strategies to Fix Black Screen Issues on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experts-picks-the-ultimate-7-traffic-management-applications/"><u>Experts' Picks: The Ultimate 7 Traffic Management Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-portable-powerhouses-discover-the-finest-mini-gaming-rigs/"><u>Leading Portable Powerhouses: Discover the Finest Mini Gaming Rigs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286796141-mkvavi/"><u>MKVからAVIへの迅速な動画変換手法：サイトとソフトウェアの利点？</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722885947141-subwoofer-dilemma-solved-get-rid-of-the-irritating-audio-hum-once-and-for-all/"><u>Subwoofer Dilemma Solved? Get Rid of the Irritating Audio Hum Once and For All</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tongue-treasures-selecting-superb-audio-to-text-applications/"><u>Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-personal-details-top-8-online-databases-for-finding-persons/"><u>Uncover Personal Details: Top 8 Online Databases for Finding Persons</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-5-premier-slumber-assistance-applications-for-your-apple-watch/"><u>Unveiling 5 Premier Slumber Assistance Applications for Your Apple Watch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-professional-fb-ad-videos-made-simple-free-kit-included/"><u>[New] 2024 Approved Professional FB Ad Videos Made Simple – Free Kit Included</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-shorts-effective-income-strategies/"><u>[New] Mastering YouTube Shorts Effective Income Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-professional-strategies-for-inshot-edits/"><u>[New] Professional Strategies for Inshot Edits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-valhallas-vanguard-fiery-rebirth/"><u>[Updated] 2024 Approved Valhalla's Vanguard Fiery Rebirth</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-anatomy-of-hand-tracking-techniques-and-types/"><u>[Updated] Anatomy Of Hand Tracking Techniques and Types</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-list-of-3d-typographic-sites/"><u>[Updated] In 2024, Ultimate List of 3D Typographic Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-a-silent-iphone-heres-how-to-get-your-ringtone-back/"><u>Dealing with a Silent iPhone? Here’s How to Get Your Ringtone Back</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-our-selection-of-free-childrens-cinema-on-the-internet/"><u>Discover Our Selection of Free Children’s Cinema on the Internet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-error-troubleshooting-network-initialization-failures/"><u>Dragon Ball FighterZ Error: Troubleshooting Network Initialization Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-altering-mobile-device-positioning-tricks-for-modifying-gps-coordinates/"><u>Guide to Altering Mobile Device Positioning: Tricks for Modifying GPS Coordinates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-holo-health-interventions/"><u>In 2024, Holo-Health Interventions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-background-privacy-settings-for-crystal-clear-presentations-on-google-meet/"><u>Mastering Background Privacy Settings for Crystal Clear Presentations on Google Meet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723262396468-meet-asus-latest-innovation-rog-nuc-with-up-to-intel-core-i9-cpus-and-rtx-4070-gpus-starting-at-just-1629/"><u>Meet Asus' Latest Innovation: ROG NUC with Up to Intel Core I9 CPUs and RTX 4070 GPUs - Starting at Just $1,629</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-winhttpdll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving 'Winhttp.dll' File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-portability-how-the-new-20-anker-battery-eliminates-charger-woes-insights/"><u>Revolutionizing Portability: How the New $20 Anker Battery Eliminates Charger Woes - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sharing-your-adventures-a-how-to-for-taking-and-uploading-nintendo-switch-screen-clips/"><u>Sharing Your Adventures: A How-To for Taking & Uploading Nintendo Switch Screen Clips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sony-s6500-revisited-fresh-take-on-media-playback/"><u>Sony S6500 Revisited Fresh Take on Media Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-correct-a-401-error-on-your-site/"><u>Step-by-Step Guide to Correct a 401 Error on Your Site</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-updating-your-microsoft-powerpoint-presentations/"><u>Step-by-Step Guide: Updating Your Microsoft PowerPoint Presentations</u></a></li>
 </ul></div>
 

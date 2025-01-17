@@ -1,7 +1,7 @@
 ---
 title: Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights
-date: 2025-01-09T16:44:39.262Z
-updated: 2025-01-10T18:15:43.686Z
+date: 2025-01-14T18:19:22.733Z
+updated: 2025-01-16T23:19:51.630Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Let's dig in, shall we?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Gradual immersion
@@ -55,6 +55,10 @@ Apple recommends you gradually introduce users to your app, starting with a wind
 That way, they're not suddenly dropped into a whole new world, but they can slowly get their "VR legs" and feel they have some level of control over their immersion level, at least until they get comfortable with their environment. 
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
 
@@ -67,7 +71,7 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -78,19 +82,11 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
 
@@ -103,7 +99,7 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -111,6 +107,10 @@ And while you're at it, allow your users to control the sound, setting its volum
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -159,24 +159,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-xiaomi-11-series-capture-life-in-high-definition-for-2024/"><u>[New] Xiaomi 11 Series Capture Life in High Definition for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-comprehensive-insight-into-high-end-hdr-cameras/"><u>[Updated] 2024 Approved Comprehensive Insight Into High-End HDR Cameras</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sub-50-mic-selections-for-aspiring-streaming-artists/"><u>[Updated] Sub-$50 Mic Selections for Aspiring Streaming Artists</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>2024 Approved Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-all-features-on-xbox-1-without-standard-controls/"><u>Access All Features on Xbox 1 without Standard Controls</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chromecast-enhancement-a-comprehensive-walkthrough-on-how-to-update/"><u>Chromecast Enhancement: A Comprehensive Walkthrough on How to Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-shadow-to-light-mastering-the-art-of-repairing-a-black-screen-on-windows-11-devices/"><u>From Shadow to Light: Mastering the Art of Repairing a Black Screen on Windows 11 Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gaming-themed-treasures-the-perfect-kids-consoles-and-accessories-guide/"><u>Gaming-Themed Treasures: The Perfect Kid's Consoles and Accessories Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-advanced-gmail-management-techniques-message-filtering-and-managing-multiple-emails/"><u>Guide: Advanced Gmail Management Techniques - Message Filtering & Managing Multiple Emails</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-resolve-kernel32dll-problems-in-microsoft-operating-systems/"><u>How to Easily Resolve Kernel32.dll Problems in Microsoft Operating Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-blaze-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Blaze Pro 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-troubleshoot-and-resolve-libgdk-win32-20-0dll-missing-errors-in-windows/"><u>How to Troubleshoot and Resolve libgdk-win32-2.0-0.dll Missing Errors in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immerse-in-advanced-technology-tcls-growth-of-smart-tv-collection-with-newly-introduced-q-and-s-class-19-stunning-variants/"><u>Immerse in Advanced Technology: TCL's Growth of Smart TV Collection with Newly Introduced Q & S Class - 19 Stunning Variants</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>In 2024, Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-2024-must-have-reading-apps-ranked-a-comprehensive-review-of-top-8-picks/"><u>The 2024 Must-Have Reading Apps Ranked: A Comprehensive Review of Top 8 Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-art-of-efficient-email-organization-in-gmail-through-smart-labeling-techniques/"><u>The Art of Efficient Email Organization in Gmail Through Smart Labeling Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/topos-6-mas-eficaces-transcodificadores-de-video-sin-coste-para-windows-10-entendiendo-su-exito/"><u>Topos 6 Más Eficaces Transcodificadores De Video Sin Coste Para Windows 10: Entendiendo Su Éxito</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watching-the-lord-of-the-rings-trilogy-the-right-way-and-order/"><u>Watching 'The Lord of the Rings' Trilogy – The Right Way and Order!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-streaming-to-start-reversing-order-on-your-youtube-watch-list/"><u>[New] In 2024, Streaming to Start Reversing Order on Your YouTube Watch List</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-understanding-macos-big-sur-minimum-requirements/"><u>[New] In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>[New] In 2024, Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-clear-vision-in-gaming-captures-overcoming-obs-black-screens-for-2024/"><u>[Updated] Clear Vision in Gaming Captures Overcoming OBS Black Screens for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-make-a-splash-impressive-video-edits-with-windows-10s-tools/"><u>2024 Approved Make a Splash Impressive Video Edits with Windows 10'S Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-self-driving-vehicle-producers-top-picks/"><u>Best Self-Driving Vehicle Producers : Top Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/envisioning-the-future-learn-from-these-6-metaverse-scenarios/"><u>Envisioning the Future Learn From These 6 Metaverse Scenarios</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-steps-for-adding-apple-tv-to-your-firestick-device/"><u>Expert Steps for Adding Apple TV to Your Firestick Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-150-2023-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia 150 (2023) to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-into-ps5-slims-specs-what-to-expect-from-sonys-new-console/"><u>Insights Into PS5 Slim's Specs - What to Expect From Sony's New Console!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-stream-netflix-on-your-nintendo-switch-console/"><u>Is It Possible To Stream Netflix On Your Nintendo Switch Console?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/g-everyday-moments-memorable-on-youtube/"><u>Making Everyday Moments Memorable on YouTube</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-nvidia-audio-drivers-in-windows-7-release/"><u>New NVIDIA Audio Drivers in Windows 7 Release</u></a></li>
+<li><a href="https://win-lab.techidaily.com/solving-the-mbr2gpt-failure-issue-updating-reagentxml-successfully/"><u>Solving the MBR2GPT Failure Issue: Updating 'Reagent.xml' Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-viewing-dragon-ball-in-the-correct-chronology/"><u>Step-by-Step Tutorial on Viewing Dragon Ball in the Correct Chronology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-acquiring-new-titles-for-your-meta-vr-headset/"><u>Step-by-Step Tutorial: Acquiring New Titles for Your Meta VR Headset</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taking-control-methods-for-requesting-access-from-trustedinstaller-in-windows-11/"><u>Taking Control: Methods for Requesting Access From TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-considerations-before-buying-a-high-performance-gaming-pc/"><u>Top Considerations Before Buying a High-Performance Gaming PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-optimal-image-configurations-for-your-samsung-ultra-hd-television/"><u>Top Optimal Image Configurations for Your Samsung Ultra HD Television</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transferring EPUB/PDF Reads Onto Your Kobo & Sony Digital Book Devices"
-date: 2024-08-20T10:30:24.195Z
-updated: 2024-08-21T10:30:24.195Z
+date: 2025-01-10T21:42:25.050Z
+updated: 2025-01-16T19:45:36.770Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
@@ -15,8 +15,6 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/23/2018 4:21:
 
 4.2 [(11 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 Owners of Kobo and Sony eReaders purchase eBooks from not only official Kobo and Sony eBook stores but also from other sources. Generally, books purchased with the built-in app on the device get synced automatically. But for books purchased from third-party stores, we will have to transfer from computer to the device by hand. 
@@ -24,6 +22,10 @@ Owners of Kobo and Sony eReaders purchase eBooks from not only official Kobo and
 ![Kobo and Sony eReaders](https://www.epubor.com/images/uppic/kobot_main.png) 
 
 This guide will tell you how to add EPUB and PDF books to Kobo and Sony eReaders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to add EPUB and PDF books to Kobo eReaders
 
@@ -39,6 +41,10 @@ Kobo has released a set of eReader models, including Kobo Touch, Kobo Mini (5-in
 
 ![Add EPUB books to Adobe Digital Editions](https://www.epubor.com/images/uppic/kobot_kobo_drag.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it is an ACSM file, double-click the file and the full EPUB book will be downloaded soon. If this doesn't work, you can also drag and drop the ACSM file directly to the main window of ADE. Here is [how to convert ACSM to EPUB](https://tools.techidaily.com/epubor/products/).
 
 **Step4:** Drag & drop your books **from the main window of ADE** to the **Kobo icon on the left side**. The books will be transferred to your Kobo eReader immediately.
@@ -50,8 +56,9 @@ Eject your Kobo eReader and wait until the finish of sync. Head to "My Books" ca
 This method enables users to add both DRM-free books from torrent sites and purchased DRM-protected books from Sony, Google Play and other stores to Kobo Touch, Kobo Mini, Kobo Glo and other kobo eReaders. For DRM-free books, you can also [connect the Kobo eReader to computer using USB and drag & drop to transfer books](http://www.slideshare.net/AdaWyy/add-books-to-kobo-glo-kobo-touch). 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. How to add books to Sony eReader
 
 Books can be transferred to Sony eReader via USB or Sony Reader software. When transferring books with the drag & drop method (via USB), the added EPUB and PDF files might not be displayed. So Sony officially recommends users to transfer books to Sony with Reader Software.
@@ -59,8 +66,9 @@ Books can be transferred to Sony eReader via USB or Sony Reader software. When t
 **![Add books to Sony eReader with Sony Reader Library](https://www.epubor.com/images/uppic/kobot_sony_transfer.png)Step 1:** Connect the Sony eReader to computer with the supplied USB cable and the eReader will be in "Data Transfer Mode". Two drives ("SETTING" and "READER") will show on the computer afterwards. 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step2:** Go to "SETTING" drive, double-click “Setup Reader for PC” to install eReader software on your PC.
 
 For Mac users, double-click "SETTING" drive on desktop, then double-click “Setup Reader for Mac” to install. 
@@ -68,6 +76,10 @@ For Mac users, double-click "SETTING" drive on desktop, then double-click “Set
 **Step3:** Launch Reader software and drag your EPUB or PDF books onto the "Library" folder in the left field. 
 
 Eject your Sony eReader, you will find the added books on the device after syncing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video guide about how to add EPUB and PDF books to Sony eReader. 
 
@@ -84,9 +96,6 @@ Eject your Sony eReader, you will find the added books on the device after synci
 
 ![Add Kobo books to Sony - Kobo icon](https://www.epubor.com/images/uppic/Kobot_kobo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Sony and Kobo eReaders support the same eBook formats (EPUB and PDF) and books from both stores are Adobe DRM protected, so people sometimes purchase books from one store and read on another eReader. Part 1 explains how to transfer both DRM-free and DRM-protected eBooks to Kobo, so here is how to add books from other stores to Sony eReader. I take Kobo books for example.
 
 **Step1:** Launch Sony Reader software.
@@ -103,9 +112,6 @@ Sony and Kobo eReaders support the same eBook formats (EPUB and PDF) and books f
 
 ![Add Kindle books to Kobo/Sony - Kindle icon](https://www.epubor.com/images/uppic/kobot_kindle.jpg)   
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Many people like to purchase eBooks from Amazon Kindle eBook store due to its more diversified titles at cheaper prices, although Kindle books come in exclusive Kindle formats and are protected with another DRM scheme. To add Kindle books to Kobo or Sony eReaders, we have to first strip Kindle DRM protection from the books, then convert Kindle formats to Kobo and Sony supported EPUB or PDF. 
 
 Download Epubor Kindle DRM Removal tool:
@@ -120,9 +126,6 @@ Here is[how to read Kindle books on Kobo Vox](https://tools.techidaily.com/epubo
 
 ![Add books to Kobo iPad/iPhone/Android app - Kobo icon](https://www.epubor.com/images/uppic/kobot_ipad.png)Purchased Kobo books will be synced on Kobo for Android app or Kobo for iOS app automatically. For side loaded books, however, you don't have to transfer them to Kobo for Android/iOS app (I personally don't think them awesome) since there have been many good 3rd-party reader apps on Android and iOS. 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 Here are [how to read eBooks on Android (with Aldiko)](http://ebookconverter.blogspot.com/2012/07/aldiko-book-reader-free-android-ebook.html) and [how to transfer books to iPad](https://tools.techidaily.com/epubor/products/). 
 
   
@@ -135,9 +138,6 @@ Related Readings
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -145,8 +145,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/reader/) 
-
-
 
 11 Comments
 
@@ -306,8 +304,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -315,4 +311,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-slow-motion-capture-with-android-a-beginners-guide/"><u>[New] In 2024, Mastering Slow-Motion Capture with Android A Beginner's Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-utilizing-jump-cuts-to-amplify-your-vlog-impact/"><u>[New] Utilizing Jump Cuts to Amplify Your Vlog Impact</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-stardew-insider-exploring-ginger-island-thoroughly-for-2024/"><u>[Updated] Stardew Insider Exploring Ginger Island Thoroughly for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-login-requirements-a-guide-to-observing-instagram-posts-anonymously/"><u>Bypassing Login Requirements: A Guide to Observing Instagram Posts Anonymously</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/catch-em-all-in-no-time-learn-to-play-pokemon-go-now/"><u>Catch 'Em All in No Time - Learn to Play Pokemon Go Now!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nubia-red-magic-8s-proplus-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-archiving-solutions-discover-the-best-no-cost-programs-to-move-files-across-windows-versions/"><u>Effortless Archiving Solutions: Discover the Best No-Cost Programs to Move Files Across Windows Versions!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-infinix-zero-5g-2023-turbo-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Infinix Zero 5G 2023 Turbo to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-v30-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme V30</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-coordination-7-shared-calendars-for-todays-hectic-families/"><u>Simplify Coordination: 7 Shared Calendars for Today's Hectic Families</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simultaneous-spotify-streaming-is-it-possible-with-two-users/"><u>Simultaneous Spotify Streaming: Is It Possible with Two Users?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-rpcrt4dll-error-a-comprehensive-guide/"><u>Solving rpcrt4.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-pythons-critical-python24dll-file-is-absent/"><u>Solving the Issue: Python's Critical 'python24.dll' File Is Absent</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activating-web-cookies-on-any-browser/"><u>Step-by-Step Guide: Activating Web Cookies on Any Browser</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-moderation-mistakes-with-chatgpt-for-better-results/"><u>Troubleshooting Moderation Mistakes with ChatGPT for Better Results</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-g2-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo G2 FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-of-how-t-mobile-handles-domestic-roaming/"><u>Unraveling the Mystery of How T-Mobile Handles Domestic Roaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2025-01-08T22:00:37.912Z
-updated: 2025-01-11T09:40:37.817Z
+date: 2025-01-09T19:49:36.009Z
+updated: 2025-01-16T19:11:03.841Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,24 +150,22 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-logic-of-imovies-trim-feature/"><u>[New] The Logic of iMovie's Trim Feature</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-secret-language-of-snapchat-behind-every-emoji-for-2024/"><u>[Updated] The Secret Language of Snapchat Behind Every Emoji for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/curated-selection-prime-uk-dramas-and-comedies-streaming-now-on-netflix/"><u>Curated Selection: Prime UK Dramas and Comedies Streaming Now on Netflix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-6-food-diary-apps-on-your-phone/"><u>Discover the Best 6 Food Diary Apps on Your Phone!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/drive-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide-for-2024/"><u>Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-techniques-for-adding-straight-edges-in-word-documents/"><u>Easy Techniques for Adding Straight Edges in Word Documents</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/expert-tips-to-restore-functionality-for-a-malfunctioning-alienware-command-center/"><u>Expert Tips to Restore Functionality for a Malfunctioning Alienware Command Center</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-our-ultimate-selection-the-8-most-popular-book-apps/"><u>Explore Our Ultimate Selection: The 8 Most Popular Book Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-shift-key-a-comprehensive-guide/"><u>Fixing a Non-Responsive Shift Key: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-boost-your-channels-crafting-captivating-yt-descriptions-using-custom-templates/"><u>In 2024, Boost Your Channels Crafting Captivating YT Descriptions Using Custom Templates</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-memetic-masterpieces-behind-the-photo/"><u>In 2024, Memetic Masterpieces Behind the Photo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/innovative-fixes-for-dealing-with-the-persistent-hulu-rununk13-error-on-streaming-services/"><u>Innovative Fixes for Dealing with the Persistent Hulu Rununk13 Error on Streaming Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-permission-controls-altering-trustedinstaller-accessibility-in-windows-11-systems/"><u>Mastering Permission Controls: Altering TrustedInstaller Accessibility in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ps4-game-compatibility-with-ps5-can-you-enjoy-your-old-favorites/"><u>PS4 Game Compatibility with PS5: Can You Enjoy Your Old Favorites?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-outlook-responses-a-windows-fix-guide/"><u>Quick Outlook Responses: A Windows Fix Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-canon-mp2930-printer-drivers-for-multiple-windows-os/"><u>Step-by-Step Guide to Downloading and Installing Canon MP2930 Printer Drivers for Multiple Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-enabling-2fa-security-feature-in-your-gmail/"><u>Step-by-Step Guide: Enabling 2FA Security Feature in Your Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-intersection-of-faith-and-tech-how-does-pope-francis-incorporate-email-into-his-daily-life/"><u>The Intersection of Faith and Tech: How Does Pope Francis Incorporate Email Into His Daily Life?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>[New] In 2024, Unleashing Fun KineMaster Reviewed for Android Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-supercharge-your-farming-fun-in-stardew-valley-top-7-upgrades/"><u>[New] Supercharge Your Farming Fun in Stardew Valley (Top 7 Upgrades)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-dissecting-drama-introducing-chapters-to-video-content-for-2024/"><u>[Updated] Dissecting Drama Introducing Chapters to Video Content for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-advice-on-free-youtube-events-without-extra-cost/"><u>2024 Approved Expert Advice on Free Youtube Events without Extra Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-language-learning-platforms-2024-edition/"><u>Best Free Language Learning Platforms: 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-engagement-with-quick-multi-photo-posts-on-facebook-a-step-by-step-guide/"><u>Boosting Engagement with Quick Multi-Photo Posts on Facebook – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-tech-innovations-the-top-3-trends-you-cant-miss/"><u>Crucial Tech Innovations: The Top 3 Trends You Can't Miss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-edge-intelligence-insights-into-its-operational-framework/"><u>Demystifying Edge Intelligence: Insights Into Its Operational Framework</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894476596-dive-into-the-digital-age-with-our-best-picks-for-laptops-mobile-devices-and-must-read-books/"><u>Dive Into the Digital Age with Our Best Picks for Laptops, Mobile Devices, and Must-Read Books!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-the-btballoondll-not-found-issue-with-easy-tips-and-tricks/"><u>Fix the 'BTBalloon.Dll Not Found' Issue with Easy Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/identifying-the-ruler-the-sovereign-at-the-helm-during-the-zhou-dynasty-era-insights-by-yl-computing/"><u>Identifying the Ruler: The Sovereign at the Helm During the Zhou Dynasty Era - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-cookies-for-a-personalized-web-experience/"><u>Setting Up Cookies for a Personalized Web Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/star-studded-whatsapp-profiles-a-zodiac-guide-to-crafting-bios/"><u>Star-Studded WhatsApp Profiles A Zodiac Guide to Crafting Bios</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-to-correcting-ntdlldll-errors-in-windows-1087/"><u>Step-by-Step Solutions to Correcting ntdll.dll Errors in Windows [10/8/7]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences/"><u>The Perfect Playback Top Strategies to Record and Share Your VR Experiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-discontinued-google-hangouts-service/"><u>Understanding the Discontinued Google Hangouts Service</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Microsoft Surface Pro 8 Enterprise Evaluation"
-date: 2025-01-05T06:49:19.448Z
-updated: 2025-01-10T19:50:02.190Z
+date: 2025-01-13T16:26:48.938Z
+updated: 2025-01-16T17:13:37.315Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -53,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -131,6 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -140,6 +140,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -154,7 +158,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -168,10 +172,6 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -212,22 +212,21 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/cant-connect-to-xbox-online-server-outage-or-local-internet-problems/"><u>Can't Connect to Xbox Online - Server Outage or Local Internet Problems?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-instructions-to-uninstall-the-intelligent-agent-from-windows-nx-focus-on-copilot/"><u>Complete Instructions to Uninstall the Intelligent Agent From Windows nX: Focus on Copilot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/confused-about-psn-outages-is-it-a-global-problem-or-are-you-singularly-disconnected/"><u>Confused About PSN Outages - Is It a Global Problem or Are You Singularly Disconnected?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-from-home-discover-66-inspiring-tweeters-offering-travel-deals-and-guidance/"><u>Explore The World From Home: Discover 66 Inspiring Tweeters Offering Travel Deals & Guidance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-letters-to-love-how-to-effortlessly-create-a-heart-symbol-online/"><u>From Letters to Love: How to Effortlessly Create a Heart Symbol Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breakdown-of-pewdiepies-monthly-earning-trends/"><u>In 2024, Breakdown of PewDiePie's Monthly Earning Trends</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-content-that-captivates-for-virality-on-ig/"><u>In 2024, Crafting Content that Captivates for Virality on IG</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-filmmaker-fascination-filmoras-essential-traits/"><u>In 2024, Navigating Filmmaker Fascination Filmora's Essential Traits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-have-technology-tools-the-ultimate-list-of-9-key-products-for-todays-learners/"><u>Must-Have Technology Tools: The Ultimate List of 9 Key Products for Today's Learners</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-essential-video-rotation-software-for-web-and-social-media/"><u>New In 2024, 10 Essential Video Rotation Software for Web and Social Media</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/online-tutorial-adding-youtube-playlists-to-your-site/"><u>Online Tutorial Adding YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/our-10-favorite-note-taking-apps-of-2024/"><u>Our 10 Favorite Note Taking Apps of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-start-launching-the-command-prompt-in-various-versions-of-windows-os/"><u>Quick Start: Launching the Command Prompt in Various Versions of Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-communication-tips-how-to-link-your-mobile-number-with-all-your-electronics/"><u>Seamless Communication Tips: How to Link Your Mobile Number with All Your Electronics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-restoring-normal-functionality-from-a-blackout-screen-on-android-phones/"><u>Step-by-Step Guide to Restoring Normal Functionality From a Blackout Screen on Android Phones</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-pop-8-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 8 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/v770-blend-affordable-hd-quality/"><u>V770 Blend: Affordable HD Quality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-discover-chromebooks-premier-web-based-speech-alteration-tools/"><u>[New] Discover Chromebook’s Premier Web-Based Speech Alteration Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-freedom-in-sight-comparing-free-screen-capture-tools-for-2024/"><u>[New] Freedom in Sight Comparing Free Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/como-clonar-windows-11-a-un-disco-usb-tres-formas-de-crear-una-instancia-de-inicio-portatil/"><u>Cómo Clonar Windows 11 a Un Disco USB: Tres Formas De Crear Una Instancia De Inicio Portátil</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-keep-an-eye-on-how-much-data-youre-using-online/"><u>Easy Ways to Keep an Eye on How Much Data You're Using Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-remote-play-potential-with-steams-storage-solutions/"><u>Explore Remote Play Potential With Steam's Storage Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-pdhdll-absent-error-a-comprehensive-tutorial/"><u>Fix pdh.dll Absent Error - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-printed-to-digital-a-comprehensive-walkthrough-on-scanner-operations/"><u>From Printed to Digital: A Comprehensive Walkthrough on Scanner Operations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-ipad-tablets-equipped-with-internal-gps-technology/"><u>Identifying iPad Tablets Equipped With Internal GPS Technology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-sleek-skill-using-watch-to-unlock-mac/"><u>In 2024, Sleek Skill Using Watch to Unlock Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-reinstallation-made-easy-entering-and-using-recovery-mode/"><u>Mac Reinstallation Made Easy: Entering and Using Recovery Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-gmail-protection-how-to-set-up-a-safe-list-of-contacts/"><u>Mastering Gmail Protection: How to Set Up a Safe List of Contacts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-zoom-camera-problems-tips-for-quick-fixes-and-optimal-performance/"><u>Mastering Zoom Camera Problems: Tips for Quick Fixes and Optimal Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mobile-video-smoothing-system-pro/"><u>Mobile Video Smoothing System Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-addressing-problems-with-laptopdesktop-startup-failures/"><u>Step-by-Step Solution: Addressing Problems with Laptop/Desktop Startup Failures</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/swift-and-simple-techniques-for-exact-memory-card-restoration/"><u>Swift and Simple Techniques for Exact Memory Card Restoration</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unraveling-the-mystery-why-is-my-windows-file-explorer-spontaneously-launching-insights-from-malwarefox/"><u>Unraveling the Mystery: Why Is My Windows File Explorer Spontaneously Launching? Insights From MalwareFox</u></a></li>
 </ul></div>
 

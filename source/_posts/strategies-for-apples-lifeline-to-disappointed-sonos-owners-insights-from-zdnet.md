@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2025-01-06T02:43:33.711Z
-updated: 2025-01-10T21:29:18.400Z
+date: 2025-01-11T16:00:03.729Z
+updated: 2025-01-16T16:26:48.881Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,16 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-unveiling-the-secrets-of-iphones-video-loops/"><u>2024 Approved Unveiling the Secrets of iPhone's Video Loops</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-and-repairing-website-security-blocks-the-401-unauthorized-code-guide/"><u>Decoding and Repairing Website Security Blocks - The 401 Unauthorized Code Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g14-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G14 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-art-of-audio-amalgamation-in-vimeo-videos/"><u>In 2024, The Art of Audio Amalgamation in Vimeo Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-mini-video-medley-where-does-your-audience-flock-youtubes-or-tiktoks/"><u>In 2024, The Mini-Video Medley Where Does Your Audience Flock? YouTubes or TikToks?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722848848078-is-twitch-really-down-or-is-your-connection-at-fault/"><u>Is Twitch Really Down, or Is Your Connection at Fault?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-portrait-photography-a-beginners-guide-to-the-best-selfie-lights/"><u>Mastering Portrait Photography: A Beginner's Guide to the Best Selfie Lights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-watch-originals-featured-on-max-streaming-service/"><u>Must-Watch Originals Featured on Max Streaming Service</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-income-impact-of-sharing-on-youtube-shorts-for-2024/"><u>The Income Impact of Sharing on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>[New] 2024 Approved The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-bring-clarity-to-your-feed-a-guide-to-crafting-square-videos-in-imovie/"><u>[New] Bring Clarity to Your Feed A Guide to Crafting Square Videos in iMovie</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-game-masters-top-ten-female-gaming-influencers/"><u>[New] Game Masters Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-recommendations-top-10-high-end-video-card-models/"><u>[New] In 2024, Elite Recommendations Top 10 High-End Video Card Models</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-evaluating-earnings-from-one-million-youtube-watches-for-2024/"><u>[Updated] Evaluating Earnings From One Million YouTube Watches for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso/"><u>[Updated] Meme Mastery Money-Making The Financial Figures of a Video Virtuoso</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-redesigned-look-at-s3700-sony-entertainment/"><u>2024 Approved Redesigned Look at S3700 Sony Entertainment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-practices-for-integrating-source-code-within-your-word-files/"><u>Best Practices for Integrating Source Code Within Your Word Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridging-tech-connect-chromecast-to-amazons-firestick-for-ultimate-streaming/"><u>Bridging Tech: Connect Chromecast to Amazon's Firestick for Ultimate Streaming</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/combatting-the-trickbot-menace-expert-insights-on-prevention-and-security-secureshield-tech/"><u>Combatting the TrickBot Menace: Expert Insights on Prevention and Security - SecureShield Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-solving-msvcrt47dll-not-detected-issues/"><u>Comprehensive Guide: Solving msvcrt47.dll Not Detected Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-your-apple-watch-connection-woes-with-these-6-simple-tips/"><u>Fix Your Apple Watch Connection Woes With These 6 Simple Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-android-phones-quick-settings-panel-a-beginners-guide/"><u>Mastering Your Android Phone's Quick Settings Panel - A Beginner's Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-resident-evil-village-crashing-issues-on-your-windows-pc/"><u>Resolving Resident Evil Village Crashing Issues on Your Windows PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/soundscaping-instagram-reels-a-step-by-step-tutorial-for-2024/"><u>Soundscaping Instagram Reels A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-free-roku-streaming-channels-in-24-must-watch-list/"><u>Top 8 Free Roku Streaming Channels in 2#4 - Must-Watch List!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-directxdirectinputdll-issues-a-step-by-step-guide/"><u>Troubleshooting DirectX.DirectInput.DLL Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-choosing-and-purchasing-the-perfect-television-for-your-living-space/"><u>Ultimate Guide: Choosing and Purchasing the Perfect Television for Your Living Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-amazing-free-preschool-activities-and-games/"><u>Ultimate List of Amazing Free Preschool Activities and Games</u></a></li>
 </ul></div>
 

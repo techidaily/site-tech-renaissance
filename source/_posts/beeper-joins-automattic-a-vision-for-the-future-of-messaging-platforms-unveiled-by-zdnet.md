@@ -1,7 +1,7 @@
 ---
 title: "Beeper Joins Automattic: A Vision for the Future of Messaging Platforms Unveiled by ZDNet"
-date: 2025-01-04T17:57:38.714Z
-updated: 2025-01-11T08:13:39.313Z
+date: 2025-01-15T01:13:11.796Z
+updated: 2025-01-16T16:35:36.196Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ There's a reason the Apple Watch is acclaimed as one of the best smartwatches in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. A less-distracting extension of your iPhone
 
 Jason Hiner/ZDNET
@@ -63,7 +59,7 @@ The watch is also a great way to reduce distractions. When you have your phone o
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. A truly great fitness-tracking experience
@@ -79,7 +75,7 @@ From the concept of "closing your rings" every day (and the various awards you c
 Apple's platform isn't perfect, mind you. You'll find better sleep-tracking information on other watches, like the Google Pixel Watch 2, you don't get any recovery information _at all_, and the Health app doesn't proactively tell you whether you're improving during your fitness journey. Still, for general consumers and fitness enthusiasts, using the Apple Watch for health tracking is a fantastic experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Notifications you want to interact with
@@ -89,6 +85,10 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 **Also: [Apple Watch Fall Detection: How and why to enable it](https://www.zdnet.com/article/apple-watch-fall-detection-how-and-why-to-enable-it/)**
 
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. The greatest haptics on any watch
 
@@ -101,7 +101,7 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Navigating with Apple Maps
@@ -113,10 +113,6 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 **Also: [Apple Maps vs. Google Maps, which is best?](https://www.zdnet.com/article/apple-maps-vs-google-maps/)**
 
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
 
@@ -131,6 +127,10 @@ Everything about watchOS is amazing. It's fast, fluid, easy to use, and has a hu
 The platform just works the way you'd expect. When paired to your iPhone, so many of your settings will sync with your Apple Watch that it'll feel like you've customized the device without diving into settings. App notifications, Focus modes, Wi-Fi networks, and more all sync with your watch automatically, allowing you to hit the ground running when you strap your Apple Watch to your wrist.
 
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -166,20 +166,24 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>[New] Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising-for-2024/"><u>[New] Budding Entrepreneurs Guide Mastering the Art of Social Media Advertising for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[New] In 2024, The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-oceans-bounty-best-cameras-for-anglers/"><u>2024 Approved Ocean's Bounty - Best Cameras for Anglers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-viewing-experience-youtube-ad-block-strategies/"><u>2024 Approved Streamline Your Viewing Experience - YouTube Ad-Block Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-psvr2-title-reveal-a-comprehensive-catalog-of-all-officially-unveiled-games/"><u>Complete PSVR2 Title Reveal: A Comprehensive Catalog of All Officially Unveiled Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-chromecast-device-to-fire-stick-for-seamless-sharing/"><u>Connect Chromecast Device to Fire Stick for Seamless Sharing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/declutter-your-desktop-on-macos-a-step-by-step-guide-to-automatically-hide-newly-opened-apps-using-stage-manager-features/"><u>Declutter Your Desktop on macOS: A Step-by-Step Guide to Automatically Hide Newly Opened Apps Using Stage Manager Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-7-alarm-clock-apps-on-the-market/"><u>Discover the Best 7 Alarm Clock Apps on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-news-aggregators-dominating-2024/"><u>Discover the Leading News Aggregators Dominating 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-react-if-your-instagram-profile-gets-disconnected-steps-and-tips/"><u>How to React if Your Instagram Profile Gets Disconnected: Steps and Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel P55T PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy S24</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/time-traveling-through-pages-how-to-effectively-leverage-the-wayback-machine-for-historical-research/"><u>Time Traveling Through Pages: How to Effectively Leverage the Wayback Machine for Historical Research</u></a></li>
-<li><a href="https://fox-access.techidaily.com/utilizing-lut-filters-in-obs-studio-effectively-for-2024/"><u>Utilizing LUT Filters in OBS Studio Effectively for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-excellent-record-maker-chromebook-edition-for-2024/"><u>[New] Excellent Record Maker Chromebook Edition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-effective-methods-for-capturing-youtube-live-broadcasts/"><u>[New] In 2024, Effective Methods for Capturing YouTube Live Broadcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-muting-unwanted-noise-obs-audio-solution/"><u>[Updated] 2024 Approved Muting Unwanted Noise OBS Audio Solution</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-hottest-twitters-the-viral-video-countdown-for-2024/"><u>[Updated] Hottest Twitters The Viral Video Countdown for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-superior-zoom-sound-quality/"><u>[Updated] In 2024, The Ultimate Guide to Superior Zoom Sound Quality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-the-art-of-cross-platform-skype-chats-with-this-comprehensive-guide/"><u>[Updated] Mastering the Art of Cross-Platform Skype Chats with This Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-and-gaming-are-they-compatible-with-your-nintendo-switch/"><u>AirPods and Gaming: Are They Compatible With Your Nintendo Switch?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/americas-hotspots-revealed-how-to-find-your-perfect-pickleball-state-in-the-us-tops-3-unveiled-zdnet/"><u>America's Hotspots Revealed: How to Find Your Perfect Pickleball State in the US, Tops 3 Unveiled | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-understanding-lg-channel-partnerships/"><u>Comprehensive Guide to Understanding LG Channel Partnerships</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-ray-tracing-a-comprehensive-guide/"><u>Demystifying Ray Tracing: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-master-reset-on-your-samsung-flat-screen/"><u>How to Perform a Master Reset on Your Samsung Flat Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-versus-android-determining-the-best-tech-companion-for-you/"><u>IPhone Versus Android: Determining The Best Tech Companion For You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-troubleshooting-effective-ways-to-resolve-error-code-nw-1-19/"><u>Netflix Troubleshooting: Effective Ways to Resolve Error Code NW-1-19</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-need-for-glasses-learn-how-to-stream-3d-movie-magic-with-fandango-in-your-living-room/"><u>No Need for Glasses! Learn How to Stream 3D Movie Magic with Fandango in Your Living Room</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-of-the-curve-expert-hardware-analysis-by-toms-team/"><u>Stay Ahead of the Curve: Expert Hardware Analysis by Tom's Team</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-microsoft-office-suite-on-your-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Office Suite on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-how-to-disable-cortanas-copilot-feature-in-windows-11/"><u>Step-by-Step Instructions on How to Disable Cortana's Copilot Feature in Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/superior-streaming-services-for-musicians-for-2024/"><u>Superior Streaming Services for Musicians for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210336911-9781789047059-the-i-ching-oracle-a-guide-through-the-human-maze/"><u>The I Ching Oracle: A Guide Through The Human Maze | Free Book</u></a></li>
 </ul></div>
 
