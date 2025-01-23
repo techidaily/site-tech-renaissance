@@ -1,7 +1,7 @@
 ---
 title: Exploring the Necessary Hardware Configurations for Playing Fallout
-date: 2024-08-18T22:50:46.269Z
-updated: 2024-08-19T22:50:46.269Z
+date: 2025-01-16T19:40:39.044Z
+updated: 2025-01-23T05:31:10.576Z
 tags:
   - win11
   - win10
@@ -69,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Check if your card reader is disabled
 
  If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
@@ -80,15 +81,13 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Once your computer has restarted and you’ve logged into Windows, test your card again. If it’s still not recognized, move onto[Method 4](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -122,8 +121,9 @@ If you’re not sure how to do that, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
@@ -132,20 +132,22 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) When prompted to disable the device, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
@@ -156,8 +158,6 @@ If you’re not sure how to do that, refer steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,22 @@ If you’re not sure how to do that, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-exploring-the-length-limits-for-instagram-videos/"><u>[New] 2024 Approved Exploring the Length Limits for Instagram Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dial-up-beats-easy-audio-posting-to-youtubes-for-2024/"><u>[New] Dial-Up Beats Easy Audio Posting to YouTubes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-silencing-ambient-sound-in-recordings-free-or-paid-guide/"><u>[New] In 2024, Silencing Ambient Sound in Recordings Free or Paid Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/10-ways-to-fix-a-wireless-adapter-or-access-point-error-message/"><u>10 Ways to Fix a Wireless Adapter or Access Point Error Message</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-pick-websites-showcasing-hd-sky-shots/"><u>2024 Approved Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-securing-your-stylized-content-insta-photo-watermarking-basics/"><u>2024 Approved Securing Your Stylized Content Insta Photo Watermarking Basics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-power-unveiling-the-surprisingly-advanced-features-of-an-inexpensive-8-port-usb-hub-a-review-by-techexplorer/"><u>Affordable Power: Unveiling the Surprisingly Advanced Features of an Inexpensive 8-Port USB Hub - A Review by TechExplorer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/discovering-the-dynamics-of-whatsapp-vocal-messages/"><u>Discovering the Dynamics of WhatsApp Vocal Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-running-android-applications-on-your-windows-11-system/"><u>Essential Guide: Running Android Applications on Your Windows 11 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/full-list-of-taylor-swifts-acting-roles-for-a-complete-viewing-experience/"><u>Full List of Taylor Swift's Acting Roles for a Complete Viewing Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-link-laptop-and-tv-using-hdmi-an-easy-to-follow-manual/"><u>How To Seamlessly Link Laptop and TV Using HDMI - An Easy-To-Follow Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mobile-hotspot-and-fire-stick-compatibility-a-comprehensive-guide-for-seamless-streaming/"><u>Mobile Hotspot and Fire Stick Compatibility: A Comprehensive Guide for Seamless Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-recording-sound-with-your-hp-laptops-built-in-microphone-and-speakers/"><u>Step-by-Step Guide: Recording Sound with Your HP Laptop's Built-In Microphone and Speakers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/synchronize-and-watch-connecting-disneyplus-library-to-chromecast-for-ultimate-convenience/"><u>Synchronize and Watch: Connecting Disney+ Library to Chromecast for Ultimate Convenience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-portal-for-playstation-uncover-the-arrival-date-price-tag-hardware-details-and-buy-sites/"><u>Upcoming 'Portal' For PlayStation - Uncover the Arrival Date, Price Tag, Hardware Details & Buy Sites!</u></a></li>
+</ul></div>
 

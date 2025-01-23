@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights From ZDNet"
-date: 2025-01-13T01:09:59.775Z
-updated: 2025-01-16T16:06:22.215Z
+date: 2025-01-18T05:59:16.073Z
+updated: 2025-01-22T16:23:02.958Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Apple/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Pro
@@ -55,7 +55,7 @@ Pricing is still up in the air, according to Kuo. If the price of the new 10.9-i
 Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo forecasts. The shipments will be slightly less than those of the existing Pro models, due to their higher prices and to possible cannibalization from the 12.9-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Air
@@ -63,7 +63,7 @@ Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo
 Speaking of the [iPad Air](https://www.zdnet.com/article/apple-ipad-air-fifth-generation-review/), two new versions of this model are slated for mass production in the first quarter of 2024, according to Kuo. The 12.9-inch Air is a brand-new model. Though it will stick with LED rather than move to mini-LED, it will use an Oxide backplane (the same as the current mini-LED iPad Pro). The 10.9-inch iPad Air will use an a-Si (amorphous silicon) backplane. Oxide backplanes provide better display performance than a-Si backplanes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Mini
@@ -73,7 +73,7 @@ Kuo didn't provide any concrete details on the 2024 [iPad mini](https://www.zdne
 **Also: [The best small tablets you can buy](https://www.zdnet.com/article/best-small-tablet/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad
@@ -122,19 +122,17 @@ One hiccup is that the global tablet market has seen better days, with [third-qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-channel-vision-selecting-ideal-content-strategies/"><u>[Updated] 2024 Approved Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-video-segments-the-chapter-creation-handbook/"><u>[Updated] 2024 Approved Vimeo's Video Segments The Chapter Creation Handbook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-your-view-count-explore-these-12-effective-youtube-strategies/"><u>[Updated] In 2024, Boost Your View Count Explore These 12 Effective YouTube Strategies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-timeless-classics-most-iconic-anime-openers/"><u>[Updated] In 2024, Timeless Classics Most Iconic Anime Openers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-selection-best-8-websites-with-striking-3d-and-glamourous-text/"><u>2024 Approved Ultimate Selection Best 8 Websites with Striking 3D & Glamourous Text</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-six-reliable-offline-language-translators-for-any-device/"><u>Discover the Top Six Reliable Offline Language Translators for Any Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-instantly-install-bcm20702a0-driver-on-windows/"><u>How to Instantly Install BCM20702A0 Driver on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x8b-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X8b Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-shut-down-your-pc-running-windows-n-11-when-faced-with-problems/"><u>How To Successfully Shut Down Your PC Running Windows N 11 When Faced With Problems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-x6-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find X6 FRP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/oleut32dll-not-detected-diagnosing-and-repairing-the-problem/"><u>oLeuT32.DLL Not Detected: Diagnosing and Repairing the Problem</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/reparatur-und-neuinstallation-von-windows-update-mit-6-tipps-fur-windows-1011/"><u>Reparatur Und Neuinstallation Von Windows-Update Mit 6 Tipps Für Windows 10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-the-titans-ios-app-store-and-google-play-store-face-off/"><u>The Battle of the Titans: IOs App Store and Google Play Store Face-Off</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-reasons-behind-malfunctioning-vehicle-speakers-explained/"><u>Top Reasons Behind Malfunctioning Vehicle Speakers Explained</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-regain-control-recovering-after-a-facebook-breach/"><u>[Updated] 2024 Approved Regain Control Recovering After a Facebook Breach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieving-excellence-in-your-android-video-brightness/"><u>[Updated] Achieving Excellence in Your Android Video Brightness</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-your-next-favorite-film-with-these-12-gratis-streamers/"><u>Discover Your Next Favorite Film with These 12 Gratis Streamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010213139-fortnite-login-troubles-overcome-the-permission-error-easily/"><u>Fortnite Login Troubles? Overcome the 'Permission Error' Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/highly-reliable-and-durable-a-comprehensive-test-of-the-fugetek-ft-568-stick-for-selfies/"><u>Highly Reliable and Durable - A Comprehensive Test of the Fugetek FT-568 Stick for Selfies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-epson-artisan-amo-1430-drivers-on-windows-11108-secure-your-printing-experience/"><u>Install Epson Artisan Amo 1430 Drivers on Windows 11/10/8 – Secure Your Printing Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-maze-of-full-screen-issues-fix-sonic-adventure-crashes-win-on-windows-11/"><u>Master the Maze of Full-Screen Issues: Fix Sonic Adventure Crashes, Win! On Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-android-a-comprehensive-guide-to-utilizing-quick-settings/"><u>Mastering Your Android: A Comprehensive Guide to Utilizing Quick Settings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/proven-ways-to-capture-and-preserve-your-favorite-discord-sessions/"><u>Proven Ways to Capture and Preserve Your Favorite Discord Sessions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamp-your-profile-a-simple-method-for-new-discord-pictures/"><u>Revamp Your Profile: A Simple Method for New Discord Pictures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-for-display-sharing-between-devices-and-lg-tvs/"><u>The Complete Guide for Display Sharing Between Devices and LG TVs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Center on iOS 18: A Step-by-Step Guide"
-date: 2025-01-11T21:29:34.873Z
-updated: 2025-01-16T17:24:38.368Z
+date: 2025-01-19T04:20:37.039Z
+updated: 2025-01-23T03:18:47.683Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -73,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -126,18 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revamping-subtitles-from-srt-with-ease/"><u>[New] 2024 Approved Revamping Subtitles From SRT with Ease</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-downloading-and-installing-obs-for-mac-users/"><u>[Updated] Essential Tips Downloading & Installing OBS for Mac Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chromecast-theming-basics-how-to-update-and-enhance-your-screen-image/"><u>Chromecast Theming Basics: How To Update and Enhance Your Screen Image</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/core-considerations-before-acquiring-a-dash-video-recorder/"><u>Core Considerations Before Acquiring a Dash Video Recorder</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unavailable-windows-hello-feature-on-windows-10-devices/"><u>Fixing Unavailable Windows Hello Feature on Windows 10 Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722858464054-get-your-hands-on-youtube-premium-with-student-savings-plans/"><u>Get Your Hands-On YouTube Premium with Student Savings Plans</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-f5-pro-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Poco F5 Pro 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-proven-strategies-for-smooth-recording-in-google-meethangouts-platforms/"><u>In 2024, Proven Strategies for Smooth Recording in Google Meet/Hangouts Platforms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participating-in-xtwitter-chats-for-newbies/"><u>Mastering The Art Of Participating In X/Twitter Chats For Newbies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-the-best-pick-of-disneynoyce-films-currently-available-on-disneyplus/"><u>Navigate the Best Pick of Disneynoyce Films Currently Available on Disney+</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reactive-measures-for-a-dormant-snapchat-account-a-comprehensive-walkthrough/"><u>Reactive Measures for a Dormant Snapchat Account: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-disabling-your-secure-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling Your Secure Pin on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-harmonizing-your-calendar-with-zoom-appointments-on-all-screens-for-2024/"><u>[New] Harmonizing Your Calendar With Zoom Appointments on All Screens for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonious-hub-swapping-your-soundtrack-selection/"><u>[Updated] Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-free-typing-classes-for-all-generations-top-12-picks/"><u>Essential Free Typing Classes for All Generations – Top 12 Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-refresh-and-update-microsoft-powerpoint-presentations-efficiently/"><u>How to Refresh and Update Microsoft PowerPoint Presentations Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chucklecanvas-draw-hilarious-social-media-art/"><u>In 2024, ChuckleCanvas Draw Hilarious Social Media Art</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-energy-management-on-windows-11-decoding-battery-report-signals/"><u>Mastering Energy Management on Windows 11: Decoding Battery Report Signals</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/mastering-the-inbuilt-file-recovery-tool-in-microsofts-latest-operating-system-windows-11/"><u>Mastering the Inbuilt 'File Recovery' Tool in Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reinstating-available-graphics-displays-settings/"><u>Reinstating Available Graphics Displays Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reset-or-restart-any-ipad-version-in-a-few-simple-steps/"><u>Reset or Restart Any iPad Version in a Few Simple Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-your-document-potential-with-these-top-13-free-pdf-editors-july-2024/"><u>Unlock Your Document Potential with These Top 13 Free PDF Editors (July 2024)</u></a></li>
+<li><a href="https://techidaily.com/will-xiaomi-13t-pro-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi 13T Pro play AVCHD mts files?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Clutter: Master the Simple Technique for a Cleaner Email Experience – Discover How | ZDNET"
-date: 2025-01-15T16:05:23.199Z
-updated: 2025-01-16T16:47:09.310Z
+date: 2025-01-22T05:00:17.598Z
+updated: 2025-01-22T18:52:58.463Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ If you're going to be one of those people, read on.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -53,13 +57,13 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -70,6 +74,10 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -84,7 +92,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -100,10 +108,6 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -133,7 +137,7 @@ Remember, once you start this process, there's no going back!
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -142,10 +146,6 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,22 +187,20 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-tone-your-vlogs-access-free-sound-tracks/"><u>[New] Tone Your Vlogs Access Free Sound Tracks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-avoid-boredom-learn-to-shuffle-youtube-lists/"><u>[Updated] In 2024, Avoid Boredom Learn to Shuffle YouTube Lists</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-personal-chef-tutor-can-it-teach-you-how-to-prepare-wholesome-dishes/"><u>ChatGPT as Your Personal Chef Tutor: Can It Teach You How to Prepare Wholesome Dishes?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hashtag-strategies-for-successful-instagram-growth/"><u>Hashtag Strategies for Successful Instagram Growth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-connect-psvr-to-pc-comprehensive-instructions-for-gamers/"><u>How to Seamlessly Connect PSVR to PC: Comprehensive Instructions for Gamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-sync-and-share-with-a-friend-the-comprehensive-guide-to-making-duet-videos-on-tiktok/"><u>How to Sync and Share with a Friend: The Comprehensive Guide to Making Duet Videos on TikTok</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-10c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 10C Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>In 2024, Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/perfect-editor/"><u>PixelPerfect Editor</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/ranking-der-top-4-videodownloader-expertenbewertung-and-gratisversionen/"><u>Ranking Der Top 4 Videodownloader: Expertenbewertung & Gratisversionen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-viewing-101-experience-dragon-ball-properly-from-start-to-finish/"><u>Sequential Viewing 101: Experience Dragon Ball Properly From Start to Finish</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-your-psvr-console-with-a-personal-computer/"><u>Step-by-Step Guide: Setting Up Your PSVR Console with a Personal Computer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y200-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y200 Android SIM Unlock APK</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-dreaded-blackout-during-facetime-calls/"><u>Ultimate Guide: Resolving the Dreaded Blackout During FaceTime Calls</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-solving-iphone-silent-mode-issues/"><u>Ultimate Guide: Solving iPhone Silent Mode Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-iphones-live-activities-on-ios-16-a-step-by-step-tutorial/"><u>Unlocking the Power of iPhones Live Activities on iOS 16: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-sims-4-adventures-a-guide-for-2024/"><u>[New] Capturing Sims 4 Adventures A Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-diving-deep-reviewing-your-old-tweets/"><u>[Updated] 2024 Approved Diving Deep Reviewing Your Old Tweets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-smooth-and-swift-designing-your-best-thumbnails/"><u>[Updated] 2024 Approved Smooth & Swift Designing Your Best Thumbnails</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-hit-the-techno-friendly-way-to-upload-your-short-clips-for-2024/"><u>[Updated] Direct Hit The Techno-Friendly Way to Upload Your Short Clips for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-sound-mastery-with-sonos-s2-app-unveiled-benefits-and-surprises-revealed-by-zdnet/"><u>Effortless Sound Mastery with Sonos S2 App Unveiled: Benefits and Surprises Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722902436424-find-out-when-and-why-your-mailpress-email-might-expire/"><u>Find Out When and Why Your Mail.press Email Might Expire.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-does-android-harness-artificeia-intellect-insights-into-smart-operating-systems/"><u>How Does Android Harness Artificeia Intellect? Insights Into Smart Operating Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g14-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G14 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-activate-and-utilize-androidve-quick-settings-for-maximum-efficiency/"><u>Step-by-Step Guide to Activate and Utilize Android've Quick Settings for Maximum Efficiency</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-30-best-gmail-keyboard-shortcuts/"><u>The 30 Best Gmail Keyboard Shortcuts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-walkthrough-for-registering-your-account-with-playstation-network/"><u>The Complete Walkthrough for Registering Your Account with PlayStation Network</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-no-cost-driver-update-software-of-july-2024/"><u>Top 8 No-Cost Driver Update Software of July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-repairing-your-nonfunctional-samsung-soundbar/"><u>Troubleshooting Guide: Repairing Your Nonfunctional Samsung Soundbar</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/unveiling-the-intricacies-of-a-zero-day-exploit-a-comprehensive-guide-by-malwarefox/"><u>Unveiling the Intricacies of a Zero-Day Exploit: A Comprehensive Guide by MalwareFox</u></a></li>
 </ul></div>
 

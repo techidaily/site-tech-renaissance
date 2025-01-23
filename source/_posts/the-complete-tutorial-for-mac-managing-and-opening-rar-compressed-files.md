@@ -1,7 +1,7 @@
 ---
 title: "The Complete Tutorial for Mac: Managing & Opening RAR Compressed Files"
-date: 2024-08-19T00:16:18.876Z
-updated: 2024-08-20T00:16:18.876Z
+date: 2025-01-20T18:48:09.391Z
+updated: 2025-01-22T16:57:46.822Z
 categories:
   - BestProducts
 description: "This Article Describes The Complete Tutorial for Mac: Managing & Opening RAR Compressed Files"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 ---
 
 ## The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 * Macs: Press**Shift+Command+3** or**Shift+Command+4** or**Shift+Command+4+Spacebar** for partial capture.
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
@@ -33,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -44,11 +54,13 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -86,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +105,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-live-broadcast-precision-introducing-an-effective-timer/"><u>[New] 2024 Approved Live Broadcast Precision Introducing an Effective Timer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-essential-tips-to-improve-your-chromebooks-zooming-skills/"><u>[New] Essential Tips to Improve Your Chromebook's Zooming Skills</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fast-and-furious-the-prime-5-video-clipping-tools-in-chromes/"><u>[Updated] Fast & Furious The Prime 5 Video Clipping Tools in Chromes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-add-narration-to-your-videos/"><u>[Updated] How to Add Narration to Your Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-splitcam-dissection-top-in-the-video-realm-in-2024/"><u>[Updated] SplitCam Dissection Top in the Video Realm, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-4k-video-workflow-mastering-h265-encoding-and-decoding-with-advanced-hardware-techniques/"><u>Accelerate Your 4K Video Workflow: Mastering H.265 Encoding and Decoding with Advanced Hardware Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/breaking-down-instagrams-video-cap-limit/"><u>Breaking Down Instagram's Video Cap Limit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-ai-sidekick-alexa-vs-google-assistant-deciding-on-the-right-companion/"><u>Choosing Your AI Sidekick: Alexa Vs. Google Assistant - Deciding on the Right Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-costs-with-a-550-discount-score-samsung-odyssey-neo-g8-monitor-at-best-buy-during-prime-day-tips-from-zdnet/"><u>Cut Costs with a $550 Discount: Score Samsung Odyssey Neo G8 Monitor at Best Buy During Prime Day – Tips From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-from-a-missing-or-undetectable-d3dx933dll-error/"><u>How to Recover From a Missing or Undetectable d3dx9_33.dll Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-s18-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo S18 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-to-the-missing-jscriptdll-error-on-your-pc/"><u>Step-by-Step Solutions to the Missing jScript.dll Error on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-tracking-read-receipts-in-gmail/"><u>The Ultimate Guide: Tracking Read Receipts in Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/time-travel-online-mastering-the-art-of-using-the-wayback-machine/"><u>Time Travel Online: Mastering the Art of Using the Wayback Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-must-watch-films-for-kids-on-netflix-streaming/"><u>Top Picks: Must-Watch Films for Kids on Netflix Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-failed-app-functionality-on-samsung-televisions/"><u>Troubleshooting Failed App Functionality on Samsung Televisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-preview-of-the-epic-samsung-event-date-hottest-news-plus-anticipated-product-leaks-decoded/"><u>Your Preview of the Epic Samsung Event : Date, Hottest News + Anticipated Product Leaks Decoded</u></a></li>
+</ul></div>
 

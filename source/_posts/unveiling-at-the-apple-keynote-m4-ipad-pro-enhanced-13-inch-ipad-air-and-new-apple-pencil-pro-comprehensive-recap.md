@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Apple Keynote: M4 iPad Pro, Enhanced 13-Inch iPad Air & New Apple Pencil Pro - Comprehensive Recap"
-date: 2025-01-05T19:51:14.870Z
-updated: 2025-01-11T08:18:50.053Z
+date: 2025-01-15T23:37:45.505Z
+updated: 2025-01-22T21:32:37.170Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -56,6 +52,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -73,7 +73,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -93,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,19 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-stop-personalized-recommendations-for-podcasts-on-spotify/"><u>[New] 2024 Approved Stop Personalized Recommendations for Podcasts on Spotify</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-boosting-remote-meeting-effectiveness-through-optimized-zoom-recordings/"><u>[New] In 2024, Boosting Remote Meeting Effectiveness Through Optimized Zoom Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-unlock-the-secret-of-youtube-to-gif-conversion-begin-here/"><u>[Updated] Unlock the Secret of YouTube-to-GIF Conversion - Begin Here!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722900332022-discover-the-best-note-taking-solutions-our-expert-picks/"><u>Discover the Best Note Taking Solutions : Our Expert Picks!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-diary-habits-with-our-selection-of-the-best-journaling-apps/"><u>Elevate Your Diary Habits with Our Selection of the Best ✍️ Journaling Apps</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/harness-the-power-of-cookiebot-for-enhanced-site-traffic-and-conversion-rates/"><u>Harness the Power of Cookiebot for Enhanced Site Traffic & Conversion Rates</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-your-clicking-experience-with-updated-asus-mousepad-drivers-for-windows-download-now/"><u>Improve Your Clicking Experience with Updated ASUS Mousepad Drivers for Windows - Download Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/in-depth-solutions-for-overcoming-the-failed-service-startup-error-with-battleye-technology/"><u>In-Depth Solutions for Overcoming the 'Failed Service Startup' Error with BattlEye Technology</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/leading-macos-sierra-choices-for-file-conversion/"><u>Leading MacOS Sierra Choices for File Conversion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-enhancing-your-photos-with-professional-selfie-light-sets/"><u>Top Tips for Enhancing Your Photos with Professional Selfie Light Sets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-restoring-normal-functionality-from-a-black-screen-on-android/"><u>Troubleshooting Tips: Restoring Normal Functionality From a Black Screen on Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-cognitive-features-of-android-systems/"><u>Understanding the Cognitive Features of Android Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/usb-20-explained-understanding-transfer-rates-cable-types-and-connector-varieties/"><u>USB 2.0 Explained: Understanding Transfer Rates, Cable Types, and Connector Varieties</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-real-time-recording-rivals-obs-and-shadowtoolkit/"><u>[Updated] 2024 Approved Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streammasters-obs-edition-for-2024/"><u>[Updated] StreamMasters OBS Edition for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-driveease-expert-analysis/"><u>2024 Approved DriveEase Expert Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>2024 Approved Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-simplifying-windows-11-sound-logging/"><u>2024 Approved Simplifying Windows 11 Sound Logging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/battlenet-server-hiccups-determining-if-its-a-widespread-downtime-or-individual-troubles/"><u>Battle.net Server Hiccups? Determining if It's a Widespread Downtime or Individual Troubles.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-umbrella-lights-review-studiokit-ez/"><u>Budget Umbrella Lights Review: StudioKit EZ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-instructions-on-getting-rid-of-the-security-pin-in-windows-10/"><u>Complete Instructions on Getting Rid of the Security Pin in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-twitter-follows-for-every-travel-enthusiast-66-accounts-for-deals-and-insightful-journeys/"><u>Essential Twitter Follows for Every Travel Enthusiast: 66 Accounts for Deals & Insightful Journeys</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-70-lite-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor 70 Lite 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-peak-hours-best-times-for-instagram-posts-for-2024/"><u>Navigating Peak Hours Best Times for Instagram Posts for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-issues-with-a-disabled-or-inactive-instagram-account-a-guide/"><u>Resolving Issues with a Disabled or Inactive Instagram Account: A Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-how-to-guide-for-linking-three-monitors-to-one-pc-for-enhanced-productivity/"><u>The How-To Guide for Linking Three Monitors to One PC for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-is-my-apple-watch-touch-screen-not-working/"><u>Why Is My Apple Watch Touch Screen Not Working?</u></a></li>
 </ul></div>
 

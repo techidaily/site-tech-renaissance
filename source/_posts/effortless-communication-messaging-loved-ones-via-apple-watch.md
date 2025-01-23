@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2025-01-15T21:10:45.042Z
-updated: 2025-01-17T00:52:53.737Z
+date: 2025-01-22T00:52:30.875Z
+updated: 2025-01-22T16:40:04.358Z
 tags:
   - apple
 categories:
@@ -26,16 +26,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -47,6 +43,10 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -70,19 +70,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -94,11 +86,19 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -108,15 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,21 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-content-top-10-must-use-hashtags-on-ig/"><u>[New] Elevate Your Content Top 10 Must-Use Hashtags on IG</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-flawless-pixel-processor-windowsmac-for-2024/"><u>[Updated] Flawless Pixel Processor (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-strategies-that-convert-followers-into-fortune-on-instagram/"><u>In 2024, Strategies That Convert Followers Into Fortune on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incorporating-industry-standards-working-with-cg-centrals-luts-in-post-production-for-2024/"><u>Incorporating Industry Standards Working with CG Central's LUTs in Post-Production for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transforming-your-epub-books-into-mobi-format-using-calibre/"><u>Step-by-Step Guide: Transforming Your EPUB Books Into MOBI Format Using Calibre</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-reading-digital-publications-from-amazon-kindle-on-a-blackberry-10-smartphone-or-tablet/"><u>Step-by-Step Instructions for Reading Digital Publications From Amazon Kindle on a BlackBerry 10 Smartphone or Tablet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-how-to-uninstall-titles-on-amazons-kindle-platform/"><u>Step-by-Step Instructions: How to Uninstall Titles on Amazon's Kindle Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-modifying-epub-ebooks-in-microsoft-word/"><u>Step-by-Step Tutorial on Modifying EPUB eBooks in Microsoft Word</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sulfur-is-also-a-nonmetal-but-it-is-solid-at-room-temperature/"><u>Sulfur Is Also a Nonmetal but It Is Solid at Room Temperature.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-customizing-the-keyboard-layout-of-a-kindle-fire-device/"><u>The Ultimate Tutorial on Customizing the Keyboard Layout of a Kindle Fire Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-free-online-libraries-offering-audiobook-downloads/"><u>Top 10 Free Online Libraries Offering Audiobook Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-student-laptops-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Student Laptops: In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-cartoon-conversion-blueprint-tips-and-tricks/"><u>Updated The Cartoon Conversion Blueprint Tips and Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/winning-over-brands-in-the-world-of-youtube-sponsorships/"><u>Winning Over Brands in the World of YouTube Sponsorships</u></a></li>
-<li><a href="https://extra-information.techidaily.com/yearly-insider-list-the-most-exciting-unboxers-on-youtube/"><u>Yearly Insider List The Most Exciting Unboxers on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-win-customer-trust-incorporating-these-20-marketing-expressions-for-2024/"><u>[New] Win Customer Trust Incorporating These 20 Marketing Expressions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-end-audio-for-youtubes-best-gamers/"><u>[Updated] 2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-first-steps-to-expertise-lenovos-guide-to-recording-success-for-2024/"><u>[Updated] From First Steps to Expertise Lenovo’s Guide to Recording Success for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-7-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 7 Plus Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/arrange-your-horror-marathon-the-right-way-to-experience-the-conjuring/"><u>Arrange Your Horror Marathon: The Right Way to Experience 'The Conjuring'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-pinterest-presence-using-any-of-these-top-5-posting-automation-solutions/"><u>Boost Your Pinterest Presence Using Any of These Top 5 Posting Automation Solutions</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/convertir-un-fichier-ogm-en-format-mov-facilement-sur-internet-sans-frais-movavi/"><u>Convertir Un Fichier OGM en Format MOV Facilement Sur Internet Sans Frais - Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-install-logitech-mx-master-for-optimal-performance/"><u>Easy Steps to Download & Install Logitech MX Master for Optimal Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-how-to-deactivate-the-accessibility-shortcut-sticky-keys-in-windows-os/"><u>Easy Steps: How to Deactivate the Accessibility Shortcut 'Sticky Keys' In Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-day-the-definitive-selection-of-11-movies-that-spark-creativity/"><u>Elevate Your Day: The Definitive Selection of 11 Movies That Spark Creativity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-m14-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy M14 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-s23plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-lg-channels-vital-knowledge-for-successful-navigation/"><u>Mastering LG Channels: Vital Knowledge for Successful Navigation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-windows-11-search-problems-effective-strategies-and-tips/"><u>Overcoming Windows 11 Search Problems: Effective Strategies & Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-privacy-keeping-your-contact-info-secret-on-android-devices/"><u>Protecting Privacy: Keeping Your Contact Info Secret on Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-s24-ultra-and-iphone-15-pro-max-face-off-features-performance-and-more/"><u>Samsung Galaxy S24 Ultra and iPhone 15 Pro Max Face-Off: Features, Performance, and More!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-communications-innovative-ways-to-use-gmail-filters/"><u>Streamline Your Communications: Innovative Ways to Use Gmail Filters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-pdhdll-not-detected-issue-effectively/"><u>Troubleshooting the 'pdh.dll Not Detected' Issue Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-the-classic-shortcut-key-combo-work-troubleshooting-steps-inside/"><u>Why Isn't the Classic Shortcut Key Combo Work? Troubleshooting Steps Inside!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Tools Every Windows or Mac User Should Know About - Insights Top 11 Picks
-date: 2025-01-16T00:20:51.954Z
-updated: 2025-01-16T16:21:53.656Z
+date: 2025-01-15T20:28:32.127Z
+updated: 2025-01-23T04:57:21.384Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -34,10 +34,6 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Productivity
 
 Show less 
@@ -47,7 +43,7 @@ Show less
 ## Microsoft 365 apps for Business
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It's not just a bundle anymore
@@ -61,6 +57,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Tweeten](https://tweetenapp.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tweeten
 
@@ -92,7 +92,15 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adobe Acrobat Pro DC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### From the inventor of the PDF standard
 
@@ -106,11 +114,11 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Quicken Home and Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I hate it, but I use it
 
@@ -119,6 +127,10 @@ A gazillion years ago, a famous household brand sold a lot of mouthwash with ads
 The good news is that Quicken's support staff is responsive and knowledgeable, and the user base is so large that you can quickly find an answer if you run into one of those quarterly bugs. And the $104-a-year subscription is tax-deductible.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Browser and extensions
 
@@ -129,7 +141,7 @@ Show less
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -146,10 +158,6 @@ Show less
 
 ## 1Password
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Everyone needs a password manager
 
 When I set up a new PC, Mac, or mobile device, the first thing I install, without exception, is the 1Password browser extension. (For a full review, see: [1Password: My favorite password manager is an essential security tool.](https://www.zdnet.com/article/1password-my-favorite-password-manager-is-an-essential-security-tool/)) It has every feature you expect from this class of software, including a robust password generator that can create and save truly random, unguessable credentials, as well as support for two-factor authentication. My family plan costs $5 a month and makes it easy to share credentials for online services with my wife.
@@ -162,10 +170,6 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Workona
 
 ### The cleanest way to organize browser tabs
@@ -176,10 +180,6 @@ Because Workona is currently in preview, it's free. After it's officially releas
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Media
 
 Show less 
@@ -187,6 +187,10 @@ Show less
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
 ## Spotify Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -199,10 +203,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VLC Media Player
 
@@ -256,20 +256,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-the-art-of-gesture-tracking/"><u>[Updated] 2024 Approved Mastering the Art of Gesture Tracking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-8-filter-packs-for-dynamic-video-streaming/"><u>[Updated] Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-document-total-screen-content-for-2024/"><u>[Updated] Document Total Screen Content for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-iphone-photo-potential-the-art-of-reflection/"><u>[Updated] Unlock iPhone Photo Potential The Art of Reflection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-correct-the-d3d9dll-file-not-detected-issue/"><u>Expert Tips to Correct the D3D9.DLL File Not Detected Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/free-steelseries-engine-software-download-for-windows-11-pcs/"><u>Free SteelSeries Engine Software Download for Windows 11 PCs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-novice-to-pro-transforming-videos-using-vida/"><u>From Novice to Pro Transforming Videos Using Vida</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-g24-power-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola G24 Power to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-failure-error-code-0x80073d26/"><u>Quick Fix for Microsoft Store Failure: Error Code 0X80073D26</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-setup-configuring-multi-device-access-for-your-personal-printer/"><u>Simple Setup: Configuring Multi-Device Access for Your Personal Printer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-cmos-checksum-failure-step-by-step-guide/"><u>Solving CMOS Checksum Failure – Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-your-microsoft-outlooks-faulty-spellcheck-issues/"><u>Solving Your Microsoft Outlook's Faulty Spellcheck Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-hidden-rewards-of-going-green-free-parking-and-hov-lane-access-with-your-ev/"><u>The Hidden Rewards of Going Green: Free Parking and HOV Lane Access with Your EV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-sending-and-receiving-ims-with-mozilla-thunderbird/"><u>The Ultimate Guide to Sending and Receiving IMs with Mozilla Thunderbird</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-17-video-editing-software-the-ultimate-guide-for-online-creators/"><u>Top 17 Video Editing Software: The Ultimate Guide for Online Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-comprehensible-and-cost-free-subtitle-downloader-sites/"><u>[New] 2024 Approved 10 Comprehensible & Cost-Free Subtitle Downloader Sites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-powerful-partnerships-a-guide-to-choosing-youtube-allies-for-2024/"><u>[New] Crafting Powerful Partnerships A Guide to Choosing YouTube Allies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-upload-a-video-from-imovie-to-youtube-in-2024/"><u>[New] How to Upload a Video From iMovie to YouTube, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-iphones-podcast-downloads-made-easy-for-2024/"><u>[New] Mastering iPhones Podcast Downloads Made Easy for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-elite-iphone-call-alerts/"><u>[New] Ultimate Selection Elite iPhone Call Alerts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-profits-demystified-from-clicks-to-credit-for-2024/"><u>[New] YouTube Profits Demystified From Clicks to Credit for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-use-zoom-breakout-rooms/"><u>[Updated] 2024 Approved How to Use Zoom Breakout Rooms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dominate-search-results-powerful-youtube-seo-techniques-exposed/"><u>[Updated] Dominate Search Results Powerful YouTube SEO Techniques Exposed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-rewind-a-twitch-live-stream-for-2024/"><u>[Updated] How to Rewind A Twitch Live Stream for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/50-compatible-quest-3-controller-add-on-improves-vr-experience-for-glasses-wearers-techradar/"><u>$50 Compatible Quest 3 Controller Add-On Improves VR Experience for Glasses Wearers - TechRadar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-iphone-downloads-top-podcast-strategies/"><u>2024 Approved Harnessing iPhone Downloads Top Podcast Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-paves-way-for-clean-metaverse-experiences-with-new-virtual-graffiti-removal-patent/"><u>Apple Paves Way for Clean Metaverse Experiences with New Virtual Graffiti-Removal Patent</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-revolutionary-meta-ready-wireless-earbuds-a-leap-forward-in-audio-technology-zdnet/"><u>Introducing the Revolutionary 'Meta-Ready' Wireless Earbuds: A Leap Forward in Audio Technology | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-meta-quest-nix-visuals-and-screencasts-with-our-top-techniques-zdnet/"><u>Mastering the Art of Meta Quest Nix Visuals and Screencasts with Our Top Techniques | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-competition-alert-meta-and-lg-challenge-apple-with-innovative-quest-pro-inspired-vr-headsets/"><u>New Competition Alert: Meta & LG Challenge Apple with Innovative Quest Pro-Inspired VR Headsets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-imaging-with-apple-vision-pro-critical-innovations-you-cant-miss-gadgetguru/"><u>The Future of Imaging with Apple Vision Pro: Critical Innovations You Can't Miss! | GadgetGuru</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-latest-visionos-upgrade-enhancing-user-profiles-and-more-features-revealed/"><u>Unveiling Apple's Latest VisionOS Upgrade: Enhancing User Profiles & More Features Revealed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/vision-pro-integrates-tiktok-for-a-richer-more-immersive-scrolling-interface-discover-the-innovative-update-zdnet/"><u>Vision Pro Integrates TikTok for a Richer, More Immersive Scrolling Interface – Discover the Innovative Update | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-honors-meta-quest-3-as-the-unexpected-star-of-tech/"><u>ZDNet Honors Meta Quest 3 as the Unexpected Star of Tech</u></a></li>
 </ul></div>
 

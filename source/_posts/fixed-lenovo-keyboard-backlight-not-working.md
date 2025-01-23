@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Lenovo Keyboard Backlight Not Working"
-date: 2024-08-18T22:50:49.484Z
-updated: 2024-08-19T22:50:49.484Z
+date: 2025-01-18T05:50:55.827Z
+updated: 2025-01-23T01:48:33.868Z
 tags:
   - win11
   - win10
@@ -54,18 +54,6 @@ thumbnail: https://thmb.techidaily.com/e3528d506823cb6dca25eee03d51754fbb17fe96f
 
  If it still doesn’t work, it may suggest If the keyboard itself is faulty. If the keyboard works well on another computer, don’t worry! Just try the fixes below one by one to troubleshoot your computer.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update the keyboard driver
 
  If the keyboard driver on your computer is faulty or corrupted, your Logitech K520 keyboard may also not function properly.
@@ -78,16 +66,14 @@ thumbnail: https://thmb.techidaily.com/e3528d506823cb6dca25eee03d51754fbb17fe96f
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![Update all of your drivers by just 1 click with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-Update-all-drivers.png)  
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  See if this fix works after you updated the keyboard driver. If not, try the next fix, below.
 
@@ -100,19 +86,16 @@ thumbnail: https://thmb.techidaily.com/e3528d506823cb6dca25eee03d51754fbb17fe96f
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**appwiz.cpl** and press**Enter** to open the**Program and Features** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Locate the Logitech unifying software,**right-click** on it and select**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall-logitech-unifying-software.png)
 3. Download the latest version of Logitech unifying software from the official website of[Logitech.](https://support.logi.com/hc/en-us/articles/360025297913)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
@@ -126,10 +109,16 @@ See if this fix works for you. If not, try the next fix, below.
 2. In the**Name** list of services in the Details pane, locate**Human Interface Device Service** .**Double-click** on it to view its properties.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
 3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can fix the problem after restarting the Human Interface Device Service.
 
@@ -147,8 +136,6 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +143,21 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-smartphone-guide-crafting-engaging-video-content/"><u>[New] In 2024, Smartphone Guide Crafting Engaging Video Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-infusing-instagram-reels-with-tunes-and-narration-for-2024/"><u>[New] Infusing Instagram Reels with Tunes & Narration for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-getting-to-know-the-premium-p2715q-a-high-definition-marvel/"><u>[Updated] In 2024, Getting to Know the Premium P2715Q A High-Definition Marvel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-master-looped-video-techniques-for-instagram-top-4-strategies/"><u>[Updated] In 2024, Master Looped Video Techniques for Instagram Top 4 Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foundations-of-cinematography-15-must-know-shot-types/"><u>2024 Approved Foundations of Cinematography 15 Must-Know Shot Types</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965178106-effortless-installation-get-your-hp-drivers-downloaded-and-set-up-instantly/"><u>Effortless Installation: Get Your HP Drivers Downloaded and Set Up Instantly</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevating-virtual-reality-premium-rift-player-analysis-for-2024/"><u>Elevating Virtual Reality Premium Rift Player Analysis for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/grab-your-free-logitech-g-pro-driver-compatible-with-latest-and-older-windows-systems-111087/"><u>Grab Your Free Logitech G Pro Driver - Compatible with Latest and Older Windows Systems (11/10/8/7)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stop-dreamlight-valley-game-crashes-a-step-by-step-guide/"><u>How to Stop Dreamlight Valley Game Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-to-fix-the-inability-of-windows-11-to-properly-shutdown/"><u>Solutions to Fix the Inability of Windows 11 to Properly Shutdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sony-car-afeela-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Sony Car (Afeela): News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-7-premium-alarm-clock-apps-to-upgrade-your-mornings/"><u>The Ultimate Selection: 7 Premium Alarm Clock Apps to Upgrade Your Mornings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-see-sporty-flicks-perfect-for-todays-movie-night/"><u>Top 10 Must-See Sporty Flicks Perfect for Today's Movie Night</u></a></li>
+</ul></div>
 

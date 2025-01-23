@@ -1,7 +1,7 @@
 ---
 title: "M1 Vs. M2 iPad Pro Showdown: In-Depth Review & Buyer's Guide for Tech Enthusiasts | ZDNET"
-date: 2025-01-13T01:07:33.867Z
-updated: 2025-01-16T21:49:18.005Z
+date: 2025-01-16T05:48:27.400Z
+updated: 2025-01-23T00:26:22.345Z
 tags:
   - apple
 categories:
@@ -39,11 +39,19 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -61,7 +69,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -69,10 +77,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -142,10 +146,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -159,7 +159,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -167,7 +167,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,15 +204,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-resolving-no-video-issue-on-sony-a6400-device/"><u>[Updated] 2024 Approved Resolving No-Video Issue on Sony A6400 Device</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-essential-guide-to-uploading-and-sharing-youtube-vids-in-insta-stories-for-2024/"><u>[Updated] The Essential Guide to Uploading and Sharing YouTube Vids in Insta Stories for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cant-find-that-reply-learn-to-take-it-back-and-unrepost-on-tiktok-today/"><u>Can't Find That Reply? Learn to Take It Back and Unrepost on TikTok Today!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/gaming-filmmaking-techniques-to-record-games-flawlessly/"><u>Gaming Filmmaking Techniques to Record Games Flawlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-silencing-the-talkback-option-for-your-samsung-flat-panel-tv/"><u>Guide: Silencing the Talkback Option for Your Samsung Flat Panel TV</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-spotify-advertising-successfully-for-2024/"><u>Navigating Spotify Advertising Successfully for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-choosing-multiple-messages-in-gmail/"><u>Step-by-Step Instructions on Choosing Multiple Messages in Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-shell32dll-not-found-quick-fixes-and-tips/"><u>Troubleshooting 'Shell32.dll Not Found': Quick Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-windows-host-rundll32-stopped-functioning-errors-in-windows-os/"><u>Understanding and Fixing 'Windows Host (Rundll32) Stopped Functioning' Errors in Windows OS</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/captivating-ios-puzzle-adventures-discover-alternatives-to-the-room-and-myst/"><u>Captivating iOS Puzzle Adventures: Discover Alternatives to 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-buzz-unveiling-rumored-pricing-release-moment-and-specs-for-the-anticipated-apple-ring-device/"><u>Decoding the Buzz: Unveiling Rumored Pricing, Release Moment and Specs for the Anticipated Apple Ring Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discord-server-status-troubleshooting-connectivity-issues-is-it-a-global-outage-or-user-specific/"><u>Discord Server Status: Troubleshooting Connectivity Issues – Is It a Global Outage or User-Specific?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892291397-discovering-mobile-tracking-techniques-on-ios-devices-find-out-whereabouts/"><u>Discovering Mobile Tracking Techniques on iOS Devices - Find Out Whereabouts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ensuring-optimal-pc-speed-steps-to-detect-and-remove-viruses-and-malware-expert-advice-from-yl-computing/"><u>Ensuring Optimal PC Speed: Steps to Detect & Remove Viruses & Malware - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-stop-receiving-amber-alerts-on-android-smartphones/"><u>Guide to Stop Receiving Amber Alerts on Android Smartphones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a56s-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A56s 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-troubleshoot-and-repair-missing-xinput13dll-files-effectively/"><u>How To Troubleshoot and Repair Missing xinput1_3.dll Files Effectively</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Without iTunes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13-ultrafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13 UltraFRP Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-podcast-scheduling/"><u>Mastering the Art of Podcast Scheduling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-route-for-entering-your-appshub-on-windows-11/"><u>The Ultimate Route for Entering Your AppsHub on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-framework-of-facebooks-functionality/"><u>Unraveling the Framework of Facebook's Functionality</u></a></li>
 </ul></div>
 

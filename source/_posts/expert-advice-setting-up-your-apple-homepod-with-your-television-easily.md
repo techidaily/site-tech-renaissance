@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Setting Up Your Apple HomePod with Your Television Easily"
-date: 2024-08-19T00:13:15.416Z
-updated: 2024-08-20T00:13:15.416Z
+date: 2025-01-16T03:37:21.102Z
+updated: 2025-01-22T16:56:42.825Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Setting Up Your Apple HomePod with Your Television Easily"
@@ -21,11 +21,19 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -36,15 +44,13 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
@@ -52,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -63,9 +70,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -74,9 +78,6 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
@@ -84,8 +85,9 @@ Apple, Inc / USPTO
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -96,14 +98,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +111,26 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tools-for-free-web-conferencing-a-comprehensible-guide-for-2024/"><u>[New] Essential Tools for FREE Web Conferencing A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimized-auditory-experience-choosing-the-best-audio-device/"><u>[New] Optimized Auditory Experience Choosing the Best Audio Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-insider-guide-to-regular-broadcast-etiquette/"><u>[New] The Insider Guide to Regular Broadcast Etiquette</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-five-steps-to-enhance-your-screenplay-narration/"><u>[Updated] 2024 Approved Five Steps to Enhance Your Screenplay Narration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snap-your-world-how-to-watch-360-videos-on-android/"><u>2024 Approved Snap Your World How to Watch 360 Videos on Android</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-comfort-meets-advanced-tracking-discover-the-potential-of-samsung-galaxy-fit2-for-personal-fitness-monitoring/"><u>Compact Comfort Meets Advanced Tracking: Discover the Potential of Samsung Galaxy Fit2 for Personal Fitness Monitoring</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/consumer-favorites-top-of-the-line-2-cups-capacity-battery-chargers/"><u>Consumer Favorites: Top-of-the-Line 2 Cups Capacity Battery Chargers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-play-apple-tvplus-on-your-smart-tvs-chromecast-feature/"><u>Easy Ways to Play Apple TV+ on Your Smart TV's Chromecast Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-unwanted-emergency-and-amber-warnings-from-your-apple-device/"><u>Eliminating Unwanted Emergency and Amber Warnings From Your Apple Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-exceptional-free-online-calendars-ranked-1-to-4/"><u>Explore These Exceptional Free Online Calendars: Ranked #1 to #4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-is-verizon-shaping-the-future-of-5g-technology/"><u>How Is Verizon Shaping the Future of 5G Technology?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mfc42dll-file-not-present-issue-a-step-by-step-guide/"><u>Solving the mfc42.dll File Not Present Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-c22-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia C22? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-linking-your-devices-techniques-for-effective-use-of-bose-soundlink/"><u>The Definitive Guide to Linking Your Devices: Techniques for Effective Use of Bose SoundLink</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-engaging-online-game-sites-for-children/"><u>Top 7 Engaging Online Game Sites for Children</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-or-lost-cygwin1dll-errors-in-windows/"><u>Troubleshooting Missing or Lost cygwin1.dll Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-invisible-windows-methods-to-bring-them-back-in-win10win11/"><u>Unveiling Invisible Windows: Methods to Bring Them Back in Win10/Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-metas-ai-technology-offer/"><u>What Does Meta's AI Technology Offer?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Methods for Removing Subtitle Features on Amazon Prime
-date: 2024-08-19T00:16:41.547Z
-updated: 2024-08-20T00:16:41.547Z
+date: 2025-01-18T16:55:28.648Z
+updated: 2025-01-22T16:21:31.915Z
 categories:
   - BestProducts
 description: This Article Describes Easy Methods for Removing Subtitle Features on Amazon Prime
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/DKr8VPBECw8uDUO8xCXOYn7HGc0=/540x405/fi
 ---
 
 ## No More Text While Watching? Turn Off Subtitles on Amazon Prime Here
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -30,6 +35,10 @@ thumbnail: https://www.lifewire.com/thmb/DKr8VPBECw8uDUO8xCXOYn7HGc0=/540x405/fi
 2. Click**Off** . Subtitles are now turned off.  
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -39,41 +48,27 @@ thumbnail: https://www.lifewire.com/thmb/DKr8VPBECw8uDUO8xCXOYn7HGc0=/540x405/fi
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.
@@ -118,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +120,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-cutting-edge-techniques-for-aspiring-youtube-game-streamers/"><u>[New] 2024 Approved Cutting-Edge Techniques for Aspiring YouTube Game Streamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-expert-methods-for-weaving-in-live-streaming-content-online-for-2024/"><u>[New] Expert Methods for Weaving in Live Streaming Content Online for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-leading-windows-apps-top-video-editing-picks/"><u>[New] In 2024, Leading Windows Apps Top Video Editing Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premier-5-minute-longshot-recorder/"><u>[New] Premier 5-Minute Longshot Recorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-harmonizing-music-posting-with-legal-standards/"><u>[Updated] In 2024, Harmonizing Music Posting with Legal Standards</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-reviving-lost-files-expert-guide-on-using-acer-erecovery-for-data-restoration/"><u>1. Reviving Lost Files: Expert Guide on Using Acer eRecovery for Data Restoration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-and-rectifying-missing-or-lost-physxloaderdll-file-problems-for-seamless-operation/"><u>Addressing and Rectifying Missing or Lost physxloader.dll File Problems for Seamless Operation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beating-the-windows-code-28-glitch-tips-and-tricks/"><u>Beating the Windows Code 28 Glitch: Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-taking-off-and-putting-on-your-androidiphones-protective-layer/"><u>Expert Advice: Taking Off & Putting On Your Android/iPhone's Protective Layer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pairing-data-strategies-expert-advice-on-merging-cells-in-microsoft-office-excel/"><u>Pairing Data Strategies: Expert Advice on Merging Cells in Microsoft Office Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rapid-response-boost-your-game-speed-on-assassins-creed-valhalla/"><u>Rapid Response: Boost Your Game Speed on Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454523969-say-goodbye-to-airdrop-problems-swiftly-solve-them-using-these-16-key-guides/"><u>Say Goodbye to AirDrop Problems – Swiftly Solve Them Using These 16 Key Guides</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-window-11-powering-off-problems-a-detailed-guide-for-users/"><u>Solving Window 11 Powering Off Problems: A Detailed Guide for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-mfc42ddll-errors-on-your-pc-solutions-inside/"><u>Troubleshooting Missing mfc42d.dll Errors on Your PC – Solutions Inside!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/which-voice-ai-suits-you-best-google-assistant-vs-alexa-comparision/"><u>Which Voice AI Suits You Best? Google Assistant vs Alexa Comparision</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Overcoming 'Format Unfinished' Issues in Windows OS"
-date: 2024-08-18T22:50:27.858Z
-updated: 2024-08-19T22:50:27.858Z
+date: 2025-01-21T03:27:57.834Z
+updated: 2025-01-23T07:10:10.734Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e3e71e18a5.png)
 
  If you have successfully updated your OS to Windows 10, and you find that your computer refuse to boot normally, you’re not alone. Many Windows users are reporting this problem as well. No need to feel panic when your computer is suddenly not booting normally, frustrating as it is, we’re here to help you out. [Here](https://tools.techidaily.com/drivereasy/download/)  we have 6 of the most effective solutions for you to try. Try them one by one from the top down until you find the one works for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is my computer not booting?
 
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 **IMPORTANT** : We focus on software triggered Windows 10 not booting problem here in this post only. If you suspect that the problem is with your hardware, we recommend that you ask your computer technicians for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 1: Check the Power Supply
 
  Turn on your computer. If you cannot hear fans starting and cannot see anything on the screen, please follow the steps bellow to check the status of your power supply and make sure that it is problem-free.
@@ -71,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
  4) If your computer won’t start and the same problem exists, press and hold the power button to turn off the computer. Please make sure that you don’t connect any external devices to your computer for now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Perform a Hard Reboot
 
  If you**CANNOT**  log into the Windows 10, you can perform a hard reboot on your computer. This will allow you to go to the**Advanced options** page, where you are able to perform a refresh or a reset of your Windows 10\.
@@ -88,14 +90,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
@@ -104,13 +98,14 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
@@ -123,20 +118,22 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 5: Run disk check
 
  This method has been proved by a big number of users to be effective. So we think you may want to have a try:
@@ -145,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -155,6 +149,10 @@ chkdsk c: /r /x
  and press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e3a862c3ed.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for the scan process to finish.
 
@@ -174,21 +172,19 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c40902d4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For more information about resetting your computer from the options listed, please refer to this post here:
   
@@ -200,8 +196,6 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +203,24 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-screenshots-software-series/"><u>[New] 2024 Approved Best Screenshots Software Series</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quickcopy-consultants-thoughts/"><u>[New] 2024 Approved QuickCopy Consultants' Thoughts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-review-the-360-degree-capture-of-samsung/"><u>[New] Extensive Review The 360-Degree Capture of Samsung</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solved-windows-modules-installer-worker-windows-10-high-cpu/"><u>[Solved] Windows Modules Installer Worker Windows 10 High CPU</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-digital-deck-changes-predicting-the-future-of-fb-ads/"><u>[Updated] 2024 Approved The Digital Deck Changes Predicting the Future of FB Ads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-safety-notifications-a-step-by-step-guide-for-iphone-users/"><u>Disabling Safety Notifications: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-video-promo-tips-for-startups-infographic-for-2024/"><u>Essential Video Promo Tips for Startups (Infographic) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-gmail-to-imessage-how-to-seamlessly-shift-your-picture-archive-from-google-photos-to-icloud/"><u>From Gmail to iMessage: How To Seamlessly Shift Your Picture Archive From Google Photos to iCloud</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/getting-in-tune-with-safety-strategies-for-finding-the-correct-key-code-for-your-car-radio/"><u>Getting in Tune with Safety: Strategies for Finding the Correct Key Code for Your Car Radio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-aspects-to-ponder-before-investing-in-a-gps-running-watch-or-tracker/"><u>Key Aspects to Ponder Before Investing in a GPS Running Watch or Tracker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-maintaining-a-spotless-germ-free-tv-remote-in-5-easy-steps/"><u>Master the Art of Maintaining a Spotless, Germ-Free TV Remote in 5 Easy Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-wires-no-problem-unconventional-methods-to-get-connected/"><u>No Wires, No Problem: Unconventional Methods to Get Connected</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-strategies-softwares-versus-hardware-harmony-in-2024/"><u>Streamline Strategies Softwares Versus Hardware Harmony, In 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-8-apps-for-savvy-world-wanderers-a-guide/"><u>The Best 8 Apps for Savvy World Wanderers: A Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-lgbtplus-films-streaming-on-netflix-this-july-2024/"><u>Top LGBT+ Films Streaming on Netflix This July 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tracking-safety-monitoring-product-recalls-directly-in-amazon-orders-according-to-zdnet-analysis/"><u>Tracking Safety: Monitoring Product Recalls Directly in Amazon Orders, According to ZDNet Analysis</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/windows-8-video-editor-easy-avi-file-editing-made-possible-2023-edition/"><u>Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition</u></a></li>
+</ul></div>
 

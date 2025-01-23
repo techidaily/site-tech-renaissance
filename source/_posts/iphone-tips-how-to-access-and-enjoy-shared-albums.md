@@ -1,7 +1,7 @@
 ---
 title: "IPhone Tips: How to Access and Enjoy Shared Albums"
-date: 2024-08-19T00:14:52.253Z
-updated: 2024-08-20T00:14:52.253Z
+date: 2025-01-21T20:31:50.312Z
+updated: 2025-01-23T01:24:09.346Z
 categories:
   - BestProducts
 description: "This Article Describes IPhone Tips: How to Access and Enjoy Shared Albums"
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
  This article explains two easy ways to send voice messages on your iPhone. You can create and share an audio message using the Messages and Voice Memos apps. This option is convenient if speaking is quicker and easier than typing or if you want your recipient to hear your voice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create and Send a Voice Message With Messages
 
  Typing text messages can be time-consuming if you have a lot to say. By sending a voice message in[the Messages app](https://www.lifewire.com/imessage-apples-free-texting-app-1999185) , you can say exactly what you want to your recipient.
@@ -31,14 +35,16 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
  In iOS 16, select the**Audio** icon, which looks like a waveform.  
 ![The More and Audio options in Messages for iOS 17](https://www.lifewire.com/thmb/r_0VlzW2AusrkGs7h070Hojs6tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/More-and-Audio-a41209c323ea422bbcea9236fd26e858.jpg)
 4. The message will automatically start recording, and the text box will have a red recording bar in it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In iOS 16, you may need to choose the microphone icon to the right of the message field. Tap once to start recording, or tap and hold to send the message as soon as you release the button.
 5. Record your message, and then select**Stop** to end the recording.
 6. Tap**Send** to share the audio message. Alternatively, tap**Play** to preview it, and**X** to cancel.  
 ![The recording bar, stop button, and cancel, send, and preview buttons for a voice message in Messages for iOS 17](https://www.lifewire.com/thmb/sTqipQrHLcQarZqKDQPXZpHwCWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Record-voice-memo-f1227deae1c04346af41582dfe9d820d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Drawbacks of Using Messages
 
  Here are a couple of disadvantages to using this function in Messages:
@@ -48,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
  If your recipient isn’t an iPhone user or you want to avoid the possible expiration of your audio message, consider sharing your message using Voice Memos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Create and Send a Voice Message With Voice Memos
 
  The[Voice Memos app](https://www.lifewire.com/how-to-use-voice-memos-on-iphone-4799058) is excellent for capturing audio notes, speakers during a meeting, and more. Since you can easily share a voice recording from the app, this is a solid alternative to the Messages app on iPhone.
@@ -60,14 +63,17 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 3. When you finish with your message, tap the red **Stop** button.  
 ![Voice Memos app on iPhone showing record and stop buttons](https://www.lifewire.com/thmb/2_63ut4LxIyAJWKQ8B09aZfN3GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-send-voice-messages-iphone-5199864-8bd9efbee2b74c8eb666703fa3a9dac4.jpg)
 4. The recording pops to the top section of the screen. You can tap the **Play** button to have a listen.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To share, tap the**three dots** next to the name of the recording.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip  
 
  If you want to rename the recording before you share it, tap the current title and type in the new one.
@@ -76,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 ![Voice Memos app showing three-dot icon, Share selection and options](https://www.lifewire.com/thmb/Gw0s1etfHGcauSAdg887IPhFT2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-send-voice-messages-iphone-5199864-3f38aeb132ab4afeaa4be14920834a4d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  FAQ
 
 * How do I compose text messages on iPhone with my voice?  
@@ -107,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +121,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-cost-free-subtitle-grabs-from-youtube/"><u>[New] 2024 Approved 10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-apex-athletes-snowspeedcross-22-recaps/"><u>[New] 2024 Approved Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlocking-your-channels-potential-the-cost-analysis/"><u>[Updated] 2024 Approved Unlocking Your Channel's Potential The Cost Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pixels-and-players-advanced-tactics-for-recording-gaming/"><u>2024 Approved Pixels and Players Advanced Tactics for Recording Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897434709-alternative-video-chat-solutions-for-windows-no-apple-needed/"><u>Alternative Video Chat Solutions for Windows, No Apple Needed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detecting-false-friends-in-your-digital-network/"><u>Detecting False Friends in Your Digital Network</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-engaging-kids-flicks-for-your-next-family-movie-night-on-netflix/"><u>Discover the Most Engaging Kids' Flicks for Your Next Family Movie Night on Netflix</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-compreehed-guide-to-online-identity-youtube-account-setup/"><u>In 2024, A Compreehed Guide to Online Identity YouTube Account Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-media-playback-with-vlc-mac/"><u>In 2024, Streamlining Media Playback with VLC (Mac)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-your-system-delivering-genuine-dolby-atmos-performance/"><u>Is Your System Delivering Genuine Dolby Atmos Performance?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/learn-how-to-create-a-free-windows-10-backup-partition-with-these-easy-steps/"><u>Learn How to Create a Free Windows 10 Backup Partition with These Easy Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/livestreaming-pre-recorded-content-seamlessly-on-fb-for-2024/"><u>Livestreaming Pre-Recorded Content Seamlessly on FB for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-resolving-the-far-cry-6-does-not-start-problem/"><u>PC Players Rejoice: Resolving the 'Far Cry 6 Does Not Start' Problem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-altered-text-aesthetics-in-visual-media-for-2024/"><u>Perfecting Altered Text Aesthetics in Visual Media for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-for-controlling-your-devices-restore-state-in-ios-devices/"><u>The Ultimate Guide for Controlling Your Device's Restore State in iOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-7-favorite-note-taking-tools-on-the-go-with-ipad-and-ipad-pro/"><u>The Ultimate List: 7 Favorite Note-Taking Tools on the Go with iPad and iPad Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-missing-rockaldlldll-heres-how-to-correctly-fix-the-issue/"><u>Trouble with Missing 'Rockaldll.dll'? Here’s How to Correctly Fix the Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-e-motorcycle-functionality-an-in-depth-exploration/"><u>Understanding E-Motorcycle Functionality: An In-Depth Exploration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-your-pc-how-to-disable-the-login-pin-on-windows-10/"><u>Unlocking Your PC: How to Disable the Login Pin on Windows 10</u></a></li>
+</ul></div>
 

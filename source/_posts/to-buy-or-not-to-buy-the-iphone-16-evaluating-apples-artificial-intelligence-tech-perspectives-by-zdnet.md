@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not to Buy the iPhone 16: Evaluating Apple’s Artificial Intelligence Tech | Perspectives by ZDNet"
-date: 2025-01-11T22:12:57.181Z
-updated: 2025-01-17T01:46:19.732Z
+date: 2025-01-19T07:52:19.917Z
+updated: 2025-01-22T16:28:23.425Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -55,10 +59,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -75,6 +75,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -86,6 +90,10 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -100,7 +108,7 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -115,10 +123,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -130,10 +134,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,15 +210,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transforming-images-into-engaging-animation-projects/"><u>[New] Transforming Images Into Engaging Animation Projects</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-turbo-testing-our-compreenas-five-best-racing-games/"><u>[Updated] 2024 Approved Turbo Testing Our Compreenas Five Best Racing Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-devices-and-desktops-how-to-operate-google-home-features-from-your-pc/"><u>Bridging Devices and Desktops: How to Operate Google Home Features From Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/key-technological-milestones-achieved-since-the-year-1844/"><u>Key Technological Milestones Achieved Since the Year 1844</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-windows-movie-maker-a-step-by-step-guide-for-windows-8-users-for-2024/"><u>Mastering Windows Movie Maker A Step-by-Step Guide for Windows 8 Users for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-android-communication-glitches-no-more-missed-texts/"><u>Overcoming Android Communication Glitches: No More Missed Texts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reconnect-with-anonymous-callers-how-to-call-a-blocked-or-private-phone-number/"><u>Reconnect with Anonymous Callers: How to Call a Blocked or Private Phone Number</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-why-isnt-netflix-functioning-properly-on-your-roku-device/"><u>Solving the Issue: Why Isn't Netflix Functioning Properly on Your Roku Device?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-premier-free-srt-to-video-subtitle-tools-for-2024/"><u>The Premier Free SRT to Video Subtitle Tools for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-tech-analysis-with-toms-hardware-wisdom/"><u>Ultimate Tech Analysis with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-generating-a-signature-tiktok-keyphrase-for-2024/"><u>[New] Generating a Signature TikTok Keyphrase for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essential-strategies-for-impressive-gopro-timelapses-for-2024/"><u>[Updated] Essential Strategies for Impressive GoPro Timelapses for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finest-free-and-paid-windows-drawing-software-ranked/"><u>[Updated] Finest Free & Paid Windows Drawing Software Ranked</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-organizing-soundtracks-formulating-a-youtube-music-list/"><u>[Updated] Organizing Soundtracks Formulating a YouTube Music List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-the-disappearance-of-openal-groovinto-dll/"><u>Dealing with the Disappearance of openAL Groovin'to DLL</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/direct-engagement-tweeting-successfully-to-fb-for-2024/"><u>Direct Engagement Tweeting Successfully to FB for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/re-free-youtube-channel-imagery-tools/"><u>Explore Free YouTube Channel Imagery Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-access-now-win-the-fixed-video-converter-factory-pro-download/"><u>Free Access Now: Win the Fixed Video Converter Factory Pro Download!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-implementing-parental-management-on-your-childs-discord-account/"><u>Guide: Implementing Parental Management on Your Child's Discord Account</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/introducing-yourself-to-the-stellar-mac-interface/"><u>Introducing Yourself to the Stellar Mac Interface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-streaming-fandango-on-your-amazon-firestick/"><u>Step-by-Step Guide: Streaming Fandango on Your Amazon Firestick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-patch-tuesday-explained-how-to-stay-protected/"><u>The Essentials of Patch Tuesday Explained: How To Stay Protected</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-tips-for-troubleshooting-your-wi-fi-adapters-error-notifications/"><u>Top 10 Tips for Troubleshooting Your Wi-Fi Adapter's Error Notifications</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/validate-video-rights-a-guide-to-pre-uploading-on-tiktok/"><u>Validate Video Rights A Guide to Pre-Uploading on TikTok</u></a></li>
 </ul></div>
 

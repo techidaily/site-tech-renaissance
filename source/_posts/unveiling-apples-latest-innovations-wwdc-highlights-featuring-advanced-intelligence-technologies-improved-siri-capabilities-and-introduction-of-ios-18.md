@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Innovations: WWDC Highlights Featuring Advanced Intelligence Technologies, Improved Siri Capabilities and Introduction of iOS 18"
-date: 2025-01-15T20:38:23.286Z
-updated: 2025-01-16T20:04:23.621Z
+date: 2025-01-19T07:08:28.443Z
+updated: 2025-01-22T17:00:49.689Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,17 +128,17 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-quick-and-easy-caption-crafting-for-engaging-fb-video-posts/"><u>[New] In 2024, Quick and Easy Caption Crafting for Engaging FB Video Posts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-profile-pictures-download-for-free-in-2024/"><u>[Updated] Profile Pictures - Download for FREE, In 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-zoompictorialpro-perfect-image-expansion-for-2024/"><u>[Updated] ZoomPictorialPro Perfect Image Expansion for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/demystifying-dvd-picture-quality-common-questions-answered/"><u>Demystifying DVD Picture Quality: Common Questions Answered</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-resolve-ftd2xxdll-missing-error-messages/"><u>Effective Strategies to Resolve ftd2xx.dll Missing Error Messages</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-pc-settings-for-enhanced-fps-on-counter-strike-2/"><u>Optimizing PC Settings for Enhanced FPS on Counter-Strike 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-on-screenings-with-our-top-picks-for-free-movie-download-platforms-top-11/"><u>Save on Screenings with Our Top Picks for Free Movie Download Platforms (Top 11)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-integration-enabling-apple-tv-streaming-capabilities-on-amazon-fire-stick-devices/"><u>Seamless Integration: Enabling Apple TV Streaming Capabilities on Amazon Fire Stick Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-non-working-usb-portable-internet-sharing/"><u>Step-by-Step Solutions for Non-Working USB Portable Internet Sharing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-fix-avidemux-audio-issues-step-by-step-guide/"><u>Updated 2024 Approved Fix Avidemux Audio Issues Step-by-Step Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleashing-creativity-with-vn-video-editor-on-pc-a-review/"><u>Updated In 2024, Unleashing Creativity with VN Video Editor on PC A Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/chieve-stellar-clickthrough-rates-via-thumbnail-enlargement-on-youtube/"><u>[New] Achieve Stellar Clickthrough Rates via Thumbnail Enlargement on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unleash-timeliness-iphone-slow-motion-filming/"><u>[New] In 2024, Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>[New] Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-industry-pioneers-of-immersive-visualization/"><u>[Updated] 2024 Approved Industry Pioneers of Immersive Visualization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-defrag-software-tools-to-enhance-your-computer-speed-july-update/"><u>Best FREE Defrag Software Tools to Enhance Your Computer Speed (July Update)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enablingdisabling-network-discovery-on-your-pc-a-step-by-step-guide/"><u>Enabling/Disabling Network Discovery on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-x8b-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor X8b to iPad | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-more-reddit-roulette-reliable-filmora-discounts-here-for-2024/"><u>New No More Reddit Roulette Reliable Filmora Discounts Here for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-to-reboot-your-lenovo-pc-back-to-its-original-state/"><u>Step-by-Step Process to Reboot Your Lenovo PC Back to Its Original State</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-free-streaming-your-guide-to-accessing-netflix-without-costs/"><u>Unlocking Free Streaming: Your Guide to Accessing Netflix without Costs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-5-free-mov-video-rotators/"><u>Updated In 2024, Top 5 Free MOV Video Rotators</u></a></li>
 </ul></div>
 

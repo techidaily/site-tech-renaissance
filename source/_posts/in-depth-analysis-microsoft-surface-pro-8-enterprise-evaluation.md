@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Microsoft Surface Pro 8 Enterprise Evaluation"
-date: 2025-01-13T16:26:48.938Z
-updated: 2025-01-16T17:13:37.315Z
+date: 2025-01-17T07:57:23.535Z
+updated: 2025-01-23T07:36:46.246Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -74,10 +70,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -94,6 +86,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -101,6 +97,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -128,7 +128,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -140,10 +140,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -157,10 +153,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -173,7 +165,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,21 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-discover-chromebooks-premier-web-based-speech-alteration-tools/"><u>[New] Discover Chromebook’s Premier Web-Based Speech Alteration Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-freedom-in-sight-comparing-free-screen-capture-tools-for-2024/"><u>[New] Freedom in Sight Comparing Free Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/como-clonar-windows-11-a-un-disco-usb-tres-formas-de-crear-una-instancia-de-inicio-portatil/"><u>Cómo Clonar Windows 11 a Un Disco USB: Tres Formas De Crear Una Instancia De Inicio Portátil</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-keep-an-eye-on-how-much-data-youre-using-online/"><u>Easy Ways to Keep an Eye on How Much Data You're Using Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-remote-play-potential-with-steams-storage-solutions/"><u>Explore Remote Play Potential With Steam's Storage Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-pdhdll-absent-error-a-comprehensive-tutorial/"><u>Fix pdh.dll Absent Error - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-printed-to-digital-a-comprehensive-walkthrough-on-scanner-operations/"><u>From Printed to Digital: A Comprehensive Walkthrough on Scanner Operations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-ipad-tablets-equipped-with-internal-gps-technology/"><u>Identifying iPad Tablets Equipped With Internal GPS Technology</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-sleek-skill-using-watch-to-unlock-mac/"><u>In 2024, Sleek Skill Using Watch to Unlock Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mac-reinstallation-made-easy-entering-and-using-recovery-mode/"><u>Mac Reinstallation Made Easy: Entering and Using Recovery Mode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-gmail-protection-how-to-set-up-a-safe-list-of-contacts/"><u>Mastering Gmail Protection: How to Set Up a Safe List of Contacts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-zoom-camera-problems-tips-for-quick-fixes-and-optimal-performance/"><u>Mastering Zoom Camera Problems: Tips for Quick Fixes and Optimal Performance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mobile-video-smoothing-system-pro/"><u>Mobile Video Smoothing System Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-addressing-problems-with-laptopdesktop-startup-failures/"><u>Step-by-Step Solution: Addressing Problems with Laptop/Desktop Startup Failures</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/swift-and-simple-techniques-for-exact-memory-card-restoration/"><u>Swift and Simple Techniques for Exact Memory Card Restoration</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/unraveling-the-mystery-why-is-my-windows-file-explorer-spontaneously-launching-insights-from-malwarefox/"><u>Unraveling the Mystery: Why Is My Windows File Explorer Spontaneously Launching? Insights From MalwareFox</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enthralling-your-eyes-six-ingenious-methods-for-capturing-netflix-vids-on-a-mac-for-2024/"><u>[New] Enthralling Your Eyes Six Ingenious Methods for Capturing Netflix Vids on a Mac for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-instant-guide-setup-snapchat-for-mac-users/"><u>[New] In 2024, Instant Guide Setup Snapchat for Mac Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-innovating-tiktok-posts-for-twitters-platform/"><u>[Updated] 2024 Approved Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-trailblazers-top-intro-list-for-zooids/"><u>[Updated] 2024 Approved Trailblazers Top Intro List for Zooids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship/"><u>[Updated] Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-how-to-fix-persistent-sound-errors/"><u>Resident Evil Village - How to Fix Persistent Sound Errors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/selecting-the-right-flight-stabilizer-drones-edition-for-2024/"><u>Selecting the Right Flight Stabilizer Drones Edition for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-zero-turn-lawn-mowers-reviews-and-buyers-guide-zdnet/"><u>Top Zero-Turn Lawn Mowers : Reviews & Buyer's Guide - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-compact-solar-power-banks-expert-review-by-techradar/"><u>Top-Rated Compact Solar Power Banks - Expert Review by TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-electric-bbq-grills-expert-picks-and-reviews/"><u>Top-Rated Electric BBQ Grills : Expert Picks & Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-electric-bbqs-reviews-by-tech-experts-on-zdnet/"><u>Top-Rated Electric BBQs - Reviews by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-outdoor-projection-systems-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Outdoor Projection Systems - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-outdoor-projection-systems-comprehensive-reviews-and-buyers-guide-zdnet/"><u>Top-Rated Outdoor Projection Systems: Comprehensive Reviews & Buyer's Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-install-lenovo-thinkpad-x260-drivers-on-windows-11-step-by-step-guide/"><u>Update and Install Lenovo ThinkPad X260 Drivers on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/mp4-movavi-mp4/"><u>オンラインでのフリーMP4転送 - MOVAVI MP4変換サービス</u></a></li>
 </ul></div>
 

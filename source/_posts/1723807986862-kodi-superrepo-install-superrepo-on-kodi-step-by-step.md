@@ -1,7 +1,7 @@
 ---
 title: Kodi SuperRepo - Install SuperRepo on Kodi Step by Step
-date: 2024-08-18T22:49:48.723Z
-updated: 2024-08-19T22:49:48.723Z
+date: 2025-01-20T21:48:27.139Z
+updated: 2025-01-23T00:37:52.970Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Video Editor 1: iMovie (Free)  
 
  iMovie is an official Apple video editor. It’s free and intended for amateur users. With the easy-to-use interface, you can use it to edit your videos easily.  
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-718.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Cutting Clips**
 
  Cutting clips would be the basic requirements for video editing. iMovie also allows you to cut the videos into clips.
@@ -57,7 +65,16 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-720.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **TIP** : Apple doesn’t offer a complete manual for you to follow to use the features. If you’re not sure how to use the features, you can google with the keyword “iMovie + feature name” to find the guide. For example, if you want to know how to change the video speed, you can google with the keyword “imovie change speed”. The Apple support page for this feature would probably on top of the search results. Then you can visit that support page for the details about using the feature.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Edit Videos with iMovie on Mac  
 
@@ -89,11 +106,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Video Editor 2: Movavi Video Editor (7-day Free Trial)?
 
 [Movavi Video Editor](https://www.movavi.com/download-videoeditormac) is a well-known video editor around the world. Same as iMove, Movavi Video Editor is also for amateur users. Comparing with iMovie, Movavi Video Edit offers more features and easier to use with the simpler-use interface. The biggest disadvantage is the price. It’s not free but offers 7-day Free Trial. It means you can try it for 7 days then you’ll know if it’s worth purchasing.  
@@ -106,9 +118,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-725.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Adding Title**
 
  Adding text titles to your movie allows you to express your thoughts and supplement the audio with subtitles. Movavi Video Editor allows you to add title according to your needs.
@@ -116,8 +125,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-726.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Cutting Clips**
 
  Cutting clips would be the basic requirements for video editing. Movavi Video Editor also allows you to cut the videos into clips.
@@ -130,12 +140,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-730.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **TIP** : Movavi offers a product manual allowing you to follow to use the features. In the manual, you can select the feature you want to use. Then you can learn how to use the features easily by following the detailed steps. To learn how to use Movavi Video Editor, just visit[Movavi Video Editor User Manual](https://img.movavi.com/online-help/videoeditor/15/index.htm?) .
 
  Get a **[discount coupon](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) for Movavi Video Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Edit Videos with Movavi Video Editor on Mac  
 
@@ -147,18 +158,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-731.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4)**Drag the video clip** to the timeline and select the specific feature to add the effects you want to the videos.
 
  5)**Export the video** to local drive or upload the video online like YouTube and Google Drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-732.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Other information**
 
  You not only can edit one video clip, but you can also combine different video clips. Just add the media files and drag them to the timeline and add the effects you want.  
@@ -177,8 +182,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +189,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-flawless-screen-capture-s-assassins-creed-odyssey-for-2024/"><u>[New] Flawless Screen Capture 'S Assassin's Creed Odyssey for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-screen-capture-on-mac-top-5-methods-for-2024/"><u>[New] Innovative Screen Capture on Mac, Top 5 Methods for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-grasping-video-clarity-the-first-lessons-on-hd/"><u>[Updated] In 2024, Grasping Video Clarity The First Lessons on HD</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-wipe-your-youtube-watch-later-playlist-cleanly/"><u>[Updated] In 2024, How-To Wipe Your YouTube Watch Later Playlist Cleanly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>[Updated] The Ultimate Guide to Watching FB Live on Roku</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-settings-tweak-how-to-turn-off-amber-and-other-government-warnings/"><u>Android Settings Tweak: How to Turn Off AMBER and Other Government Warnings</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/complete-guide-to-ghost-backup-for-windows-10-and-11-two-effective-techniques-explored/"><u>Complete Guide to Ghost Backup for Windows 10 & 11 - Two Effective Techniques Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eradicate-typing-mistakes-a-guide-to-6-autocorrection-solutions-for-ios-devices/"><u>Eradicate Typing Mistakes: A Guide to 6 Autocorrection Solutions for iOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-recommendation-ordered-viewing-for-the-complete-conjuring-saga/"><u>Expert Recommendation: Ordered Viewing for The Complete 'Conjuring' Saga</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-every-journey-of-discovery-with-the-complete-star-trek-film-series/"><u>How To Enjoy Every Journey of Discovery with The Complete Star Trek Film Series</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-propsysdll-not-found-or-missing-errors/"><u>How to Fix Propsys.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95769830-9780316561747-how-to-meditate/"><u>How to Meditate | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stop-your-computer-from-crashing-with-bsod-errors/"><u>How To Stop Your Computer From Crashing with BSOD Errors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-5-simplified-steps-for-sequential-youtube-video-viewing-free/"><u>In 2024, 5 Simplified Steps for Sequential YouTube Video Viewing (Free)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-linksys-network-router-passwords-july-2024-update/"><u>Latest Linksys Network Router Passwords: July 2024 Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-administrator-access-a-guide-to-bypassing-the-trustedinstaller-on-windows-10/"><u>Securing Administrator Access: A Guide to Bypassing the TrustedInstaller on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-complimentary-open-source-dns-providers/"><u>Top Picks: Complimentary Open-Source DNS Providers</u></a></li>
+</ul></div>
 

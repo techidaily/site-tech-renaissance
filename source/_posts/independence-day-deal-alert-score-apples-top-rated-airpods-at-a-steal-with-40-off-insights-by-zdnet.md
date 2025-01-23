@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights by ZDNET"
-date: 2025-01-14T01:50:05.664Z
-updated: 2025-01-17T00:26:00.026Z
+date: 2025-01-21T23:56:04.214Z
+updated: 2025-01-23T04:49:36.683Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,20 +62,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-vive-headset-review-the-gateway-to-ultimate-virtuality/"><u>[New] In 2024, Vive Headset Review The Gateway to Ultimate Virtuality</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/charting-new-horizebs-with-cutting-edge-verizon-5g-solutions/"><u>Charting New Horizebs with Cutting-Edge Verizon 5G Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/demystifying-pop-up-advertising-comprehensive-insights-and-effective-seo-techniques-for-optimization/"><u>Demystifying Pop-Up Advertising: Comprehensive Insights & Effective SEO Techniques for Optimization</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-iphone-to-smart-tv-connectivity-glitches-with-airplay/"><u>Easy Fixes for iPhone to Smart TV Connectivity Glitches with AirPlay</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-video-playback-acceleration-for-2024/"><u>Harnessing the Power of Video Playback Acceleration for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-driving-traffic-and-likes-a-guide-for-instagram-pros/"><u>In 2024, Driving Traffic & Likes A Guide for Instagram Pros</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-xsplit-hub-compre-written-assessments/"><u>In 2024, XSplit Hub Compre Written Assessments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/netflixs-ui-800-3-blunder-heres-how-to-quickly-resolve-it/"><u>Netflix's UI-800-3 Blunder? Here’s How to Quickly Resolve It.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sony-virtual-reality-gear-anticipated-launch-details-pricing-insights-and-latest-leaks/"><u>Sony Virtual Reality Gear: Anticipated Launch Details, Pricing Insights & Latest Leaks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-future-unfolds-with-samsung-galaxy-z-fold-n7-release-info-expected-rrp-and-whats-inside-this-flexible-marvel/"><u>The Future Unfolds with Samsung Galaxy Z Fold N°7: Release Info, Expected RRP, and What's Inside This Flexible Marvel?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-11-must-visit-free-movie-torrent-sites/"><u>Ultimate List: 11 Must-Visit Free Movie Torrent Sites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-iphone-17-insights-anticipated-cost-availability-dates-and-latest-tech-revelations/"><u>Upcoming iPhone 17 Insights: Anticipated Cost, Availability Dates & Latest Tech Revelations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-symphonic-stats-adding-melodies-to-whatsapp/"><u>[New] Symphonic Stats Adding Melodies to WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades/"><u>[New] The Seamless Shift An Introduction to Crossfades</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-disseminating-videos-tiktok-content-for-a-wider-facebook-audience/"><u>[Updated] 2024 Approved Disseminating Videos TikTok Content for a Wider Facebook Audience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-comparing-profits-from-high-ranking-youtube-videos/"><u>[Updated] In 2024, Comparing Profits From High-Ranking YouTube Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-power-solution-boosts-travel-ease-a-firsthand-review-on-zdnets-adventures-in-mobility/"><u>Budget-Friendly Power Solution Boosts Travel Ease: A Firsthand Review on ZDNet's Adventures in Mobility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/capture-natures-wonders-innovative-smart-feeder-photographs-hummingbirds-up-close-insights-from-zdnet/"><u>Capture Nature's Wonders: Innovative Smart Feeder Photographs Hummingbirds Up Close - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ces-2023-highlights-from-day-two-top-tech-unveilings-featured-by-zdnet/"><u>CES 2023 Highlights From Day Two: Top Tech Unveilings Featured by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-trading-synergy-five-techniques-to-supercharge-your-investments/"><u>ChatGPT and Crypto Trading Synergy: Five Techniques to Supercharge Your Investments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-rings-affordable-pet-tracker-at-just-10-keeps-your-dog-or-cat-safe-top-reviews/"><u>Discover How Ring's Affordable Pet Tracker at Just $10 Keeps Your Dog or Cat Safe - Top Reviews</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/freestyle2-blue-mac-version-evaluation-a-must-have-toolkit-for-devoted-apple-fans/"><u>Freestyle2 Blue Mac Version Evaluation: A Must-Have Toolkit for Devoted Apple Fans</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-7-plus-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 7 Plus Activity | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-spinning-gpu-fans/"><u>Troubleshooting Non-Spinning GPU Fans</u></a></li>
 </ul></div>
 

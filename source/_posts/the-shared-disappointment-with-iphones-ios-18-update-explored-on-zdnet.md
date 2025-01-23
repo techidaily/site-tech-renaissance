@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2025-01-14T01:51:00.078Z
-updated: 2025-01-17T01:35:41.408Z
+date: 2025-01-20T19:10:34.994Z
+updated: 2025-01-22T17:14:45.916Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,16 +175,21 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-elite-firefox-screencap-add-ons/"><u>[New] Elite Firefox Screencap Add-Ons</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-creating-compelling-content-with-personalized-video-setups/"><u>[Updated] Creating Compelling Content with Personalized Video Setups</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-on-the-go-motion-dampener-for-videography/"><u>[Updated] In 2024, On-the-Go Motion Dampener for Videography</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-cross-play-exclusivity-guide-in-apex-legends-games/"><u>2024 Approved Cross-Play Exclusivity Guide in Apex Legends Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-free-platforms-with-access-to-latest-hollywood-cinema-releases-online/"><u>Best Free Platforms with Access to Latest Hollywood Cinema Releases Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-started-with-fandango-streaming-on-your-amazon-fire-tv-a-comprehensive-guide/"><u>How to Get Started With Fandango Streaming on Your Amazon Fire TV – A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-14-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xiaomi 14.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-remove-manual-feed-curation-suggestions-for-you-in-insta/"><u>Steps to Remove Manual Feed Curation 'Suggestions for You' In Insta</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-byte-requirement-for-24-hours-of-movie-viewing-for-2024/"><u>Total Byte Requirement for 24 Hours of Movie Viewing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-service-unavailable-503-message-on-websites/"><u>Troubleshooting the 'Service Unavailable (503)' Message on Websites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/winning-strategies-for-troubleshooting-dark-monitor-scenarios-in-windows-11/"><u>Winning Strategies for Troubleshooting Dark Monitor Scenarios in Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-polishing-screens-incorporating-filters-in-video/"><u>[New] 2024 Approved Polishing Screens Incorporating Filters in Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-reimagining-user-engagement-top-10-video-editors-outside-vimeo/"><u>[New] 2024 Approved Reimagining User Engagement Top 10 Video Editors Outside Vimeo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-superlative-action-video-snapshot-review/"><u>[New] In 2024, Superlative Action Video Snapshot Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-youtube-editors-handbook-from-basics-to-pros/"><u>[New] The YouTube Editor's Handbook From Basics to Pros</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>[Updated] 2024 Approved Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-recording-multiplesecondary-monitors-for-2024/"><u>[Updated] Recording Multiple/Secondary Monitors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>[Updated] The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamlining-screen-shots-efficiently-documenting-your-roblox-adventures-on-macos/"><u>2024 Approved Streamlining Screen Shots Efficiently Documenting Your Roblox Adventures on MacOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lava-yuva-2-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lava Yuva 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-tronsmart-force-x-a-dual-purpose-marvel-with-superior-audio-and-portable-charging-for-outdoors-enthusiasts/"><u>Introducing the Tronsmart Force X: A Dual-Purpose Marvel with Superior Audio & Portable Charging for Outdoors Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-unbeatable-bargain-on-blink-mini-2-top-pick-for-home-security-systems/"><u>Labor Day Savings: Unbeatable Bargain on Blink Mini 2 - Top Pick for Home Security Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-seed-supply-companies-ranked-find-the-best-options-today/"><u>Leading Seed Supply Companies Ranked: Find the Best Options Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-yard-work-with-fun-and-easy-grass-cutting-the-ultimate-guide-to-enjoying-remote-controlled-lawnmowers-today/"><u>Revolutionize Yard Work with Fun and Easy Grass Cutting: The Ultimate Guide to Enjoying Remote-Controlled Lawnmowers Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-a-deal-on-blinks-4-camera-security-system-and-floodlight-bundle-at-only-80-exclusive-labor-day-offer/"><u>Score a Deal on Blink's 4-Camera Security System and Floodlight Bundle at Only $80 - Exclusive Labor Day Offer!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-a-steal-with-blink-outdoors-advanced-4-camera-and-floodlight-package-at-just-80-unveiled-by-zdnet-for-the-holiday-sale-extravaganza/"><u>Score a Steal with Blink Outdoor's Advanced 4-Camera & Floodlight Package at Just $80 - Unveiled by ZDNet for the Holiday Sale Extravaganza!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-and-save-experience-with-arlo-pro-5s-camera-during-exclusive-sale-full-review-by-zdnet/"><u>Secure & Save: Experience with Arlo Pro 5S Camera During Exclusive Sale - Full Review by ZDNet</u></a></li>
 </ul></div>
 

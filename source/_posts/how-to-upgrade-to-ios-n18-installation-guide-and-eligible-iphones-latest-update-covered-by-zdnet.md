@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2025-01-11T22:29:34.980Z
-updated: 2025-01-16T18:01:19.582Z
+date: 2025-01-17T19:40:56.025Z
+updated: 2025-01-22T18:14:44.122Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-comprehensive-review-of-facetunes-latest-updates/"><u>[New] In 2024, Comprehensive Review of Facetune's Latest Updates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-gear-to-minimize-camera-movement/"><u>[New] Pro Gear to Minimize Camera Movement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/access-past-web-pages-easily-your-wayback-machine-user-manual/"><u>Access Past Web Pages Easily: Your Wayback Machine User Manual</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-free-wifi-and-voip-software-of-2024-top-ranked-programs-for-cost-effective-business-communication/"><u>Best Free WiFi & VoIP Software of 2024: Top Ranked Programs for Cost-Effective Business Communication</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ructing-captivating-youtube-music-selections-for-2024/"><u>Constructing Captivating YouTube Music Selections for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-12-no-cost-typing-courses-aimed-at-enthusiasts-of-any-age/"><u>Discover 12 No-Cost Typing Courses Aimed at Enthusiasts of Any Age</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dominance-index-top-ten-royale-survival-games/"><u>In 2024, Dominance Index Top Ten Royale Survival Games</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participation-in-xtwitter-discussions/"><u>Mastering the Art of Participation in X/Twitter Discussions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-replacing-your-ipads-power-source/"><u>Step-by-Step Guide: Replacing Your iPad's Power Source</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-powerpoint-soundscape-fixes-for-common-audio-hiccups/"><u>Troubleshoot Your PowerPoint Soundscape - Fixes for Common Audio Hiccups</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-smart-tvs-connectivity-and-features-for-modern-entertainment/"><u>Understanding Smart TVs: Connectivity and Features for Modern Entertainment</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-free-tiktok-watermark-remover-websites/"><u>Updated The Ultimate List of Free TikTok Watermark Remover Websites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-new-google-pixel-pricing-forecasts-release-window-and-feature-rumors-revealed/"><u>What to Know About the New Google Pixel: Pricing Forecasts, Release Window & Feature Rumors Revealed</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728468541819-onedrive5/"><u>エクスプローラでOneDriveが見えない問題に対して有効な5方法を発表</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-capture-to-share-reviewing-the-newest-sprout-version/"><u>[New] 2024 Approved From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-low-cost-superior-circular-lenses-for-photos-and-videos/"><u>[Updated] Low-Cost, Superior Circular Lenses for Photos & Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-your-watch-activate-av1-on-youtube-platform/"><u>[Updated] Optimize Your Watch Activate AV1 on YouTube Platform</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits/"><u>[Updated] Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-virtual-cosmos-navigating-10-cinematic-worlds-in-science-fiction/"><u>[Updated] Virtual Cosmos Navigating 10 Cinematic Worlds in Science Fiction</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-printer-not-found-errors-with-an-ipad/"><u>Diagnosing and Repairing 'Printer Not Found' Errors with an iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-lg-channels-in-depth-essential-details-everyone-must-understand/"><u>Exploring LG Channels in Depth: Essential Details Everyone Must Understand</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/five-steps-to-stop-receiving-unwanted-emergency-and-amber-warnings-on-ios-devices/"><u>Five Steps to Stop Receiving Unwanted Emergency & Amber Warnings on iOS Devices</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-175-beta-2-unlocks-new-feature-for-eu-direct-web-based-app-downloads-on-apple-devices/"><u>IOS 17.5 Beta 2 Unlocks New Feature for EU - Direct Web-Based App Downloads on Apple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategic-decisions-in-following-and-unfollowing-on-social-media-focusing-on-former-twitter-members/"><u>Strategic Decisions in Following & Unfollowing on Social Media: Focusing on Former Twitter Members</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-displays-neo-qled-vs-oled-in-depth-analysis-and-insights/"><u>The Battle of Displays: Neo QLED Vs. OLED – In-Depth Analysis and Insights</u></a></li>
 </ul></div>
 

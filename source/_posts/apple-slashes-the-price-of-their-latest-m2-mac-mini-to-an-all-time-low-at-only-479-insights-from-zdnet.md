@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2025-01-09T19:49:36.009Z
-updated: 2025-01-16T19:11:03.841Z
+date: 2025-01-16T20:00:49.700Z
+updated: 2025-01-23T03:29:10.890Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,22 +150,20 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>[New] In 2024, Unleashing Fun KineMaster Reviewed for Android Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-supercharge-your-farming-fun-in-stardew-valley-top-7-upgrades/"><u>[New] Supercharge Your Farming Fun in Stardew Valley (Top 7 Upgrades)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-dissecting-drama-introducing-chapters-to-video-content-for-2024/"><u>[Updated] Dissecting Drama Introducing Chapters to Video Content for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-advice-on-free-youtube-events-without-extra-cost/"><u>2024 Approved Expert Advice on Free Youtube Events without Extra Cost</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-language-learning-platforms-2024-edition/"><u>Best Free Language Learning Platforms: 2024 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-engagement-with-quick-multi-photo-posts-on-facebook-a-step-by-step-guide/"><u>Boosting Engagement with Quick Multi-Photo Posts on Facebook – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crucial-tech-innovations-the-top-3-trends-you-cant-miss/"><u>Crucial Tech Innovations: The Top 3 Trends You Can't Miss</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-edge-intelligence-insights-into-its-operational-framework/"><u>Demystifying Edge Intelligence: Insights Into Its Operational Framework</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722894476596-dive-into-the-digital-age-with-our-best-picks-for-laptops-mobile-devices-and-must-read-books/"><u>Dive Into the Digital Age with Our Best Picks for Laptops, Mobile Devices, and Must-Read Books!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-the-btballoondll-not-found-issue-with-easy-tips-and-tricks/"><u>Fix the 'BTBalloon.Dll Not Found' Issue with Easy Tips and Tricks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/identifying-the-ruler-the-sovereign-at-the-helm-during-the-zhou-dynasty-era-insights-by-yl-computing/"><u>Identifying the Ruler: The Sovereign at the Helm During the Zhou Dynasty Era - Insights by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/setting-up-cookies-for-a-personalized-web-experience/"><u>Setting Up Cookies for a Personalized Web Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/star-studded-whatsapp-profiles-a-zodiac-guide-to-crafting-bios/"><u>Star-Studded WhatsApp Profiles A Zodiac Guide to Crafting Bios</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-to-correcting-ntdlldll-errors-in-windows-1087/"><u>Step-by-Step Solutions to Correcting ntdll.dll Errors in Windows [10/8/7]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences/"><u>The Perfect Playback Top Strategies to Record and Share Your VR Experiences</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-discontinued-google-hangouts-service/"><u>Understanding the Discontinued Google Hangouts Service</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-much-money-can-a-podcaster-make/"><u>[New] How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-12-proven-ways-to-increase-youtube-views-you-should-try/"><u>[Updated] 2024 Approved 12 Proven Ways to Increase YouTube Views You Should Try</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-engage-viewers-immediitsly-the-art-of-screensharing-on-facebook-livestreams/"><u>[Updated] In 2024, Engage Viewers Immediitsly The Art of Screensharing on Facebook Livestreams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>2024 Approved Realize Your Vision A Comprehensible List of 3D Animation Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-smart-savings-the-complete-guide-to-tidals-educational-offers/"><u>Get Smart Savings – The Complete Guide to Tidal's Educational Offers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-pro-max-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Pro Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722857490342-is-it-feasible-to-delete-native-ios-programs-from-your-iphone/"><u>Is It Feasible to Delete Native iOS Programs From Your iPhone?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-with-information-on-google-pixel-tablet-launch-date-specs-reviews-and-more/"><u>Stay Ahead with Information on Google Pixel Tablet - Launch Date, Specs, Reviews, and More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-joining-shared-albums-via-ios/"><u>Step-by-Step Guide: Joining Shared Albums via iOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stop-unknown-numbers-a-step-by-step-guide-to-filtering-restricted-calls-on-your-iphone/"><u>Stop Unknown Numbers: A Step-by-Step Guide to Filtering Restricted Calls on Your iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/title-tag-and-meta-description-incorporate-primary-keywords-in-the-title-tag-for-instance-quantum-computings-potential-to-revolutionize-ai-explore-how-ensur8/"><u>Title Tag and Meta Description: Incorporate Primary Keywords in the Title Tag. For Instance, Quantum Computing's Potential to Revolutionize AI - Explore How. Ensure Your Meta Description Includes Secondary Keywords or Long Tail Terms Too</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-mapi32dll-is-nowhere-to-be-found/"><u>Troubleshooting Steps for When Mapi3^2.dll Is Nowhere to Be Found</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-after-effects-vs-premiere-pro-understanding-their-unique-strengths-and-weaknesses/"><u>Updated In 2024, After Effects vs Premiere Pro Understanding Their Unique Strengths and Weaknesses</u></a></li>
 </ul></div>
 

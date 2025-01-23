@@ -1,7 +1,7 @@
 ---
 title: "Cutting Through Pixels: Disable Mouse Acceleration in 5 Simple Steps"
-date: 2024-08-18T22:51:25.635Z
-updated: 2024-08-19T22:51:25.635Z
+date: 2025-01-18T20:10:13.283Z
+updated: 2025-01-23T07:04:25.692Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Easy Steps for PS4 Remote Play Android devices !
 
  When using Remote Play, the connected device displays the same screen as on your PS4 system. You need to press the PS button to display your home screen. Try the following steps!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 1: Configure the PS4 settings for the remote play**
 
  PlayStation have now allowed the remote play for your PS4 or PS4 Pro, so you can set up easily on your PS4 settings to enable the remote play feature. Follow these steps to configure it correctly.
@@ -39,18 +43,27 @@ Easy Steps for PS4 Remote Play Android devices !
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d9991ede53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check the box to**Enable Remote Play** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d99baced20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then you can successfully enable the remote play feature in your PS4.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 2: Download the remote play app in your Android device**
 
  After setting up the PS4 setting, you’ll need to configure settings in your Android device. First of all you need to download the application, and then you further set up the connection after installing the application. Follow the instructions below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Configure the settings in your Android device
 
@@ -60,11 +73,12 @@ Then you can successfully enable the remote play feature in your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d6be6294fc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your Android device is allowed to download and install applications without the Google Store.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Download and install the remote play application in your Android device
 
 **Note** : Please make sure that your Android device is**4.2 and above** .
@@ -79,9 +93,6 @@ Then you can successfully enable the remote play feature in your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d6a5c0e1b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  4)**Sign into your PlayStation account** in the application, then it will connect automatically.
 
  After successfully connected, you can stream the screen on your PS4 to your Android phone now, and you can see the screen in different views by rotating your phone.
@@ -97,9 +108,6 @@ Then you can successfully enable the remote play feature in your PS4.
  **Method 1:[Connect your PS4 controller to your Android device via Bluetooth](https://tools.techidaily.com/drivereasy/download/)**
  **Method 2:[Connect your PS4 controller to your Android device by the USB cable](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Method 1: Connect your PS4 controller to your Android device via Bluetooth
 
  You can connect your PS4 controller to your Android device directly and easily via Bluetooth. Below is how:
@@ -112,16 +120,10 @@ Then you can successfully enable the remote play feature in your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5dae28187b1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  3) Find the**Wireless Controller** on the Bluetooth page in**Available devices** , tap the device to**connect** . (If you don’t see your PS4 controller in the available device section,**refresh** the page to search for the**nearby devices** , and select your controller to connect when it comes up.)
 
  4) After connected successfully, you will see your controller in the**Paired devices** section, and you can now manage your Android device with your PS4 controller.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Connect your PS4 controller to your Android device by the USB cable
 
  You can also try to connect with a**USB OTG cable** without rooting your Android. First of all, you will need a **[USB OTG cable like this one](https://www.amazon.com/UGREEN-Adapter-Samsung-Controller-Android/dp/B00N9S9Z0G/?tag=easeware-lillianlai-20)**  , which you can buy it from the Internet, such as on Amazon (find one with reasonable price and good reviews). You can buy it with only several dollars. Then you can start to set it up.
@@ -147,8 +149,6 @@ Then you can successfully enable the remote play feature in your PS4.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +156,24 @@ Then you can successfully enable the remote play feature in your PS4.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>[Updated] In 2024, Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-strategy-to-obtain-microsoft-student-savings-deals/"><u>A Comprehensive Strategy to Obtain Microsoft Student Savings Deals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-connecting-a-new-receiver-to-your-logitech-bluetooth-mouse/"><u>Easy Instructions for Connecting a New Receiver to Your Logitech Bluetooth Mouse</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-edge-over-competition-fixing-street-fighter-6s-latency-and-improving-your-online-matches/"><u>Getting Edge over Competition: Fixing Street Fighter 지오 6'S Latency & Improving Your Online Matches</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-90-gt-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor 90 GT Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-understanding-vectors-first-steps-and-essential-apps/"><u>In 2024, Understanding Vectors First Steps and Essential Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-4-app-solutions-to-simplify-your-home-painting-endeavors/"><u>Innovative 4 App Solutions to Simplify Your Home Painting Endeavors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-video-wisdom-strategies-that-score-big/"><u>Instagram Video Wisdom Strategies That Score Big</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-patchwork-effective-solutions-for-the-persistent-crash-of-thaumaturge-on-personal-computers/"><u>Mastering Patchwork: Effective Solutions for the Persistent Crash of Thaumaturge on Personal Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-wevideo-where-video-creation-meets-simplicity/"><u>New WeVideo Where Video Creation Meets Simplicity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-fixing-when-stereo-sound-isnt-working/"><u>Step-by-Step Solutions: Fixing When Stereo Sound Isn't Working</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-complimentary-applications-for-endless-movie-streaming-enjoyment/"><u>Top 12 Complimentary Applications for Endless Movie Streaming Enjoyment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-account-deletion-process-explained-in-simple-steps/"><u>Twitch Account Deletion Process Explained in Simple Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-configuring-finder-preferences-for-organized-folder-management/"><u>Ultimate Guide: Configuring Finder Preferences for Organized Folder Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722864838423-unlock-cross-platform-access-to-icloud-photos-for-iphone-laptop-and-smartphones/"><u>Unlock Cross-Platform Access to iCloud Photos: For iPhone, Laptop & Smartphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/verifying-true-dolby-atmos-quality-can-you-trust-it/"><u>Verifying True Dolby Atmos Quality: Can You Trust It?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows-updatewin10win11/"><u>Windows Update：最新のWin10からWin11へ、効果的なデータ転送方法 - 第三者の解決策</u></a></li>
+</ul></div>
 

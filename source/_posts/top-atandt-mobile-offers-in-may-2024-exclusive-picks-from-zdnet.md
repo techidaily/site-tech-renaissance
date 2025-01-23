@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Picks From ZDNet
-date: 2025-01-11T16:11:12.699Z
-updated: 2025-01-17T00:17:10.867Z
+date: 2025-01-21T03:41:35.991Z
+updated: 2025-01-22T16:05:16.048Z
 tags:
   - apple
 categories:
@@ -116,10 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -134,10 +130,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -149,7 +141,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -162,16 +154,24 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -184,7 +184,7 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -236,18 +236,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-secrets-of-sending-mmc-films-to-vimeo/"><u>[New] 2024 Approved Unlocking Secrets of Sending MMC Films to Vimeo</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-empowering-learning-through-educational-videos-on-youtube/"><u>2024 Approved Empowering Learning Through Educational Videos on YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlock-instagrams-video-capabilities-blueprint-for-powerful-marketing/"><u>2024 Approved Unlock Instagram's Video Capabilities Blueprint for Powerful Marketing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-solving-your-stadia-headsets-connectivity-problems/"><u>Expert Tips for Solving Your Stadia Headset's Connectivity Problems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xr-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XR Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-team-calls-prepost-meeting-screen-customization/"><u>In 2024, Optimizing Team Calls Pre/Post-Meeting Screen Customization</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metaverse-vs-multiverse-whats-the-difference/"><u>Metaverse vs Multiverse What's the Difference?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-spreadsheets-with-these-three-chatgpt-techniques-for-excel-mastery/"><u>Streamline Your Spreadsheets with These Three ChatGPT Techniques for Excel Mastery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-tech-excellence-by-toms-hardware/"><u>The Definitive Guide to Tech Excellence by Tom's Hardware</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-premium-servers-racks-and-cabinets/"><u>Ultimate Guide to Premium Servers Racks & Cabinets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-restoring-deleted-messages-on-gmail/"><u>Ultimate Guide: Restoring Deleted Messages on Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722886808159-unlock-restful-nights-with-these-5-premier-apple-watch-sleep-applications/"><u>Unlock Restful Nights with These 5 Premier Apple Watch Sleep Applications</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-recording-video-games-3-simple-ways/"><u>Updated The Ultimate Guide to Recording Video Games 3 Simple Ways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-avoiding-common-hashtag-faux-pas-on-instagram/"><u>[New] Avoiding Common Hashtag Faux Pas on Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[New] In 2024, Exploring Screen Capture with Apowersoft, No Cost Involved</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-streamers-companion-roku-plus-facebook-live-explained/"><u>[Updated] 2024 Approved A Streamer's Companion ROKU + Facebook Live Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-best-zero-cost-enhancer-for-digital-photography/"><u>[Updated] In 2024, Best Zero-Cost Enhancer for Digital Photography</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-detaillierte-technische-daten-fur-winxvideo-ai-offizielle-version/"><u>1. Detaillierte Technische Daten Für WinXVideo AI - Offizielle Version</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/2022-goals-achieved-speak-like-a-native-at-half-the-cost/"><u>2022 Goals Achieved - Speak Like a Native at Half the Cost!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-solve-a-504-gateway-timeout-problem/"><u>A Step-by-Step Guide to Solve a 504 Gateway Timeout Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/analyzing-the-need-for-a-tech-shift-in-government-infrastructure-post-microsoft-service-interruptions/"><u>Analyzing the Need for a Tech Shift in Government Infrastructure Post Microsoft Service Interruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-windows-problems-effective-assistance-guide/"><u>Conquer Windows Problems: Effective Assistance Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnose-and-repair-error-0xc0000185-a-step-by-step-walkthrough/"><u>Diagnose and Repair 'Error 0Xc0000185' - A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-sets-the-most-recent-generation-of-ipad-apart-from-its-predecessors/"><u>Discover What Sets the Most Recent Generation of iPad Apart From Its Predecessors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-ping-a-website/"><u>How to Ping a Website</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-haldll-issues-on-windows-xp-a-comprehensive-guide/"><u>Resolving 'Missing hal.dll' Issues on Windows XP: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/t-mobile-metro-unlimited-plan-how-to-benefit-from-nationwide-roaming-perks/"><u>T-Mobile Metro Unlimited Plan: How to Benefit From Nationwide Roaming Perks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-elite-keys-discovering-devices-of-202email-protected/"><u>Ultimate Guide: Elite Keys Discovering Devices of 202([Email Protected])</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-steps-for-the-d3dx933dll-file-not-found-issue/"><u>Ultimate Troubleshooting Steps for the d3dx9_33.dll File Not Found Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-savings-for-gamers-snag-an-alienamoe-aurora-r13-and-cut-350-off-prices-limited-time-deal-on-zdnet/"><u>Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal on ZDNET!</u></a></li>
 </ul></div>
 

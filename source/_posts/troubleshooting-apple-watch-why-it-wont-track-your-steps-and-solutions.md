@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Apple Watch: Why It Won't Track Your Steps and Solutions"
-date: 2024-08-19T00:17:04.900Z
-updated: 2024-08-20T00:17:04.900Z
+date: 2025-01-21T17:44:42.686Z
+updated: 2025-01-22T16:11:57.135Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Apple Watch: Why It Won't Track Your Steps and Solutions"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 * "(App name) cannot be opened because the developer cannot be verified."
 * "(App name) can't be opened because Apple cannot check it for malicious software."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Cause of the ‘Cannot Be Opened Because the Developer Cannot Be Verified' Error on Mac?
 
  While[Macs are less likely to get viruses](https://www.lifewire.com/can-macs-get-viruses-4767114) than Windows PCs, they can still get infected. Apple has a developer ID system and an app review process to reduce the frequency of users exposed to malware on macOS.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
  When you try to install an app from a developer who hasn’t registered with Apple, you’ll see an error message. If a registered developer releases an app that Apple hasn’t reviewed, the same thing happens.
 
  If an app were released before the registration and review processes started, it would trigger the same error. The app may be safe, but there’s no way for Apple to know one way or the other if they haven’t been able to review it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do You Fix ‘App Can’t Be Opened Because It Is From an Unidentified Developer?’
 
@@ -39,6 +47,11 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 4. Bypass the block in your Privacy & Security settings. If the previous method didn’t work, you can do it manually from**System Settings** \>**Privacy & Security** \> look for the app > click**Open Anyway.**  
 ![The Open Anyway option from macOS Privacy & Security settings to allow an app from outside the App Store.](https://www.lifewire.com/thmb/Q44hkOY6O8L2Ck_LybCHimjWrBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-developer-cannot-be-verified-error-5183898-889a356e9c644d86962bc4ccc9ad1be9.jpg)  
  In older versions of macOS, open**System Preferences** \>**Security & Privacy** \>**General** \> click the**lock** icon > enter your username and password >**Unlock** \>**App Store and Identified Developers** . You may see the option to click**Anywhere** \>**Allow From Anywhere** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. [Download the app through Safari](https://www.lifewire.com/what-is-safari-4173608) . If the above process didn’t work, make sure you downloaded the app using Safari. Delete the app > restart your Mac > download the app using Safari > and try to run the app. When you get the error message, perform the Privacy & Security fix outlined in the previous step.  
  There’s an issue where downloading apps through other browsers, like Chrome and Edge, will cause a problem when trying to install unsigned apps.
 
@@ -73,8 +86,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,8 +93,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/0-visionary-beauticians-poised-success-for-2024/"><u>[New] 10 Visionary Beauticians Poised Success for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-must-play-virtual-reality-titles-for-now/"><u>[New] Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[Updated] Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-detailed-breakdown-the-essence-of-hero4-black/"><u>2024 Approved Detailed Breakdown The Essence of Hero4 Black</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-photo-editor-photonshift-tech/"><u>2024 Approved Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725285628430-ai/"><u>動画品質改善にAIテクノロジーを活用した独自機能満載の高画質化ツール - ユーザーレビューで人気</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-sapphire-driver-software-for-windows-systems/"><u>Latest Version of Sapphire Driver Software for Windows Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-iphone-hdr-photography-for-professional-results-for-2024/"><u>Mastering iPhone HDR Photography for Professional Results for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/poke-pal-power-play-enhancing-your-gaming-experience-with-friends-in-pokemon-go/"><u>Poké-Pal Power Play: Enhancing Your Gaming Experience with Friends in 'Pokémon Go'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-watching-the-matrix-trilogy-in-proper-order/"><u>Step-by-Step Guide to Watching The Matrix Trilogy in Proper Order</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-secondary-phone-apps/"><u>The Ultimate Selection of Secondary Phone Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-capturing-your-gaming-moments-with-playstation-4/"><u>Ultimate Guide: Capturing Your Gaming Moments with PlayStation 4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-guide-to-the-finest-free-sport-streaming-services-available/"><u>Your Guide to the Finest Free Sport Streaming Services Available</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

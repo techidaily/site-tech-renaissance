@@ -1,7 +1,7 @@
 ---
 title: Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights
-date: 2025-01-14T18:19:22.733Z
-updated: 2025-01-16T23:19:51.630Z
+date: 2025-01-19T23:35:21.491Z
+updated: 2025-01-22T18:02:54.721Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ Let's dig in, shall we?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Gradual immersion
 
 Apple recommends you gradually introduce users to your app, starting with a window view within the augmented reality environment. 
@@ -57,7 +53,7 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
@@ -71,7 +67,7 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -88,6 +84,10 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. Incorporate sound design strategically
 
 Sound -- that is, _audio_ \-- design plays a crucial role in spatial computing. Sound may not be as critical for flat UI experiences, but we humans rely on sound -- and the spatial awareness that sound provides -- to orient ourselves in our real-world environment. So keep in mind that sound not only makes your environment more interesting, it can serve as an orientation tool as well. 
@@ -99,7 +99,7 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -109,7 +109,7 @@ Apple recommends always rendering a ground plane so users feel grounded. If you'
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
@@ -159,24 +159,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-streaming-to-start-reversing-order-on-your-youtube-watch-list/"><u>[New] In 2024, Streaming to Start Reversing Order on Your YouTube Watch List</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-understanding-macos-big-sur-minimum-requirements/"><u>[New] In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>[New] In 2024, Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-clear-vision-in-gaming-captures-overcoming-obs-black-screens-for-2024/"><u>[Updated] Clear Vision in Gaming Captures Overcoming OBS Black Screens for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-make-a-splash-impressive-video-edits-with-windows-10s-tools/"><u>2024 Approved Make a Splash Impressive Video Edits with Windows 10'S Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-self-driving-vehicle-producers-top-picks/"><u>Best Self-Driving Vehicle Producers : Top Picks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/envisioning-the-future-learn-from-these-6-metaverse-scenarios/"><u>Envisioning the Future Learn From These 6 Metaverse Scenarios</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-steps-for-adding-apple-tv-to-your-firestick-device/"><u>Expert Steps for Adding Apple TV to Your Firestick Device</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-150-2023-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia 150 (2023) to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insights-into-ps5-slims-specs-what-to-expect-from-sonys-new-console/"><u>Insights Into PS5 Slim's Specs - What to Expect From Sony's New Console!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-stream-netflix-on-your-nintendo-switch-console/"><u>Is It Possible To Stream Netflix On Your Nintendo Switch Console?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/g-everyday-moments-memorable-on-youtube/"><u>Making Everyday Moments Memorable on YouTube</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-nvidia-audio-drivers-in-windows-7-release/"><u>New NVIDIA Audio Drivers in Windows 7 Release</u></a></li>
-<li><a href="https://win-lab.techidaily.com/solving-the-mbr2gpt-failure-issue-updating-reagentxml-successfully/"><u>Solving the MBR2GPT Failure Issue: Updating 'Reagent.xml' Successfully</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-viewing-dragon-ball-in-the-correct-chronology/"><u>Step-by-Step Tutorial on Viewing Dragon Ball in the Correct Chronology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-acquiring-new-titles-for-your-meta-vr-headset/"><u>Step-by-Step Tutorial: Acquiring New Titles for Your Meta VR Headset</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/taking-control-methods-for-requesting-access-from-trustedinstaller-in-windows-11/"><u>Taking Control: Methods for Requesting Access From TrustedInstaller in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-considerations-before-buying-a-high-performance-gaming-pc/"><u>Top Considerations Before Buying a High-Performance Gaming PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-optimal-image-configurations-for-your-samsung-ultra-hd-television/"><u>Top Optimal Image Configurations for Your Samsung Ultra HD Television</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fusion-of-light-combining-images-and-videos-on-iphone/"><u>[New] Fusion of Light Combining Images & Videos on iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-google-voice-recordings/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Google Voice Recordings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-join-the-jocular-joy-the-greatest-instagram-meme-gatherings/"><u>2024 Approved Join the Jocular Joy The Greatest Instagram Meme Gatherings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-enhances-enterprise-device-control-what-you-need-to-know-business-technology-today/"><u>Apple Vision Pro Enhances Enterprise Device Control: What You Need to Know - Business Technology Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/collaboration-unveiled-qualcomm-joins-forces-with-samsung-and-google-for-groundbreaking-mixed-reality-eyewear-an-insiders-perspective-zdnet/"><u>Collaboration Unveiled: Qualcomm Joins Forces with Samsung & Google for Groundbreaking Mixed Reality Eyewear - An Insider's Perspective | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-atlantic-language-contrasts/"><u>Cross-Atlantic Language Contrasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-collection-most-effective-wide-sized-gaming-mats/"><u>Elite Collection: Most Effective Wide-Sized Gaming Mats</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-razers-new-releases-and-announcements-from-ces-2023-full-report-engadget/"><u>Exploring Razer's New Releases and Announcements From CES 2023 - Full Report | Engadget</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-new-apple-vision-pro-faster-shipping-awaits/"><u>Get Your Hands on the New Apple Vision Pro: Faster Shipping Awaits!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ss-the-power-of-your-mobile-content-on-youtube-starting-now-for-2024/"><u>Harness the Power of Your Mobile Content on YouTube, Starting Now for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>In 2024, Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-assessment-of-matterports-virtual-tour-tool-insights-from-pcmag-review/"><u>In-Depth Assessment of Matterport's Virtual Tour Tool - Insights From PCMag Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-6-plus-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 6 Plus Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-innovates-with-exclusive-virtual-reality-tech-that-outshines-apple-vision-pro-insights-from-zdnet/"><u>Meta Innovates with Exclusive Virtual Reality Tech That Outshines Apple Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-impact-of-extended-reality-spatial-computing-and-digital-twin-technology-on-enterprise-user-experience-insights-from-zdnet/"><u>The Impact of Extended Reality, Spatial Computing and Digital Twin Technology on Enterprise User Experience: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-big-leap-in-tech-discovering-how-5g-will-transform-usages-far-past-enhanced-connectivity-insights-by-zdnet/"><u>The Next Big Leap in Tech: Discovering How 5G Will Transform Usages Far Past Enhanced Connectivity | Insights by ZDNet</u></a></li>
 </ul></div>
 

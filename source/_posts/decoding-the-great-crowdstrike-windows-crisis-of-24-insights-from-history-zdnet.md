@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2025-01-10T21:31:53.871Z
-updated: 2025-01-16T22:32:37.406Z
+date: 2025-01-20T05:51:49.891Z
+updated: 2025-01-22T22:10:52.942Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,22 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-how-to-upload-a-video-to-tiktok-from-mac-or-pc-for-2024/"><u>[New] How to Upload a Video to TikTok From Mac or PC for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-innovative-responses-the-ultimate-guide-to-youtube-reacts/"><u>[New] In 2024, Innovative Responses The Ultimate Guide to YouTube Reacts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-from-conflict-to-resolution-an-in-depth-tutorial-on-reporting-users-on-discord/"><u>[Updated] From Conflict to Resolution An In-Depth Tutorial on Reporting Users on Discord</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-communicating-confidently-on-google-meet/"><u>[Updated] In 2024, Communicating Confidently on Google Meet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-motorsport-experiences-quintessential-list/"><u>[Updated] In 2024, Prime Motorsport Experiences Quintessential List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-professional-top-10-hd-webcams-and-buyers-advice-for-2024/"><u>[Updated] Professional Top 10 HD Webcams & Buyer's Advice for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/disabling-autoplay-feature-in-your-apple-music-experience/"><u>Disabling Autoplay Feature in Your Apple Music Experience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cing-video-appeal-mac-thumbnails-tutorial/"><u>Enhancing Video Appeal Mac Thumbnails Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-detect-and-fix-a-non-appearing-wi-fi-network-issue/"><u>Guide to Detect and Fix a Non-Appearing Wi-Fi Network Issue</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lowering-sounds-on-mac-and-pc-gradually-and-invisibly/"><u>In 2024, Lowering Sounds On Mac & PC Gradually and Invisibly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-6-lite-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic 6 Lite Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insights-into-upcoming-tesla-smartphone-unveiling-expected-cost-launch-date-and-technical-details/"><u>Insights Into Upcoming Tesla Smartphone: Unveiling Expected Cost, Launch Date & Technical Details</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-your-money-well-spent-on-chatgpt-plus-uncover-these-5-persuasive-arguments-for-signing-up/"><u>Is Your Money Well-Spent on ChatGPT Plus? Uncover These 5 Persuasive Arguments for Signing Up</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-for-repairing-stuck-optical-drives-in-computers/"><u>Step-by-Step Tips for Repairing Stuck Optical Drives in Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-setting-up-a-custom-email-signature-in-godaddy-webmail-services/"><u>Step-by-Step Tutorial for Setting Up a Custom Email Signature in GoDaddy Webmail Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-10-greatest-sports-dramas-on-demand-today/"><u>The Ultimate Selection of 10 Greatest Sports Dramas on Demand Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-exclusive-academic-deals-a-guide-to-securing-the-tidal-education-price-break/"><u>Unlocking Exclusive Academic Deals: A Guide to Securing the Tidal Education Price Break</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-copycat-techniques-for-social-media-success/"><u>[Updated] TikTok Copycat Techniques for Social Media Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-places-for-pickleball-the-ultimate-ranking-of-americas-top-3-states/"><u>Discover the Best Places for Pickleball: The Ultimate Ranking of America's Top 3 States</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-choices-for-action-camera-gear-in-202-groovy-year-expert-insights-from-zdnet/"><u>Discover the Ultimate Choices for Action Camera Gear in 202 Groovy Year – Expert Insights From ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-zero-emission-fire-pits-for-2ebutry-your-outdoor-space/"><u>Discover the Ultimate Selection of Zero Emission Fire Pits for 2Ebutry Your Outdoor Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-solar-charger-rankings-on-zdnet-the-top-picks/"><u>Discover the Ultimate Solar Charger Rankings on ZDNET: The Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-crafting-your-own-camera-obscura-for-safe-solar-eclipse-viewing-tips-and-tricks/"><u>DIY Guide: Crafting Your Own Camera Obscura for Safe Solar Eclipse Viewing – Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-graphics-drivers-compatible-with-windows-7/"><u>Download AMD Radeon Graphics Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/durability-and-water-resistance/"><u>Durability & Water Resistance</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effizientster-ansatz-fur-die-kopie-einer-dual-boot-festplatte-auf-eine-ssd/"><u>Effizientster Ansatz Für Die Kopie Einer Dual-Boot Festplatte Auf Eine SSD</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-screen-recorder-azs-complete-application-review-for-2024/"><u>Full Screen Recorder - AZ's Complete Application Review for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-maximize-storage-essential-xbox-drive-picks-reviewed/"><u>In 2024, Maximize Storage Essential Xbox Drive Picks Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-tier-action-cams-for-sports-enthusiasts/"><u>Top-Tier Action Cams for Sports Enthusiasts</u></a></li>
 </ul></div>
 

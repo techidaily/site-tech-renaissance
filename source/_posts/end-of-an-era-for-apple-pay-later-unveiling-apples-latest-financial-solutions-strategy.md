@@ -1,7 +1,7 @@
 ---
 title: "End of an Era for Apple Pay Later: Unveiling Apple’s Latest Financial Solutions Strategy"
-date: 2025-01-15T16:17:08.826Z
-updated: 2025-01-17T01:51:21.511Z
+date: 2025-01-16T19:18:59.937Z
+updated: 2025-01-23T04:15:39.928Z
 tags:
   - apple
 categories:
@@ -82,6 +82,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -102,10 +106,6 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -121,7 +121,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -135,7 +135,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -151,7 +151,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,24 +227,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-revenue-calculation-for-every-clicked-video/"><u>[New] Revenue Calculation for Every Clicked Video</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-8-platforms-for-linux-video-buffs/"><u>[Updated] In 2024, Top 8 Platforms for Linux Video Buffs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/banish-libxml2dll-not-found-messages-proven-fixes-to-get-your-system-running-again/"><u>Banish 'Libxml2.dll Not Found' Messages: Proven Fixes to Get Your System Running Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-practices-for-enhancing-discord-communications-with-bots/"><u>Best Practices for Enhancing Discord Communications with Bots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-picks-17-ideal-sites-for-accessing-books-at-no-cost/"><u>Expert Picks: 17 Ideal Sites for Accessing Books at No Cost</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-possibility-is-roblox-experiencing-downtime-or-is-it-your-connection/"><u>Exploring the Possibility: Is Roblox Experiencing Downtime or Is It Your Connection?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gmail-insights-how-to-tell-if-an-email-has-been-read-or-not/"><u>Gmail Insights: How to Tell if an Email Has Been Read or Not</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovative-design-crafting-youtubes-efficient-subscribe-page-for-2024/"><u>Innovative Design Crafting YouTube's Efficient Subscribe Page for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/micromobility-world-dates-news-rumors-and-everything-else-to-know/"><u>Micromobility World: Dates, News, Rumors, and Everything Else To Know</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-complete-guide-to-running-linux-on-a-chromebook-updated-2023/"><u>New In 2024, The Complete Guide to Running Linux on a Chromebook (Updated 2023)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-itel-p55-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Itel P55 Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-opengl32dll-error-step-by-step-guide-to-fix-missing-or-not-found-issues/"><u>Resolving OpenGL32.dll Error: Step-by-Step Guide to Fix 'Missing' Or 'Not Found' Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-overcoming-tarkov-error-103003/"><u>Resolving the Issue: A Step-by-Step Guide to Overcoming Tarkov Error 103003</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-disable-youtube-on-an-ipad-device/"><u>Steps to Disable YouTube on an iPad Device</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-galaxy-m14-4g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Galaxy M14 4G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-best-free-language-learning-platforms/"><u>Top 5 Best Free Language Learning Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-essential-discount-sites-to-save-big-on-purchases/"><u>Top 6 Essential Discount Sites to Save Big on Purchases</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-high-fidelity-mobile-sound-selector-for-2024/"><u>[New] High Fidelity Mobile Sound Selector for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>[Updated] Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastery-in-conflict-the-leading-7-total-war-tactics-for-2024/"><u>[Updated] Mastery in Conflict The Leading 7 Total War Tactics for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-list-recording-digital-tv-programming/"><u>[Updated] The Ultimate List Recording Digital TV Programming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enduring-performance-meets-stunning-visuals-in-our-top-reviewed-laptop/"><u>Enduring Performance Meets Stunning Visuals in Our Top Reviewed Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-apples-virtual-worlds-with-meta-vr-headsets-mastering-the-process-zdnet/"><u>Explore Apple's Virtual Worlds with Meta VR Headsets - Mastering the Process | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-collaborative-creativity-the-disney-and-marvel-vision-pro-multiverse-experience-with-you-as-the-hero-zdnet-unveiled/"><u>Exploring Collaborative Creativity: The Disney & Marvel Vision Pro Multiverse Experience with You as the Hero | ZDNet Unveiled</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-and-ipad-applications-now-pre-loaded-on-the-vision-professional-app-store-zdnet-update/"><u>IPhone & iPad Applications Now Pre-Loaded on the Vision Professional App Store - ZDNet Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-apples-vision-pro-game-changer-for-enhancing-your-economy-class-experience-insights-from-zdnet/"><u>Is Apple's Vision Pro Game-Changer for Enhancing Your Economy Class Experience? Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/keep-your-viewers-hooked-6-compelling-video-types/"><u>Keep Your Viewers Hooked 6 Compelling Video Types</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-vision-pro-led-technology-reshapes-samsungs-roadmap-new-2024-deadline-set-for-cutting-edge-vr-headset-unveiled-by-zdnet-report/"><u>Revolutionary Vision Pro Led Technology Reshapes Samsung's Roadmap: New 2024 Deadline Set for Cutting-Edge VR Headset Unveiled by ZDNET Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ar-glasses-trends-a-comprehensive-review-by-zdnet/"><u>Top AR Glasses Trends : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whos-leading-the-charge-in-crafting-tomorrows-digital-realm-exploring-the-innovators-of-the-metaverse-with-zdnet/"><u>Who's Leading the Charge in Crafting Tomorrow's Digital Realm? Exploring the Innovators of the Metaverse with ZDNET</u></a></li>
 </ul></div>
 

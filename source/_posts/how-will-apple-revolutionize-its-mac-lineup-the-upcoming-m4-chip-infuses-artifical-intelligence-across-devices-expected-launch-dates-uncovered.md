@@ -1,7 +1,7 @@
 ---
 title: How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered
-date: 2025-01-12T21:41:02.284Z
-updated: 2025-01-17T00:39:39.637Z
+date: 2025-01-19T07:55:20.451Z
+updated: 2025-01-23T01:00:54.471Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -72,10 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -94,6 +86,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,15 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-seconds-spent-watching-a-20mb-video/"><u>[Updated] In 2024, Seconds Spent Watching a 20MB Video</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-to-amazons-azw-digital-book-files/"><u>A Beginner's Guide to Amazon's AZW Digital Book Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c22-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C22 Device SIM</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-fixing-chatgpts-moderation-error-quickly/"><u>Expert Tips: Fixing ChatGPT's Moderation Error Quickly</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-hire-harmony-a-collection-of-inspirational-clips/"><u>In 2024, Hire Harmony A Collection of Inspirational Clips</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-how-to-block-spotifys-unrequested-podcast-episodes/"><u>In 2024, How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-best-reading-applications-for-android-devices-analyzed-and-compared/"><u>Ultimate List of Best Reading Applications for Android Devices Analyzed and Compared</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-full-potential-of-your-kindle-paperwhite-n-discover-the-5-must-have-apps/"><u>Unlock the Full Potential of Your Kindle Paperwhite N: Discover the 5 Must-Have Apps!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-content-how-to-safely-remove-acsm-protection-from-downloads-for-better-playback-experience/"><u>Unlocking Content: How to Safely Remove ACSM Protection From Downloads for Better Playback Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/vision-capture-expert-insights-into-video-tech-for-2024/"><u>Vision Capture Expert Insights Into Video Tech for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-of-the-best-in-drone-following-capabilities/"><u>[Updated] 2024 Approved Best of the Best in Drone Following Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-to-prevent-burn-in-damage-on-various-displays/"><u>Comprehensive Strategies to Prevent Burn-In Damage on Various Displays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defensive-techniques-to-block-openai-web-harvesting-attempts-on-your-site/"><u>Defensive Techniques to Block OpenAI Web Harvesting Attempts on Your Site</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-riveting-true-crime-stories-in-these-13-podcast-choices/"><u>Discover the Most Riveting True Crime Stories in These 13 Podcast Choices</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-fall-guys-experience-essential-tricks-for-higher-fps-and-reduced-latency/"><u>Improve Your Fall Guys Experience: Essential Tricks for Higher FPS & Reduced Latency</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/is-bitcoin-ablaze-unveiling-the-mystery-of-pepes-impact-on-crypto-trends-explored-by-yl-software/"><u>Is Bitcoin Ablaze? Unveiling the Mystery of Pepe's Impact on Crypto Trends – Explored by YL Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-your-tech-journey-with-informed-picks-from-toms-hardware-pros/"><u>Navigate Your Tech Journey with Informed Picks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sequencing-superpowers-watching-x-men-movies-in-their-proper-timeline/"><u>Sequencing Superpowers: Watching X-Men Movies in Their Proper Timeline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-linking-pinterest-with-your-facebook-page-for-more-traffic/"><u>Step-by-Step Tutorial: Linking Pinterest with Your Facebook Page for More Traffic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secret-side-of-emojis-uncover-these-incredible-facts-you-never-heard-before/"><u>The Secret Side of Emojis: Uncover These Incredible Facts You Never Heard Before!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029207836-youtube4/"><u>YouTube独占音収録テクニック4つのコツ【ダイジェスト版】</u></a></li>
 </ul></div>
 

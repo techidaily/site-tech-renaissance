@@ -1,7 +1,7 @@
 ---
 title: How to Generate a List of Installed Programs in Windows
-date: 2024-08-18T22:51:33.176Z
-updated: 2024-08-19T22:51:33.176Z
+date: 2025-01-18T21:32:17.530Z
+updated: 2025-01-22T23:49:02.614Z
 tags:
   - win11
   - win10
@@ -159,8 +159,6 @@ If you have already installed Windows 10 on your computer, and you want to perfo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +166,26 @@ If you have already installed Windows 10 on your computer, and you want to perfo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-windowgrabber-3d-top-choice/"><u>[New] In 2024, WindowGrabber 3D - Top Choice</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/3-effective-strategies-for-swift-and-simple-recovery-of-lost-music-tracks/"><u>3 Effective Strategies for Swift and Simple Recovery of Lost Music Tracks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discerning-deceptive-digital-acquaintance-approaches-detecting-phony-friend-invites/"><u>Discerning Deceptive Digital Acquaintance Approaches: Detecting Phony Friend Invites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-visually-guided-voicemail-services/"><u>Discover the Best Visually-Guided Voicemail Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-insights-into-the-different-stages-of-electric-vehicle-charging-levels-1-through-3-demystified/"><u>Essential Insights Into the Different Stages of Electric Vehicle Charging – Levels 1 Through 3 Demystified</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-guide-official-winxvideo-ai-hardware-and-software-capabilities/"><u>In-Depth Guide: Official WinXVideo AI Hardware & Software Capabilities</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-discover-the-power-of-fcp-90-days-free-no-strings-attached/"><u>New In 2024, Discover the Power of FCP 90 Days Free, No Strings Attached</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overreliance-on-algorithms-in-patient-care-might-lead-to-wrong-treatment/"><u>Overreliance on Algorithms in Patient Care Might Lead to Wrong Treatment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-pc-solutions-for-when-it-wont-turn-on/"><u>Reviving Your PC: Solutions for When It Won't Turn On</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-propella-7s-40-unleashed-an-incredible-fusion-of-nimble-handling-and-wallet-friendly-pricing/"><u>The Propella 7S 4.0 Unleashed: An Incredible Fusion of Nimble Handling and Wallet-Friendly Pricing!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-5-key-points-to-think-about-for-game-console-purchase/"><u>The Ultimate Checklist: 5 Key Points to Think About for Game Console Purchase</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-hack-for-changing-your-phones-real-location-without-moving/"><u>The Ultimate Hack for Changing Your Phone’s Real Location Without Moving</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-step-by-step-strategies-for-successful-raid-n-zero-data-rescue/"><u>Ultimate Step-by-Step Strategies for Successful RAID N Zero Data Rescue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-microsofts-search-engine-understanding-bing/"><u>Unveiling the Secrets of Microsoft's Search Engine: Understanding Bing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/whos-currently-at-the-helm-of-quality-voip-offerings-vonage-revisited/"><u>Who's Currently at the Helm of Quality VoIP Offerings? Vonage Revisited.</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

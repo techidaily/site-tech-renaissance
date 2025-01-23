@@ -1,7 +1,7 @@
 ---
 title: The Complete User Guide to Implementing Picture-in-Picture Mode in Android's Interface
-date: 2024-08-19T00:18:25.058Z
-updated: 2024-08-20T00:18:25.058Z
+date: 2025-01-20T00:18:34.402Z
+updated: 2025-01-22T21:19:21.401Z
 categories:
   - BestProducts
 description: This Article Describes The Complete User Guide to Implementing Picture-in-Picture Mode in Android's Interface
@@ -30,12 +30,18 @@ thumbnail: https://www.lifewire.com/thmb/gA7-VyiSqg3M1EESDmVd8UFEvls=/540x405/fi
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using the Apple Store App to Make Appointments
 
  Another way to book an appointment is through the Apple Store app, but it has a few more steps.  
@@ -45,31 +51,32 @@ thumbnail: https://www.lifewire.com/thmb/gA7-VyiSqg3M1EESDmVd8UFEvls=/540x405/fi
 3. On the next screen, tap**Find a store** .  
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 5. Choose**Make a reservation** under**Genius Bar** .
 6. You'll go to Apple's support website, where you can describe your problem in the box under**Tell us what's happening** .  
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
@@ -101,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +115,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-your-portal-to-successful-online-marketing-our-showcase-of-over-50-free-banners-awaits-you/"><u>[New] 2024 Approved Your Portal to Successful Online Marketing - Our Showcase of Over 50 Free Banners Awaits You</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-virtuverse-video-vault/"><u>[New] In 2024, VirtuVerse Video Vault</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-an-in-depth-investigation-into-androids-adobe-lightroom/"><u>[Updated] An In-Depth Investigation Into Android's Adobe Lightroom</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-integrate-streamlabs-with-ease-into-your-macs-obs-for-2024/"><u>[Updated] Integrate Streamlabs with Ease Into Your Mac’s OBS for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/champion-smartphones-top-picks-for-excellent-video-quality/"><u>Champion Smartphones Top Picks for Excellent Video Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/direct-from-phone-to-fire-stick-a-comprehensive-guide-for-streaming/"><u>Direct From Phone to Fire Stick: A Comprehensive Guide for Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-apple-apps-for-enhanced-viewing-experience-on-your-fire-stick/"><u>Enabling Apple Apps for Enhanced Viewing Experience on Your Fire Stick</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-with-automated-tracking-the-power-of-cookiebot-technology/"><u>Optimized with Automated Tracking: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-guide-to-interpreting-led-light-patterns-on-playstation-4-controllers/"><u>The Guide to Interpreting LED Light Patterns on PlayStation 4 Controllers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-and-operation-of-artificial-intelligences-black-boxes-explained/"><u>The Role & Operation of Artificial Intelligence's Black Boxes Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-iphone-mail-app/"><u>Troubleshooting Guide: How to Fix a Non-Responsive iPhone Mail App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-technique-how-to-access-the-recovery-partition-on-macs/"><u>Ultimate Troubleshooting Technique: How to Access the Recovery Partition on Macs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-technique-master-the-complete-ipad-factory-reset/"><u>Ultimate Troubleshooting Technique: Master the Complete iPad Factory Reset</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4a-mpeg-4-mp4-movavi/"><u>원탁! 오븐에서 무료로 M4A 변환: 모바니즈 비디오 회사의 반응이 빠르게 MPEG-4 바이너리 형식을 MP4에서 전환하는 방법: Movavi</u></a></li>
+</ul></div>
 

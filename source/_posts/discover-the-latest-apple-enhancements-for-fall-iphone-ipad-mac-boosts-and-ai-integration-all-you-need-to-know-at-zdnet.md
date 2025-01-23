@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2025-01-15T23:14:25.504Z
-updated: 2025-01-16T22:57:57.923Z
+date: 2025-01-20T03:39:36.477Z
+updated: 2025-01-23T05:51:08.976Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +99,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -133,10 +137,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,16 +210,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-pc-vr-headsets-ranked/"><u>[New] Best PC VR Headsets Ranked</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-soundtrack-strategy-addmpy-in-videos-on-fb/"><u>[New] The Soundtrack Strategy Addmpy in Videos on FB</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-time-tamed-on-film-easy-steps-for-slow-mo-video-using-photo-apps-for-2024/"><u>[New] Time Tamed on Film Easy Steps for Slow-Mo Video Using Photo Apps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-best-manycam-app-ultimate-live-streaming-and-virtual-camera-solutions/"><u>1. Best ManyCam App: Ultimate Live Streaming and Virtual Camera Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-cool-features-that-make-you-love-filmora-video-editor/"><u>10 Cool Features That Make You Love Filmora Video Editor</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-channel-riches-anywhere-adopting-youtube-analytics-and-monetization/"><u>2024 Approved Channel Riches Anywhere Adopting YouTube Analytics & Monetization</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-in-class-smart-speakers-why-alexa-might-outshine-google-assistant-for-you/"><u>Best in Class Smart Speakers: Why Alexa Might Outshine Google Assistant for You</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-master-sign-language-with-16-amazing-free-websites/"><u>How to Master Sign Language with 16 Amazing Free Websites</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-zte-nubia-z60-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On ZTE Nubia Z60 Ultra without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-retrieve-deleted-messages-with-microsoft-outlook/"><u>Step-by-Step Guide: Retrieve Deleted Messages with Microsoft Outlook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-libcurldll-file-on-your-pc/"><u>Troubleshooting the Missing libcurl.dll File on Your PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-alias-update-on-google-meet-devices/"><u>[New] 2024 Approved Mastering Alias Update on Google Meet Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-ios-auditory-pleasures/"><u>2024 Approved The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-online-cinema-experiences-a-selection-of-top-12-picks/"><u>Best Free Online Cinema Experiences: A Selection of Top 12 Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-how-to-turn-off-user-authentication-feature-in-windows-11/"><u>Comprehensive Instructions: How to Turn Off User Authentication Feature in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-joining-shared-albums-in-the-photos-app-on-ios/"><u>Guide to Joining Shared Albums in the Photos App on iOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-deciphering-the-secrets-of-zd-soft-recorder/"><u>In 2024, Deciphering the Secrets of ZD Soft Recorder</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-14-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 14 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-resolving-libxml2dll-file-missing-issue/"><u>Solving the Mystery: Resolving 'libxml2.dll File Missing' Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/why-you-might-prefer-windows-11-to-apples-macos/"><u>Why You Might Prefer Windows 11 to Apple's macOS</u></a></li>
 </ul></div>
 

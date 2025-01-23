@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 5 Exciting Features of Apple's iOS 18 Preview - What You Can Test Today
-date: 2025-01-10T17:40:06.292Z
-updated: 2025-01-16T22:29:41.734Z
+date: 2025-01-21T17:33:25.160Z
+updated: 2025-01-23T03:14:39.473Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,14 +120,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-essential-cloud-hacks-for-ample-space-savings-for-2024/"><u>[New] Essential Cloud Hacks for Ample Space Savings for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/app-tracking-decline-iphone-users-unite/"><u>App Tracking Decline: IPhone Users Unite</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dynamic-adaptive-web-design-the-future-of-responsive-layouts/"><u>Dynamic Adaptive Web Design: The Future of Responsive Layouts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-conversion-tips-how-to-change-azw4-ebooks-to-compatible-epub-files/"><u>Easy Conversion Tips: How to Change AZW4 eBooks to Compatible EPUB Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-access-and-listen-to-audiobooks-through-your-iphone-apps/"><u>Easy Steps to Access & Listen to Audiobooks Through Your iPhone Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-convert-amazon-kindle-azw-books-to-epub-compatible-with-ipad-kobo-nook-and-more/"><u>Easy Steps to Convert Amazon Kindle AZW Books to ePub: Compatible with iPad, Kobo, Nook, & More</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/razer-book-13-review-pint-sized-powerhouse/"><u>Razer Book 13 Review: Pint-Sized Powerhouse</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-15-smartest-ways-to-watch-nba-live-in-action/"><u>The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-next-level-gameplay-capturing-applications/"><u>[Updated] 2024 Approved Next-Level Gameplay Capturing Applications</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-whatsapp-web-chat-basics-for-pc-users/"><u>[Updated] 2024 Approved WhatsApp Web Chat Basics for PC Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comparing-cosmic-universes-metaverse-vs-multiverse-explained/"><u>[Updated] Comparing Cosmic Universes Metaverse vs Multiverse Explained</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-sony-fdr-x1000-videography-complete-review-edition/"><u>2024 Approved Sony FDR-X1000 Videography - Complete Review Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-fixes-for-dealing-with-d3dx933dll-errors-missing-or-undetectable-on-your-pc/"><u>Critical Fixes for Dealing with D3DX9_33.dll Errors: Missing or Undetectable on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-rumors-of-the-latest-tesla-robotaxi-model-estimated-costs-and-key-specifications/"><u>Decoding Rumors of the Latest Tesla Robotaxi Model - Estimated Costs & Key Specifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-vs-gasoline-how-evs-take-the-lead-in-performance-and-sustainability/"><u>Electric Vs. Gasoline: How EVs Take the Lead in Performance and Sustainability</u></a></li>
+<li><a href="https://win-great.techidaily.com/explore-hidden-corners-of-windows-file-system-uncover-and-access-covert-folders-and-files-with-ease-yl-computing/"><u>Explore Hidden Corners of Windows File System: Uncover and Access Covert Folders & Files with Ease (YL Computing)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-not-found-error-for-python2edll-on-your-computer-easily/"><u>Fixing the Not Found Error for Python2e.dll on Your Computer Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/header-tags-and-content-structure-break-content-into-sections-using-header-tags-from-h1-to-h6-the-main-title-should-include-your-primary-keyword-while-subhe72/"><u>Header Tags and Content Structure: Break Content Into Sections Using Header Tags From H1 to H6. The Main Title Should Include Your Primary Keyword, While Subheadings Can Incorporate Secondary Keywords or Long Tail Terms.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nubia-z50s-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nubia Z50S Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-validating-your-online-identity-on-youtube/"><u>In 2024, Step by Step Validating Your Online Identity on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instagram-insights-who-gave-likes-and-left-comments-on-your-posts/"><u>Instagram Insights: Who Gave Likes and Left Comments on Your Posts?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-msodll-file-unavailability-in-windows/"><u>The Ultimate Fix for 'mso.dll' File Unavailability in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-artificer-intelligences-profound-impact-on-modern-society/"><u>Understanding Artificer Intelligence’s Profound Impact on Modern Society</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-mix-fold-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Mix Fold 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
 

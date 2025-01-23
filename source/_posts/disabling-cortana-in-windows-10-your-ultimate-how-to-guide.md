@@ -1,7 +1,7 @@
 ---
 title: Disabling Cortana in Windows 10 - Your Ultimate How-To Guide
-date: 2024-08-18T22:51:26.582Z
-updated: 2024-08-19T22:51:26.582Z
+date: 2025-01-17T03:12:51.490Z
+updated: 2025-01-22T22:03:50.559Z
 tags:
   - win11
   - win10
@@ -30,9 +30,17 @@ your computer is running.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c7f96c235d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s it – the_magic_ _step_ for you to find out what Windows version you have on your computer.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus Tip 1: How to find out the exact version of Windows and OS Build
 
@@ -43,8 +51,9 @@ your computer is running.
  Click**OK** to close the Window once you get the information desired.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus Tip 2: How to get more detailed hardware information of your PC
 
  In the great majority of cases, you’ll need more detailed hardware information of your PC. It can be that you need to find out whether your computer meets the system requirements of the games you’re playing, check on the compatibility for upgrades, or simply compare your computer to another.
@@ -60,15 +69,17 @@ your computer is running.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-23.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can then take an overview of the hardware information on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is an overview of the hardware info on your PC. For more detailed information of the specific hardware, click the**CPU** , the**Motherboard** , the**Memory** or the**Graphics** modules to find out. 🙂
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -79,8 +90,6 @@ your computer is running.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +97,22 @@ your computer is running.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-of-both-worlds-free-paid-film-apps-for-iphones/"><u>[New] Best of Both Worlds Free, Paid Film Apps for iPhones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-a-journey-through-the-landscape-of-human-computer-interaction/"><u>[Updated] In 2024, A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-gear-selection-must-have-supplementary-gopro-items/"><u>[Updated] Prime Gear Selection Must-Have Supplementary GoPro Items</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-a79-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/5-proven-methods-for-converting-ultra-hd-4k-hdr-10-bit-footage-into-standard-dynamic-range-sdr-videos/"><u>5 Proven Methods for Converting Ultra HD 4K HDR 10-Bit Footage Into Standard Dynamic Range (SDR) Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-concept-of-an-open-internet/"><u>Demystifying the Concept of an Open Internet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-image-discovery-top-techniques-for-effective-search-results/"><u>Facebook Image Discovery: Top Techniques for Effective Search Results</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-make-your-content-explode-10-tips-for-instagram-fame/"><u>How to Make Your Content Explode: 10 Tips for Instagram Fame</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-90-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor 90 for Free? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-tech-world-through-toms-hardware-lens/"><u>Navigating the Tech World Through Tom's Hardware Lens</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme )</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-mss32dll-file-not-detectedmissing-issues-a-comprehensive-guide/"><u>Resolving mss32.dll File Not Detected/Missing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-sound-on-xbox-for-immersive-play/"><u>Streamlining Sound on Xbox for Immersive Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-ups-battery-backups-of-2024/"><u>The Best UPS Battery Backups of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-mario-gaming-adventures-for-your-computer/"><u>Ultimate List of Mario Gaming Adventures for Your Computer</u></a></li>
+</ul></div>
 

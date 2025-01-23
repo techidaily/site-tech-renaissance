@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks to Decrease CPU Usage Efficiently in Windows
-date: 2024-08-18T22:51:07.594Z
-updated: 2024-08-19T22:51:07.594Z
+date: 2025-01-18T01:46:32.127Z
+updated: 2025-01-22T23:12:26.408Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  Microsoft claims 11 is “the best Windows OS yet for PC gaming”, but gamers are reporting otherwise. As Windows 10 (Home and Pro) will be retired by 2025, Windows 11 is no doubt the next mainstream. But the new OS is pretty far from OK, and many gamers are seeing performance issues such as**low FPS** ,**stuttering** and**crashing** .
 
  But don’t worry if you happen to be on the same boat. The new system may just need some tweaking, and here’re some tricks you can use to improve gaming performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,8 +58,9 @@ Once done, restart your game and check the performance.
 If you don’t see any changes, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check for system updates
 
  Windows 11 is fairly new, and the devs are still working on some major bugs. If you want to get the latest system updates, you can get one step ahead of the schedule checking and check for updates manually.
@@ -63,9 +68,11 @@ If you don’t see any changes, simply continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the system updates, restart your PC and check the gameplay.
@@ -91,6 +98,10 @@ If the performance is still crappy, take a look at the next method.
 
  If the latest drivers don’t give you luck, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable Virtualization-Based Security (VBS)
 
  If your computer ships with a pre-installed Windows 11, you may want to turn off Virtualization-Based Security (VBS). It’s a feature that **isolates part of the memory and uses it to host other security features** .
@@ -102,20 +113,25 @@ If the performance is still crappy, take a look at the next method.
 1. On your keyboard, press Win+R (the Windows logo key and the R key) to open the Run dialog. Type**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
 4. Make sure**Memory integrity** is set to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
 5. Restart your computer and test the gameplay again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t do the charm for you, check out the next method below.
@@ -131,8 +147,9 @@ If the performance is still crappy, take a look at the next method.
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Scan and repair Windows
 
  Compared to its predecessor, Windows 11 does not have a good reputation according to the performance so far. And if you upgraded from Windows 10, chances are you may run into some system issues. To make sure there aren’t any critical issues, you can run a checkup with a system repair tool.
@@ -143,14 +160,8 @@ If the performance is still crappy, take a look at the next method.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -165,8 +176,6 @@ If the performance is still crappy, take a look at the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +183,18 @@ If the performance is still crappy, take a look at the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-building-bonds-youtube-and-brands-in-unity/"><u>[New] Building Bonds YouTube and Brands in Unity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tech-for-everyone-experts-analysis/"><u>[Updated] Tech for Everyone Experts' Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps/"><u>[Updated] Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/activating-or-deactivating-your-on-screen-typing-tools-in-windows-10-tutorial/"><u>Activating or Deactivating Your On-Screen Typing Tools in Windows 10 (Tutorial)</u></a></li>
+<li><a href="https://techidaily.com/adapt-chatgpt-to-mirror-your-unique-voice-in-written-communication/"><u>Adapt ChatGPT to Mirror Your Unique Voice in Written Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-connection-between-samsung-audio-devices-and-pcs/"><u>Mastering the Connection Between Samsung Audio Devices & PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reimagining-your-message-innovative-video-concepts/"><u>Reimagining Your Message Innovative Video Concepts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-virtual-gadgets-for-excelling-at-instruction-design/"><u>Top 7 Virtual Gadgets for Excelling at Instruction Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-issues-with-non-uploading-instagram-stories/"><u>Troubleshooting Guide: Resolving Issues with Non-Uploading Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-account-disposal-a-detailed-tutorial/"><u>Twitch Account Disposal: A Detailed Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-hassle-free-viewing-integrating-disney-plus-with-chromecast-technology/"><u>Unlock Hassle-Free Viewing: Integrating Disney Plus with Chromecast Technology</u></a></li>
+</ul></div>
 

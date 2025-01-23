@@ -1,7 +1,7 @@
 ---
 title: Resolving the Mystery of a Missing msvcr80.dll File
-date: 2024-08-19T00:15:11.089Z
-updated: 2024-08-20T00:15:11.089Z
+date: 2025-01-18T03:27:33.031Z
+updated: 2025-01-22T21:12:43.575Z
 categories:
   - BestProducts
 description: This Article Describes Resolving the Mystery of a Missing msvcr80.dll File
@@ -28,6 +28,10 @@ thumbnail: https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/fi
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
@@ -35,8 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/fi
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
@@ -44,8 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/fi
 The plural of emoji is emoji, not emojis.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -63,29 +69,28 @@ The plural of emoji is emoji, not emojis.
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
 
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Emoji Are Supported Just About Everywhere
 
@@ -95,9 +100,6 @@ The plural of emoji is emoji, not emojis.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Emoji Trivia
 
  It shouldn't be a surprise that the skull emoji is most used in October and the Christmas tree in December, but no one knows why the 100 emoji is so popular in November.
@@ -135,8 +137,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +144,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-vmix-mover-for-apple-and-pcs/"><u>[New] VMix Mover for Apple and PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experience-seamless-dvd-and-video-ripping-with-winx-software-suite-featuring-dedicated-online-customer-assistance-services/"><u>Experience Seamless DVD & Video Ripping with WinX Software Suite, Featuring Dedicated Online Customer Assistance Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-common-reasons-behind-recurring-auto-battery-drainage/"><u>Exploring Common Reasons Behind Recurring Auto Battery Drainage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-streaming-fandango-movies-on-your-apple-tv/"><u>Guide to Streaming Fandango Movies On Your Apple TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-solve-the-windows-11-not-installed-error-code-80240020-issue/"><u>How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/recognizing-inauthentic-facebook-friends-a-step-by-step-guide/"><u>Recognizing Inauthentic Facebook Friends: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-the-pinnacle-of-athleticism-how-to-tune-into-the-2024-olympics/"><u>Streaming the Pinnacle of Athleticism: How to Tune Into the 2024 Olympics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-titles-for-the-playstation-5-a-comprehensive-collection-of-unique-games/"><u>Top Titles for the PlayStation 5: A Comprehensive Collection of Unique Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-ssl-certificate-issues-for-a-safe-web-experience/"><u>Troubleshooting SSL Certificate Issues for a Safe Web Experience</u></a></li>
+</ul></div>
 

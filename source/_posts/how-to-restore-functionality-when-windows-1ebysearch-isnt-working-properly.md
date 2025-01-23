@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality When Windows 1Ebysearch Isn’t Working Properly
-date: 2024-08-19T00:17:52.275Z
-updated: 2024-08-20T00:17:52.275Z
+date: 2025-01-20T21:26:03.043Z
+updated: 2025-01-23T00:29:58.422Z
 categories:
   - BestProducts
 description: This Article Describes How to Restore Functionality When Windows 1Ebysearch Isn’t Working Properly
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/FJqPdgtN0WbG2j0eMA91iqdYIbA=/400x300/fi
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,9 +37,19 @@ thumbnail: https://www.lifewire.com/thmb/FJqPdgtN0WbG2j0eMA91iqdYIbA=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,7 +57,16 @@ thumbnail: https://www.lifewire.com/thmb/FJqPdgtN0WbG2j0eMA91iqdYIbA=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -51,9 +74,6 @@ thumbnail: https://www.lifewire.com/thmb/FJqPdgtN0WbG2j0eMA91iqdYIbA=/400x300/fi
 
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +120,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-dissecting-the-live-stream-realm-twitch-versus-youtube-for-2024/"><u>[New] Dissecting the Live-Stream Realm Twitch Versus YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-vital-10-gadgets-your-mobile-movie-player-must-haves/"><u>[New] In 2024, Vital 10 Gadgets Your Mobile Movie Player Must-Haves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/6-essential-strategies-to-create-your-ideal-images-with-midjourney/"><u>6 Essential Strategies to Create Your Ideal Images with MidJourney</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-review-of-nebulas-mars-3-air-excellence-or-disappointment-for-on-the-go-cinematic-experience/"><u>A Comprehensive Review of Nebula's Mars 3 Air: Excellence or Disappointment for On-The-Go Cinematic Experience?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-midjourney-with-ease-a-guide-to-utilizing-the-new-web-interface/"><u>Accessing Midjourney with Ease: A Guide to Utilizing the New Web Interface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-long-range-evs-discover-the-5-most-impressive-models-available-now/"><u>Best Long-Range EVs: Discover the 5 Most Impressive Models Available Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cost-breakdown-of-replacing-your-evs-power-source/"><u>Cost Breakdown of Replacing Your EV's Power Source</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-drones-dominating-the-skies/"><u>Discover the Premier Drones Dominating the Skies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-usability-of-humanes-artificial-intelligence-pin-functionality-potential-challenges/"><u>Evaluating the Usability of Humane's Artificial Intelligence Pin Functionality - Potential Challenges</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-itel-p40-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Itel P40 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>In 2024, Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-the-secrets-to-premieres-full-screen-mode/"><u>In 2024, Unveiling the Secrets to Premiere's Full Screen Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-the-internet-effortlessly-using-searchgpt-the-advanced-chatgpt-enhanced-search-engine/"><u>Navigate the Internet Effortlessly Using SearchGPT - The Advanced, ChatGPT-Enhanced Search Engine</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-x50-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-and-instant-snabb-converting-gratis-konverterar-till-mp4-format-for-datorer-och-mobilappar/"><u>Simple & Instant Snabb-Converting: Gratis Konverterar Till MP4-Format För Datorer Och Mobilappar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/umwandlung-von-flv-zu-mp4-professioneller-guide-mit-winx-hd-video-converter-deluxe/"><u>Umwandlung Von FLV Zu MP4: Professioneller Guide Mit WinX HD Video Converter Deluxe</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Self-Repair Options to Optimize Your Windows 11 Machine Easily
-date: 2024-08-18T22:50:19.878Z
-updated: 2024-08-19T22:50:19.878Z
+date: 2025-01-20T00:00:16.703Z
+updated: 2025-01-22T20:15:56.660Z
 tags:
   - win11
   - win10
@@ -27,11 +27,20 @@ To start printing right away, you have to connect your printer with your PC or a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-8.jpg)
 4. Click**Printers & scanners** . Click**Add a printer or scanner** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-6.jpg)
 5. Wait till it finds your printer and chooses the one you want. Click**Add device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-5.jpg)
 
  If you don’t see your printer in the list, you can click**The printer that I want isn’t listed** or follow the next method to add it manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install or add a local printer
 
@@ -42,11 +51,13 @@ To start printing right away, you have to connect your printer with your PC or a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-8.jpg)
 3. Click**Printers & scanners** . Click**Add a printer or scanner** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-6.jpg)
 4. Wait till it finds your printer and chooses the one you want. Click**Add device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-5.jpg)
+
 ## Troubleshoot for installing printers in Windows 10
 
  Usually, Windows will download and install the printer’s driver automatically. But if the driver provided by Windows isn’t updated to the latest version, there might be some problems.
@@ -60,22 +71,21 @@ OR
 **[Option 2 – Automatically](https://tools.techidaily.com/drivereasy/download/)**  (Recommended) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  Printers keep updating drivers. To get them, you need to go to the[](https://support.hp.com/us-en/drivers/selfservice/hp-envy-5000-all-in-one-printer-series/14095644/model/14095768) printer’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/hp-1024x725.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update printer drivers
 
  If you don’t have the time, patience or computer skills to update the printer drivers manually, you can do it automatically with Driver Easy.  
@@ -102,8 +112,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +119,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-captureelite-pro-windows-enhanced/"><u>[New] CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-effortlessly-enhance-photos-how-to-remove-backgrounds-quickly/"><u>[New] Effortlessly Enhance Photos How to Remove Backgrounds Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-11-techniques-for-perfecting-hue-balance/"><u>[New] Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-amber-alert-notifications-on-your-android-device-a-step-by-step-guide/"><u>Disabling AMBER Alert Notifications on Your Android Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-old-content-youtube-video-recovery-guide-for-2024/"><u>Dive Into Old Content YouTube Video Recovery Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-your-toshiba-laptop-windows-compatible-downloads/"><u>Get the Newest Drivers for Your Toshiba Laptop: Windows Compatible Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-tell-when-someone-reads-your-text-message/"><u>How to Tell When Someone Reads Your Text Message</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/modifying-text-in-instagram-direct-a-comprehensive-tutorial/"><u>Modifying Text in Instagram Direct: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>New In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sony-afeela-automobile-launch-details-emerging-anticipated-release-date-pricing-info-and-performance-specs/"><u>Sony Afeela Automobile Launch Details Emerging: Anticipated Release Date, Pricing Info, and Performance Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-how-to-setting-up-an-appointment-with-apple-experts-in-store/"><u>The Complete How-To: Setting Up an Appointment with Apple Experts in Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-rectify-run-as-administrator-misfunctioning/"><u>Tips to Rectify 'Run as Administrator' Misfunctioning</u></a></li>
+</ul></div>
 

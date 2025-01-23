@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2025-01-13T17:02:14.648Z
-updated: 2025-01-16T18:01:08.216Z
+date: 2025-01-17T20:59:51.912Z
+updated: 2025-01-23T02:46:26.303Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,16 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-crafting-compelling-compositions-with-magix-fruity-loops-for-2024/"><u>[New] Crafting Compelling Compositions with Magix Fruity Loops for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-livechat-recorder-pro-hd/"><u>[Updated] LiveChat Recorder Pro HD</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>2024 Approved Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/achieving-optimal-viewing-8-strategies-to-address-the-blue-color-imbalance-on-televisions/"><u>Achieving Optimal Viewing: 8 Strategies to Address the Blue Color Imbalance on Televisions</u></a></li>
-<li><a href="https://facebook.techidaily.com/covid-deception-12-influencer-misinformation-role/"><u>Covid Deception: 12 Influencer Misinformation Role</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-fresh-horizons-in-technology-discovering-samsungs-newest-device-launch/"><u>Exploring Fresh Horizons in Technology - Discovering Samsung's Newest Device Launch</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-video-audio-extraction-made-simple-for-mp3-lovers/"><u>FB Video Audio Extraction Made Simple for MP3 Lovers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-15-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 15 With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth-for-2024/"><u>Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-ocidll-files-on-your-pc/"><u>Resolving Missing oci.dll Files on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-ring-specs-revealed-when-to-expect-and-how-much-will-it-cost/"><u>Samsung Galaxy Ring Specs Revealed – When to Expect and How Much Will It Cost?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-missing-youtube-comments-and-how-to-restore-them/"><u>Solving the Mystery: Missing YouTube Comments and How to Restore Them</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-mend-your-windows-apps-online-deficiencies/"><u>Swiftly Mend Your Windows Apps' Online Deficiencies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-historys-secrets-with-the-internet-archives-wayback-machine/"><u>Unlocking History's Secrets with The Internet Archive’s Wayback Machine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-the-maximum-number-of-youtube-channels-you-can-own/"><u>What's the Maximum Number of YouTube Channels You Can Own?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-exclusive-list-skypes-top-audio-recorders/"><u>2024 Approved Exclusive List Skype's Top Audio Recorders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-repair-windows-error-code-0x80070570/"><u>How to Correctly Address and Repair Windows Error Code 0X80070570</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-peek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences/"><u>In 2024, Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-the-innovative-game-based-mindfulness-approach-by-headspace-as-featured-on-zdnet/"><u>Meta Quest #3: The Innovative Game-Based Mindfulness Approach by Headspace, as Featured on ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/reaction-video-maker-top-picks-for-iphone-and-android-for-2024/"><u>Reaction Video Maker Top Picks for iPhone and Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-the-best-virtual-reality-deal-of-2023-with-meta-quest-(200-comprehensive-review-and-tips-from-zdnet/"><u>Secure the Best Virtual Reality Deal of 2023 with Meta Quest <$200 | Comprehensive Review and Tips From ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/trusting-websites-in-windows-11-a-quick-guide/"><u>Trusting Websites in Windows 11: A Quick Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unity-launches-beta-testing-for-apples-vision-pro-kickstart-your-ar-and-vr-game-development-now/"><u>Unity Launches Beta Testing for Apple's Vision Pro - Kickstart Your AR and VR Game Development Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unsubscribe-from-emergency-broadcasts-on-your-android-device/"><u>Unsubscribe From Emergency Broadcasts on Your Android Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-features-of-mohu-blade-a-review-focused-on-innovative-design-and-indoors-strengths/"><u>Unveiling the Performance Features of Mohu Blade - A Review Focused on Innovative Design & Indoors Strengths</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-surge-of-virtual-augmented-and-extended-realities-insights-from-mits-reality-hack/"><u>Unveiling the Surge of Virtual, Augmented, and Extended Realities: Insights From MIT's 'Reality Hack'</u></a></li>
 </ul></div>
 

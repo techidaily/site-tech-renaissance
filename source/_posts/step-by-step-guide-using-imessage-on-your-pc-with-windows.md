@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows"
-date: 2025-01-09T21:26:57.647Z
-updated: 2025-01-16T19:19:02.104Z
+date: 2025-01-20T02:13:10.548Z
+updated: 2025-01-23T06:44:54.466Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -59,6 +55,10 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -76,6 +76,10 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -83,7 +87,7 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -103,6 +107,10 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -126,10 +134,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -137,7 +141,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -145,10 +149,6 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -192,22 +192,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-livestream-capturing-gear-for-online-content-makers/"><u>[New] 2024 Approved Best Livestream Capturing Gear for Online Content Makers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-an-exclusive-guide-to-deck-to-deck-technology-durecorder/"><u>[New] An Exclusive Guide to Deck-to-Deck Technology DuRecorder</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>[Updated] The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-on-modifying-your-windows-10-taskbar-color-scheme/"><u>Comprehensive Guide on Modifying Your Windows 10 Taskbar Color Scheme</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-correcting-the-stop-error-0x00000078-caused-by-phase0exception/"><u>Comprehensive Guide to Correcting the STOP Error (0X00000078) Caused by PHASE0_Exception</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dell-device-hygiene-101-how-to-thoroughly-wipe-and-disinfect-your-laptop/"><u>Dell Device Hygiene 101: How to Thoroughly Wipe and Disinfect Your Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-world-of-crime-and-investigation-13-favorite-true-crime-podcast-episodes-revealed/"><u>Dive Into the World of Crime and Investigation: 13 Favorite True Crime Podcast Episodes Revealed!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-to-overcome-mfcmapi20dll-file-absence-issues-on-your-pc/"><u>Easy Solutions to Overcome MFCMAPI20.DLL File Absence Issues on Your PC</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/essential-list-the-10-leading-vimeo-downloaders-web/"><u>Essential List The 10 Leading Vimeo Downloaders Web</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplified-approach-to-nvidia-screen-recording/"><u>In 2024, Simplified Approach to NVIDIA Screen Recording</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-14-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 14</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-chatgpt-history-syncing-the-best-extensions-you-need/"><u>Seamless ChatGPT History Syncing - The Best Extensions You Need</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-overcoming-unable-to-confirm-match-by-vac-issues/"><u>Solution Guide: Overcoming 'Unable To Confirm Match by VAC' Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-news-compilation-services-our-picks/"><u>The Best News Compilation Services - Our Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-victory-conquering-the-fierce-lynel-in-breath-of-the-wild/"><u>Ultimate Guide to Victory: Conquering the Fierce Lynel in Breath of the Wild</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-effective-techniques-for-deep-cleaning-household-stereo-speakers/"><u>Ultimate Guide: Effective Techniques for Deep-Cleaning Household Stereo Speakers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-10-premier-igtv-horizontal-video-editors/"><u>[New] In 2024, 10 Premier IGTV Horizontal Video Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-optimize-twitter-vids-the-full-hd-method/"><u>[New] In 2024, Optimize Twitter Vids The Full HD Method</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-savor-spectaculars-youtubes-best-cooking-channels/"><u>[New] In 2024, Savor Spectaculars YouTube's Best Cooking Channels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-charisma-strategies-to-skyrocket-your-youtube-visibility/"><u>[Updated] 2024 Approved Channel Charisma Strategies to Skyrocket Your YouTube Visibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-chuckles-and-challenges-best-fun-for-young-minds/"><u>[Updated] Chuckles & Challenges - Best Fun for Young Minds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-free-gamers-guide-to-selecting-best-screen-recorder-apps-for-2024/"><u>[Updated] Free Gamers' Guide to Selecting Best Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-high-quality-webcam-capture-made-easy-review/"><u>[Updated] High-Quality WebCam Capture Made Easy Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-innovation-on-your-wrist-the-ultimate-guide-to-the-beantech-bitwatch-s1plus-smartwatch/"><u>Affordable Innovation on Your Wrist: The Ultimate Guide to the Beantech Bitwatch S1+ Smartwatch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-email-management-with-gmails-powerful-alias-and-filter-features/"><u>Enhance Email Management with Gmail's Powerful Alias and Filter Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-top-10-no-cost-email-options-for-superior-communication/"><u>Explore These Top 10 No-Cost Email Options for Superior Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-acquire-and-install-games-for-the-meta-vr-experience-quest-2/"><u>How to Acquire and Install Games for the Meta VR Experience (Quest 2)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-8-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-smartwatch-selection-key-aspects-to-review-before-you-buy/"><u>Navigating Smartwatch Selection: Key Aspects to Review Before You Buy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-non-functional-cameras-during-zoom-meetings/"><u>Solving the Issue of Non-Functional Cameras During Zoom Meetings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-setting-up-your-new-logitech-mouse/"><u>Step-by-Step Instructions: Setting Up Your New Logitech Mouse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-solutions-to-repair-binkw32dll-missing-mistakes/"><u>Ultimate Solutions to Repair Binkw32.dll Missing Mistakes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming 'Format Required First': How To Prepare Your Hard Drive"
-date: 2024-08-18T22:50:59.939Z
-updated: 2024-08-19T22:50:59.939Z
+date: 2025-01-16T06:19:25.629Z
+updated: 2025-01-22T21:29:41.995Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Summary:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to unblock Fortnite at school
 
  The best way we recommend to unblock Fortnite is to use a Chrome extension or a VPN. To unblock Fortnite, you need to bypass the network restriction in school. To get that, you can mask your IP address. A Chrome extension or a VPN can allow you to mask your IP address and make it appear that you’re in a different location.
@@ -46,8 +50,9 @@ Summary:
 **Note** : Many schools are aware that students use extensions or VPNs to bypass school network restrictions. They may ban some extension addresses or VPN addresses. In this case, you need to find a trustworthy and effective extension or VPN to unblock Fortnite.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Unblock Fortnite at school using a VPN
 
  VPN is short for virtual private network. It allows you to connect to the server located outside your country. It hides your IP address and makes it appear that you’re in a different location. When you use a VPN to surf, others like your school administrators, and the ISP (Internet Server Provider) are not able to track you. In this way, you can surf online safely. With a VPN, you’ll be able to play Fortnite on PC from your school, abroad, or anywhere in the world.
@@ -69,11 +74,13 @@ Summary:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-546.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Unblock Fortnite at school using a Chrome extension
 
  You can unblock Fortnite with a free Chrome extension. Some extensions provided by Chrome can change your IP (Internet Protocol) address to some other countries. This is to place your computer outside your school. Then you can access any websites, or items blocked by your school, like Fortnite.
@@ -90,24 +97,18 @@ To use Ultrasurf, you just need to add it to your Chrome browser.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-543-1024x207.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 2) After that, you’ll see it at the top of the browser.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-544.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don’t want the extension running all the time, you can disable it manually. You just need to enable it when you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-545.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Hopefully, you find this article helpful. If you have any questions, ideas, or suggestions, feel free to leave a comment below.
 
 * [Fortnite](https://tools.techidaily.com/drivereasy/download/)
@@ -119,8 +120,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +127,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-dynamics-behind-tseries-youtube-earning-patterns/"><u>[Updated] 2024 Approved The Dynamics Behind TSeries' YouTube Earning Patterns</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-ultimate-video-mastery-for-professional-vimeo-users/"><u>[Updated] 2024 Approved Ultimate Video Mastery for Professional Vimeo Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-novice-to-expert-ascending-with-asmr-video-production-tactics-for-2024/"><u>[Updated] From Novice to Expert Ascending with ASMR Video Production Tactics for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-imovie-trimming-query-the-reason-behind-video-cropping/"><u>[Updated] IMovie Trimming Query The Reason Behind Video Cropping</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-analysis-of-apples-latest-4k-streaming-device-series-3-review/"><u>Detailed Analysis of Apple's Latest 4K Streaming Device: Series 3 Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-to-watch-now-with-lifewires-expert-picks/"><u>Discover What To Watch Now With Lifewire’s Expert Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/essential-dvd-duplication-info-from-digiartys-official-source-explore-page-5-insights/"><u>Essential DVD Duplication Info From Digiarty's Official Source – Explore Page 5 Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/flight-friendly-robot-categories-for-2024/"><u>Flight-Friendly Robot Categories for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leading-10-models-premier-4k-dslr-shoulder-rigs-for-2024/"><u>Leading 10 Models Premier 4K DSLR Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-tech-picking-the-best-smart-frames-of-202e4/"><u>Navigating Through Tech: Picking the Best Smart Frames of 202E4</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-mlb-the-show-nineteen-aesthetic-appeal-with-a-dash-of-rpg-adventure/"><u>Review of MLB The Show Nineteen: Aesthetic Appeal with a Dash of RPG Adventure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-walkthrough-of-executing-the-tracert-command-in-windows-os/"><u>Step-by-Step Walkthrough of Executing the Tracert Command in Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-steps-after-unboxing-your-new-pc-or-laptop/"><u>Top 5 Essential Steps After Unboxing Your New PC or Laptop</u></a></li>
+</ul></div>
 

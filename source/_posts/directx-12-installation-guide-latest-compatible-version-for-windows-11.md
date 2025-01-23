@@ -1,7 +1,7 @@
 ---
 title: "DirectX 12 Installation Guide: Latest Compatible Version for Windows 11"
-date: 2024-08-18T22:49:57.910Z
-updated: 2024-08-19T22:49:57.910Z
+date: 2025-01-15T19:24:34.888Z
+updated: 2025-01-22T18:42:41.873Z
 tags:
   - win11
   - win10
@@ -36,13 +36,18 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download and install new drivers from manufacturers
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -52,16 +57,15 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -71,14 +75,16 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,9 +97,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
@@ -112,8 +115,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +122,26 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-bebop-2s-avian-spectacle-a-compreran-analysis/"><u>[New] Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-crafting-an-engaging-tiktok-closing-credits/"><u>[New] Crafting An Engaging TikTok Closing Credits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fabletellers-fellowship-esteemed-ensemble/"><u>[Updated] Fabletellers Fellowship – Esteemed Ensemble</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-under-1k-discover-best-4k-mirrorless-choices/"><u>[Updated] In 2024, Under $1K? Discover Best 4K Mirrorless Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spinning-stories-across-a-whole-cone/"><u>[Updated] Spinning Stories Across a Whole Cone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/battle-of-the-beats-analyzing-google-nest-audio-and-apple-homepod-head-to-head/"><u>Battle of the Beats: Analyzing Google Nest Audio and Apple HomePod Head-to-Head</u></a></li>
+<li><a href="https://facebook.techidaily.com/cracking-open-the-mystery-of-vague-online-posts/"><u>Cracking Open the Mystery of Vague Online Posts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/einfache-schritte-zum-schutz-und-zuruckbringen-ihres-microsoft-outlook-postfaches/"><u>Einfache Schritte Zum Schutz Und Zurückbringen Ihres Microsoft Outlook-Postfaches</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-what-to-do-when-you-encounter-a-missing-msvcr80dll-error/"><u>Guide: What to Do When You Encounter a Missing msvcr80.dll Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-deal-with-insufficient-ram-notice-roblox-on-iphone/"><u>How to Deal with Insufficient RAM Notice (Roblox) on iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-reactivate-an-instagram-account-after-its-been-halted-or-turned-off/"><u>How to Reactivate an Instagram Account After It's Been Halted or Turned Off</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-do-not-disturb-for-specific-contacts-in-apple-iphones/"><u>How to Set Up Do Not Disturb for Specific Contacts in Apple iPhones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ideal-plug-ins-for-seamless-gpt-and-vs-code-usage/"><u>Ideal Plug-Ins for Seamless GPT and VS Code Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-initialization-problems-with-mozilla-thunderbird-a-comprehensive-fix/"><u>Overcoming Initialization Problems with Mozilla Thunderbird: A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722899309635-rpcrt4-dll-file-missing-heres-how-you-can-rectify-it/"><u>RPCRT4 DLL File Missing? Here's How You Can Rectify It!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-taking-a-screenshot-with-logitechs-comfort-keys/"><u>Step-by-Step Guide: Taking a Screenshot with Logitech's Comfort Keys</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-ways-to-watch-spider-man-no-way-home-at-home/"><u>The Best Ways to Watch 'Spider-Man: No Way Home' At Home</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-setting-up-automatic-text-reminders-on-your-iphone/"><u>The Ultimate Guide: Setting Up Automatic Text Reminders on Your iPhone</u></a></li>
+</ul></div>
 

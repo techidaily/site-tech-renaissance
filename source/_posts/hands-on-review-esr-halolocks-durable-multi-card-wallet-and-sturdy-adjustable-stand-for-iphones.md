@@ -1,7 +1,7 @@
 ---
 title: "Hands-On Review: ESR Halolock's Durable Multi-Card Wallet & Sturdy Adjustable Stand for iPhones"
-date: 2025-01-12T20:48:37.136Z
-updated: 2025-01-16T17:43:51.053Z
+date: 2025-01-21T16:11:18.801Z
+updated: 2025-01-23T06:59:09.269Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ Cons
 * Display is somewhat small
 * Old design
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPhone SE (3rd gen)
 
 ### Best phone for kids overall
@@ -75,6 +71,10 @@ Cons
 * Somewhat slow performance
 * Low internal storage
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Moto G Pure
 
 ### Best starter phone for kids
@@ -103,15 +103,7 @@ Pros
 Cons 
 * Limited internal storage
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy A32 5G
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best kids' phone for Samsung families
 
@@ -140,10 +132,6 @@ Cons
 * Limited to Verizon network
 
 ## Gabb Phone 3 Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget phone for kids
 
@@ -176,6 +164,10 @@ Cons
 
 ## Google Pixel 6a 5G
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best secure phone for kids
 
 The Google Pixel 6a is one of the most secure phones you can buy for your child. The Google Tensor processor's security core works with the Titan M2 security chip to make the phone resistant to hacking, tracking, and spying. 
@@ -205,11 +197,11 @@ Cons
 * Parent app is glitchy
 * Complaints about customer service
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bark Phone
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best phone for younger kids
 
@@ -224,7 +216,7 @@ As your child grows older, you can easily upgrade to the advanced plan and add i
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best phone for kids?
@@ -241,10 +233,6 @@ Here's how the best phones for kids compare on price, screen size, and operating
 | Gabb Phone 3 Pro      | $100               | 6.6-inches      | Android              |
 | Google Pixel 6a 5G    | $349               | 6.1-inches      | Android              |
 | Bark Phone            | Starting at $39/mo | 6.6-inches      | Android              |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the right phone for your kid?
 
@@ -267,6 +255,10 @@ Buying a device for your child is much different than buying a device for yourse
 * **Battery life:** A phone serves little purpose if it's out of battery, so look at devices with long battery lives so you don't have to constantly recharge.
 * **Price:** These days, smartphones can range dramatically in price. Since this will likely be your child's first phone and they simply need something more basic, find something more affordable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we test these phones for kids?
 
 I've reviewed phones for more than a decade. Not only have I tested these devices myself, but I've experienced my own kids reaching the age of needing their first phone. All five of these picks are something I would (and have) trust(ed) my kids to take care of. 
@@ -274,6 +266,10 @@ I've reviewed phones for more than a decade. Not only have I tested these device
 ZDNET does extensive hands-on testing of phones, including ease of use, and paying attention to specs like display, battery life, and overall experience while using the phone. For products we recommend, we write a product spotlight review that we update periodically with new features and pricing information.
 
 For the phones we have not gone hands-on with, we do extensive research into different products and brands, taking into consideration user reviews (both good and bad), competitor analysis, and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What about parental controls for a kids phone?
 
@@ -283,6 +279,10 @@ Both Apple and Google have their own respective solutions for adding parental co
 
 Both options offer you control to schedule when the phone can and can't be used, which apps can be installed, and even who the child can talk to. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best cellular plan for a kid?
 
 Sticking with your current carrier and adding a line to your account is going to get you the best deal on a new phone. However, if you want to buy a phone outright without getting locked into device payments, you can always start with a prepaid carrier like Republic Wireless or Visible. The plans are cheap, and you're not committed to paying the carrier back for a phone if your child loses it. 
@@ -290,7 +290,7 @@ Sticking with your current carrier and adding a line to your account is going to
 If you opt to add a line to your account, most carriers allow you to mix and match plans. For example, you can have your number on a plan that allows unlimited data usage at full speed, and then give your child a plan that forfeits data speed when the network is busy. It saves you money while still giving your child access to everything they need a phone to do. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there apps built in to keep track of my kid's location?
@@ -351,20 +351,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-best-ways-to-capture-your-minecraft-quests-on-a-mac/"><u>[Updated] 2024 Approved Unveiling the Best Ways to Capture Your Minecraft Quests on a Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-inside-apowersoft-a-guide-to-recording-pc-screens-for-2024/"><u>[Updated] Inside Apowersoft A Guide to Recording PC Screens for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-who-earns-more-in-the-video-market-dailymovement-vs-youtube/"><u>[Updated] Who Earns More in the Video Market? DailyMovement Vs YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-really-feel-the-depths-of-dolby-atmos-immersive-audio-at-home/"><u>Can You Really Feel the Depths of Dolby Atmos Immersive Audio at Home?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/iently-broadcasting-your-videos-as-shorts-via-computers-and-mobile/"><u>Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/everything-you-need-to-know-a-complete-overview-of-the-netflix-streaming-experience/"><u>Everything You Need To Know: A Complete Overview of the Netflix Streaming Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-latest-enhancements-and-security-patches-for-windows-os-july-2024/"><u>Explore the Latest Enhancements & Security Patches for Windows OS (July 2024)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hp-enterprise-files-lawsuit-against-inspur-over-patent-violations-amid-ongoing-us-business-activities/"><u>HP Enterprise Files Lawsuit Against Inspur Over Patent Violations Amid Ongoing U.S. Business Activities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-connecting-mac-to-tv-with-airplay-technology/"><u>Step-by-Step Tutorial on Connecting Mac to TV with AirPlay Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-surpassing-gmail-with-the-worlds-finest-email-providers-in-202/"><u>The Ultimate List: Surpassing Gmail with the World's Finest Email Providers in 202</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-12-zero-cost-defragmenters-your-guide-for-july-2024/"><u>Top 12 Zero Cost Defragmenters: Your Guide for July 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-trick-tailoring-your-inbox-by-building-advanced-rules-in-gmail/"><u>Ultimate Trick: Tailoring Your Inbox by Building Advanced Rules in Gmail</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-best-of-the-best-top-avchd-video-editing-software/"><u>Updated 2024 Approved The Best of the Best Top AVCHD Video Editing Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mp2-avi-movavi/"><u>인터넷으로부터 무료 MP2에서 AVI로의 구조화 변환 - Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy/"><u>[New] In 2024, Dissecting YouTube Policies and Creative Commons Licensing Dichotomy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-robotic-helper-coming-soon-learn-about-projected-timelines-and-tech-insights/"><u>Apple's Revolutionary Robotic Helper Coming Soon? Learn About Projected Timelines & Tech Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-overcome-zoom-camera-malfunctions-during-meetings/"><u>Expert Tips to Overcome Zoom Camera Malfunctions During Meetings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finding-and-buying-the-best-televisions-to-suit-your-homes-needs/"><u>Finding & Buying the Best Televisions to Suit Your Home's Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-assign-new-audio-cues-to-your-gmail-messages/"><u>How to Assign New Audio Cues to Your Gmail Messages</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-nord-n30-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Nord N30 5G Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-how-to-remove-recommended-podcasts-from-spotify/"><u>In 2024, How To Remove Recommended Podcasts From Spotify</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-path-to-link-integration-on-instagrams-social-stage/"><u>In 2024, The Ultimate Path to Link Integration on Instagram's Social Stage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-zoom-audio-capture-techniques/"><u>In 2024, Ultimate ZOOM Audio Capture Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-mss32dll-essential-steps-to-restore-functionality/"><u>Overcoming 'Missing MSS32.DLL' - Essential Steps to Restore Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restoring-charge-functionality-in-ps5-gamepads/"><u>Step-by-Step Guide to Restoring Charge Functionality in PS5 Gamepads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-endurance-battle-can-evs-compete-with-gas-cars-for-a-longer-drive-timeframe/"><u>The Endurance Battle: Can EVs Compete with Gas Cars for a Longer Drive Timeframe?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-choosing-between-standard-hulu-and-plus-tier/"><u>The Essentials of Choosing Between Standard Hulu and Plus Tier</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tipi-di-backup-incrementale-differenziale-e-complete-su-windows-server/"><u>Tipi Di Backup: Incrementale, Differenziale E Complete Su Windows Server</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transferring-iphone-pictures-seamlessly-onto-a-windows-machine-complete-tutorial/"><u>Transferring iPhone Pictures Seamlessly Onto a Windows Machine - Complete Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-inability-to-get-texts-from-android-devices-expert-solutions/"><u>Troubleshooting iPhone's Inability to Get Texts From Android Devices: Expert Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-fix-boot-manager-failures-and-get-your-pc-running-again/"><u>Ultimate Guide to Fix Boot Manager Failures & Get Your PC Running Again 💻</u></a></li>
 </ul></div>
 

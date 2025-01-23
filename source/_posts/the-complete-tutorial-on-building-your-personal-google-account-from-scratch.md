@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Building Your Personal Google Account From Scratch
-date: 2024-08-18T22:51:06.515Z
-updated: 2024-08-19T22:51:06.515Z
+date: 2025-01-19T16:49:56.062Z
+updated: 2025-01-22T23:50:56.857Z
 tags:
   - win11
   - win10
@@ -39,21 +39,36 @@ Here’s how:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c258750ba902.png)
 3. Click**Change account type** under**User Accounts** when View by**Category** selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25877dcf40e.jpg)
 4. Double-click the account you want to change the user name.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a6a563ded.png)
 5. Select**Change the account name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bc4e8452a.jpg)
 6. Type the new name into the New account name box, then click**Change Name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You’ll then see your account shows with the new name.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: change your user account name in Local Users and Groups
 
  You can create and manage users and groups that are stored locally on your computer through**Local Users and Groups** , including changing your account name.
@@ -66,20 +81,18 @@ Here’s how you can do that:
 2. Type**lusrmgr.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bdd824bcc.png)
 3. You’ll then see the Local Users and Groups window. Click**User** then double-click the user account which you want to rename.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be388d040.jpg)
 4. Type the new name in the**Full name** box. Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The new name is set successfully.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Change your user account name in Settings
 
  If you log in your Windows 10 computer with a**Microsoft account** , you can change your account name in Settings. Go with these following steps:
@@ -88,26 +101,17 @@ The new name is set successfully.
 2. Click**Accounts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bf52c64f4.jpg)
 3. Click **Manage my Microsoft account** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c071b4eb6.jpg)
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
 6. Type the new name into the box and enter the characters you see for verification. Then click**Save** .  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Please note that this will change the account name of your Microsoft account.
 
 The new account name of your Windows 10 computer is set successfully.
@@ -124,8 +128,6 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +135,26 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-recordings-doing-without-a-microphone/"><u>[Updated] 2024 Approved Elevate Your Recordings Doing Without a Microphone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>[Updated] Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722880252127-comprehensive-guide-samsungs-advanced-galaxy-z-fold-model-x-pricing-upcoming-launch-and-specifications-covered/"><u>Comprehensive Guide: Samsung's Advanced Galaxy Z Fold Model X - Pricing, Upcoming Launch & Specifications Covered!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-eight-complimentary-music-apps-for-your-ios-device/"><u>Discover the Top Eight Complimentary Music Apps for Your iOS Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-list-4-must-try-free-computer-aided-drafting-tools/"><u>Essential List: 4 Must-Try Free Computer Aided Drafting Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-eliminate-blue-color-distortion-from-your-tv-a-step-by-step-guide/"><u>How to Eliminate Blue Color Distortion From Your TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hush-windows-11-techniques-to-cease-operations/"><u>Hush Windows 11: Techniques to Cease Operations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>In 2024, Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-the-ultimate-guide-to-using-slack-at-work/"><u>Maximizing Productivity: The Ultimate Guide to Using Slack at Work</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigate-the-top-8-fb-movie-downloader-choices-for-2024/"><u>Navigate the Top 8 FB Movie Downloader Choices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-choice-a-detailed-guide-on-selecting-iphone-vs-android-technology/"><u>Navigating the Choice: A Detailed Guide on Selecting iPhone Vs. Android Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimize-your-android-experience-with-cache-clearance-techniques/"><u>Optimize Your Android Experience with Cache Clearance Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-your-win-1011-menu-options/"><u>Reviving Your Win 10/11 Menu Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-choice-of-favorite-complimentary-international-call-services/"><u>Unveiling Our Choice of Favorite Complimentary International Call Services</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-secrets-of-iphones-video-loops-for-2024/"><u>Unveiling the Secrets of iPhone's Video Loops for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/when-should-you-leave-people-behind-managing-your-following-list-on-x-platforms/"><u>When Should You Leave People Behind? Managing Your Following List on X Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Camon 20 | Dr.fone</u></a></li>
+</ul></div>
 

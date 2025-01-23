@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2025-01-13T23:11:45.262Z
-updated: 2025-01-16T18:32:09.492Z
+date: 2025-01-19T05:51:47.025Z
+updated: 2025-01-23T06:52:10.583Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/levate-content-discovery-the-tubebuddy-way/"><u>[New] Elevate Content Discovery The TubeBuddy Way</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-execution-creating-youtube-trailers-in-filmora-for-2024/"><u>[New] From Idea to Execution Creating YouTube Trailers in Filmora for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/remier-choice-the-best-10-recorders-for-tech-talks-for-2024/"><u>[New] Premier Choice The Best 10 Recorders for Tech Talks for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-increase-followers-on-facebook-10-effective-ways-for-2024/"><u>[Updated] How to Increase Followers on Facebook (10 Effective Ways ) for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-hasty-instruction-saving-your-photos-as-youtube-channel-thumbnails/"><u>2024 Approved Hasty Instruction Saving Your Photos as YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/charging-solutions-recharge-your-smartphone-without-the-original-adapter/"><u>Charging Solutions: Recharge Your Smartphone without the Original Adapter</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Techniques: Prevent Your Mac From Entering Sleep Mode</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/guiding-iphone-and-android-owners-to-fix-video-sending-problems-in-fb-chat-for-2024/"><u>Guiding iPhone & Android Owners to Fix Video Sending Problems in FB Chat for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-microsoft-word-files-that-refuse-to-open/"><u>How to Fix Microsoft Word Files That Refuse to Open</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Civi 3 Disney 100th Anniversary Edition by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/integrating-icloud-picture-sharing-between-apple-windows-and-android-systems/"><u>Integrating iCloud Picture Sharing Between Apple, Windows and Android Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/phone-as-webcam-a-step-by-step-guide-for-mobile-video-capture/"><u>Phone as Webcam A Step-by-Step Guide for Mobile Video Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-accessing-gmail-on-mobile-platforms/"><u>Step-by-Step Instructions for Accessing Gmail on Mobile Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/taming-the-tech-wildness-steps-to-correct-a-vibrating-surface-pro-visual-panel/"><u>Taming the Tech Wildness: Steps to Correct a Vibrating Surface Pro Visual Panel</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ps5-gaming-experience-is-it-justified-by-its-price-find-out-here/"><u>The PS5 Gaming Experience: Is It Justified by Its Price? Find Out Here!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-selection-of-ces-2024s-finest-laptops-explore-the-leading-tech-reviewed/"><u>Top Picks: The Ultimate Selection of CES 2024'S Finest Laptops - Explore the Leading Tech Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-tech-bargains-during-amazons-prime-day-event/"><u>Top-Rated Tech Bargains During Amazon's Prime Day Event</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-does-a-408-request-timeout-mean-diagnosis-and-fixing-techniques/"><u>What Does a 408 Request Timeout Mean? Diagnosis & Fixing Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-my-touchpad-scrolling-in-windows-11-solutions-for-common-issues/"><u>Why Isn't My Touchpad Scrolling in Windows 11? Solutions for Common Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-video-capture-on-hangouts/"><u>[Updated] 2024 Approved Mastering Video Capture on Hangouts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-squashing-social-media-smears-with-grace/"><u>2024 Approved Squashing Social Media Smears with Grace</u></a></li>
+<li><a href="https://win-bits.techidaily.com/el-ranking-definitivo-de-soluciones-de-copia-de-seguridad-por-clonacion-en-servidores-windows/"><u>El Ranking Definitivo De Soluciones De Copia De Seguridad Por Clonación en Servidores Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eufycam-2c-pro-security-camera-bundle-substantial-discounts-of-38-off-available-now/"><u>EufyCam 2C Pro Security Camera Bundle - Substantial Discounts of $38 Off Available Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-ge-cync-offer-save-up-to-61-on-innovative-lighting-and-controls-smart-devices-galore/"><u>Exclusive GE Cync Offer: Save Up to 61% on Innovative Lighting & Controls - Smart Devices Galore!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-spectacular-april-2024-solar-eclipse-comprehensive-guide-on-how-to-watch-safely-and-what-equipment-youll-require-digitalobserver/"><u>Experience the Spectacular April 2024 Solar Eclipse - Comprehensive Guide on How to Watch Safely and What Equipment You'll Require | DigitalObserver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-ultimate-selection-the-5-highest-quality-no-smoke-fire-pits-of-20212022-according-to-zdnet/"><u>Explore the Ultimate Selection: The 5 Highest Quality No-Smoke Fire Pits of 2021/2022 According to ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-new-kubernetes-update-what-you-need-to-know-zdnet-insights/"><u>Exploring Enhanced AI Workload Management in New Kubernetes Update: What You Need to Know | ZDNet Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-sale-alert-secure-your-home-with-a-high-tech-blink-camera-setup-and-floodlights-for-under-100-special-price-from-zdnet/"><u>Labor Day Sale Alert: Secure Your Home with a High-Tech Blink Camera Setup & Floodlights for Under $100 - Special Price From ZDNet.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ity-of-capturing-and-reproducing-youtube-video-playbacks/"><u>Legality of Capturing and Reproducing YouTube Video Playbacks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-car-battery-jump-starters-professional-reviews-and-comparisons-techinsight/"><u>Top-Rated Car Battery Jump Starters : Professional Reviews and Comparisons | TechInsight</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-configure-drivers-no-intel-adapter-present/"><u>Unable to Configure Drivers; No Intel Adapter Present</u></a></li>
 </ul></div>
 

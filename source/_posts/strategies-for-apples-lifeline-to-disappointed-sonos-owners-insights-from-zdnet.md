@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2025-01-11T16:00:03.729Z
-updated: 2025-01-16T16:26:48.881Z
+date: 2025-01-18T20:52:17.654Z
+updated: 2025-01-22T23:12:55.300Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -56,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,24 +126,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>[New] 2024 Approved The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-bring-clarity-to-your-feed-a-guide-to-crafting-square-videos-in-imovie/"><u>[New] Bring Clarity to Your Feed A Guide to Crafting Square Videos in iMovie</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-game-masters-top-ten-female-gaming-influencers/"><u>[New] Game Masters Top Ten Female Gaming Influencers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-recommendations-top-10-high-end-video-card-models/"><u>[New] In 2024, Elite Recommendations Top 10 High-End Video Card Models</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-evaluating-earnings-from-one-million-youtube-watches-for-2024/"><u>[Updated] Evaluating Earnings From One Million YouTube Watches for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso/"><u>[Updated] Meme Mastery Money-Making The Financial Figures of a Video Virtuoso</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-redesigned-look-at-s3700-sony-entertainment/"><u>2024 Approved Redesigned Look at S3700 Sony Entertainment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-practices-for-integrating-source-code-within-your-word-files/"><u>Best Practices for Integrating Source Code Within Your Word Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-tech-connect-chromecast-to-amazons-firestick-for-ultimate-streaming/"><u>Bridging Tech: Connect Chromecast to Amazon's Firestick for Ultimate Streaming</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/combatting-the-trickbot-menace-expert-insights-on-prevention-and-security-secureshield-tech/"><u>Combatting the TrickBot Menace: Expert Insights on Prevention and Security - SecureShield Tech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-solving-msvcrt47dll-not-detected-issues/"><u>Comprehensive Guide: Solving msvcrt47.dll Not Detected Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-your-apple-watch-connection-woes-with-these-6-simple-tips/"><u>Fix Your Apple Watch Connection Woes With These 6 Simple Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-android-phones-quick-settings-panel-a-beginners-guide/"><u>Mastering Your Android Phone's Quick Settings Panel - A Beginner's Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-resident-evil-village-crashing-issues-on-your-windows-pc/"><u>Resolving Resident Evil Village Crashing Issues on Your Windows PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/soundscaping-instagram-reels-a-step-by-step-tutorial-for-2024/"><u>Soundscaping Instagram Reels A Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-free-roku-streaming-channels-in-24-must-watch-list/"><u>Top 8 Free Roku Streaming Channels in 2#4 - Must-Watch List!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-directxdirectinputdll-issues-a-step-by-step-guide/"><u>Troubleshooting DirectX.DirectInput.DLL Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-choosing-and-purchasing-the-perfect-television-for-your-living-space/"><u>Ultimate Guide: Choosing and Purchasing the Perfect Television for Your Living Space</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-amazing-free-preschool-activities-and-games/"><u>Ultimate List of Amazing Free Preschool Activities and Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-chart-success-using-youtube-statistics-to-grow-engagement/"><u>[New] In 2024, Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-cinemagraphy-central-filmo-faqs/"><u>[Updated] In 2024, Cinemagraphy Central Filmo FAQs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-multitasking-with-macbook-air-learn-how-to-use-split-screen-mode/"><u>Effortless Multitasking with MacBook Air - Learn How to Use Split Screen Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-high-quality-edge-max-360-vs-hero-11/"><u>Exploring the High-Quality Edge Max 360 vs Hero 11</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-enable-the-text-to-speech-function-on-iphone/"><u>In 2024, How to Enable the Text to Speech Function on iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/logitech-mice-how-to-connect-with-non-original-receivers-successfully/"><u>Logitech Mice: How to Connect with Non-Original Receivers Successfully</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigate-the-world-of-instagram-videos-for-maximum-impact-for-2024/"><u>Navigate the World of Instagram Videos for Maximum Impact for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-the-kb4056892-hurdle-windows-10-update-installation-tips/"><u>Successfully Overcoming the KB4056892 Hurdle - Windows 10 Update Installation Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-leveraging-github-copilot-within-microsoft-teams-sessions/"><u>The Ultimate Strategy for Leveraging GitHub Copilot Within Microsoft Teams Sessions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-repairing-your-malfunctioning-samsung-soundbar/"><u>Troubleshooting Guide: Repairing Your Malfunctioning Samsung Soundbar</u></a></li>
 </ul></div>
 

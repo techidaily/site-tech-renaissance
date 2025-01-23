@@ -1,7 +1,7 @@
 ---
 title: Cracking the 0X80070422 Update Error on Windows 10 - Step-by-Step Tutorial
-date: 2024-08-18T22:50:40.795Z
-updated: 2024-08-19T22:50:40.795Z
+date: 2025-01-20T18:04:20.125Z
+updated: 2025-01-22T20:48:37.103Z
 tags:
   - win11
   - win10
@@ -32,9 +32,22 @@ Here’s how to check your DirectX version:
 1. On your keyboard, press**the**   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  , then copy & paste **dxdiag** into the box and click**dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Update DirectX
 
@@ -42,15 +55,25 @@ Here’s how to check your DirectX version:
 
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click**Check for updates** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -59,22 +82,10 @@ Here’s how to check your DirectX version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## Bonus tip: Update your device drivers to improve your gaming experience
@@ -89,9 +100,6 @@ Here’s how to check your DirectX version:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -113,8 +121,6 @@ Here’s how to check your DirectX version:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +128,26 @@ Here’s how to check your DirectX version:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ource-unlimited-stock-media-from-top-tier-4-youtube-channels-for-2024/"><u>[New] Source Unlimited Stock Media From Top-Tier 4 YouTube Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-animators-playground-building-your-own-visual-treats/"><u>[Updated] 2024 Approved Animator’s Playground Building Your Own Visual Treats</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>[Updated] 2024 Approved Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-media-battlefield-tiktoks-top-10-twitters/"><u>[Updated] The Social Media Battlefield TikTok's Top 10 Twitters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensively-understanding-iphones-recording-feature/"><u>2024 Approved Comprehensively Understanding iPhone's Recording Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-curated-selection-of-11-amazing-sites-for-free-movie-downloads-no-payments-required/"><u>A Curated Selection of 11 Amazing Sites for Free Movie Downloads – No Payments Required</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/alexa-not-talking-heres-how-you-can-make-her-respond-again/"><u>Alexa Not Talking? Here's How You Can Make Her Respond Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-eliminate-line-distortions-on-your-television-display/"><u>Easy Steps to Eliminate Line Distortions on Your Television Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-an-unavailable-instagram-account-what-you-need-to-know/"><u>Fixing an Unavailable Instagram Account: What You Need to Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/highlight-effects-assessment-essential-or-excessive-for-2024/"><u>Highlight Effects Assessment Essential or Excessive for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-nokia-c300-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Nokia C300 to iPad | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-your-inner-comedian-top-video-dubbing-software/"><u>In 2024, Unleash Your Inner Comedian Top Video Dubbing Software</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/nabizeni-digitalni-obrazovy-editer-cesky-jazyk/"><u>Nabízení | Digitální Obrazový Editér - Český Jazyk</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/rebooted-login-claiming-back-to-facebook/"><u>Rebooted Login Claiming Back to Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teslas-robotaxi-revealed-latest-updates-on-launch-date-pricing-and-features/"><u>Tesla's Robotaxi Revealed: Latest Updates on Launch Date, Pricing & Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-preventing-unwanted-android-application-activity-in-the-background/"><u>Tips for Preventing Unwanted Android Application Activity in the Background</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-30-essential-gmail-shortcut-keys-for-superior-productivity/"><u>Top 30 Essential Gmail Shortcut Keys for Superior Productivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ups-battery-solutions/"><u>Top-Rated UPS Battery Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-netflix-try-these-19-handy-solutions-specifically-for-your-lg-smart-tv/"><u>Trouble with Netflix? Try These 19 Handy Solutions Specifically for Your LG Smart TV</u></a></li>
+</ul></div>
 

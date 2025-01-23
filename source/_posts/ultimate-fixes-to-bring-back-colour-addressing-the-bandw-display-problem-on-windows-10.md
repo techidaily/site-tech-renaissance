@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fixes to Bring Back Colour: Addressing the B&W Display Problem on Windows 10"
-date: 2024-08-18T22:51:11.949Z
-updated: 2024-08-19T22:51:11.949Z
+date: 2025-01-16T03:37:15.193Z
+updated: 2025-01-23T08:00:19.691Z
 tags:
   - win11
   - win10
@@ -21,15 +21,27 @@ thumbnail: https://thmb.techidaily.com/7d12c1a2b9062c22c49da3112113895938f2f8420
 
 If some of the files refuse to be deleted, you need to restart your computer. After restart, repeat step 1) and 2), then delete the files again. 4) After emptying the**SoftwareDistribution**folder, restart your computer. 5) On your keyboard, press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**from the list of choice. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a50df1ba3.png)Hit**Yes**at the prompted administrative permission. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a5562d15c.jpg)6) Enter**net start wuauserv**and hit**Enter**. Wait for the process to finish. Then enter**net start bits**and hit**Enter**. Wait for the process to finish. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a8c92cd6b.jpg)7) Launch your**Windows Update**again to see if the update goes all well now. When the update completes, it is suggested that you restart your PC to complete the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **PRO TIP**
 
 When the update finishes, you may need to update all available device drivers in your PC.  If you don’t have the time, patience or computer skills to update all drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks: 1) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5959b3141ff9a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the driver you need to automatically download and install the correct version of this driver (you can do this with the FREE version).  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5959b3351e9ca.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows Update](https://tools.techidaily.com/drivereasy/download/)
 
@@ -39,8 +51,6 @@ When the update finishes, you may need to update all available device drivers in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +58,18 @@ When the update finishes, you may need to update all available device drivers in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-24-techniques-for-recording-virtual-conferences-on-a-dime/"><u>[Updated] In 2024, 24 Techniques for Recording Virtual Conferences on a Dime</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-through-srt-freeze-in-adobe-premiere-projects-for-2024/"><u>[Updated] Navigating Through SRT Freeze in Adobe Premiere Projects for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-extensive-eye-level-surveillance-guide/"><u>2024 Approved Extensive Eye-Level Surveillance Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/aumenta-la-velocita-di-caricamento-video-con-winxvideo-ai-conversione-rapida-basata-su-gpu/"><u>Aumenta La Velocità Di Caricamento Video Con Winxvideo AI - Conversione Rapida Basata Su GPU</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-problems-and-fixes-for-broken-usb-internet-connection/"><u>Common Problems and Fixes for Broken USB Internet Connection</u></a></li>
+<li><a href="https://facebook.techidaily.com/friendly-goodbye-on-fb-parting-ways-with-someone/"><u>Friendly Goodbye on FB: Parting Ways with Someone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-complet-les-interrogations-et-solutions-les-plus-repandues-concernant-lia-winxvideo-trouvez-vos-reponses-en-une-touche/"><u>Guide Complet: Les Interrogations Et Solutions Les Plus Répandues Concernant L'IA WinxVideo – Trouvez Vos Réponses en Une Touche</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-home-entertainment-with-hitachis-high-definition-4k-tvs-and-seamless-roku-integration/"><u>Revolutionize Your Home Entertainment with Hitachi's High-Definition 4K TVs and Seamless Roku Integration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/structuring-stimulating-podcast-sneak-peeks/"><u>Structuring Stimulating Podcast Sneak Peeks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-instagram-its-features-and-functionality-explained/"><u>Unveiling Instagram: Its Features and Functionality Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-the-apple-watch-ultra-2-insights-on-price-points-launch-date-and-latest-tech-specs/"><u>What to Expect From the Apple Watch Ultra 2: Insights on Price Points, Launch Date & Latest Tech Specs</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->

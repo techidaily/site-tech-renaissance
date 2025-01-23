@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Power Within a Can of Canned Air: Surprising Supersonic Potential and the Engineer Who Discovered It, with Telltale Shock Waves as Proof"
-date: 2024-08-19T00:14:25.322Z
-updated: 2024-08-20T00:14:25.322Z
+date: 2025-01-16T22:16:27.826Z
+updated: 2025-01-22T22:06:59.162Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +49,11 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  As you can see, the modding community is still hard at work wringing more functionality out of old gear, either for entertainment or out of necessity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,8 +62,24 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-stunning-photographic-mosaics-for-2024/"><u>[New] Mastering Stunning Photographic Mosaics for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-best-video-editor-for-vimeo/"><u>[Updated] Best Video Editor for Vimeo</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-essential-free-online-tiktok-to-mp3-conversion-apps-top-6/"><u>2024 Approved Essential Free, Online TikTok to MP3 Conversion Apps Top 6</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prodigy-machines-top-quality-computers-available/"><u>2024 Approved Prodigy Machines Top-Quality Computers Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-for-viewers-enjoy-espn-plus-content-on-lg-smart-tv-sets/"><u>A Comprehensive Guide for Viewers: Enjoy ESPN Plus Content on LG Smart TV Sets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-biometrics-a-complete-introduction-to-identity-verification-methods/"><u>Demystifying Biometrics: A Complete Introduction to Identity Verification Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203800348-easily-repair-lenovos-unresponsive-fn-key-with-these-quick-tips/"><u>Easily Repair Lenovo's Unresponsive Fn Key with These Quick Tips!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-social-presence-with-customized-instagram-voices-for-2024/"><u>Elevate Your Social Presence with Customized Instagram Voices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-yahoo-messengers-legacy-and-reasons-behind-its-closure/"><u>Exploring Yahoo! Messenger's Legacy and Reasons Behind Its Closure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722877930219-immersive-indie-gaming-experiences-on-iphoneipad-beyond-the-room-explore-more/"><u>Immersive Indie Gaming Experiences on iPhone/iPad: Beyond 'The Room,' Explore More</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-what-makes-vimeo-special-a-look-inside/"><u>In 2024, What Makes Vimeo Special? A Look Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-correcting-sound-disturbances-for-smooth-powerpoint-performances/"><u>Step-by-Step Solutions: Correcting Sound Disturbances for Smooth PowerPoint Performances</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-troubleshooting-checklist-to-repair-error-messages-on-your-wi-fi-access-device-or-ap/"><u>The Essential Troubleshooting Checklist to Repair Error Messages on Your Wi-Fi Access Device or AP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-for-handling-missing-and-not-found-opengl32dll-issues/"><u>The Ultimate Solution for Handling 'Missing' And 'Not Found' OpenGL32.dll Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-trick-how-can-you-replace-the-battery-in-your-ipad/"><u>Ultimate Trick: How Can You Replace the Battery in Your iPad?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->

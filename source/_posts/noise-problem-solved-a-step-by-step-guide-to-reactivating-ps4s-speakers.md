@@ -1,7 +1,7 @@
 ---
 title: "Noise Problem Solved: A Step-by-Step Guide to Reactivating PS4's Speakers"
-date: 2024-08-18T22:50:17.072Z
-updated: 2024-08-19T22:50:17.072Z
+date: 2025-01-18T18:15:16.529Z
+updated: 2025-01-22T19:46:03.336Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
@@ -36,13 +40,18 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 4
 
 Tada! You may see the same screen with your laptop on the TV.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I couldn’t see the same screen with my laptop on the TV?
 
@@ -52,48 +61,32 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** when viewed by Large icons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Select**TV** from Display drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Change the Resolution to earn a best view on TV screen. Then click OK to save your settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What if there’s no sound from TV speakers?
 
  If you can’t hear the audio from your TV, make sure the sound isn’t muted, and that the volume is set properly both on your laptop and TV.
@@ -104,16 +97,21 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Highlight your HDMI audio output device and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:** If you cannot see your HDMI audio output device, right-click on the blank area of and tick on**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Still No Sound?
 
@@ -125,9 +123,6 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That’s all there is to it. Hopefully, you can enjoy the large screen now.
 
 Any questions please feel free to leave a comment below, thanks.
@@ -138,8 +133,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +140,22 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-transition-to-quietude-guiding-gradual-volume-reduction-in-premiere/"><u>[New] 2024 Approved Transition to Quietude Guiding Gradual Volume Reduction In Premiere</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-abletons-precision-in-sound-reduction/"><u>[New] Ableton's Precision in Sound Reduction</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[Updated] 2024 Approved How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-android-and-ios-guide-capturing-google-meet-sessions/"><u>[Updated] In 2024, Android & iOS Guide Capturing Google Meet Sessions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-livecam-rivals-meet/"><u>[Updated] LiveCam Rivals Meet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-ps4-titles-compatible-with-ps5-consoles/"><u>Are PS4 Titles Compatible with PS5 Consoles?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevating-your-twitters-with-a-snapchat-integration/"><u>Elevating Your Twitters with a Snapchat Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-elusive-normalizdll-error-expert-tips-and-solutions/"><u>Fixing the Elusive Normaliz.dll Error: Expert Tips and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-turn-off-urgent-alerts-on-iphones-no-more-unwanted-interruptions/"><u>Guide to Turn Off Urgent Alerts on iPhones – No More Unwanted Interruptions!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-xs-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone XS Max?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-tackle-hulus-disruptive-rununk13-streaming-issue-effectively/"><u>How to Tackle Hulu's Disruptive RUNUNK13 Streaming Issue Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-to-ipad-messaging-conversion-how-to-for-seamless-communication/"><u>IPhone to iPad Messaging Conversion: How-To for Seamless Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-setup-idt-high-definition-audio-codec-driver-configuration-for-optimal-performance-in-windows-asterisk/"><u>Master the Setup: IDT High Definition Audio Codec Driver Configuration for Optimal Performance in Windows Asterisk</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/savvy-shoppers-secret-the-six-best-websites-for-incredible-savings/"><u>Savvy Shoppers' Secret: The Six Best Websites for Incredible Savings!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-android-text-message-issues-a-comprehensive-guide/"><u>Solving Android Text Message Issues: A Comprehensive Guide</u></a></li>
+</ul></div>
 

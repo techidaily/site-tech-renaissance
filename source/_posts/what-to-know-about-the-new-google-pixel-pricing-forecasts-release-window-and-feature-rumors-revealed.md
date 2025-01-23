@@ -1,7 +1,7 @@
 ---
 title: "What to Know About the New Google Pixel: Pricing Forecasts, Release Window & Feature Rumors Revealed"
-date: 2024-08-19T00:17:00.356Z
-updated: 2024-08-20T00:17:00.356Z
+date: 2025-01-17T22:25:39.790Z
+updated: 2025-01-22T17:54:18.947Z
 categories:
   - BestProducts
 description: "This Article Describes What to Know About the New Google Pixel: Pricing Forecasts, Release Window & Feature Rumors Revealed"
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
@@ -42,17 +46,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro Fold** \- $1,799
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -63,8 +65,9 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
@@ -79,16 +82,14 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
@@ -108,8 +109,9 @@ MySmartPrice
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Other Specs
 
  Another big change we might see with the Pixel 9 is a new fingerprint sensor. Google's past phones have used an optical fingerprint sensor, but an unnamed source informed_Android Authority_ that[this year's phones could come with an ultrasonic reader](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/) . This is the same technology used in the Samsung Galaxy S24 and other smartphones. Instead of imaging the finger with light, it takes a 3D map using sound waves, which is supposed to make it faster and more secure.
@@ -126,14 +128,11 @@ MySmartPrice
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +141,24 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-art-of-captivating-viewers-an-experts-guide-to-youtube-banners/"><u>[Updated] 2024 Approved The Art of Captivating Viewers An Expert's Guide to YouTube Banners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-guide-to-crafting-compelling-squares-for-facebook/"><u>[Updated] Step-by-Step Guide to Crafting Compelling Squares for Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-steps-to-resolve-and-prevent-your-macbook-air-freezing/"><u>Expert Advice: Steps to Resolve and Prevent Your MacBook Air Freezing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-realm-of-predictive-artificeal-intelligence-insights-and-functionality/"><u>Exploring the Realm of Predictive Artificeal Intelligence: Insights & Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/home-cinema-or-hi-fi-sound-choosing-between-home-theater-and-stereo-systems/"><u>Home Cinema or Hi-Fi Sound? Choosing Between Home Theater and Stereo Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-disney-content-on-your-tv-using-chromecast-a-step-by-step-guide/"><u>How To: Watch Disney Content on Your TV Using Chromecast - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ifying-high-growth-youtube-channels-for-personal-development-for-2024/"><u>Identifying High-Growth YouTube Channels for Personal Development for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-twitch-community-insights-for-rookie-spectators/"><u>Navigating the Twitch Community: Insights for Rookie Spectators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-unleashes-innovation-behind-the-scenes-of-their-latest-phone-debut/"><u>Samsung Unleashes Innovation: Behind The Scenes Of Their Latest Phone Debut</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-manipulating-fax-cover-pages-on-win11/"><u>Step-by-Step Guide to Manipulating Fax Cover Pages on Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-repairing-missing-winhttpdll-errors-easily/"><u>Step-by-Step Guide: Repairing Missing winhttp.dll Errors Easily</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-replacing-computer-hardware-components-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing Computer Hardware Components with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-editors-handbook-utilizing-strikethrough-and-callout-tools-for-2024/"><u>The Editor's Handbook Utilizing Strikethrough and Callout Tools for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tutorial-etape-par-etape-pour-transformer-une-image-iso-en-un-disque-bootable-de-windows-server/"><u>Tutorial Étape Par Étape Pour Transformer Une Image ISO en Un Disque Bootable De Windows Server</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-hdcp-errors-definition-and-troubleshooting-guide/"><u>Understanding HDCP Errors: Definition & Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-6-key-factors-why-does-my-car-battery-keep-dying/"><u>Understanding the 6 Key Factors: Why Does My Car Battery Keep Dying?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-easy-access-with-android-quick-settings-tips-and-tricks/"><u>Unlocking Easy Access with Android Quick Settings Tips and Tricks</u></a></li>
+</ul></div>
 

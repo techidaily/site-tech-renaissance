@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2025-01-15T22:21:22.326Z
-updated: 2025-01-16T20:35:09.281Z
+date: 2025-01-17T05:32:34.712Z
+updated: 2025-01-23T06:40:30.858Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/omprehensive-list-of-top-9-free-video-channel-branding-aids/"><u>[New] Comprehensive List of Top 9 Free Video Channel Branding Aids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-timing-and-frequency/"><u>[Updated] Timing and Frequency</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728496547856-hddssd/"><u>逐步操作：完美地複製你現有系統的啟動硬碟到其他HDD或SSD上</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210676297-9781398464094-brains-got-the-shts-again/"><u>Brain's Got the Sh*ts Again | Free Book</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-mov-videos-to-mp3-files-for-free-seamless-audio-extraction-using-movavis-web-converter/"><u>Convert MOV Videos to MP3 Files for Free: Seamless Audio Extraction Using Movavi's Web Converter</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-steams-recognition-for-your-games/"><u>Enhancing Steam's Recognition for Your Games</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-x6-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco X6 Pro Devices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/liberate-ebooks-from-drm-comprehensive-guide-to-safe-epub-decryption-techniques/"><u>Liberate eBooks From DRM - Comprehensive Guide to Safe EPub Decryption Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revitalize-your-online-presence-with-the-latest-updates-and-tweaks/"><u>Revitalize Your Online Presence with the Latest Updates and Tweaks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-setting-up-koreader-application-on-your-kindle-device/"><u>Step-by-Step Guide to Setting Up Koreader Application on Your Kindle Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-adding-a-protective-watermark-to-your-pdf-documents/"><u>Step-by-Step Guide: Adding a Protective Watermark to Your PDF Documents</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-moving-ebooks-from-your-computer-to-a-kindle-reader/"><u>Step-by-Step Guide: Moving eBooks From Your Computer to a Kindle Reader</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transferring-epubpdf-reads-onto-your-kobo-and-sony-digital-book-devices/"><u>Step-by-Step Guide: Transferring EPUB/PDF Reads Onto Your Kobo & Sony Digital Book Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/superior-speech-logging-apps-for-ipads-3-for-2024/"><u>Superior Speech Logging Apps for iPads #3 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-list-of-high-quality-streaming-services-for-cricket-fans/"><u>[New] In 2024, The Ultimate List of High-Quality Streaming Services for Cricket Fans</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[New] The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-tweeting-tiktoks/"><u>[Updated] 2024 Approved Mastering the Art of Tweeting TikToks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-whos-bookmarking-a-guide-to-tracking-saves-on-instagram/"><u>Discover Who's Bookmarking: A Guide to Tracking Saves on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-ultimate-guide-to-setting-up-your-home-entertainment-for-the-big-game/"><u>Expert Advice: Ultimate Guide to Setting Up Your Home Entertainment for the Big Game</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-recommendations-best-stores-to-buy-your-next-phone/"><u>Expert Recommendations: Best Stores to Buy Your Next Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-select-top-rated-learning-apps-for-2amidst/"><u>Explore Our Select Top-Rated Learning Apps for 2Amidst</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-and-functions-of-dts-virtualx/"><u>Exploring the Features and Functions of DTS Virtual:X</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-innovation-meets-gaming-in-the-razer-blackwidow-v4/"><u>Hot-Swap Innovation Meets Gaming in the Razer BlackWidow V4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-achieve-a-3-screen-display-connecting-monitors-with-your-device/"><u>How To Achieve A 3-Screen Display: Connecting Monitors With Your Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-a-safe-guide-to-speeding-up-audio-on-spotify/"><u>In 2024, A Safe Guide to Speeding Up Audio on Spotify</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>In 2024, From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897188535-price-points-and-arrival-forecast-for-the-upcoming-apple-home-assistant-robot-full-details-inside/"><u>Price Points and Arrival Forecast for the Upcoming Apple Home Assistant Robot - Full Details Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-eyewear-of-2024-a-comprehensive-guide/"><u>Top-Rated Smart Eyewear of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-netflix-issues-a-comprehensive-guide-for-lg-smart-tvs/"><u>Troubleshoot Netflix Issues: A Comprehensive Guide for LG Smart TVs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/uncluttered-window-logger-w10-version/"><u>Uncluttered Window Logger W10 Version</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/uncovering-your-personalized-playlist-hideaway-for-2024/"><u>Uncovering Your Personalized Playlist Hideaway for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-crack-the-code-7-effective-ways-to-find-filmora-coupons/"><u>Updated 2024 Approved Crack the Code 7 Effective Ways to Find Filmora Coupons</u></a></li>
 </ul></div>
 

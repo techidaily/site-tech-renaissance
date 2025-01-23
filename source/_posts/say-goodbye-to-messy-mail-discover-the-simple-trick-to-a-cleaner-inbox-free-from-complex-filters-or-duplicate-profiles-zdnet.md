@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Messy Mail: Discover the Simple Trick to a Cleaner Inbox, Free From Complex Filters or Duplicate Profiles | ZDNET"
-date: 2025-01-15T01:32:01.677Z
-updated: 2025-01-17T02:15:14.650Z
+date: 2025-01-20T06:46:41.534Z
+updated: 2025-01-22T22:33:32.370Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -91,10 +95,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -103,16 +103,16 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -122,10 +122,6 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=zd-__COM_CLICK_ID__-dtp): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -137,9 +133,17 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -155,16 +159,12 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -230,18 +230,16 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-professional-tips-for-editing-and-refining-instagram-videos/"><u>[New] 2024 Approved Professional Tips for Editing and Refining Instagram Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-kickstart-profits-earnings-blueprint-for-periscope-novices/"><u>[New] Kickstart Profits Earnings Blueprint for Periscope Novices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-professional-gopro-filming/"><u>[Updated] The Ultimate Guide to Professional GoPro Filming</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-11-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 11 Activation Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-root-causes-behind-a-computers-blue-screen-error/"><u>Exploring the Root Causes Behind a Computer's Blue Screen Error</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-x9a-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor X9a</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-guide-to-group-photo-and-video-uploads-in-instagram/"><u>In 2024, The Ultimate Guide to Group Photo and Video Uploads in Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-digital-companion-chatgpt-functional/"><u>Is Your Digital Companion, ChatGPT, Functional?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-guide-viewing-all-transformers-films-correctly/"><u>Sequential Guide: Viewing All Transformers Films Correctly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplify-your-experience-a-step-by-step-guide-to-androids-quick-settings-functionality/"><u>Simplify Your Experience: A Step-by-Step Guide to Android's Quick Settings Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-a-step-by-step-guide-to-speed-up-your-sluggish-wifi/"><u>Solving the Problem: A Step-by-Step Guide to Speed Up Your Sluggish WiFi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tailoring-trailer-music-to-evoke-emotion/"><u>Tailoring Trailer Music to Evoke Emotion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ain-money-on-youtube-understanding-required-number-of-views/"><u>[New] Gain Money on YouTube Understanding Required Number of Views</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser-for-2024/"><u>[Updated] Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-capacity-of-64128gb-in-video-storage-an-overview/"><u>2024 Approved Capacity of 64/128GB in Video Storage - An Overview</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online/"><u>Crafting Cinematic Stories in Extended Seconds A Guide to Creating Spectacularly Long Lasting Video From Still Images Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-70-lite-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor 70 Lite 5G Is Unlocked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-level-protection-unlocked-my-journey-with-cutting-edge-facial-biometric-locks-that-outclass-conventional-security/"><u>Next-Level Protection Unlocked: My Journey with Cutting-Edge Facial Biometric Locks That Outclass Conventional Security</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rediscover-your-love-for-yard-work-using-this-amazing-rc-mower-a-game-changer-by-zdnet/"><u>Rediscover Your Love for Yard Work Using This Amazing RC Mower - A Game Changer by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-big-this-labor-day-with-exclusive-2022-offers-on-outdoor-essentials-zdnet/"><u>Save Big This Labor Day with Exclusive 2022 Offers on Outdoor Essentials | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-lit-during-blackouts-and-cut-costs-save-hundreds-with-our-top-reviewed-portable-solar-generator-featured-on-zdnet/"><u>Stay Lit During Blackouts & Cut Costs: Save Hundreds with Our Top-Reviewed Portable Solar Generator - Featured on ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028941638-google/"><u>ビデオ回しチャレンジ解決: Google フォト上でスムーズな動画回転方法</u></a></li>
 </ul></div>
 

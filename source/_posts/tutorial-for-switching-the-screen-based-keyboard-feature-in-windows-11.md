@@ -1,7 +1,7 @@
 ---
 title: Tutorial for Switching the Screen-Based Keyboard Feature in Windows 11
-date: 2024-08-19T00:15:04.709Z
-updated: 2024-08-20T00:15:04.709Z
+date: 2025-01-19T16:47:14.792Z
+updated: 2025-01-23T05:10:05.517Z
 categories:
   - BestProducts
 description: This Article Describes Tutorial for Switching the Screen-Based Keyboard Feature in Windows 11
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 ---
 
 ## Windows 11 Screen Shot Techniques - Learn the Four Key Strategies
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -29,8 +34,9 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -41,15 +47,12 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -65,6 +68,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -74,11 +81,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -87,9 +92,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -127,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-bridging-minds-online-the-ultimate-guide-to-facebook-video-screensharing/"><u>[New] 2024 Approved Bridging Minds Online The Ultimate Guide to Facebook Video Screensharing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-from-disjointed-to-cohesive-perfecting-video-transition-artistry-on-inshot/"><u>[Updated] In 2024, From Disjointed to Cohesive Perfecting Video Transition Artistry on Inshot</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-step-by-step-how-to-download-and-personalize-whatsapp-ringtone-on-mobile-for-2024/"><u>[Updated] Step-By-Step How to Download and Personalize WhatsApp Ringtone on Mobile for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazon-luna-gaming-experience-an-unexpectedly-seamless-cloud-play/"><u>Amazon Luna Gaming Experience: An Unexpectedly Seamless Cloud Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/an-introductory-overview-into-maintaining-an-open-web-with-net-neutrality/"><u>An Introductory Overview Into Maintaining an Open Web with Net Neutrality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-enabling-idt-hd-audio-on-your-computer-running-windows-10-operating-system/"><u>Easy Fixes for Enabling IDT HD Audio on Your Computer Running Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-sluggish-typing-experience-fix-keyboard-latency-in-windows-10/"><u>Eliminate Sluggish Typing Experience: Fix Keyboard Latency in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enigma-of-innovation-elons-new-frontier/"><u>Enigma of Innovation: Elon's New Frontier</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-konvertisseer-mpeg-naar-flv-online-movavi/"><u>Gratuit Konvertisseer MPEG Naar FLV Online - Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-m54-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy M54 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-install-apps-onto-your-samsung-smart-televisions/"><u>How To Successfully Install Apps Onto Your Samsung Smart Televisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ideal-presents-for-aspiring-gamers-kid-friendly-consoles-add-ons/"><u>Ideal Presents for Aspiring Gamers: Kid-Friendly Consoles, Add-Ons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rising-to-fame-on-apple-tv-proven-tactics-for-improving-your-seo-standing/"><u>Rising to Fame on Apple TV: Proven Tactics for Improving Your SEO Standing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-6-most-effective-portable-translation-devices-no-internet-needed/"><u>The 6 Most Effective Portable Translation Devices: No Internet Needed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-savvy-shoppers-guide-7-important-questions-answered-before-buying-a-smart-tv/"><u>The Savvy Shopper's Guide: 7 Important Questions Answered Before Buying a Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-sound-problems-a-guide-to-solving-audio-glitches-in-microsoft-powerpoint/"><u>Troubleshooting Sound Problems: A Guide to Solving Audio Glitches in Microsoft PowerPoint</u></a></li>
+</ul></div>
 

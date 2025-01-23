@@ -1,7 +1,7 @@
 ---
 title: Exodus Kodi Not Working? Here's How to Get It Running After July Update
-date: 2024-08-18T22:50:04.405Z
-updated: 2024-08-19T22:50:04.405Z
+date: 2025-01-18T01:27:37.420Z
+updated: 2025-01-22T20:27:55.277Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/cmd-run-as-admin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy & paste the following command line into the Command Prompt window and press**Enter** .
 
 **msdt.exe -id DeviceDiagnostic**
@@ -37,7 +41,15 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the troubleshooting process to finish. Then follow its instructions to try and fix your Arc mouse not working problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 2: Modify Power Management Settings**
 
@@ -62,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 5) Reboot your computer. See if this problem occurs again.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Fix 3: Update Your Mouse Driver**
 
  When it comes to updating mouse driver, you can always choose from download and update drivers by yourself or do it automatically.
@@ -80,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -90,14 +100,12 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/DE-update-mouse-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fix 4: Restore Your Computer**
 
  As mentioned earlier, it is suggested by tech support from Microsoft that users should perform a system restore to get this problem fixed. To some extent, Microsoft has admitted that this problem is one of the bugs in Windows 10 Creators Update.
@@ -114,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +129,18 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-6-youtube-outro-makers-lots-of-free-options/"><u>[New] Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-2023-updates-the-next-generation-of-samsung-k850u/"><u>2024 Approved 2023 Updates - The Next Generation of Samsung K850U</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-exploration-uncover-individuals-on-facebook-using-6-straightforward-strategies/"><u>Effortless Exploration: Uncover Individuals on Facebook Using 6 Straightforward Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-transform-dav-media-files-into-avi-and-mp4-with-the-leading-software/"><u>How to Transform DAV Media Files Into AVI & MP4 with the Leading Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-brightness-on-windows-volume-controls/"><u>Restore Brightness on Windows' Volume Controls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sneak-peek-into-2025-exclusive-insights-on-upcoming-gadgets-at-the-next-big-samsung-unveiling/"><u>Sneak Peek Into 2025: Exclusive Insights on Upcoming Gadgets at the Next Big Samsung Unveiling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-switching-from-gmail-best-alternatives-of-202n/"><u>The Ultimate Guide to Switching From Gmail: Best Alternatives of 202N</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-connecting-your-stadia-gaming-headset-successfully-again/"><u>The Ultimate Guide: Connecting Your Stadia Gaming Headset Successfully Again</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-and-controlling-your-personal-data-usage-habits/"><u>Understanding and Controlling Your Personal Data Usage Habits</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+</ul></div>
 
