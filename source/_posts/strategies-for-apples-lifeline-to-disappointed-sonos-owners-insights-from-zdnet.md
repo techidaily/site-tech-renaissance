@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2025-01-18T20:52:17.654Z
-updated: 2025-01-22T23:12:55.300Z
+date: 2025-01-26T17:46:41.492Z
+updated: 2025-01-30T19:21:50.865Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -41,7 +37,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,15 +58,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,15 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-chart-success-using-youtube-statistics-to-grow-engagement/"><u>[New] In 2024, Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-cinemagraphy-central-filmo-faqs/"><u>[Updated] In 2024, Cinemagraphy Central Filmo FAQs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-multitasking-with-macbook-air-learn-how-to-use-split-screen-mode/"><u>Effortless Multitasking with MacBook Air - Learn How to Use Split Screen Mode</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-the-high-quality-edge-max-360-vs-hero-11/"><u>Exploring the High-Quality Edge Max 360 vs Hero 11</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-enable-the-text-to-speech-function-on-iphone/"><u>In 2024, How to Enable the Text to Speech Function on iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/logitech-mice-how-to-connect-with-non-original-receivers-successfully/"><u>Logitech Mice: How to Connect with Non-Original Receivers Successfully</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/navigate-the-world-of-instagram-videos-for-maximum-impact-for-2024/"><u>Navigate the World of Instagram Videos for Maximum Impact for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-the-kb4056892-hurdle-windows-10-update-installation-tips/"><u>Successfully Overcoming the KB4056892 Hurdle - Windows 10 Update Installation Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-leveraging-github-copilot-within-microsoft-teams-sessions/"><u>The Ultimate Strategy for Leveraging GitHub Copilot Within Microsoft Teams Sessions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-repairing-your-malfunctioning-samsung-soundbar/"><u>Troubleshooting Guide: Repairing Your Malfunctioning Samsung Soundbar</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhance-your-footage-reducing-size-for-instagram-on-a-mac-for-2024/"><u>[New] Enhance Your Footage Reducing Size for Instagram on a Mac for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlocking-youtubes-srt-files-three-easy-methods/"><u>[New] Unlocking YouTube’s SRT Files Three Easy Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-navigating-through-channels-aesthetics-with-these-tools/"><u>[Updated] 2024 Approved Navigating Through Channels' Aesthetics with These Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-digital-makeup-mastering-youtubes-chromatic-alignment/"><u>[Updated] In 2024, Digital Makeup Mastering Youtube's Chromatic Alignment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-implementing-soft-cessation-of-sounds-using-audacity-procedures/"><u>[Updated] In 2024, Implementing Soft Cessation of Sounds Using Audacity Procedures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/direct-hit-at-simplifying-livestreaming/"><u>Direct Hit at Simplifying Livestreaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-sets-apples-new-airpods-apart-key-features-and-differences-of-airpod-series-4-models/"><u>Discover What Sets Apple's New AirPods Apart: Key Features & Differences of AirPod Series 4 Models</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-90-gt-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor 90 GT Lock Screen Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-showdown-a-detailed-analysis-of-ipad-pro-and-ipad-air-to-determine-the-ultimate-apple-tablet-for-you-zdnet-insights/"><u>IPad Showdown: A Detailed Analysis of iPad Pro and iPad Air to Determine the Ultimate Apple Tablet for You | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-investing-in-ibrain-tech-worth-it-monthly-fees-could-reach-20-insights-from-zdnet/"><u>Is Investing in iBrain Tech Worth It? Monthly Fees Could Reach $20 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/location-based-technology-in-tablets-determining-the-series-of-ipads-with-internal-gps-hardware-options/"><u>Location-Based Technology in Tablets - Determining the Series of iPads with Internal GPS Hardware Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-between-sleek-design-and-powerful-performance-the-ultimate-guide-to-selecting-macbook-or-macbook-air-zdnet-insights/"><u>Navigating Between Sleek Design and Powerful Performance: The Ultimate Guide to Selecting MacBook or MacBook Air | ZDNET Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-sony-vegas-too-expensive-affordable-alternatives-for-windows/"><u>New In 2024, Sony Vegas Too Expensive? Affordable Alternatives for Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pc-gamers-must-know-tutorial-setting-up-and-syncing-ps-vr-for-immersive-play/"><u>PC Gamers' Must-Know Tutorial: Setting Up and Syncing PS VR for Immersive Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-pocket-sized-powerhouse-vs-apples-series-9-elegance-deciding-which-upgrades-worth-your-time-gadget-reviewed/"><u>Pixel Pocket-Sized Powerhouse Vs. Apple's Series 9 Elegance: Deciding Which Upgrades Worth Your Time | Gadget Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protective-covers-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protective Covers - Comprehensive Review by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turn-your-image-brightness-upside-down-a-tutorial/"><u>Turn Your Image Brightness Upside Down A Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unboxing-apple-vision-pro-the-unusually-comfortable-199-travel-companion-insights-from-zdnet/"><u>Unboxing Apple Vision Pro: The Unusually Comfortable $199 Travel Companion - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wagging-woes-a-tail-waggers-delight/"><u>Wagging Woes: A Tail-Wagger's Delight!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Taking a Screenshot with Your Dell Computer"
-date: 2024-08-18T22:52:23.214Z
-updated: 2024-08-19T22:52:23.214Z
+date: 2025-01-29T18:10:13.198Z
+updated: 2025-01-30T16:27:33.028Z
 tags:
   - win11
   - win10
@@ -39,15 +39,27 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) The**Bluetooth Network Connection** shows you have Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2cc5bce058.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If the icon is grayed out, right click on**Bluetooth Network Connection** , and click**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae3031fdc047.jpg)
 
  Don’t worry if you don’t see**Bluetooth Network Connection** . You can buy a USB Bluetooth receiver and plug it in any free USB port on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Connect your Bluetooth speaker to your laptop
 
@@ -66,6 +78,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2c70ceeef6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure the switch says**On** (if it says**Off** , click the switch). Click**Add Bluetooth or other device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a09682bc.jpg)
@@ -74,16 +90,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a7f03edd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click the name of your speaker, and then click **Pair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2fe00df014.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
 
 #### **I’m using Windows 7**
@@ -97,15 +107,13 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2ca246b1f3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the name of your speaker and click**Next** .
 
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus tip: Update your Bluetooth driver
 
  In order for your Bluetooth devices to work the way it should, it’s always recommended you**have the latest Bluetooth driver** on your laptop. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -120,16 +128,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -155,8 +157,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,20 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premier-nintendo-switch-brawlers-list-max-156/"><u>[New] In 2024, Premier Nintendo Switch Brawlers List (Max 156)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-step-by-step-process-for-clearing-backdrops-using-picsart-for-2024/"><u>[New] Step-By-Step Process for Clearing Backdrops Using Picsart for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-starting-off-with-vlogging-necessary-equipmentsoftware/"><u>[Updated] In 2024, Starting Off with Vlogging Necessary Equipment/Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-online-add-on-social-media-story-vault-for-2024/"><u>[Updated] Online Add-On Social Media Story Vault for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-fade-techniques-in-audio-production-with-adobe-tools/"><u>2024 Approved Fade Techniques in Audio Production with Adobe Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creating-cinematic-magic-in-small-spaces-a-guide-to-dorm-room-wireless-theatre-systems/"><u>Creating Cinematic Magic in Small Spaces: A Guide to Dorm Room Wireless Theatre Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-bing-insights-into-the-functionality-and-purpose/"><u>Demystifying Bing – Insights Into the Functionality and Purpose</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722882587550-futures-top-players-ranking-the-premier-driverless-car-manufacturers-of-aturday/"><u>Future's Top Players: Ranking the Premier Driverless Car Manufacturers of Aturday</u></a></li>
+<li><a href="https://windows11.techidaily.com/insight-into-application-usage-on-windows-pc/"><u>Insight Into Application Usage on Windows PC</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/save-favorite-youtube-clips-as-mp4-or-mp3-files-quick-guide-for-mac-and-windows-users/"><u>Save Favorite YouTube Clips as MP4 or MP3 Files – Quick Guide for Mac and Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-overload-wudfhostexe-high-resource-use-in-windows-(span)10(span)-now-rectified/"><u>Solving the Overload: WUDFHost.exe High Resource Use in Windows <Span>10</Span> Now Rectified</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-snapchat-a-comprehensive-emoji-dictionary/"><u>Unlocking the Secrets of Snapchat: A Comprehensive Emoji Dictionary</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-value-why-you-shouldnt-miss-out-on-chatgpt-plus/"><u>Unveiling the Value: Why You Shouldn't Miss Out on ChatGPT Plus!</u></a></li>
+</ul></div>
 

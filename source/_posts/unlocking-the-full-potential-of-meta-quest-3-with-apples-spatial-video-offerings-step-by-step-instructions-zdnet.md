@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Full Potential of Meta Quest 3 with Apple's Spatial Video Offerings – Step-by-Step Instructions | ZDNet
-date: 2025-01-19T19:54:10.431Z
-updated: 2025-01-22T16:00:59.894Z
+date: 2025-01-25T16:38:29.761Z
+updated: 2025-01-30T17:33:11.372Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -44,9 +40,17 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -54,22 +58,14 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -77,10 +73,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -101,6 +93,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,24 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-top-10-steps-to-design-free-youtube-video-ads/"><u>[New] 2024 Approved Top 10 Steps to Design Free YouTube Video Ads</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-obs-studio-guide-android-broadcast-optimization/"><u>[Updated] 2024 Approved OBS Studio Guide Android Broadcast Optimization</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-crafting-the-ideal-set-of-keywords-for-your-youtube-videos/"><u>[Updated] Crafting the Ideal Set of Keywords for Your Youtube Videos</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1726028042403-windows-11/"><u>「続けて使用される Windows 11 での長時間画面録画とストレージ消費量低減テクニック」</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-of-photography-top-10-4k-mirrorless-cams/"><u>2024 Approved Pinnacle of Photography Top 10 4K Mirrorless Cams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-collection-the-507-most-engaging-instagram-captions/"><u>2024'S Ultimate Collection: The 507 Most Engaging Instagram Captions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-buy-offers-huge-savings-asus-15-zenbook-slashes-price-by-370-explore-the-deal-on-zdnet/"><u>Best Buy Offers Huge Savings: Asus 15 ZenBook Slashes Price by $370 - Explore the Deal on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/correcting-error-messages-when-msodll-is-not-located-on-your-computer/"><u>Correcting Error Messages When mso.dll Is Not Located on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-ricoh-printer-drivers-for-windows-systems/"><u>Download & Install Ricoh Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tial-youtube-to-mp3-conversion-apps-reviewed/"><u>Essential YouTube to Mp3 Conversion Apps Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/futuristic-communication-the-best-5-innovative-ai-prompt-craftors/"><u>Futuristic Communication: The Best 5 Innovative AI Prompt Craftors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722863147820-googles-next-big-thing-the-pixel-tablet-revealing-its-release-date-spec-sheets-and-what-to-expect/"><u>Google's Next Big Thing: The Pixel Tablet - Revealing Its Release Date, Spec Sheets, and What to Expect!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-quick-transition-from-original-pictures-to-standout-youtube-thumbnails/"><u>In 2024, Quick Transition From Original Pictures To Standout YouTube Thumbnails</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-m270-printer-driver-update-step-by-step-approach-for-speedy-installation/"><u>Samsung M2#70 Printer Driver Update: Step-by-Step Approach for Speedy Installation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-crafting-an-awkward-potion-in-minecraft-adventures/"><u>Step-by-Step Guide: Crafting an Awkward Potion in Minecraft Adventures</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-compact-gaming-beast-stay-informed-about-ps5-slims-cost-specs-and-availability/"><u>The Compact Gaming Beast - Stay Informed About PS5 Slim's Cost, Specs, and Availability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-thawing-your-frozen-macbook-air-quick-fixes-and-tips/"><u>Ultimate Guide: Thawing Your Frozen MacBook Air - Quick Fixes & Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-the-solution-how-to-restore-or-replace-a-lost-msvcr1-100-dll/"><u>Uncover the Solution: How to Restore or Replace a Lost MSVCR1 100 DLL</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zooms-quality-drop-a-tech-glitch-or-user-experience/"><u>Zoom's Quality Drop: A Tech Glitch or User Experience?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-demystifying-the-process-of-writing-youtube-video-content-for-2024/"><u>[New] Demystifying the Process of Writing YouTube Video Content for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xploring-video-marketing-youtube-or-tiktok-for-2024/"><u>[New] Exploring Video Marketing YouTube or TikTok for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-transforming-chat-dynamics-mastering-discords-text-styling/"><u>[Updated] 2024 Approved Transforming Chat Dynamics Mastering Discord's Text Styling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-targets-top-browser-with-bone-chilling-marketing-campaign-discover-the-full-story/"><u>Apple Targets Top Browser with Bone-Chilling Marketing Campaign: Discover the Full Story</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-contourner-le-codage-regional-de-votre-dvd-et-effectuer-une-conversion-sans-zone-sur-windows-10-8-ou-7/"><u>Comment Contourner Le Codage Regional De Votre DVD Et Effectuer Une Conversion Sans Zone Sur Windows 10, 8 Ou 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/e-world-punchline-maker/"><u>E-World Punchline Maker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hero5-and-yi-4k-face-off-action-cam-wars-for-2024/"><u>Hero5 and Yi 4K Face-Off Action Cam Wars for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-disable-closed-captions-on-prime-video-quick-tips-for-a-better-viewing-experience/"><u>How To Disable Closed Captions On Prime Video - Quick Tips for a Better Viewing Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-vs-iphone-14-pro-assessing-the-enhancements-in-apples-newest-smartphone-tech-analysis/"><u>IPhone 15 Pro Vs. IPhone 14 Pro: Assessing the Enhancements in Apple's Newest Smartphone | Tech Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-retrieve-a-blocked-contacts-phone-number/"><u>Steps to Retrieve a Blocked Contact's Phone Number</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-industry-experts/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010297970-transform-lagging-chrome-into-lightning-fast-performance-with-simple-tweaks/"><u>Transform Lagging Chrome Into Lightning Fast Performance with Simple Tweaks!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-pro-case-for-205-in-depth-analysis-and-ratings-from-professionals-at-zdnet/"><u>Ultimate Guide to Choosing the Ideal iPad Pro Case for 2^05 | In-Depth Analysis & Ratings From Professionals at ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality to Your Non-Responsive Lenovo Keyboard LEDs
-date: 2024-08-18T22:53:56.739Z
-updated: 2024-08-19T22:53:56.739Z
+date: 2025-01-26T17:01:00.663Z
+updated: 2025-01-30T19:21:42.225Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap62.png)Don’t know how to connect your newly bought**wireless keyboard**to your Windows PC? Don’t worry! It is very, very easy! In this article, we’ll give you step-by-step instructions to help you connect your wireless keyboard to your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Follow these steps**
 
 1. [**Put the battery in your wireless keyboard**](https://tools.techidaily.com/drivereasy/download/)
@@ -28,13 +32,18 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 1: Put the battery in your wireless keyboard**
 
 Put the battery in your wireless keyboard. Make sure you install it correctly. You can skip this step if there is a built-in battery in your wireless keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 2: Insert the unifying receiver into the USB port**
 
 Usually, the wireless keyboard comes with**a unifying receiver**. You need to insert the unifying receiver into the USB port on your PC.
@@ -43,23 +52,22 @@ Usually, the wireless keyboard comes with**a unifying receiver**. You need to in
 
  the unifying receiver
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### **Step 3: Turn on your wireless keyboard**
 
 **Turn on your wireless keyboard**. the On / Off switch usually can be found on the back or the side of your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 4: Wait until your wireless keyboard pairs with your PC**
 
 Once you turn on your wireless keyboard, it will start to pair with your PC. If you see any prompted dialog on your computer,**just confirm and allow it to connect**. It may take a while. Wait until your wireless keyboard pairs successfully with your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 5: Test your wireless keyboard**
 
 You need to test your wireless keyboard when it is connected to your computer. You can open**Word**or any other word-processing application and**try pressing the keys on your wireless keyboard**to see if your wireless keyboard works on your computer.
@@ -85,13 +93,7 @@ If your wireless keyboard driver is missing or outdated, it may cause your wirel
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap53-1.png)
 3. Click **Update**  next to your wireless keyboard to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee ). ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap65-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 If you have any questions or suggestions, please leave your comments below.
@@ -105,8 +107,6 @@ If you have any questions or suggestions, please leave your comments below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +114,26 @@ If you have any questions or suggestions, please leave your comments below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-video-size-mastery-on-mac-the-instagram-automation-way/"><u>[Updated] 2024 Approved Video Size Mastery on Mac The Instagram Automation Way</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-perfectly-crafted-online-meeting-backdrops-for-2024/"><u>[Updated] Perfectly Crafted Online Meeting Backdrops for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitterize-your-tiktok-posts-for-2024/"><u>[Updated] Twitterize Your TikTok Posts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-windows-11-optimal-hd-video-converter-pro-transform-mkv-avchd-wmv-to-various-formats-with-ease-for-iphoneipadandroidmicrosoft-devices-compatibility/"><u>1. Windows 11 Optimal HD Video Converter Pro: Transform MKV, AVCHD, WMV to Various Formats with Ease for iPhone/iPad/Android/Microsoft Devices Compatibility</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2024s-top-recommended-free-dvd-player-software-compatible-with-windows-10-and-11-the-ultimate-list/"><u>2024'S Top Recommended Free DVD Player Software Compatible with Windows 10 and 11 - The Ultimate List</u></a></li>
+<li><a href="https://facebook.techidaily.com/chat-ghoster-detector-lost-screen-captures-on-messenger/"><u>Chat Ghoster Detector: Lost Screen Captures on Messenger</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-dual-purpose-macbook-stand-and-charger-at-just-102-features-reviewed/"><u>Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dyson-launches-ontrac-the-ultimate-contender-against-airpods-max-what-you-need-to-know/"><u>Dyson Launches OnTrac: The Ultimate Contender Against AirPods Max - What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-stabilizing-your-surface-pros-display/"><u>Effective Solutions for Stabilizing Your Surface Pro's Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immerse-yourself-in-the-marvel-universe-with-apples-vision-pro-release-date-may-30th-covered/"><u>Immerse Yourself in the Marvel Universe with Apple's Vision Pro - Release Date: May 30Th Covered</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p55t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P55T Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-retro-facebook-stories-pcmobile-guide-for-2024/"><u>Navigating Retro Facebook Stories PC/Mobile Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-lameencdll-file-challenges-in-audacity-expert-tips-and-solutions/"><u>Overcoming lame_enc.dll File Challenges in Audacity - Expert Tips and Solutions</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-blaze-2-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Blaze 2 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-solving-the-issue-with-non-responsive-airpods/"><u>Troubleshooting Tips: Solving the Issue with Non-Responsive AirPods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-reason-behind-missing-imessage-delivery-notifications-yesterday-exclusive-analysis/"><u>Understanding the Reason Behind Missing iMessage Delivery Notifications Yesterday - Exclusive Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unique-guide-changing-the-receiver-for-a-different-logitech-mouse-model/"><u>Unique Guide: Changing The Receiver For A Different Logitech Mouse Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-my-primary-regret-from-switching-to-iphones-latest-ios-version-insights-and-community-reflections-via-zdnet/"><u>Unveiling My Primary Regret From Switching to iPhone's Latest iOS Version - Insights and Community Reflections via ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/virtual-masterclass-for-aspiring-filmmakers-on-youtube-for-2024/"><u>Virtual Masterclass for Aspiring Filmmakers on YouTube for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore Internet Anonymity: Access to Free IP Checker Services"
-date: 2024-08-18T22:55:50.934Z
-updated: 2024-08-19T22:55:50.934Z
+date: 2025-01-25T19:26:42.396Z
+updated: 2025-01-30T17:58:20.496Z
 tags:
   - win11
   - win10
@@ -67,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Reduce the number of programs running in the background
 
  Programs often run invisibly in the background when you turn on your computer. This can slow things down significantly. Some of these programs are necessary, but not all, so you should take a look at what programs are set to run at startup, and double-check that you need them to. If you don’t, then you should disable them. Here’s how:
@@ -78,28 +75,20 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593773e4925a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Go to the**Startup** tab, and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6dd70a1b9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the programs you don’t want to start when Windows starts, and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6db59ff85.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Disable some browser extensions
 
  All your browser extensions use system resources. So the more you have installed and enabled, the slower your computer will run. Especially if they’re buggy extensions.
@@ -112,10 +101,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d7196c0d1e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 , e.g.:
 
  2) Click the dust-bin icon on the right to uninstall the extensions you don’t need.
@@ -147,13 +132,11 @@ Fortunately, extensions are very easy to disable or remove:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0f9f99e1800.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Check your antivirus schedule
 
  It’s great to have a proactive antivirus program – one that keeps itself updated and is always checking, in the background, for possible threats. But some background activities – like a full system scan or a virus definition update – can slow your computer significantly.
@@ -166,10 +149,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Fix 6: Run a virus scan
 
  If your computer is infected by viruses or malware, it can slow down. To check, run a full system scan with a trusted antivirus program.
@@ -177,6 +156,10 @@ Fortunately, extensions are very easy to disable or remove:
  If you don’t have an antivirus program installed, you should definitely install one. We recommend Norton, AVG, Malwarebytes, Avira or BitDefender Total Security. Most of them provide a 30-60 day free trial, and very reasonable subscription prices. (Install only one of them, though; if you install more than one, they may conflict with each other, effectively weakening your defenses against viruses and malware.)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Update your device drivers
 
@@ -198,13 +181,14 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-740.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When the update finishes, you’ll be prompted to restart your computer. After restarting, check to see if your PC is running faster.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 8: Uninstall unnecessary programs
 
  If you have too many programs installed on your computer, it can slow down because they use disk space, memory and processing power. So you should delete any programs you don’t use (and which Windows doesn’t need to function properly). Here’s how:
@@ -223,9 +207,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 9: Clear temporary files
 
  The longer you use your computer, the more temporary files (aka ‘temp files’) it collects.
@@ -239,8 +220,9 @@ Fortunately, extensions are very easy to disable or remove:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e73827e171.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Press the**Ctrl key** and**A** at the same time to select all the files you see here, and press the**Delete** key to delete them all.
 
 ![Delete temp files in Windows 10](https://images.drivereasy.com/wp-content/uploads/2017/06/Delete-temp-files-in-Windows-10.png)
@@ -249,11 +231,19 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e96992db13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) It could take up to a few minutes for all these files to be deleted – especially if many of them are large. If you’re clearing your temp files regularly, though, it should take only a few seconds.
 
  5) Restart your computer and see if it’s running any faster.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 10: Increase your virtual memory
 
@@ -270,15 +260,17 @@ Here’s how to add more virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Go to the**Advanced** tab, and click**Change.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Make sure the checkbox for **Automatically manage paging file size for all drives** is **NOT ticked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
@@ -293,8 +285,9 @@ Here’s how to add more virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ebee6a3d27.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6) Restart your computer and see if your PC is still running slow.
 
 ---
@@ -319,9 +312,6 @@ To reduce the temperature of your computer, you can:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 12: Verify the integrity of your hard disk
 
  When a hard disk ages, it can develop faults and errors in its file system. This can slow the drive significantly, which makes Windows take much longer when it opens and saves files.
@@ -338,9 +328,6 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fd1e7877fd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  If the check disk reports problems, you should probably consider replacing your hard disk.
 
 ---
@@ -369,9 +356,6 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fcf8b6a57b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) The defrag will take anywhere from a few minutes to a couple of hours to finish, depending on the type of disk and the data you have on it.
 
  When it finishes, restart your computer and see if it’s now performing better.
@@ -396,9 +380,6 @@ To reduce the temperature of your computer, you can:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 16: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
@@ -437,8 +418,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -446,4 +425,19 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-boost-virtual-engagement-select-top-10-recorder-software/"><u>[New] Boost Virtual Engagement Select Top 10 Recorder Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-social-blade-for-profound-youtube-stats-analysis-for-2024/"><u>[Updated] Harness Social Blade for Profound YouTube Stats Analysis for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-upgrade-instagram-visuals-with-3-effective-borders/"><u>[Updated] Upgrade Instagram Visuals with 3 Effective Borders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-enhancing-call-clarity-silencing-distractions/"><u>2024 Approved Enhancing Call Clarity Silencing Distractions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-expert-reviews-and-picks-by-zdnet/"><u>Choosing the Perfect Phone for Your Child: Expert Reviews & Picks by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/grab-two-top-pick-nomad-iphone-cases-today-buy-one-get-one-at-a-steal-on-zdnet/"><u>Grab Two Top-Pick Nomad iPhone Cases Today: Buy One, Get One at a Steal on ZDNet!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-174-launches-featuring-enhanced-podcast-accessibility-fresh-emoji-additions-and-notable-updates-to-apples-eu-app-marketplace-tech-insights-from-zdnet/"><u>IOS 17.4 Launches Featuring Enhanced Podcast Accessibility, Fresh Emoji Additions & Notable Updates to Apple's EU App Marketplace - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-special-score-an-amazing-deal-on-apple-ipads-for-just-199-dollars-inside-tips-and-tricks-from-the-amazon-sale-insights/"><u>Labor Day Special: Score an Amazing Deal on Apple iPads for Just 199 Dollars! Inside Tips & Tricks From the Amazon Sale Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snicker-secrets-of-virtual-realms-making-funny-memes-for-2024/"><u>Snicker Secrets of Virtual Realms Making Funny Memes for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-20-keywords-for-stellar-marketing-strategies/"><u>Top 20 Keywords for Stellar Marketing Strategies</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-13-mini-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 13 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-ears-without-breaking-the-bank-zdnet-explores-beats-new-entry-level-earbuds-the-perfect-sub-100-competitor-to-airpods/"><u>Upgrade Your Ears Without Breaking the Bank: ZDNET Explores Beats' New Entry-Level Earbuds - The Perfect Sub-$100 Competitor to AirPods</u></a></li>
+</ul></div>
 

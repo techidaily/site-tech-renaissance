@@ -1,7 +1,7 @@
 ---
 title: Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights
-date: 2025-01-19T23:35:21.491Z
-updated: 2025-01-22T18:02:54.721Z
+date: 2025-01-23T19:33:29.980Z
+updated: 2025-01-30T17:31:19.328Z
 tags:
   - apple
 categories:
@@ -53,7 +53,7 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
@@ -67,7 +67,7 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -85,7 +85,7 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
@@ -99,7 +99,7 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -109,7 +109,7 @@ Apple recommends always rendering a ground plane so users feel grounded. If you'
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
@@ -159,22 +159,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fusion-of-light-combining-images-and-videos-on-iphone/"><u>[New] Fusion of Light Combining Images & Videos on iPhone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-google-voice-recordings/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Google Voice Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-join-the-jocular-joy-the-greatest-instagram-meme-gatherings/"><u>2024 Approved Join the Jocular Joy The Greatest Instagram Meme Gatherings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-enhances-enterprise-device-control-what-you-need-to-know-business-technology-today/"><u>Apple Vision Pro Enhances Enterprise Device Control: What You Need to Know - Business Technology Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/collaboration-unveiled-qualcomm-joins-forces-with-samsung-and-google-for-groundbreaking-mixed-reality-eyewear-an-insiders-perspective-zdnet/"><u>Collaboration Unveiled: Qualcomm Joins Forces with Samsung & Google for Groundbreaking Mixed Reality Eyewear - An Insider's Perspective | ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cross-atlantic-language-contrasts/"><u>Cross-Atlantic Language Contrasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-collection-most-effective-wide-sized-gaming-mats/"><u>Elite Collection: Most Effective Wide-Sized Gaming Mats</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-razers-new-releases-and-announcements-from-ces-2023-full-report-engadget/"><u>Exploring Razer's New Releases and Announcements From CES 2023 - Full Report | Engadget</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-new-apple-vision-pro-faster-shipping-awaits/"><u>Get Your Hands on the New Apple Vision Pro: Faster Shipping Awaits!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ss-the-power-of-your-mobile-content-on-youtube-starting-now-for-2024/"><u>Harness the Power of Your Mobile Content on YouTube, Starting Now for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>In 2024, Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-assessment-of-matterports-virtual-tour-tool-insights-from-pcmag-review/"><u>In-Depth Assessment of Matterport's Virtual Tour Tool - Insights From PCMag Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-6-plus-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 6 Plus Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/meta-innovates-with-exclusive-virtual-reality-tech-that-outshines-apple-vision-pro-insights-from-zdnet/"><u>Meta Innovates with Exclusive Virtual Reality Tech That Outshines Apple Vision Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-impact-of-extended-reality-spatial-computing-and-digital-twin-technology-on-enterprise-user-experience-insights-from-zdnet/"><u>The Impact of Extended Reality, Spatial Computing and Digital Twin Technology on Enterprise User Experience: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-big-leap-in-tech-discovering-how-5g-will-transform-usages-far-past-enhanced-connectivity-insights-by-zdnet/"><u>The Next Big Leap in Tech: Discovering How 5G Will Transform Usages Far Past Enhanced Connectivity | Insights by ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>[New] Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-emotional-connections-with-your-audience-through-hauls/"><u>2024 Approved Creating Emotional Connections with Your Audience Through Hauls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-picks-for-windows-power-laptops-expert-insights-and-evaluations-zdnet/"><u>2024'S Elite Picks for Windows Power Laptops: Expert Insights and Evaluations | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-erasing-every-message-from-your-gmail-account/"><u>Complete Guide: Erasing Every Message From Your Gmail Account</u></a></li>
+<li><a href="https://discover-community.techidaily.com/fix-your-slow-internet-connection-solutions-for-network-adapter-issues-from-yl-computing/"><u>Fix Your Slow Internet Connection: Solutions for Network Adapter Issues From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-latest-update-logic-pro-enhances-music-creation-with-ai-powered-band-features-for-ipad-and-mac-discover-how/"><u>Introducing Apple's Latest Update: Logic Pro Enhances Music Creation with AI-Powered Band Features for iPad & Mac - Discover How!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-175-beta-2-unveiled-allowing-eu-citizens-to-download-apps-online-a-comprehensive-guide/"><u>IOS 17.5 Beta 2 Unveiled: Allowing EU Citizens to Download Apps Online - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-top-6-ai-enhancements-for-iphone-devices-and-future-updates-to-watch-out-for/"><u>IOS 18 Unveiled: Top 6 AI Enhancements for iPhone Devices & Future Updates to Watch Out For!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-d3dx933dll-file-cannot-be-located-a-step-by-step-guide/"><u>Resolving the d3dx9_33.dll File Cannot Be Located: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-scouting-for-best-free-srt-translation-tools-for-2024/"><u>The Ultimate Guide to Scouting for Best Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-convert-dvds-to-avi-format-on-windows-11-best-tools-of-2024/"><u>Ultimate Guide: Convert DVDs to Avi Format on Windows 11 - Best Tools of 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wie-man-apps-nahtlos-von-einem-alteren-ipad-zu-aktuellen-varianten-ubertragt-ipad-pro-ipad-air-lerne-6-einfache-moglichkeiten/"><u>Wie Man Apps Nahtlos Von Einem Älteren iPad Zu Aktuellen Varianten Überträgt (iPad Pro, iPad Air) - Lerne 6 Einfache Möglichkeiten</u></a></li>
 </ul></div>
 

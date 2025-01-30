@@ -1,7 +1,7 @@
 ---
 title: Guide to Seamlessly Move Chrome Bookmarks – Step by Step Tutorial
-date: 2024-08-18T22:55:53.124Z
-updated: 2024-08-19T22:55:53.124Z
+date: 2025-01-23T19:10:32.100Z
+updated: 2025-01-30T19:12:19.691Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf2aeaf55c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **three-dot** icon.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-34.png)
@@ -42,36 +46,38 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 
 ![This image has an empty alt attribute; its file name is image-33.png](https://images.drivereasy.com/wp-content/uploads/2019/02/image-33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Import your Google bookmarks into Firefox
 
 1. Open Firefox.
 2. Click the**Library** icon and click**Bookmarks** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfc8da5140.png)
 3. Click**Show All Bookmarks** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfcee78e14.png)
 4. Click**Import and Backup** \>**Import Bookmarks from HTML** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfda429a3d.jpg)
 5. Locate and open the HTML file you’ve saved earlier and you’ll be good to go!
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tips: Update your drivers with Driver Easy
 
  It’s always important to keep your device drivers up-to-date to make sure the hardware components are working properly on your computer and nip common errors in the bud. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -82,10 +88,6 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-226.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully you have successfully transferred the Chrome bookmarks to Firefox by now. If you have any questions, ideas or suggestions, please let me know in the comments. Thanks for reading!
@@ -99,8 +101,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +108,16 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-tier-psd-drop-shadows/"><u>[New] 2024 Approved Top-Tier PSD Drop Shadows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-unleash-immersive-viewing-with-your-meta-quest-3-discover-apples-cutting-edge-3d-spatial-video-experience-a-step-by-step-guide/"><u>1. Unleash Immersive Viewing with Your Meta Quest 3: Discover Apple's Cutting-Edge 3D Spatial Video Experience – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decision-time-comparing-the-pros-and-cons-of-apple-watch-ultra-and-series-8-to-guide-your-purchase/"><u>Decision Time: Comparing the Pros and Cons of Apple Watch Ultra & Series 8 to Guide Your Purchase.</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-7-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 7 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-apple-watch-accessories-featured-bands-expert-insights-and-ratings-zdnet/"><u>Ultimate Guide to Apple Watch Accessories : Featured Bands, Expert Insights & Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-best-in-class-ipad-air-cases-for-2-2024-professional-testing-and-analysis-zdnet/"><u>Ultimate List of Best-in-Class iPad Air Cases for 2지 2024: Professional Testing & Analysis - ZDNET</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-13-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 13 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+</ul></div>
 

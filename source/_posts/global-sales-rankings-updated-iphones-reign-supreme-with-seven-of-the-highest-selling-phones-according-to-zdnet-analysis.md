@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2025-01-19T05:51:47.025Z
-updated: 2025-01-23T06:52:10.583Z
+date: 2025-01-29T16:27:05.892Z
+updated: 2025-01-30T18:41:34.433Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-video-capture-on-hangouts/"><u>[Updated] 2024 Approved Mastering Video Capture on Hangouts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-squashing-social-media-smears-with-grace/"><u>2024 Approved Squashing Social Media Smears with Grace</u></a></li>
-<li><a href="https://win-bits.techidaily.com/el-ranking-definitivo-de-soluciones-de-copia-de-seguridad-por-clonacion-en-servidores-windows/"><u>El Ranking Definitivo De Soluciones De Copia De Seguridad Por Clonación en Servidores Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eufycam-2c-pro-security-camera-bundle-substantial-discounts-of-38-off-available-now/"><u>EufyCam 2C Pro Security Camera Bundle - Substantial Discounts of $38 Off Available Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-ge-cync-offer-save-up-to-61-on-innovative-lighting-and-controls-smart-devices-galore/"><u>Exclusive GE Cync Offer: Save Up to 61% on Innovative Lighting & Controls - Smart Devices Galore!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-the-spectacular-april-2024-solar-eclipse-comprehensive-guide-on-how-to-watch-safely-and-what-equipment-youll-require-digitalobserver/"><u>Experience the Spectacular April 2024 Solar Eclipse - Comprehensive Guide on How to Watch Safely and What Equipment You'll Require | DigitalObserver</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-ultimate-selection-the-5-highest-quality-no-smoke-fire-pits-of-20212022-according-to-zdnet/"><u>Explore the Ultimate Selection: The 5 Highest Quality No-Smoke Fire Pits of 2021/2022 According to ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-enhanced-ai-workload-management-in-new-kubernetes-update-what-you-need-to-know-zdnet-insights/"><u>Exploring Enhanced AI Workload Management in New Kubernetes Update: What You Need to Know | ZDNet Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-sale-alert-secure-your-home-with-a-high-tech-blink-camera-setup-and-floodlights-for-under-100-special-price-from-zdnet/"><u>Labor Day Sale Alert: Secure Your Home with a High-Tech Blink Camera Setup & Floodlights for Under $100 - Special Price From ZDNet.</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ity-of-capturing-and-reproducing-youtube-video-playbacks/"><u>Legality of Capturing and Reproducing YouTube Video Playbacks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-car-battery-jump-starters-professional-reviews-and-comparisons-techinsight/"><u>Top-Rated Car Battery Jump Starters : Professional Reviews and Comparisons | TechInsight</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unable-to-configure-drivers-no-intel-adapter-present/"><u>Unable to Configure Drivers; No Intel Adapter Present</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-beginner-friendly-iphone-screen-recording-techniques/"><u>[New] 2024 Approved Beginner-Friendly Iphone Screen Recording Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-eco-friendly-recorder-ads-absolved/"><u>[New] Eco-Friendly Recorder - Ads Absolved</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-methodology-assembling-youtube-playlists/"><u>[New] Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/buddhist-symbols/"><u>Buddhist Symbols</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compact-computing-unleashed-the-new-mac-mini-with-impressive-m4-performance/"><u>Compact Computing Unleashed: The New Mac Mini with Impressive M4 Performance!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/controlling-system-integrity-levels-a-users-guide-to-interact-with-trustedinstaller-in-windows-10/"><u>Controlling System Integrity Levels: A User's Guide to Interact with TrustedInstaller in Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-reset-methods-no-itunes-required/"><u>DIY iPhone Reset Methods - No iTunes Required</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-combining-your-favorite-tunes-into-one-spotify-list/"><u>Guide: Combining Your Favorite Tunes Into One Spotify List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-uncovering-your-individual-playlist-sanctuary-on-youtube/"><u>In 2024, Uncovering Your Individual Playlist Sanctuary on Youtube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-coverage-of-the-latest-tech-revealed-at-apples-glowing-iphone-16-launch-artificial-intelligence-innovations-tenth-generation-apple-watch-and-new-ai52/"><u>In-Depth Coverage of the Latest Tech Revealed at Apple's Glowing iPhone 16 Launch: Artificial Intelligence Innovations, Tenth Generation Apple Watch & New AirPod Upgrades - Explored</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/innovative-ring-doorbell-plus-assessment-enhancing-home-safety-and-convenience/"><u>Innovative Ring Doorbell Plus Assessment: Enhancing Home Safety and Convenience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/most-recommended-movies-on-disneyplus-at-this-very-moment/"><u>Most Recommended Movies on Disney+ at This Very Moment</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-slow-mo-top-video-editing-software-revealed-for-2024/"><u>New Unleash the Power of Slow Mo Top Video Editing Software Revealed for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-gionee-f3-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Gionee F3 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722901090389-samsung-tv-app-troubles-heres-how-to-restore-their-functionality-easily/"><u>Samsung TV App Troubles? Here's How to Restore Their Functionality Easily!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-you-cant-resist-the-latest-ipad-air-discover-apples-top-4-irresistible-features-detailed-review/"><u>Why You Can't Resist the Latest iPad Air? Discover Apple's Top 4 Irresistible Features! - Detailed Review</u></a></li>
 </ul></div>
 

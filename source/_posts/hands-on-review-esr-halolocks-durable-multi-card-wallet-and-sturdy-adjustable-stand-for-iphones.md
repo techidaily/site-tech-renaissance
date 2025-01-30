@@ -1,7 +1,7 @@
 ---
 title: "Hands-On Review: ESR Halolock's Durable Multi-Card Wallet & Sturdy Adjustable Stand for iPhones"
-date: 2025-01-21T16:11:18.801Z
-updated: 2025-01-23T06:59:09.269Z
+date: 2025-01-24T17:24:42.606Z
+updated: 2025-01-30T18:08:25.696Z
 tags:
   - apple
 categories:
@@ -40,7 +40,15 @@ Cons
 * Display is somewhat small
 * Old design
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPhone SE (3rd gen)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best phone for kids overall
 
@@ -70,10 +78,6 @@ Pros
 Cons 
 * Somewhat slow performance
 * Low internal storage
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Moto G Pure
 
@@ -162,11 +166,11 @@ Cons
 * No microSD card support
 * No wireless charging support
 
-## Google Pixel 6a 5G
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Google Pixel 6a 5G
 
 ### Best secure phone for kids
 
@@ -197,11 +201,11 @@ Cons
 * Parent app is glitchy
 * Complaints about customer service
 
-## Bark Phone
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Bark Phone
 
 ### Best phone for younger kids
 
@@ -214,10 +218,6 @@ As your child grows older, you can easily upgrade to the advanced plan and add i
 **Bark Phone** **tech specs: Display:** 6.6-inch | **Processor:** Octa core (2.2Ghz + 2.0Ghz) | **Memory:** 4GB | **Storage:** 64GB | **Rear cameras:** 50MP | **Front camera:** 13MP | **Battery:** 5,000mAh | **Cost:** Starting at $39/mo
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best phone for kids?
 
@@ -234,6 +234,10 @@ Here's how the best phones for kids compare on price, screen size, and operating
 | Google Pixel 6a 5G    | $349               | 6.1-inches      | Android              |
 | Bark Phone            | Starting at $39/mo | 6.6-inches      | Android              |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right phone for your kid?
 
 Deciding which phone is right for your kid depends on a few factors, including age, overall cost, and which operating system you prefer. Once you know those details, you can narrow down your search and make a choice based on personal preference. 
@@ -247,6 +251,10 @@ Deciding which phone is right for your kid depends on a few factors, including a
 | Google Pixel 6a 5G           | A secure phone with great cameras, quick charge capabilities, and a solid battery life.                                                      |
 | Bark Phone                   | A phone for littler kids. It only allows calls and texts and has advanced content monitoring and parental controls.                          |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a phone for your kid:
 
 Buying a device for your child is much different than buying a device for yourself. Be sure to consider the following factors before making your final purchase. 
@@ -255,10 +263,6 @@ Buying a device for your child is much different than buying a device for yourse
 * **Battery life:** A phone serves little purpose if it's out of battery, so look at devices with long battery lives so you don't have to constantly recharge.
 * **Price:** These days, smartphones can range dramatically in price. Since this will likely be your child's first phone and they simply need something more basic, find something more affordable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we test these phones for kids?
 
 I've reviewed phones for more than a decade. Not only have I tested these devices myself, but I've experienced my own kids reaching the age of needing their first phone. All five of these picks are something I would (and have) trust(ed) my kids to take care of. 
@@ -266,10 +270,6 @@ I've reviewed phones for more than a decade. Not only have I tested these device
 ZDNET does extensive hands-on testing of phones, including ease of use, and paying attention to specs like display, battery life, and overall experience while using the phone. For products we recommend, we write a product spotlight review that we update periodically with new features and pricing information.
 
 For the phones we have not gone hands-on with, we do extensive research into different products and brands, taking into consideration user reviews (both good and bad), competitor analysis, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What about parental controls for a kids phone?
 
@@ -280,7 +280,7 @@ Both Apple and Google have their own respective solutions for adding parental co
 Both options offer you control to schedule when the phone can and can't be used, which apps can be installed, and even who the child can talk to. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best cellular plan for a kid?
@@ -289,10 +289,6 @@ Sticking with your current carrier and adding a line to your account is going to
 
 If you opt to add a line to your account, most carriers allow you to mix and match plans. For example, you can have your number on a plan that allows unlimited data usage at full speed, and then give your child a plan that forfeits data speed when the network is busy. It saves you money while still giving your child access to everything they need a phone to do. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are there apps built in to keep track of my kid's location?
 
 Yes! If you set up Screen Time on an iPhone, you'll also set up Apple's Family Share feature that includes Find My. Find My is not only what you use to track down a lost iPhone, iPad, or Mac, but it's also used to keep tabs on friends or loved ones. 
@@ -300,6 +296,10 @@ Yes! If you set up Screen Time on an iPhone, you'll also set up Apple's Family S
 Google Family Link offers the same functionality, or you can add your child to Google Maps' Location Sharing feature. 
 
 **Also: [Did you lose a device? Here's how to track it](https://www.zdnet.com/article/how-to-gps-track-a-phone/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative phones for kids worth considering?
 
@@ -351,22 +351,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy/"><u>[New] In 2024, Dissecting YouTube Policies and Creative Commons Licensing Dichotomy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-robotic-helper-coming-soon-learn-about-projected-timelines-and-tech-insights/"><u>Apple's Revolutionary Robotic Helper Coming Soon? Learn About Projected Timelines & Tech Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-overcome-zoom-camera-malfunctions-during-meetings/"><u>Expert Tips to Overcome Zoom Camera Malfunctions During Meetings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/finding-and-buying-the-best-televisions-to-suit-your-homes-needs/"><u>Finding & Buying the Best Televisions to Suit Your Home's Needs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-assign-new-audio-cues-to-your-gmail-messages/"><u>How to Assign New Audio Cues to Your Gmail Messages</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-nord-n30-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Nord N30 5G Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-how-to-remove-recommended-podcasts-from-spotify/"><u>In 2024, How To Remove Recommended Podcasts From Spotify</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-path-to-link-integration-on-instagrams-social-stage/"><u>In 2024, The Ultimate Path to Link Integration on Instagram's Social Stage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-zoom-audio-capture-techniques/"><u>In 2024, Ultimate ZOOM Audio Capture Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-mss32dll-essential-steps-to-restore-functionality/"><u>Overcoming 'Missing MSS32.DLL' - Essential Steps to Restore Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restoring-charge-functionality-in-ps5-gamepads/"><u>Step-by-Step Guide to Restoring Charge Functionality in PS5 Gamepads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-endurance-battle-can-evs-compete-with-gas-cars-for-a-longer-drive-timeframe/"><u>The Endurance Battle: Can EVs Compete with Gas Cars for a Longer Drive Timeframe?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-choosing-between-standard-hulu-and-plus-tier/"><u>The Essentials of Choosing Between Standard Hulu and Plus Tier</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tipi-di-backup-incrementale-differenziale-e-complete-su-windows-server/"><u>Tipi Di Backup: Incrementale, Differenziale E Complete Su Windows Server</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transferring-iphone-pictures-seamlessly-onto-a-windows-machine-complete-tutorial/"><u>Transferring iPhone Pictures Seamlessly Onto a Windows Machine - Complete Tutorial</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-inability-to-get-texts-from-android-devices-expert-solutions/"><u>Troubleshooting iPhone's Inability to Get Texts From Android Devices: Expert Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-fix-boot-manager-failures-and-get-your-pc-running-again/"><u>Ultimate Guide to Fix Boot Manager Failures & Get Your PC Running Again 💻</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>[New] Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-vid-lifting-made-simple-top-5-free-downloaders-for-pinterest-users/"><u>[New] In 2024, Vid Lifting Made Simple Top 5 Free Downloaders for Pinterest Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-the-codec-complexity-av1-vs-vp9/"><u>[New] Navigating Through the Codec Complexity AV1 Vs. VP9</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-new-social-networking-battlefield-a-comparative-analysis-between-tiktok-and-snap/"><u>[Updated] 2024 Approved The New Social Networking Battlefield A Comparative Analysis Between TikTok and Snap</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-collection-of-10-advanced-fcp-tools/"><u>[Updated] The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728479099481-windows-1011/"><u>「ゴミ箱」削除後にWindows 10/11のファイルを元に戻せるテクニック</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-enhances-icloud-support-on-windows-platform-introducing-latest-improvements/"><u>Apple Enhances iCloud Support on Windows Platform, Introducing Latest Improvements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-macbook-gadgets-expertly-evaluated-and-rated-professional-insights-from-zdnet/"><u>Essential MacBook Gadgets : Expertly Evaluated and Rated | Professional Insights From ZDNET</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-watchs-battery-endurance-with-these-simple-adjustments-insider-tips/"><u>Maximize Your Apple Watch's Battery Endurance with These Simple Adjustments - Insider Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-pair-of-timers-ios-and-android-wedding-clock-essentials-for-2024/"><u>Perfect Pair of Timers IOS & Android Wedding Clock Essentials for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-latest-innovation-the-camera-button-on-every-iphone-16-explore-its-functionality/"><u>Unveiling the Latest Innovation: The Camera Button on Every iPhone 16 - Explore Its Functionality!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-dilemma-comparing-the-latest-macbook-procs-which-is-superior-m3-or-m2-zdnet-insights/"><u>Upgrade Dilemma: Comparing the Latest MacBook Procs - Which Is Superior, M3 or M2? | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-do-when-youre-not-getting-emails-on-yahoo-a-step-by-step-guide/"><u>What to Do When You're Not Getting Emails on Yahoo - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights From ZDNet"
-date: 2025-01-18T05:59:16.073Z
-updated: 2025-01-22T16:23:02.958Z
+date: 2025-01-25T17:52:39.979Z
+updated: 2025-01-30T18:04:33.793Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Apple/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Pro
@@ -55,7 +55,7 @@ Pricing is still up in the air, according to Kuo. If the price of the new 10.9-i
 Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo forecasts. The shipments will be slightly less than those of the existing Pro models, due to their higher prices and to possible cannibalization from the 12.9-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Air
@@ -63,7 +63,7 @@ Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo
 Speaking of the [iPad Air](https://www.zdnet.com/article/apple-ipad-air-fifth-generation-review/), two new versions of this model are slated for mass production in the first quarter of 2024, according to Kuo. The 12.9-inch Air is a brand-new model. Though it will stick with LED rather than move to mini-LED, it will use an Oxide backplane (the same as the current mini-LED iPad Pro). The 10.9-inch iPad Air will use an a-Si (amorphous silicon) backplane. Oxide backplanes provide better display performance than a-Si backplanes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Mini
@@ -73,7 +73,7 @@ Kuo didn't provide any concrete details on the 2024 [iPad mini](https://www.zdne
 **Also: [The best small tablets you can buy](https://www.zdnet.com/article/best-small-tablet/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad
@@ -122,17 +122,16 @@ One hiccup is that the global tablet market has seen better days, with [third-qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-regain-control-recovering-after-a-facebook-breach/"><u>[Updated] 2024 Approved Regain Control Recovering After a Facebook Breach</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieving-excellence-in-your-android-video-brightness/"><u>[Updated] Achieving Excellence in Your Android Video Brightness</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-your-next-favorite-film-with-these-12-gratis-streamers/"><u>Discover Your Next Favorite Film with These 12 Gratis Streamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010213139-fortnite-login-troubles-overcome-the-permission-error-easily/"><u>Fortnite Login Troubles? Overcome the 'Permission Error' Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/highly-reliable-and-durable-a-comprehensive-test-of-the-fugetek-ft-568-stick-for-selfies/"><u>Highly Reliable and Durable - A Comprehensive Test of the Fugetek FT-568 Stick for Selfies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-epson-artisan-amo-1430-drivers-on-windows-11108-secure-your-printing-experience/"><u>Install Epson Artisan Amo 1430 Drivers on Windows 11/10/8 – Secure Your Printing Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-maze-of-full-screen-issues-fix-sonic-adventure-crashes-win-on-windows-11/"><u>Master the Maze of Full-Screen Issues: Fix Sonic Adventure Crashes, Win! On Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-android-a-comprehensive-guide-to-utilizing-quick-settings/"><u>Mastering Your Android: A Comprehensive Guide to Utilizing Quick Settings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/proven-ways-to-capture-and-preserve-your-favorite-discord-sessions/"><u>Proven Ways to Capture and Preserve Your Favorite Discord Sessions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamp-your-profile-a-simple-method-for-new-discord-pictures/"><u>Revamp Your Profile: A Simple Method for New Discord Pictures</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-for-display-sharing-between-devices-and-lg-tvs/"><u>The Complete Guide for Display Sharing Between Devices and LG TVs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-understanding-when-people-drop-off-on-instagram/"><u>[New] In 2024, Understanding When People Drop Off on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamlining-cross-platform-communication-via-skype-chat-rooms/"><u>[New] Streamlining Cross-Platform Communication via Skype Chat Rooms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-online-image-enhancement-with-audio/"><u>2024 Approved Online Image Enhancement with Audio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-9-at-record-low-prices-post-prime-day-exclusive-offer-on-zdnet/"><u>Apple Watch Series 9 at Record Low Prices Post-Prime Day - Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-inspirational-movie-picks-to-boost-your-spirit/"><u>Discover the Most Inspirational Movie Picks to Boost Your Spirit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-transferring-and-converting-dvd-movies-for-playstation-xbox-psp-ps-vita-and-zune/"><u>Guide to Transferring & Converting DVD Movies for PlayStation, Xbox, PSP, PS Vita, and Zune</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-apple-vision-pro-empowers-enterprises-with-advanced-device-management-insights-from-zdnet/"><u>How the Apple Vision Pro Empowers Enterprises with Advanced Device Management - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimiser-handbrake-les-parametres-parfaits-pour-la-qualite-constante-lors-de-lencodage-de-dvd-blu-ray-et-contenus-en-4k/"><u>Optimiser HandBrake: Les Paramètres Parfaits Pour La Qualité Constante Lors De L'encodage De DVD, Blu-Ray Et Contenus en 4K</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/struggling-with-poor-iphone-battery-life-after-updating-to-ios-1751-discover-these-7-power-saving-tips-gadgetguru/"><u>Struggling with Poor iPhone Battery Life After Updating to iOS 17.5.1? Discover These 7 Power-Saving Tips | GadgetGuru</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-secret-an-unknown-but-incredible-feature-on-the-latest-iphones-revealed/"><u>Unveiling Apple's Secret: An Unknown but Incredible Feature on the Latest iPhones Revealed</u></a></li>
 </ul></div>
 

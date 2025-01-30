@@ -1,7 +1,7 @@
 ---
 title: "Quick & Simple Steps: Uncover Hardware Details on a Windows 10 Machine"
-date: 2024-08-18T22:54:13.770Z
-updated: 2024-08-19T22:54:13.770Z
+date: 2025-01-23T19:03:10.185Z
+updated: 2025-01-30T18:19:30.303Z
 tags:
   - win11
   - win10
@@ -40,9 +40,17 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Then choose**Upgrade this PC now** . Hit**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5870453c73720.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Then the tool will start downloading Windows 10\.
   
@@ -59,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
  7) When Windows 10 is ready to install, you will be asked**Choose what to keep** . You can choose to**Keep personal files and apps** , or**Keep personal files only** , or choose**Nothing** as per your own need.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58704f714fe10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) See a recap of what you have chosen, then save and close any open files you are running, then select**Install** .  
   
@@ -78,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/mediacreationtool-exe-installation-media-tool.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Accept** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
@@ -90,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/use-the-recommended-options-for-this-pc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Choose**USB flash drive** , and then click**Next** . If you want to**burn the ISO file to a DVD later** , you can choose the second option instead. We will go with USB flash drive.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/usb-flash-drive.png)
@@ -98,9 +118,18 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/next-select-a-usb-flash-drive.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Windows 10 will now begin to download. The speed of which will be determined by the Internet speed that you have.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/downloading-windows-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) When the download is finished, you will be seeing this window. Just click**Finish** to continue.  
   
@@ -118,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,9 +154,24 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-multiplatform-vmix-blender/"><u>[Updated] Multiplatform VMix Blender</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-videopie-interpretation-platform/"><u>[Updated] VideoPie Interpretation Platform</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-guide-to-rapid-or-slowdown-youtubes-playback-adjustments/"><u>2024 Approved Guide to Rapid or Slowdown YouTube's Playback Adjustments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-power-kits-for-gopro-hero5-official-and-alternate-partners/"><u>2024 Approved Ultimate Power Kits for GoPro Hero5 Official & Alternate Partners</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-loyalists-rejoice-unveiling-lgs-new-audio-upgrade-for-their-televisions-featured-by-zdnet/"><u>Apple Loyalists Rejoice: Unveiling LG's New Audio Upgrade for Their Televisions, Featured by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-assessment-of-the-amazonbasics-7-port-usb-30-connectivity-solution/"><u>Comprehensive Assessment of the AmazonBasics 7-Port USB 3.0 Connectivity Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-creme-de-la-creme-of-laptops-and-desktops-in-depth-comparison-of-apple-dell-plus-others-in-the-2024-tech-landscape-featured/"><u>Exploring the Crème De La Crème of Laptops and Desktops: In-Depth Comparison of Apple, Dell, Plus Others in the 2024 Tech Landscape | Featured</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-paramountplus-connection-errors-on-an-amazon-firestick-device/"><u>Fixing Paramount+ Connection Errors on an Amazon Firestick Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-itel-p55t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Itel P55T Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-90-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enlightened-exercits-discovering-the-most-inspiring-yogis-online/"><u>In 2024, Enlightened Exercits - Discovering the Most Inspiring Yogis Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rapidly-increase-your-instagram-following-with-these-proven-strategies/"><u>Rapidly Increase Your Instagram Following with These Proven Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-solution-to-declutter-your-inbox-the-no-fuss-method-that-works-without-creating-new-email-addresses-zdnet/"><u>Simple Solution to Declutter Your Inbox: The No-Fuss Method That Works Without Creating New Email Addresses | ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-voicemail-issues-top-9-fixes-you-need-now/"><u>Solving iPhone Voicemail Issues: Top 9 Fixes You Need Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-gamer-friendly-smartphones-a-comprehensive-review/"><u>Top 5 Gamer-Friendly Smartphones : A Comprehensive Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-a-surprising-iphone-advantage-by-apple-an-in-depth-look-at-an-overlooked-feature-as-revealed/"><u>Unveiling a Surprising iPhone Advantage by Apple – An In-Depth Look at an Overlooked Feature, as Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-harmony-seamlessly-pair-your-airpods-with-quest-3-while-respecting-public-space/"><u>Wireless Harmony: Seamlessly Pair Your AirPods With Quest 3 While Respecting Public Space</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->

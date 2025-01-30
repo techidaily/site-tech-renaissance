@@ -1,7 +1,7 @@
 ---
 title: Discover Your Motherboard Type with Simple Steps!
-date: 2024-08-18T22:54:40.312Z
-updated: 2024-08-19T22:54:40.312Z
+date: 2025-01-29T16:09:25.739Z
+updated: 2025-01-30T17:22:47.165Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 2. [**Identify your motherboard with System Information**](https://tools.techidaily.com/drivereasy/download/)
 3. **[Identify your motherboard with Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (Recommended)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Identify your motherboard with Command Prompt
 
 One way to view your motherboard information is to use a line of command:
@@ -35,6 +39,10 @@ One way to view your motherboard information is to use a line of command:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad053f7a4778.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type **wmic baseboard get manufactuerer,product** , then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad05b8dba2b9.png)
@@ -42,6 +50,10 @@ One way to view your motherboard information is to use a line of command:
 **3)** Check the_manufacturer_ and_model_ (product) of your motherboard displayed right below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad05c6fac25e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 2: Identify your motherboard with System Information
 
@@ -53,16 +65,14 @@ You can also identify your motherboard with the System Information tool:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad05fb384bab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Check your motherboard information by viewing the**BaseBoard Manufacturer** ,**BaseBoard Model** and**BaseBoard Name** items. (They show the_manufacturer_ ,_model_ , and_name_ of your motherboard respectively.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad061857442b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 3: Identify your motherboard with Driver Easy
 
  This is a recommended method to check the information about your motherboard and other computer components. It’s easier than the methods above and can do more than just viewing your hardware information.
@@ -73,17 +83,10 @@ You can also identify your motherboard with the System Information tool:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad070fb5379a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **3)** Click**Continue** and then**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad07245490e8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Check your motherboard information in the**Motherboard** item.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad0739c8bc2f.jpg)
@@ -92,9 +95,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad075566699a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Driver Easy can also help you update drivers for your motherboard and other components. It will automatically recognize your system and find the correct drivers for it. You don’t need to know what hardware you’re using, you don’t need to know exactly what system your computer is running, and you don’t need to risk downloading and installing the wrong driver.
 
  You can download and install your drivers by using either Free or**Pro** version of Driver Easy. But with the Pro version it takes only**2** clicks (and you get**full support** and a**30-day money back guarantee** ):
@@ -104,8 +104,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad079b7c4632.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad07bcee6d2e.jpg)
@@ -118,8 +119,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +126,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>[New] 2024 Approved For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-diverse-iptv-content-distribution/"><u>[Updated] 2024 Approved Diverse IPTV Content Distribution</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tackling-iphone-lens-failures-with-ease/"><u>[Updated] 2024 Approved Tackling iPhone Lens Failures with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-rumored-comeback-of-airpower-charging-pad-unveiling-the-latest-leak/"><u>Apple's Rumored Comeback of AirPower Charging Pad - Unveiling the Latest Leak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-13-ultra-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-streamline-your-content-upload-instagram-videos-from-desktop/"><u>In 2024, Streamline Your Content Upload Instagram Videos From Desktop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-definitive-iphone-podcast-download-guide/"><u>In 2024, The Definitive iPhone Podcast Download Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-apple-enables-direct-voice-recording-feature-no-more-need-for-extra-apps-technews/"><u>IOS 18: Apple Enables Direct Voice Recording Feature, No More Need for Extra Apps! - TechNews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-365-packaged-in-apples-new-vision-pro-get-access-to-word-excel-on-day-one-exclusive-by-zdnet/"><u>Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssional-shootings-optimal-lenses-for-youtube-videographers/"><u>Professional Shootings Optimal Lenses for YouTube Videographers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-pro-protection-gear-professional-testing-and-reviews-by-techguru/"><u>Top-Rated iPad Pro Protection Gear - Professional Testing & Reviews by TechGuru</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/trouble-with-windows-11-update-kb5003689-discover-4-quick-fixes/"><u>Trouble with Windows 11 Update KB5003689? Discover 4 Quick Fixes!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unexpected-steal-apple-m2-macbook-air-available-for-just-800-before-prime-day-the-latest-deals-unveiled-by-tech-expert/"><u>Unexpected Steal! Apple M2 MacBook Air Available for Just $800 Before Prime Day - The Latest Deals Unveiled by Tech Expert</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-to-safe-and-fun-cell-phones-for-children-the-ideal-choices/"><u>ZDNet's Ultimate Guide to Safe and Fun Cell Phones for Children: The Ideal Choices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cost Prohibits New AI Capabilities From Landing on Previous Generation iPhones - Insight
-date: 2025-01-21T00:04:41.494Z
-updated: 2025-01-23T00:01:04.106Z
+date: 2025-01-25T18:20:12.932Z
+updated: 2025-01-30T18:06:32.870Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,24 +120,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-pioneering-efficient-editing-embrace-inshot-software/"><u>[New] In 2024, Pioneering Efficient Editing Embrace Inshot Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-methods-to-rectify-obs-fullscreen-crash/"><u>[New] Methods to Rectify OBS Fullscreen Crash</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-video-creation-secrets-of-the-professionals-unveiled/"><u>[New] YouTube Video Creation Secrets of the Professionals Unveiled</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-binge-worthy-20-catchy-tiktok-songs-by-artists/"><u>[Updated] Binge-Worthy 20 Catchy TikTok Songs by Artists</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-learning-with-lenovo-how-to-avail-student-discounts-for-computers-and-accessories/"><u>Affordable Learning with Lenovo: How to Avail Student Discounts for Computers and Accessories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-nightmare-no-more-effective-solutions-for-the-black-screen-dilemma/"><u>Android Nightmare No More: Effective Solutions for the Black Screen Dilemma</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722855049012-basketball-bonanza-unleashed-experience-the-thrills-of-march-madness-and-final-four-live/"><u>Basketball Bonanza Unleashed: Experience the Thrills of March Madness & Final Four Live!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-handbook-to-understanding-twitch-interactions-and-chat-dynamics/"><u>Beginner's Handbook to Understanding Twitch Interactions and Chat Dynamics</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/cambie-su-video-mp4-por-un-formato-webm-sin-costo-alguno-usando-conversor-de-video-online-gratuito/"><u>Cambie Su Video MP4 Por Un Formato WebM Sin Costo Alguno Usando Conversor De Video Online Gratuito</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-fix-lameencdll-error-messages-in-your-audacity-setup/"><u>Effective Solutions to Fix lame_enc.dll Error Messages in Your Audacity Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoying-cinematic-depth-at-home-with-fandangos-3d-streaming-options/"><u>Enjoying Cinematic Depth at Home with Fandango's 3D Streaming Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-effectively-cleaning-a-mechanical-key-switchboard/"><u>Expert Advice for Effectively Cleaning a Mechanical Key Switchboard</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-convert-srt-with-ease-the-finest-free-converters-ranked/"><u>In 2024, Convert SRT with Ease - The Finest FREE Converters Ranked</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insider-info-on-the-2023-samsung-galaxy-s25-specs-reveal-expected-costs-and-launch-schedule/"><u>Insider Info on the 2023 Samsung Galaxy S25: Specs Reveal, Expected Costs and Launch Schedule</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-setup-linking-your-playstation-4-controller-to-console/"><u>Master the Setup: Linking Your PlayStation 4 Controller to Console</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/paying-monthly-for-premium-apple-knowledge-a-potential-opportunity-at-only-20-a-pop-according-to-zdnet/"><u>Paying Monthly for Premium Apple Knowledge: A Potential Opportunity at Only $20 a Pop, According to ZDNet.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-lameencdll-issues-in-audacity-for-smooth-mp3-encoding/"><u>Resolving lame_enc.dll Issues in Audacity for Smooth MP3 Encoding</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transfert-gratuit-dimage-orf-vers-png-en-ligne-avec-convertisseurs-mouvavi/"><u>Transfert Gratuit D'image ORF Vers PNG en Ligne Avec Convertisseurs - Mouvavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/upgrade-clips-adding-effects-to-videos-pcmobile/"><u>Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-intrigue-initiates-the-leading-10-rogues/"><u>[Updated] 2024 Approved Intrigue Initiates The Leading 10 Rogues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-crafting-new-frontiers-with-webcam-capabilities-for-2024/"><u>[Updated] Crafting New Frontiers with Webcam Capabilities for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-creating-an-impactful-film-short-summary/"><u>[Updated] Creating an Impactful Film Short Summary</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-removing-unwanted-audio-from-videos-essential-steps/"><u>[Updated] Removing Unwanted Audio From Videos - Essential Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-apple-slashes-mac-mini-prices-new-m2-model-now-just-479-tech-news/"><u>1. Apple Slashes Mac Mini Prices: New M2 Model Now Just $479 - Tech News</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>2024 Approved Quick, Quality Edits The Ultimate Guide to Pixlr</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728506903547-windows-7-11/"><u>最新のセキュリティと耐久性でWindows 7-11の古いバックアップイメージを適切に廃棄する手順</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-battery-lifespan-uncovered-unexpected-discoveries-revealed-tech-insights/"><u>Apple Watch Battery Lifespan Uncovered: Unexpected Discoveries Revealed! | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-top-tier-tablets-face-off-selecting-the-perfect-ipad-pro-model-from-apples-flagship-lineup-expert-advice-on-zdnet/"><u>Apple's Top-Tier Tablets Face-Off: Selecting the Perfect iPad Pro Model From Apple’s Flagship Lineup | Expert Advice on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-demystified-what-you-need-to-know-about-this-advanced-language-model/"><u>ChatGPT Demystified: What You Need to Know About This Advanced Language Model</u></a></li>
+<li><a href="https://win-data.techidaily.com/efficient-external-hard-drive-synchronization-with-windows-os-top-techniques-and-tools/"><u>Efficient External Hard Drive Synchronization with Windows OS - Top Techniques and Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-much-money-do-podcasters-spend-for-2024/"><u>How Much Money Do Podcasters Spend for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prices-unchanged-the-apple-watch-series-se-remains-steeply-discounted-post-prime-day/"><u>Prices Unchanged - The Apple Watch Series SE Remains Steeply Discounted Post-Prime Day</u></a></li>
+<li><a href="https://driver-error.techidaily.com/software-lack-for-device-noticed-by-os/"><u>Software Lack for Device Noticed by OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/this-months-treasure-trove-exclusive-list-of-top-ranking-max-documentaries-july-2024/"><u>This Month's Treasure Trove: Exclusive List of Top-Ranking Max Documentaries (July 2024)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-18-unbeatable-primeside-tech-bargains-on-computers-from-brands-like-hp-apple-and-razer-exclusive-offersprime-day-techinsight/"><u>Top 18 Unbeatable Primeside Tech Bargains on Computers From Brands Like HP, Apple & Razer - Exclusive Offers![Prime Day] | TechInsight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-ios-phones-of-2024-in-depth-expert-evaluations-and-rankings-zdnet/"><u>Unveiling the Ultimate iOS Phones of 2024: In-Depth Expert Evaluations and Rankings | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Record Screen with Audio on Windows [Best Solution]
-date: 2024-08-18T22:53:54.309Z
-updated: 2024-08-19T22:53:54.309Z
+date: 2025-01-25T17:32:50.152Z
+updated: 2025-01-30T18:03:37.058Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ _Skype can’t connect_
  **Method 3:[Check for Available Windows Update](https://tools.techidaily.com/drivereasy/download/)**
  **Method 4:[Refresh Network Settings](https://tools.techidaily.com/drivereasy/download/)**
  **Method 5:[Update Network Card Driver](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Skype Heartbeat
 
@@ -67,6 +71,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4105e1a55.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4174c0407.jpg)
@@ -89,6 +97,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba445219ad3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When prompted to give administrator permission, click**Yes** .
 
  2) Type the following commands. Make sure that you have made no typo and then press the**Enter** key on your keyboard after each command.
@@ -106,11 +118,12 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba44fb14d3b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -126,17 +139,15 @@ netsh int tcp show global
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -145,8 +156,6 @@ netsh int tcp show global
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +163,19 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-easy-methods-for-archiving-digital-meeting-recordings/"><u>[New] Easy Methods for Archiving Digital Meeting Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revealing-the-best-in-class-splitcams-videography-edge/"><u>2024 Approved Revealing the Best in Class SplitCam's Videography Edge</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-apple-watch-enthusiasts-take-note-the-series-se-is-set-for-major-improvements-insights-from-zdnet/"><u>Budget Apple Watch Enthusiasts, Take Note! The Series SE Is Set for Major Improvements - Insights From ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comment-deplacer-votre-systemes-et-partitions-de-demarrage-sur-des-disques-separes-un-guide-complet/"><u>Comment Déplacer Votre Systèmes Et Partitions De Démarrage Sur Des Disques Séparés : Un Guide Complet</u></a></li>
+<li><a href="https://games-able.techidaily.com/coordinating-multiple-ps5-game-clubs-effectively/"><u>Coordinating Multiple PS5 Game Clubs Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-who-is-watching-your-youtube-videos-with-these-simple-steps/"><u>Discover Who Is Watching Your YouTube Videos with These Simple Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic V2?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-considerations-every-buyer-should-know-about-smartwatches/"><u>Key Considerations Every Buyer Should Know About Smartwatches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-cellular-connection-issues-on-iphones-post-ios-1721-update-tips-and-tricks-zdnet/"><u>Solving Cellular Connection Issues on iPhones Post-iOS 17.2.1 Update - Tips & Tricks | ZDNET</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-list-5-premium-live-stream-recorders-for-2024/"><u>The Ultimate List 5 Premium Live Stream Recorders for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-2-efficient-techniques-to-create-a-bootable-norton-ghost-usb-drive-for-various-windows-versions/"><u>Top 2 Efficient Techniques to Create a Bootable Norton Ghost USB Drive for Various Windows Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unboxing-the-quirky-comfort-of-apple-vision-pros-budget-friendly-199-bag-tech-insights/"><u>Unboxing the Quirky Comfort of Apple Vision Pro’s Budget-Friendly $199 Bag | Tech Insights</u></a></li>
+</ul></div>
 

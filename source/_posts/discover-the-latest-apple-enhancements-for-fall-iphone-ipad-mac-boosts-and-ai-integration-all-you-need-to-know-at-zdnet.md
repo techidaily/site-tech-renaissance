@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2025-01-20T03:39:36.477Z
-updated: 2025-01-23T05:51:08.976Z
+date: 2025-01-29T16:08:02.858Z
+updated: 2025-01-30T16:17:40.443Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -77,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -99,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -115,6 +111,10 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,15 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-alias-update-on-google-meet-devices/"><u>[New] 2024 Approved Mastering Alias Update on Google Meet Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-ios-auditory-pleasures/"><u>2024 Approved The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-online-cinema-experiences-a-selection-of-top-12-picks/"><u>Best Free Online Cinema Experiences: A Selection of Top 12 Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-how-to-turn-off-user-authentication-feature-in-windows-11/"><u>Comprehensive Instructions: How to Turn Off User Authentication Feature in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-joining-shared-albums-in-the-photos-app-on-ios/"><u>Guide to Joining Shared Albums in the Photos App on iOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-deciphering-the-secrets-of-zd-soft-recorder/"><u>In 2024, Deciphering the Secrets of ZD Soft Recorder</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-14-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 14 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-resolving-libxml2dll-file-missing-issue/"><u>Solving the Mystery: Resolving 'libxml2.dll File Missing' Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/why-you-might-prefer-windows-11-to-apples-macos/"><u>Why You Might Prefer Windows 11 to Apple's macOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-accelerating-operations-discover-the-leading-scheduling-tools-for-2024/"><u>[Updated] Accelerating Operations Discover the Leading Scheduling Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazing-fourth-of-july-cellphone-offers-find-your-perfect-plan-with-exclusive-discounts-at-zdnet/"><u>Amazing Fourth of July Cellphone Offers - Find Your Perfect Plan with Exclusive Discounts at ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-the-theater-experience-to-you-a-step-by-step-guide-for-streaming-incredible-aturas-in-3d-using-fandango-at-home/"><u>Bring the Theater Experience to You: A Step by Step Guide for Streaming Incredible Aturas in 3D Using Fandango at Home</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dialing-down-flickering-in-your-acer-device/"><u>Dialing Down Flickering in Your Acer Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-essential-devices-to-enhance-your-experience-of-pet-care-and-management/"><u>Discover Essential Devices to Enhance Your Experience of Pet Care & Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-fortnite-mobile-again-your-ultimate-guide-to-downloading-and-playing-on-ios-devices-techsavvy/"><u>Enjoy Fortnite Mobile Again: Your Ultimate Guide to Downloading and Playing on iOS Devices | TechSavvy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-homes-with-ai-exploring-apples-vision-of-domestic-robot-companions/"><u>Future Homes with AI: Exploring Apple's Vision of Domestic Robot Companions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-tech-news-apple-aims-to-integrate-cameras-in-next-gen-airpods-by-2026-insights-from-zdnet/"><u>Future Tech News: Apple Aims to Integrate Cameras in Next-Gen AirPods by 2026 – Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-guiding-you-through-youtubes-view-limitations/"><u>In 2024, Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveil-the-ultimate-8-online-places-to-find-free-3d-text-files/"><u>In 2024, Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-3gp-video-cutter-tutorial-2023-edition/"><u>New In 2024, The Ultimate 3GP Video Cutter Tutorial 2023 Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/real-time-broadcasting-made-easy-with-manycam-your-ultimate-choice-in-screen-recording-and-virtual-camera-solutions/"><u>Real-Time Broadcasting Made Easy with ManyCam - Your Ultimate Choice in Screen Recording and Virtual Camera Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-non-lenovo-non-dell-2-in-1-laptop-choice-best-value-pre-prime-day-deals-unveiled/"><u>Top Non-Lenovo, Non-Dell 2-in-1 Laptop Choice: Best Value Pre-Prime Day Deals Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891023082-upcoming-apples-audiophile-smartwatch-launch-date-pricing-and-feature-rumors/"><u>Upcoming Apple's Audiophile Smartwatch: Launch Date, Pricing & Feature Rumors</u></a></li>
 </ul></div>
 

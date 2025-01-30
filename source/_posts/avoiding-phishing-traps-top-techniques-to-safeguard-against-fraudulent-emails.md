@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Phishing Traps: Top Techniques to Safeguard Against Fraudulent Emails"
-date: 2024-08-18T22:55:39.260Z
-updated: 2024-08-19T22:55:39.260Z
+date: 2025-01-28T17:23:36.728Z
+updated: 2025-01-30T18:54:25.201Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ In this article, you’ll learn:
 
  The screen resolution or display resolution determines the clarity and number of items displayed on your computer screen. It’s measured horizontally and vertically in pixels. At lower screen resolutions, such as 800 x 600, texts and images appear larger but less items fit on the screen. At higher resolutions, such as 1920 x 1080, more items fit on the screen, with smaller and sharper appearances.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to change screen resolution in Windows 10 easily
 
 You can follow these easy steps:
@@ -36,6 +40,11 @@ You can follow these easy steps:
 2. Under**Resolution** , select an option from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5da0169957.jpg)  
  Note: The recommended resolution for your screen may be different, as the resolution modes vary with each monitor, based on the monitor size, graphics card, graphics card driver and monitor driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5da2150aed.jpg)
 3. You may be prompted to decide within 15 seconds whether you want to keep the change to your screen resolution.  
 
@@ -45,8 +54,9 @@ You can follow these easy steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip: How to fix screen resolution issues
 
  Missing or outdated graphics card and monitor drivers may also affect your screen resolution. You should always keep your graphics card and monitor drivers up to date.
@@ -63,23 +73,17 @@ OR
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5befdf13eedd8.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5befdf7c39e1b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .  
 
 * [screen](https://tools.techidaily.com/drivereasy/download/)
@@ -91,8 +95,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +102,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-enhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads/"><u>[New] 2024 Approved Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-video-popularity-mastering-youtube-thumbnail-selection/"><u>[Updated] 2024 Approved Achieving Video Popularity Mastering YouTube Thumbnail Selection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-android-screencasting-methods-unveiled/"><u>[Updated] 2024 Approved Android Screencasting Methods Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-boosting-your-gaming-footage-on-latest-windows-11/"><u>[Updated] 2024 Approved Boosting Your Gaming Footage on Latest Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-advanced-techniques-in-fbx-game-filming/"><u>[Updated] Advanced Techniques in FBX Game Filming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-profit-on-facebook-essential-insights-and-hacks/"><u>2024 Approved Mastering Profit on Facebook Essential Insights & Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-techniques-for-youtube-video-format-switching/"><u>2024 Approved Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-labor-day-special-secure-an-ipad-for-a-steal-at-199-reviews-and-deals-featured/"><u>Amazon Labor Day Special: Secure an iPad for a Steal at $199 – Reviews & Deals Featured</u></a></li>
+<li><a href="https://app-tips.techidaily.com/defend-your-digital-life-expert-strategies-for-microsoft-account-security-by-zdnet-experts/"><u>Defend Your Digital Life: Expert Strategies for Microsoft Account Security by ZDNet Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-unbeatable-savings-own-the-latest-apple-watch-series-n-for-only-99-by-preordering-now-at-best-buy-the-complete-walkthrough-zdnet/"><u>Discover Unbeatable Savings: Own the Latest Apple Watch Series N for Only $99 by Preordering Now at Best Buy - The Complete Walkthrough | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722877646014-effortless-typography-tweaks-in-windows-11-learn-how-to-change-fonts-easily/"><u>Effortless Typography Tweaks in Windows 11 – Learn How to Change Fonts Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-updated-2nd-generation-apple-watch-se-with-an-80-sale-post-prime-day-insights-from-zdnet/"><u>Explore the Updated 2Nd Generation Apple Watch SE with an $80 Sale Post-Prime Day - Insights From ZDNet!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ultimate-protective-gear-best-iphone-1212-pro-cases-of-2023-according-to-zdnet/"><u>Exploring the Ultimate Protective Gear: Best iPhone 12/12 Pro Cases of 2023, According to ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-chatgpt-mobile-app-right-for-you-consider-these-reasons-to-avoid-downloading/"><u>Is the ChatGPT Mobile App Right for You? Consider These Reasons to Avoid Downloading</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-ipad-potential-for-peak-performance-discover-top-tools-to-boost-workflow-insights/"><u>Maximizing iPad Potential for Peak Performance: Discover Top Tools to Boost Workflow - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-projecting-your-laptop-screen-onto-a-tv-through-hdmi/"><u>Step-by-Step Tutorial on Projecting Your Laptop Screen Onto a TV Through HDMI</u></a></li>
+</ul></div>
 

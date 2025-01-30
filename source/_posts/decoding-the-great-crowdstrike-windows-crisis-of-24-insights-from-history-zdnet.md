@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2025-01-20T05:51:49.891Z
-updated: 2025-01-22T22:10:52.942Z
+date: 2025-01-23T18:41:10.636Z
+updated: 2025-01-30T18:16:47.397Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-copycat-techniques-for-social-media-success/"><u>[Updated] TikTok Copycat Techniques for Social Media Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-places-for-pickleball-the-ultimate-ranking-of-americas-top-3-states/"><u>Discover the Best Places for Pickleball: The Ultimate Ranking of America's Top 3 States</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-choices-for-action-camera-gear-in-202-groovy-year-expert-insights-from-zdnet/"><u>Discover the Ultimate Choices for Action Camera Gear in 202 Groovy Year – Expert Insights From ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-zero-emission-fire-pits-for-2ebutry-your-outdoor-space/"><u>Discover the Ultimate Selection of Zero Emission Fire Pits for 2Ebutry Your Outdoor Space</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-solar-charger-rankings-on-zdnet-the-top-picks/"><u>Discover the Ultimate Solar Charger Rankings on ZDNET: The Top Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-guide-crafting-your-own-camera-obscura-for-safe-solar-eclipse-viewing-tips-and-tricks/"><u>DIY Guide: Crafting Your Own Camera Obscura for Safe Solar Eclipse Viewing – Tips & Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-graphics-drivers-compatible-with-windows-7/"><u>Download AMD Radeon Graphics Drivers Compatible with Windows 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/durability-and-water-resistance/"><u>Durability & Water Resistance</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effizientster-ansatz-fur-die-kopie-einer-dual-boot-festplatte-auf-eine-ssd/"><u>Effizientster Ansatz Für Die Kopie Einer Dual-Boot Festplatte Auf Eine SSD</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/full-screen-recorder-azs-complete-application-review-for-2024/"><u>Full Screen Recorder - AZ's Complete Application Review for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-maximize-storage-essential-xbox-drive-picks-reviewed/"><u>In 2024, Maximize Storage Essential Xbox Drive Picks Reviewed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-tier-action-cams-for-sports-enthusiasts/"><u>Top-Tier Action Cams for Sports Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-align-video-content-with-instagram-viewer-preferences/"><u>[New] 2024 Approved Align Video Content with Instagram Viewer Preferences</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>[New] 2024 Approved Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-brightening-up-your-youtube-content-for-2024/"><u>[New] The Ultimate Guide to Brightening Up Your YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-can-i-stream-in-hd-1080p-on-facebook/"><u>[Updated] 2024 Approved How Can I Stream in HD 1080P on Facebook?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-legal-harmonies-unpacking-music-policy-on-instagram/"><u>[Updated] Legal Harmonies Unpacking Music Policy on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-obs-overpower-vs-streamlabs-supremacy/"><u>[Updated] OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-video-testimonial-why-its-so-important-for-marketing-for-2024/"><u>[Updated] Video Testimonial! Why It's So Important for Marketing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-flagship-phones-google-pixel-student/"><u>Comparing Flagship Phones: Google Pixel # Student</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creative-and-perfect-gifting-solutions-for-the-clueless-shopper/"><u>Creative and Perfect Gifting Solutions for the Clueless Shopper</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-accessories-for-your-freshly-bought-iphone-next-week-discover-the-best-choices-on-zdnets-latest-review-of-anker-products/"><u>Essential Accessories for Your Freshly Bought iPhone Next Week - Discover the Best Choices on ZDNet's Latest Review of Anker Products</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-video-editing-compatible-software-across-windows-systems/"><u>Pro Video Editing Compatible Software Across Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-no-cost-web-based-fax-providers-your-comprehensive-guide/"><u>Top 7 No-Cost Web-Based Fax Providers: Your Comprehensive Guide</u></a></li>
 </ul></div>
 

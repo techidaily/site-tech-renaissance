@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2025-01-17T05:32:34.712Z
-updated: 2025-01-23T06:40:30.858Z
+date: 2025-01-26T17:52:37.682Z
+updated: 2025-01-30T16:54:31.705Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-list-of-high-quality-streaming-services-for-cricket-fans/"><u>[New] In 2024, The Ultimate List of High-Quality Streaming Services for Cricket Fans</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[New] The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-tweeting-tiktoks/"><u>[Updated] 2024 Approved Mastering the Art of Tweeting TikToks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-whos-bookmarking-a-guide-to-tracking-saves-on-instagram/"><u>Discover Who's Bookmarking: A Guide to Tracking Saves on Instagram</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-ultimate-guide-to-setting-up-your-home-entertainment-for-the-big-game/"><u>Expert Advice: Ultimate Guide to Setting Up Your Home Entertainment for the Big Game</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-recommendations-best-stores-to-buy-your-next-phone/"><u>Expert Recommendations: Best Stores to Buy Your Next Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-our-select-top-rated-learning-apps-for-2amidst/"><u>Explore Our Select Top-Rated Learning Apps for 2Amidst</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-and-functions-of-dts-virtualx/"><u>Exploring the Features and Functions of DTS Virtual:X</u></a></li>
-<li><a href="https://games-able.techidaily.com/hot-swap-innovation-meets-gaming-in-the-razer-blackwidow-v4/"><u>Hot-Swap Innovation Meets Gaming in the Razer BlackWidow V4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-achieve-a-3-screen-display-connecting-monitors-with-your-device/"><u>How To Achieve A 3-Screen Display: Connecting Monitors With Your Device</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-a-safe-guide-to-speeding-up-audio-on-spotify/"><u>In 2024, A Safe Guide to Speeding Up Audio on Spotify</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>In 2024, From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722897188535-price-points-and-arrival-forecast-for-the-upcoming-apple-home-assistant-robot-full-details-inside/"><u>Price Points and Arrival Forecast for the Upcoming Apple Home Assistant Robot - Full Details Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-eyewear-of-2024-a-comprehensive-guide/"><u>Top-Rated Smart Eyewear of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-netflix-issues-a-comprehensive-guide-for-lg-smart-tvs/"><u>Troubleshoot Netflix Issues: A Comprehensive Guide for LG Smart TVs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/uncluttered-window-logger-w10-version/"><u>Uncluttered Window Logger W10 Version</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/uncovering-your-personalized-playlist-hideaway-for-2024/"><u>Uncovering Your Personalized Playlist Hideaway for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-crack-the-code-7-effective-ways-to-find-filmora-coupons/"><u>Updated 2024 Approved Crack the Code 7 Effective Ways to Find Filmora Coupons</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-craftsmits-and-cinematography-precision-in-aspect-ratios/"><u>[New] 2024 Approved Craftsmits and Cinematography Precision in Aspect Ratios</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-blending-words-with-pictures-adding-text-to-images-windowsmac/"><u>[New] Blending Words with Pictures Adding Text to Images, Windows/Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-critique-the-ultimate-review-for-bublcam-360-camera/"><u>[New] Complete Critique The Ultimate Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-digital-photography-how-to-erase-unwanted-areas-for-2024/"><u>[New] Digital Photography How to Erase Unwanted Areas for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unraveling-periscopes-mystique-is-it-free-and-how-to-signup/"><u>[Updated] 2024 Approved Unraveling Periscope's Mystique Is It Free and How to Signup?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-why-apples-latest-ipad-air-with-m2-chip-is-the-ideal-choice-for-consumers-insights/"><u>Comprehensive Guide: Why Apple's Latest iPad Air with M2 Chip Is the Ideal Choice for Consumers - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-reviews-on-all-iphone-16-models-top-pick-and-shopping-guide/"><u>Expert Reviews on All iPhone 16 Models - Top Pick & Shopping Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-hd-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 8 HD to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reinstate-precise-sound-in-zoom-chats-for-2024/"><u>Reinstate Precise Sound in Zoom Chats for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ideal-tech-accessory-unpacking-my-experience-with-the-discounted-apple-watch-ultra-2-for-labor-day-deals/"><u>The Ideal Tech Accessory: Unpacking My Experience with the Discounted Apple Watch Ultra 2 for Labor Day Deals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-pro-protection-gear-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated iPad Pro Protection Gear - Comprehensive Reviews & Ratings by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-a-premium-vpn-for-your-mac-professional-insights/"><u>Ultimate Guide to Choosing a Premium VPN for Your Mac: Professional Insights</u></a></li>
 </ul></div>
 

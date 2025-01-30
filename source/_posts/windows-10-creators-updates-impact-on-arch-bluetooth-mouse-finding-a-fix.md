@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Creators Updates Impact on Arch Bluetooth Mouse - Finding a Fix
-date: 2024-08-18T22:55:28.305Z
-updated: 2024-08-19T22:55:28.305Z
+date: 2025-01-24T17:28:10.692Z
+updated: 2025-01-30T17:53:08.143Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ _Skype can’t connect_
  **Method 3:[Check for Available Windows Update](https://tools.techidaily.com/drivereasy/download/)**
  **Method 4:[Refresh Network Settings](https://tools.techidaily.com/drivereasy/download/)**
  **Method 5:[Update Network Card Driver](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Skype Heartbeat
 
@@ -65,6 +69,10 @@ _Skype can’t connect_
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba41495099c.png) and**I** at the same time. Click**Update & security** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4105e1a55.png)
 
  2) Click**Check for updates** .
@@ -89,6 +97,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba445219ad3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When prompted to give administrator permission, click**Yes** .
 
  2) Type the following commands. Make sure that you have made no typo and then press the**Enter** key on your keyboard after each command.
@@ -106,11 +118,16 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba44fb14d3b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -125,18 +142,12 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -145,8 +156,6 @@ netsh int tcp show global
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +163,21 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-dominate-your-niche-on-fb-with-these-10-keyword-strategies-for-2024/"><u>[Updated] Dominate Your Niche on FB with These 10 Keyword Strategies for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pinnacle-apps-androids-ultimate-cloud-keepsakes-for-2024/"><u>[Updated] Pinnacle Apps Android's Ultimate Cloud Keepsakes for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-install-kinemaster-on-mac-a-comprehensive-tutorial/"><u>2024 Approved Install KineMaster on Mac A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-leading-6-social-sites-for-enterprise-communication/"><u>2024 Approved Leading 6 Social Sites for Enterprise Communication</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptive-tech-past-meets-present-innovative-adapters-for-mounting-gtx-960-onto-outdated-agp-connections/"><u>Adaptive Tech Past Meets Present: Innovative Adapters for Mounting GTX 960 Onto Outdated AGP Connections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722875147203-boost-productivity-with-macbook-air-the-comprehensive-step-by-step-guide-to-splitting-screens/"><u>Boost Productivity with MacBook Air: The Comprehensive Step-by-Step Guide to Splitting Screens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-apple-echo-assistant-a-detailed-comparison-between-homepod-and-homepod-mini/"><u>Choosing the Perfect Apple Echo Assistant: A Detailed Comparison Between HomePod and HomePod Mini</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Pro Phone without PIN</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-youtube-tracks-to-video-works/"><u>In 2024, Harmonizing YouTube Tracks to Video Works</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vesting-in-a-monthly-youtube-premium-worthwhile-for-2024/"><u>Is Investing in a Monthly YouTube Premium Worthwhile for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-cellphone-offers-and-discounts-this-4th-of-july-techradar/"><u>Top Cellphone Offers and Discounts This 4Th of July - TechRadar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-choices-for-uncertain-occasions-finding-the-ideal-token-of-appreciation/"><u>Top Choices for Uncertain Occasions: Finding the Ideal Token of Appreciation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-top-4-innovations-of-ipados-18-released-during-wwdc-2023-and-their-availability-across-different-ipad-models-gadgetguru/"><u>Unpacking the Top 4 Innovations of iPadOS 18 Released During WWDC 2023 and Their Availability Across Different iPad Models | GadgetGuru</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-im-holding-off-on-the-next-gen-m4-mac-mini-in-favor-of-mac-studio-key-features-compared/"><u>Why I'm Holding Off on the Next-Gen M4 Mac Mini in Favor of Mac Studio: Key Features Compared</u></a></li>
+</ul></div>
 

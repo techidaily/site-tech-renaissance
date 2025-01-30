@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending & Receiving iMessage From a PC with Windows - Tech Tips"
-date: 2025-01-16T04:17:07.116Z
-updated: 2025-01-23T02:50:31.168Z
+date: 2025-01-25T19:20:22.472Z
+updated: 2025-01-30T16:49:31.263Z
 tags:
   - apple
 categories:
@@ -42,11 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
 
@@ -76,6 +76,10 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -88,6 +92,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -99,10 +107,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -126,10 +130,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -137,7 +137,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -146,15 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,16 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-vimeo-video-editing-top-5-techniques-for-cuts-and-trimming/"><u>[New] In 2024, Mastering Vimeo Video Editing Top 5 Techniques for Cuts & Trimming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-vegaspro-2019-a-comprehensive-analysis/"><u>2024 Approved VegasPro 2019 A Comprehensive Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/3-insight-on-zdnet/"><u>3 - Insight on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-apple-vision-pro-key-discoveries-after-two-days-of-testing-zdnet-tech-blog/"><u>Exploring the Apple Vision Pro: Key Discoveries After Two Days of Testing | ZDNet Tech Blog</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/federal-commission-greenlights-enhanced-6ghz-spectrum-use-for-immersive-tech-arvr-devices-gain-speed-boost-zdnet-reports/"><u>Federal Commission Greenlights Enhanced 6GHz Spectrum Use for Immersive Tech: AR/VR Devices Gain Speed Boost, ZDNet Reports</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/optimal-video-chat-on-windows-1-8/"><u>Optimal Video Chat on Windows #1-8</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-waiting-game-for-meta-ai-understanding-the-hold-up-on-lying-down-mode-feature-in-metas-upcoming-quest-evolution-tech-analysis-by-zdnet/"><u>The Waiting Game for Meta AI: Understanding the Hold-Up on 'Lying Down Mode' Feature in Meta’s Upcoming Quest Evolution | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-3-critical-mistakes-in-handling-apple-vision-pro-avoid-them-or-risk-losing-it-all-insights-by-zdnet/"><u>Top 3 Critical Mistakes in Handling Apple Vision Pro - Avoid Them or Risk Losing It All | Insights by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-standard-in-business-laptops-an-in-depth-review-of-the-thinkpad-x1-carbon-gen-12/"><u>Unveiling the New Standard in Business Laptops: An In-Depth Review of the ThinkPad X1 Carbon (Gen 12)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-time-lapse-mastery-top-apps-for-iphone-and-android-users-for-2024/"><u>Updated Time-Lapse Mastery Top Apps for iPhone and Android Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-users-explore-these-8-great-video-editors/"><u>Windows Users, Explore These 8 Great Video Editors</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719154336903-ethereum-explorer-facebook-ceos-curious-goat-nickname/"><u>'Ethereum Explorer': Facebook CEO's Curious Goat Nickname</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-from-phone-screen-to-home-screen-enabling-fb-video-viewing-on-appletv/"><u>[New] 2024 Approved From Phone-Screen to Home Screen Enabling FB Video Viewing on AppleTV</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-innovating-your-videos-first-impression-on-youtube/"><u>[New] 2024 Approved Innovating Your Video's First Impression on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avigating-the-best-freefire-tips-online-for-2024/"><u>[New] Navigating the Best FreeFire Tips Online for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-handling-live-stream-halt-a-guide-for-fb-users-for-2024/"><u>[Updated] Handling Live Stream Halt A Guide for FB Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outube-subscribers-hundreds-of-subscribers-for-5-in-2024/"><u>Buy YouTube Subscribers - Hundreds of Subscribers for $5, In 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/could-2024-mark-the-era-when-artificial-intelligence-fits-right-into-your-hand-insights/"><u>Could 2024 Mark the Era When Artificial Intelligence Fits Right Into Your Hand? Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-alternative-to-apple-and-tiles-wallet-airtags-the-ultimate-guide-by-zdnet/"><u>Discover the Best Alternative to Apple & Tile's Wallet AirTags - The Ultimate Guide by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-macos-applications-for-2eplus2d-expert-picks/"><u>Discover the Leading macOS Applications for 2E+2d - Expert Picks</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apple-is-transforming-user-experience-on-iphone-ipad-and-mac-with-partnership-in-openais-chatgpt-technology-zdnet/"><u>How Apple Is Transforming User Experience on iPhone, iPad & Mac with Partnership in OpenAI's ChatGPT Technology - ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 8? | Stellar</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/improve-your-scanning-experience-expert-advice-from-yl-software/"><u>Improve Your Scanning Experience: Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-m4-powered-ipad-pro-anticipating-next-level-ai-integration-at-apples-worldwide-developers-conference/"><u>Inside Look at the M4-Powered iPad Pro: Anticipating Next Level AI Integration at Apple's Worldwide Developers Conference</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m4-mac-mini-rumors-and-forecasts-price-predictions-release-dates-and-cutting-edge-features-revealed/"><u>M4 Mac Mini Rumors and Forecasts: Price Predictions, Release Dates & Cutting-Edge Features Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-level-sound-design-on-your-tablet-and-laptop-discover-how-apples-logic-pro-now-features-innovative-ai-band-members-exclusive-coverage/"><u>Next Level Sound Design on Your Tablet and Laptop! Discover How Apple's Logic Pro Now Features Innovative AI 'Band Members' – Exclusive Coverage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-to-getting-your-hands-on-a-free-macbook-air-m3-at-best-buy-expert-insights-by-zdnet-revealed/"><u>Unlock the Secret to Getting Your Hands on a Free MacBook Air M3 at Best Buy - Expert Insights by ZDNET Revealed!</u></a></li>
 </ul></div>
 

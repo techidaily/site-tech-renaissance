@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Step-by-Step Process of Performing a Factory Restore on Your Dell Computer"
-date: 2024-08-18T22:53:45.579Z
-updated: 2024-08-19T22:53:45.579Z
+date: 2025-01-29T18:20:46.884Z
+updated: 2025-01-30T18:28:46.437Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 
 1. **[Why should I set up a VPN on Xbox One?](https://tools.techidaily.com/drivereasy/download/)**
 2. **[How can I set up a VPN on Xbox One](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why should I set up a VPN on Xbox One?
 
@@ -82,16 +86,14 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
  Usually it’s located in the tab called ‘**Basic** ‘, ‘**Network** ‘, or ‘**WAN Setup** ‘. It varies from different router models.  
@@ -105,13 +107,14 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
  All set! Now you’re free to stream media and play games on your Xbox One.
@@ -131,20 +134,18 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3322be6ce67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
@@ -162,12 +163,13 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8af87822.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should now be able to using the VPN on your Xbox One.
 
@@ -185,8 +187,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,26 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-sharing-excellence-twitch-live-to-your-facebook-circle/"><u>[New] 2024 Approved Sharing Excellence Twitch Live to Your Facebook Circle</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-audio-enhancement-apps-for-youtubers-videos/"><u>[New] Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-camera-kings-picks-selecting-the-very-best-6-4k-dslrs/"><u>[New] In 2024, Camera Kings' Picks Selecting the Very Best 6 4K DSLRs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leveraging-ergonomics-for-superior-team-dynamics-in-the-workplace/"><u>[New] In 2024, Leveraging Ergonomics for Superior Team Dynamics in the Workplace</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-proving-ground-discovering-the-top-10-reel-making-apps-for-2024/"><u>[New] Proving Ground Discovering the Top 10 Reel-Making Apps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discover-the-depths-of-funimate-for-2024/"><u>[Updated] Discover the Depths of Funimate for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamline-income-tracking-essential-steps-in-gauging-youtube-earnings/"><u>[Updated] In 2024, Streamline Income Tracking Essential Steps in Gauging YouTube Earnings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ios-device-integration-with-android-images/"><u>[Updated] IOS Device Integration with Android Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-next-gen-broadcast-tools-outperforming-streamlabs-obs-for-2024/"><u>[Updated] Next-Gen Broadcast Tools Outperforming StreamLabs OBS for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-amps-up-artificial-intelligence-capabilities-with-latest-model-releases-techcrunch/"><u>Apple Amps Up Artificial Intelligence Capabilities with Latest Model Releases | TechCrunch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-new-iphone-16-is-it-worth-the-leap-from-iphone-15-top-comparisons-and-tips/"><u>Apple Unveils New iPhone 16 – Is It Worth the Leap From iPhone 15? Top Comparisons & Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-buzzwords-a-critical-look-at-opting-out-of-the-iphone-gro-up-16-expert-analysis/"><u>Beyond Buzzwords: A Critical Look at Opting Out of the iPhone Gro-Up 16 - Expert Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-the-keys-exploring-the-top-features-of-an-exceptional-iphone-case-on-zdnet/"><u>Beyond the Keys: Exploring the Top Features of an Exceptional iPhone Case on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-uncover-these-amazing-experiments-in-ios-18-beta-version/"><u>Get Ahead of the Curve: Uncover These Amazing Experiments in iOS 18 Beta Version</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-ios-1e5-draining-your-iphones-battery-discover-these-essential-7-tips-to-boost-performance/"><u>Is iOS 1E.5 Draining Your iPhone's Battery? Discover These Essential 7 Tips to Boost Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-universal-control-seamlessly-operating-your-ipad-and-mac-with-magic-wireless-connections-insider-tips-from-zdnet/"><u>Mastering Universal Control: Seamlessly Operating Your iPad & Mac with Magic Wireless Connections - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-adding-audio-to-microsoft-presentations/"><u>The Ultimate Guide to Adding Audio to Microsoft Presentations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-discounts-and-savings-in-july-2024-iphone-apple-watch-and-ipad-bargains/"><u>Top Apple Discounts & Savings in July 2024 - iPhone, Apple Watch & iPad Bargains</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-solutions-for-apples-oversight-during-recent-ipad-debut-strategies-to-rectify-and-improve-digital-innovation-blog/"><u>Unveiling Solutions for Apple's Oversight During Recent iPad Debut - Strategies to Rectify and Improve | Digital Innovation Blog</u></a></li>
+</ul></div>
 

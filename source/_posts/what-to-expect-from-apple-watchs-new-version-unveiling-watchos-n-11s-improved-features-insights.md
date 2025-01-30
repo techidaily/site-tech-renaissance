@@ -1,7 +1,7 @@
 ---
 title: What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights
-date: 2025-01-16T17:20:21.263Z
-updated: 2025-01-23T05:49:32.842Z
+date: 2025-01-23T17:41:03.164Z
+updated: 2025-01-30T19:11:14.392Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Track your strain and recovery with Vitals and Training Load
@@ -41,10 +41,6 @@ If two or more metrics are out of whack, you'll get a notification alerting you 
 Training Load is also coming in WatchOS 11, allowing you to keep track of the strain you put on your body during workouts. It'll compare the last seven days of workouts to the last 28 days to indicate whether you're making meaningful progress toward your goals. Each workout you record will receive an effort rating on a scale from 1 to 10 based on a new algorithm that measures your activity and gauges intensity based on things like age, height, weight, heart rate, elevation, and more.
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pause your rings
 
@@ -70,11 +66,19 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -84,16 +88,12 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
@@ -102,13 +102,13 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -152,24 +152,22 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-5-trimming-titles-tailored-to-your-youtube-needs/"><u>[Updated] In 2024, Top 5 Trimming Titles Tailored to Your YouTube Needs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-methods-for-scavenging-free-frame-videos/"><u>[Updated] Quick Methods for Scavenging Free Frame Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-tutorial-for-building-movies-on-windows-8/"><u>2024 Approved Step-by-Step Tutorial for Building Movies on Windows 8</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps/"><u>2024 Approved Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/behind-the-scenes-of-innovation-a-closer-look-at-samsungs-newest-phone-release/"><u>Behind the Scenes of Innovation: A Closer Look at Samsung’s Newest Phone Release</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-time-management-skills-on-social-media-with-5-smart-facebook-hacks/"><u>Boost Your Time Management Skills on Social Media with 5 Smart Facebook Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-tutorial-on-converting-advanced-systems-format-files-into-avi/"><u>Comprehensive Tutorial on Converting Advanced Systems Format Files Into AVI</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/corrective-steps-dealing-with-the-absent-comctl32dll-library/"><u>Corrective Steps: Dealing with the Absent comctl32.dll Library</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dial-up-drama-simple-steps-for-ps-coloring/"><u>Dial Up Drama Simple Steps for PS Coloring</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-15-free-windows-11-designs/"><u>Discover the Ultimate List of 15 FREE Windows 11 Designs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-workout-game-with-top-garmin-athletic-smartwatches-insights-from-zdnet/"><u>Elevate Your Workout Game with Top Garmin Athletic Smartwatches - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-desktop-aesthetics-by-altering-windows-10-taskbar-color/"><u>Enhance Your Desktop Aesthetics by Altering Windows 10 Taskbar Color</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-steps-for-resolving-dll-not-found-and-related-issues/"><u>Essential Steps for Resolving 'DLL Not Found' And Related Issues</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1986033-9781250082176-queer-astrology-for-women/"><u>Queer Astrology for Women | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-unbeatable-discounts-now-for-the-anticipated-october-2024-prime-day-deals-at-best-buy-zdnet-exclusive-insights/"><u>Secure Unbeatable Discounts Now for the Anticipated October 2024 Prime Day Deals at Best Buy | ZDNET Exclusive Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-to-keep-your-macbook-active-even-when-you-close-the-cover/"><u>Solutions to Keep Your MacBook Active Even When You Close the Cover</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-securing-your-money-back-from-steam-gaming-titles/"><u>Ultimate Guide to Securing Your Money Back From Steam Gaming Titles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-windows-blue-screen-error/"><u>Ultimate Guide: Resolving the Windows Blue Screen Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/update-your-mac-safely-with-macos-1441-insights-latest-coverage/"><u>Update Your Mac Safely with macOS 14.4.1: Insights Latest Coverage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-adjusting-settings-stop-automatic-additions-of-podcast-listings/"><u>[New] 2024 Approved Adjusting Settings Stop Automatic Additions of Podcast Listings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-action-camera-buying-for-newbies-the-updated-guide-23/"><u>[New] In 2024, Action Camera Buying for Newbies - The Updated Guide '23</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-year-end-curation-of-youtubes-most-compelling-stories/"><u>[Updated] A Year-End Curation of YouTube’s Most Compelling Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-video-velocity-top-android-helpers/"><u>[Updated] Boost Video Velocity - Top Android Helpers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-secrets-to-earning-from-viral-snippets/"><u>[Updated] Unlocking the Secrets to Earning From Viral Snippets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-lut-use-in-professional-video-editing/"><u>2024 Approved Navigating LUT Use in Professional Video Editing</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/a-step-by-step-guide-converting-iso-files-into-avi-format-maintaining-superior-image-clarity/"><u>A Step-by-Step Guide: Converting ISO Files Into AVI Format Maintaining Superior Image Clarity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-new-artificial-intelligence-program-expanding-learning-opportunities-to-countless-learners-and-graduates/"><u>Apple Unveils New Artificial Intelligence Program, Expanding Learning Opportunities to Countless Learners & Graduates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-zero-30-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Zero 30 5GFRP Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-comparison-the-new-macbook-air-m3-against-the-previous-generation-m2-expert-advice-from-zdnet/"><u>In-Depth Comparison: The New MacBook Air (M3) Against the Previous Generation (M2) – Expert Advice From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-apple-bringing-back-its-elusive-airpower-pad-new-video-suggests-a-switch-to-qi-wireless-charging-technology/"><u>Is Apple Bringing Back Its Elusive AirPower Pad? New Video Suggests a Switch to Qi Wireless Charging Technology.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2024-ultimate-guide-to-premium-apple-bargains-spotlighting-iphones-watches-and-tablets/"><u>July 2024 Ultimate Guide to Premium Apple Bargains: Spotlighting IPhones, Watches, and Tablets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sonos-unveils-s2-application-for-streamlined-audio-command-yet-beware-not-all-is-smooth-sailing-zdnet/"><u>Sonos Unveils S2 Application for Streamlined Audio Command, Yet Beware - Not All Is Smooth Sailing | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-36-unbeatable-apple-discounts-remaining-this-prime-day-score-big-savings-now/"><u>Top 36 Unbeatable Apple Discounts Remaining This Prime Day - Score Big Savings Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protectors-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protectors : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-stylus-tablets-featuring-comprehensive-reviews-by-tech-experts-zdnets-picks/"><u>Top-Rated Stylus Tablets Featuring Comprehensive Reviews by Tech Experts - ZDNet's Picks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/viewers-verdict-on-scopes-for-2024/"><u>Viewer's Verdict on Scopes for 2024</u></a></li>
 </ul></div>
 

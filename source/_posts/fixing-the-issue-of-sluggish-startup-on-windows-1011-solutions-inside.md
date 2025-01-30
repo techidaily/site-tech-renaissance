@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside!
-date: 2024-08-18T22:54:56.864Z
-updated: 2024-08-19T22:54:56.864Z
+date: 2025-01-25T16:22:42.086Z
+updated: 2025-01-30T16:52:36.566Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ _Skype can’t connect_
  **Method 4:[Refresh Network Settings](https://tools.techidaily.com/drivereasy/download/)**
  **Method 5:[Update Network Card Driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Skype Heartbeat
 
  If Skype is suddenly down, most of the case, the problem is not on your side. It could be Skype that is having issues. You can check Skype’s status by:
@@ -37,11 +41,19 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba324261c48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) You’ll see Skype’s system status from the newly opened web page. If something is wrong with Skype, you’ll see the message here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3393bc52d.jpg)
 
  3) If you do see message concerning connection problem, all you can do is to wait for Skype technicians to solve it on their end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Upgrade Skype to the latest version
 
@@ -54,6 +66,10 @@ _Skype can’t connect_
  2) Click**Update Classic Skype** or**Try the new Skype** as per your own needs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3ce447ed7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You can also go the the official website of Skype to download the latest version from there.
 
@@ -106,11 +122,12 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba44fb14d3b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -125,20 +142,12 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -147,8 +156,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +163,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-securely-extract-and-convert-youtube-audios-as-mp3-for-2024/"><u>[New] How To Securely Extract and Convert YouTube Audios as MP3 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphones-path-to-film-retrospection/"><u>[New] IPhone's Path to Film Retrospection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-revitalizes-artificial-intelligence-promising-developments-and-areas-needing-improvement-insights-from-zdnet/"><u>Apple Revitalizes Artificial Intelligence: Promising Developments and Areas Needing Improvement – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-released-but-where-are-the-big-names-discover-the-absences-that-matter/"><u>Apple Vision Pro Released, but Where Are the Big Names? Discover the Absences That Matter</u></a></li>
+<li><a href="https://fox-links.techidaily.com/extended-appraisal-hero4-black-performance/"><u>Extended Appraisal Hero4 Black Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leveraging-icloud-for-seamless-collaboration-on-apple-pages-documents-tips-and-techniques-guide/"><u>Leveraging iCloud for Seamless Collaboration on Apple Pages Documents: Tips & Techniques Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-more-need-for-extra-apps-how-ios-18-enables-direct-call-recording-on-apple-devices-techspot/"><u>No More Need for Extra Apps: How iOS 18 Enables Direct Call Recording on Apple Devices | TechSpot</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/recovering-deleted-data-on-iphone-13-or-14-steps-and-solutions/"><u>Recovering Deleted Data on iPhone 13 or 14 - Steps and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activating-slack-alerts-on-your-apple-wristwear-with-ios/"><u>Step-by-Step Guide: Activating Slack Alerts on Your Apple Wristwear with iOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/transform-your-work-life-via-social-media-strategies/"><u>Transform Your Work Life via Social Media Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-systemprofile-desktop-access-error-in-windows-cwindowsconfig/"><u>Troubleshooting: SystemProfile Desktop Access Error in Windows C: Windows Config</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-cut-and-split-wmv-videos-for-free-top-software-picks/"><u>Updated 2024 Approved Cut and Split WMV Videos for Free Top Software Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-journey-with-the-must-have-magsafe-3-in-1-charging-wizard-qi2-supported/"><u>Upgrade Your Journey with the Must-Have MagSafe 3-in-1 Charging Wizard | Qi2 Supported</u></a></li>
+</ul></div>
 

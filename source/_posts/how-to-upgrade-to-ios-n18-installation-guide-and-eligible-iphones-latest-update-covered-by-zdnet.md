@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2025-01-17T19:40:56.025Z
-updated: 2025-01-22T18:14:44.122Z
+date: 2025-01-26T17:50:20.698Z
+updated: 2025-01-30T16:47:53.380Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-capture-to-share-reviewing-the-newest-sprout-version/"><u>[New] 2024 Approved From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-low-cost-superior-circular-lenses-for-photos-and-videos/"><u>[Updated] Low-Cost, Superior Circular Lenses for Photos & Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-your-watch-activate-av1-on-youtube-platform/"><u>[Updated] Optimize Your Watch Activate AV1 on YouTube Platform</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits/"><u>[Updated] Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-virtual-cosmos-navigating-10-cinematic-worlds-in-science-fiction/"><u>[Updated] Virtual Cosmos Navigating 10 Cinematic Worlds in Science Fiction</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-printer-not-found-errors-with-an-ipad/"><u>Diagnosing and Repairing 'Printer Not Found' Errors with an iPad</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-lg-channels-in-depth-essential-details-everyone-must-understand/"><u>Exploring LG Channels in Depth: Essential Details Everyone Must Understand</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/five-steps-to-stop-receiving-unwanted-emergency-and-amber-warnings-on-ios-devices/"><u>Five Steps to Stop Receiving Unwanted Emergency & Amber Warnings on iOS Devices</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-175-beta-2-unlocks-new-feature-for-eu-direct-web-based-app-downloads-on-apple-devices/"><u>IOS 17.5 Beta 2 Unlocks New Feature for EU - Direct Web-Based App Downloads on Apple Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/strategic-decisions-in-following-and-unfollowing-on-social-media-focusing-on-former-twitter-members/"><u>Strategic Decisions in Following & Unfollowing on Social Media: Focusing on Former Twitter Members</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-displays-neo-qled-vs-oled-in-depth-analysis-and-insights/"><u>The Battle of Displays: Neo QLED Vs. OLED – In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-asmr-explained-why-it-might-be-good-for-you/"><u>[Updated] ASMR Explained Why It Might Be Good For You</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified-for-2024/"><u>[Updated] Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>2024 Approved Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-latest-breakthrough-bringing-google-lens-powered-visual-intelligence-to-iphone-16-cameras-exclusive-coverage/"><u>Apple's Latest Breakthrough: Bringing Google Lens-Powered Visual Intelligence to iPhone 16 Cameras | Exclusive Coverage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crystal-clear-capture-amping-up-your-home-studio-recordings-for-2024/"><u>Crystal Clear Capture Amping Up Your Home Studio Recordings for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-video-repair-solutions-from-grau-gmbh-all-in-one-hardware-and-software-system/"><u>Enhanced Video Repair Solutions From Grau GmbH: All-in-One Hardware & Software System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/making-waves-in-the-tech-world-iphone-16-sets-new-standards-for-easy-fixes-insight/"><u>Making Waves in the Tech World: IPhone 16 Sets New Standards for Easy Fixes Insight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-post-iphone-13-15-pro-era-top-recommendations-for-your-future-phone-upgrade-zdnet/"><u>Navigating Post-iPhone 13, 15 Pro Era: Top Recommendations for Your Future Phone Upgrade | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-mpg-3g2-movavi/"><u>Online 무료 MPG 파일을 3G2 형식으로 자유성 변환 - Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sifting-through-centuries-online-unlicensed-treasures/"><u>Sifting Through Centuries Online Unlicensed Treasures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-television/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-kid-friendly-ipad-models-expert-review-and-recommendations/"><u>Top 4 Kid-Friendly iPad Models : Expert Review and Recommendations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-savings-how-the-anticipated-ipad-pro-discount-pre-prime-day-outshines-competitors-insights/"><u>Unlocking Savings: How the Anticipated iPad Pro Discount Pre-Prime Day Outshines Competitors Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mysteries-of-twitch-chat-for-beginners/"><u>Unraveling the Mysteries of Twitch Chat for Beginners</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-did-my-imessages-fail-to-send-last-day-uncover-the-reasons/"><u>Why Did My iMessages Fail to Send Last Day? Uncover the Reasons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-the-apple-watch-series-7-is-a-perfect-fit-for-me-not-looking-at-going-up-to-series-10-insights/"><u>Why the Apple Watch Series 7 Is a Perfect Fit for Me, Not Looking at Going Up to Series 10 - Insights</u></a></li>
 </ul></div>
 

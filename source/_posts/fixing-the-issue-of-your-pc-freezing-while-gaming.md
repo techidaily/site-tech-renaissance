@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of Your PC Freezing While Gaming
-date: 2024-08-18T22:53:12.387Z
-updated: 2024-08-19T22:53:12.387Z
+date: 2025-01-27T17:55:37.073Z
+updated: 2025-01-30T17:07:46.109Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
 Since its launch, players have reported getting significant FPS drops in Beyond Light. To rule out the causes, we’ve gathered some fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -28,6 +32,10 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 5. [Temporarily disable background programs](https://tools.techidaily.com/drivereasy/download/)
 
 ![Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/12/Featured-image-1200x538.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Disable NVIDIA reflex
 
@@ -52,8 +60,9 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -66,23 +75,14 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update your video card driver
 
  Your device drivers, the video card driver, in particular, are important components that greatly impact your computer’s performance. If you get low FPS when gaming, one of the recommended troubleshooting steps you should take is to update your video card driver especially if you can’t remember when was the last time you had it updated.
 
  There are mainly two ways you can update your video card driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your video card driver
 
  To update your video card driver manually, you can go to the official website:
@@ -93,8 +93,9 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your video card driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update your video card driver manually, you can, instead, do it automatically with Driver Easy. Driver Easy will automatically recognize your system and find the correct version, download, and install them correctly.
@@ -107,15 +108,19 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update device drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and play your game. You should be able to see a noticeable difference in performance.
@@ -132,6 +137,10 @@ Here’s how it works:
   
 ![disable hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-hardware-acceleration-Google-Chrome.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to the bottom and click on**Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
@@ -146,10 +155,6 @@ Here’s how it works:
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) On the left pane, navigate to**Appearance** . In this tab, scroll down to the**ADVANCED** section and toggle off the option**Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
@@ -158,9 +163,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Fix 5: Temporarily disable background programs
 
  Ideally, we suggest you close programs that may be using the internet and system resources. It’s also a great way to make sure that no third-party programs are interfering with your game. To disable programs running in the background, take these steps:
@@ -171,6 +173,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the **Services**  tab. Check **Hide all Microsoft services** and click **Disable all** .  
   
 ![disable programs running in the background cold war error code blzbntbgs000003f8](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-programs-running-in-the-background.jpg)
@@ -179,9 +185,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![terminate programs running in the background cold war error code blzbntbgs000003f8](https://images.drivereasy.com/wp-content/uploads/2020/11/terminate-programs-running-in-the-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  5) Under the **Startup**  tab, disable one task at a time (Right-click on each and select **Disable** .) Once done, restart your computer.
 
 ---
@@ -196,8 +199,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/"><u>[New] Expert Picks 11 Easy, Waterproof Kids' Camcorders For Vlogging</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enabling-windows-11-auto-hdr-feature/"><u>[New] In 2024, Enabling Windows 11 Auto HDR Feature</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhanced-productivity-learn-to-record-your-mac-screen/"><u>[Updated] Enhanced Productivity Learn to Record Your Mac Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-to-flushing-cache-on-popular-internet-browsers/"><u>Complete Guide to Flushing Cache on Popular Internet Browsers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/directly-viewing-facebook-videos-on-your-apple-tv-setup-for-2024/"><u>Directly Viewing Facebook Videos on Your Apple TV Setup for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-ways-to-correct-microsoftdirectxdirectinputdll-error-messages/"><u>Effective Ways to Correct 'Microsoft.Directx.Directinput.dll' Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-techniques-setting-up-your-multi-functional-universal-remote-successfully/"><u>Effortless Techniques: Setting Up Your Multi-Functional Universal Remote Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-resolving-dll-errors-on-your-computer/"><u>Expert Tips for Resolving DLL Errors on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/flip-the-script-on-phone-plus-earbuds-pairing-discover-correct-usage-tips-with-zdnets-latest-guide/"><u>Flip The Script on Phone + Earbuds Pairing! Discover Correct Usage Tips with ZDNET's Latest Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-safely-swap-out-the-battery-in-your-ipad/"><u>How To Safely Swap Out The Battery in Your iPad</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-definitive-guide-to-downloading-and-upgrading-ftdi-drivers-on-windows-machines/"><u>The Definitive Guide to Downloading and Upgrading FTDI Drivers on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-lacks-screen-contrast-slider/"><u>Windows Lacks Screen Contrast Slider</u></a></li>
+</ul></div>
 

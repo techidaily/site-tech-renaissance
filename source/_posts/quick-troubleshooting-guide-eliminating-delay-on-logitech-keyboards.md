@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting Guide: Eliminating Delay on Logitech Keyboards"
-date: 2024-08-18T22:52:20.997Z
-updated: 2024-08-19T22:52:20.997Z
+date: 2025-01-26T17:48:29.426Z
+updated: 2025-01-30T17:01:05.585Z
 tags:
   - win11
   - win10
@@ -52,8 +52,9 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -66,16 +67,21 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your video card driver
 
  Your device drivers, the video card driver, in particular, are important components that greatly impact your computer’s performance. If you get low FPS when gaming, one of the recommended troubleshooting steps you should take is to update your video card driver especially if you can’t remember when was the last time you had it updated.
 
  There are mainly two ways you can update your video card driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your video card driver
 
@@ -87,8 +93,9 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your video card driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update your video card driver manually, you can, instead, do it automatically with Driver Easy. Driver Easy will automatically recognize your system and find the correct version, download, and install them correctly.
@@ -102,12 +109,17 @@ Here’s how it works:
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update device drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -115,16 +127,10 @@ Here’s how it works:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Turn off hardware acceleration
 
  By default, hardware acceleration is enabled in Chrome and Discord. This feature utilizes your computer’s GPU to tackle graphics-intensive tasks. But it can cause your computer’s battery to drain a lot faster. And when you have pretty low FPS in the game, hardware acceleration could be the culprit. In this case, you need to turn off hardware acceleration in Chrome and Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### In Chrome
 
  1) At the top right, click on the three lines and then select**Settings** .  
@@ -140,14 +146,18 @@ Here’s how it works:
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### In Discord
 
  1) Open the Discord app. Click on **Settings** (the gear icon beside your avatar).  
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left pane, navigate to**Appearance** . In this tab, scroll down to the**ADVANCED** section and toggle off the option**Hardware Acceleration** .  
   
@@ -157,9 +167,6 @@ Here’s how it works:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Temporarily disable background programs
 
  Ideally, we suggest you close programs that may be using the internet and system resources. It’s also a great way to make sure that no third-party programs are interfering with your game. To disable programs running in the background, take these steps:
@@ -178,9 +185,6 @@ Here’s how it works:
   
 ![terminate programs running in the background cold war error code blzbntbgs000003f8](https://images.drivereasy.com/wp-content/uploads/2020/11/terminate-programs-running-in-the-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Under the **Startup**  tab, disable one task at a time (Right-click on each and select **Disable** .) Once done, restart your computer.
 
 ---
@@ -195,8 +199,6 @@ Here’s how it works:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +206,23 @@ Here’s how it works:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-xchange-reviews-top-tools-and-substitutes/"><u>[New] 2024 Approved XChange Reviews Top Tools & Substitutes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-high-definition-pics-effective-no-cost-tactics/"><u>[Updated] Unlock High Definition Pics Effective, No-Cost Tactics</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-prime-attraction-for-cyber-threats/"><u>ChatGPT: A Prime Attraction for Cyber Threats?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890432697-discover-the-newest-macbook-on-the-market-today/"><u>Discover the Newest MacBook on the Market Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elon-musks-robotaxi-project-delving-into-the-secrets-of-anticipated-pricing-release-date-and-cutting-edge-specifications/"><u>Elon Musk's Robotaxi Project – Delving Into the Secrets of Anticipated Pricing, Release Date, and Cutting-Edge Specifications!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/expert-analysis-on-tech-and-tools-the-toms-hardware-way/"><u>Expert Analysis on Tech and Tools - The Tom's Hardware Way</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2013-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2013 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-lameencdll-problem-a-step-by-step-walkthrough-for-audacity-users/"><u>Fixing the lame_enc.dll Problem: A Step-by-Step Walkthrough for Audacity Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/home-audio-essentials-for-newbies-the-all-inclusive-handbook/"><u>Home Audio Essentials for Newbies: The All-Inclusive Handbook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamlining-live-gaming-footage-with-apps/"><u>In 2024, Streamlining Live Gaming Footage with Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/managing-a-single-phone-number-across-various-gadgets-a-complete-guide/"><u>Managing a Single Phone Number Across Various Gadgets: A Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-mfc42dll-file-could-not-be-located-a-step-by-step-guide/"><u>Resolving 'Mfc42.dll' File Could Not Be Located: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/successful-steam-presentations-your-complete-guide-to-emailing-and-sharing-steam-gift-codes/"><u>Successful Steam Presentations: Your Complete Guide to Emailing and Sharing Steam Gift Codes</u></a></li>
+</ul></div>
 

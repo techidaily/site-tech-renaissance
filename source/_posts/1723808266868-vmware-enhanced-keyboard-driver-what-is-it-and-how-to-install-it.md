@@ -1,7 +1,7 @@
 ---
 title: VMware Enhanced Keyboard Driver – What Is It and How to Install It
-date: 2024-08-18T22:52:00.531Z
-updated: 2024-08-19T22:52:00.531Z
+date: 2025-01-24T18:13:00.366Z
+updated: 2025-01-30T17:18:30.017Z
 tags:
   - win11
   - win10
@@ -68,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a771840
 ---
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Reduce the number of programs running in the background
 
  Programs often run invisibly in the background when you turn on your computer. This can slow things down significantly. Some of these programs are necessary, but not all, so you should take a look at what programs are set to run at startup, and double-check that you need them to. If you don’t, then you should disable them. Here’s how:
@@ -79,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a771840
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593773e4925a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Go to the**Startup** tab, and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6dd70a1b9.png)
@@ -89,14 +91,12 @@ thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a771840
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6db59ff85.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Disable some browser extensions
 
  All your browser extensions use system resources. So the more you have installed and enabled, the slower your computer will run. Especially if they’re buggy extensions.
@@ -110,8 +110,9 @@ Fortunately, extensions are very easy to disable or remove:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d7196c0d1e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 , e.g.:
 
  2) Click the dust-bin icon on the right to uninstall the extensions you don’t need.
@@ -130,6 +131,10 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Turn off unnecessary animations
 
  Visual effects such as animated windows and fading menus may look great, but they can also slow your computer down, especially if it has limited memory (RAM). Fortunately, you can easily turn off animations:
@@ -138,18 +143,16 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![Turn off animations Windows 10](https://images.drivereasy.com/wp-content/uploads/2017/06/Turn-off-animations.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down a little bit and tick the checkbox for**Turn off all unnecessary animations (when possible)** . Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0f9f99e1800.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Check your antivirus schedule
 
  It’s great to have a proactive antivirus program – one that keeps itself updated and is always checking, in the background, for possible threats. But some background activities – like a full system scan or a virus definition update – can slow your computer significantly.
@@ -184,9 +187,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-739.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version of Driver Easy).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system – with just one click.  (This requires the   **Pro**  version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -197,9 +197,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 8: Uninstall unnecessary programs
 
  If you have too many programs installed on your computer, it can slow down because they use disk space, memory and processing power. So you should delete any programs you don’t use (and which Windows doesn’t need to function properly). Here’s how:
@@ -208,16 +205,10 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![Add or remove programs](https://images.drivereasy.com/wp-content/uploads/2017/06/Add-or-remove-programs.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  2) Click to highlight a program you no longer need and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59377f32f1230.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Wait for the uninstall to finish, then highlight and uninstall the next program you don’t use.
 
  4) Repeat until you’ve uninstalled all programs you don’t need.
@@ -250,9 +241,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 10: Increase your virtual memory
 
  If your PC is running slow, adding more virtual memory can help speed it up. Virtual memory supplements the physical RAM installed on your computer, so you don’t run out of memory as often. This makes accessing files and programs faster.
@@ -264,15 +252,13 @@ Here’s how to add more virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Go to the**Advanced** tab, and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the**Advanced** tab, and click**Change.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
@@ -281,9 +267,6 @@ Here’s how to add more virtual memory:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Select your Windows drive (the hard drive or partition that has Windows installed on it – usually**C:** ), then click**Custom size** and enter an Initial size and Maximum size for your virtual memory:
 
 * **Initial size**  – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the**Recommended** category.
@@ -293,9 +276,6 @@ Here’s how to add more virtual memory:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ebee6a3d27.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 6) Restart your computer and see if your PC is still running slow.
 
 ---
@@ -321,8 +301,9 @@ To reduce the temperature of your computer, you can:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 12: Verify the integrity of your hard disk
 
  When a hard disk ages, it can develop faults and errors in its file system. This can slow the drive significantly, which makes Windows take much longer when it opens and saves files.
@@ -363,9 +344,6 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fb9a304288.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select the drive you want to defragment, and click**Optimize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fcf8b6a57b.png)
@@ -386,6 +364,10 @@ To reduce the temperature of your computer, you can:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 15: Upgrade some hardware
 
  If you’ve tried all the above fixes, but your computer is still running slowly, it’s time for you to focus on your hardware. A damaged video card, an insufficient amount of RAM or worn out cooling fans could be causing your computer to run slow.
@@ -395,8 +377,9 @@ To reduce the temperature of your computer, you can:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 16: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
@@ -435,8 +418,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -444,4 +425,19 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/outube-tvs-not-to-miss-factors-in-signing-up-for-2024/"><u>[New] YouTube TV's Not-to-Miss Factors in Signing Up for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>2024 Approved Horizon Haven The Leading 5 Cloud Platforms to Consider</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blur-no-more-top-10-web-photo-sharpening-apps/"><u>Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-13-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 13 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-changing-your-discord-display-image/"><u>Mastering the Art of Changing Your Discord Display Image</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-privacy-a-guide-to-hiding-phone-numbers-on-android-devices/"><u>Protecting Your Privacy: A Guide to Hiding Phone Numbers on Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/searching-for-gone-screen-adjustment-in-win-oses/"><u>Searching For Gone Screen Adjustment in Win OSes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-sporting-film-gems-perfect-for-your-next-movie-night/"><u>Top 10 Sporting Film Gems Perfect for Your Next Movie Night</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-techniques-to-achieve-viral-success-on-youtube/"><u>Top 8 Techniques to Achieve Viral Success on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/track-your-documents-readers-understanding-visibility-in-google-docs-sharing/"><u>Track Your Document's Readers: Understanding Visibility in Google Docs Sharing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Boot and Install Windows N From a USB Stick - Visual Instructions Included
-date: 2024-08-18T22:52:14.443Z
-updated: 2024-08-19T22:52:14.443Z
+date: 2025-01-29T17:45:04.134Z
+updated: 2025-01-30T16:35:25.980Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 [**Option One: Use Media Creation Tool to Upgrade Windows 10**](https://tools.techidaily.com/drivereasy/download/)
 [**Option Two: Use Media Creation Tool to Create Installation Media (USB flash drive, DVD, or ISO files)**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Option One: Use Media Creation Tool to Upgrade**   **Windows 10**
 
 **Note** : The following instructions are for users who are considering upgrading your own PC from Windows 7 or Windows 8.1\. If you are installing Windows 10 on a PC running Windows XP or Windows Vista, you need to move on to the[**second option**](https://tools.techidaily.com/drivereasy/download/) .
@@ -40,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Then choose**Upgrade this PC now** . Hit**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5870453c73720.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Then the tool will start downloading Windows 10\.
   
@@ -66,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
  9) Then whole process could take some time, and your PC will restart a couple of times in between. Make sure you don’t turn off your PC during the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Option Two: Use Media Creation Tool to Create Installation Media (USB flash drive, DVD, or ISO files)**
 
 **Note** : If you are to install Windows 10 on a PC running Windows XP or Vista, or you are to create a new copy of Windows 10, so as to perform a clean installation, or reinstall Windows 10.  
@@ -86,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/create-installation-media-for-another-pc-next-600x478.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you leave the box**Use the recommended options for this PC** checked, your language, edition and architecture settings will remain the same as your current PC. So, uncheck the option, then fill in your own preference settings. Then press**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/use-the-recommended-options-for-this-pc.png)
@@ -94,10 +114,19 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/usb-flash-drive.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Now plug in your USB flash drive, then choose the flash drive you have and click**Next** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/next-select-a-usb-flash-drive.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Windows 10 will now begin to download. The speed of which will be determined by the Internet speed that you have.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/downloading-windows-10.png)
@@ -118,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,9 +154,23 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-free-video-editing-software-round-up-choose-from-7-options/"><u>[Updated] In 2024, Free Video Editing Software Round-Up Choose From 7 Options</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-tomorrows-teachers-today-through-vr/"><u>Crafting Tomorrow’s Teachers, Today Through VR</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-cinematic-sports-triumphs-perfect-for-now/"><u>Discover the Ultimate List of Cinematic Sports Triumphs Perfect for Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-pixel-fold-2-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Google Pixel Fold 2: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://facebook.techidaily.com/hold-your-breath-for-oculus-quest-iii-schedule-change/"><u>Hold Your Breath for Oculus Quest III Schedule Change</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-reconnect-with-someone-who-called-from-blocked-or-private-no/"><u>How to Reconnect with Someone Who Called From Blocked or Private No</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y17s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y17s Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lut-techniques-for-enhanced-ae-visuals-for-2024/"><u>LUT Techniques for Enhanced AE Visuals for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-choosing-an-outstanding-selfie-gadget-in-6-steps/"><u>Master the Art of Choosing an Outstanding Selfie Gadget in 6 Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-2024s-market-the-most-effective-visual-voicemail-app-choices-unveiled/"><u>Navigating 2024'S Market: The Most Effective Visual Voicemail App Choices Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-the-spell-checker-a-guide-to-making-outlooks-suggestions-work-again/"><u>Reviving the Spell Checker: A Guide to Making Outlook's Suggestions Work Again</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-and-singleness-adapting-to-facebooks-dating-features/"><u>Social Media and Singleness: Adapting to Facebook's Dating Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-methods-for-shuffling-youtube-lists-on-devices-for-2024/"><u>Speedy Methods for Shuffling YouTube Lists on Devices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-approach-to-fix-d3dx9amoissed-file-missing-or-inaccessible-problems/"><u>Step-by-Step Approach to Fix 'D3dx9_amoissed' File Missing or Inaccessible Problems</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->

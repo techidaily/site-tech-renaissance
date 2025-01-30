@@ -1,7 +1,7 @@
 ---
 title: "Protecting Yourself While Buying Online: A Comprehensive Shopper's Safety Manual"
-date: 2024-08-18T22:56:01.871Z
-updated: 2024-08-19T22:56:01.871Z
+date: 2025-01-28T16:21:32.501Z
+updated: 2025-01-30T16:18:44.404Z
 tags:
   - win11
   - win10
@@ -17,11 +17,19 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
 If your graphics card is not working well, you may encounter a black or flickering screen on your Windows device. To fix the problem, one simple way is to reset the graphics driver. In this post, you’ll learn how to reset your graphics driver easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before you start
 
  When you see a black screen, you can first try the keyboard shortcut:**Windows logo key + Ctrl + Shift + B** . This will force Windows to refresh the screen. If Windows is responsive, a short beep will sound and the screen will blink or dim.
 
  If this method didn’t work, try the following steps to reset your graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reset/Restart your graphics driver
 
@@ -32,14 +40,20 @@ If your graphics card is not working well, you may encounter a black or flickeri
 2. Locate**Display adapters** , select the arrow to expand it, then right-click your graphics card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/display-adapters-uninstall-device.jpg)
 3. In the pop-up window, check the box next to**Delete the driver software for this device** and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/uninstall-graphics-diver.jpg)
 4. After the uninstallation is complete, restart your computer. Windows will reinstall the graphics driver automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your problem still persists after restarting your graphics driver, you may consider updating the graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  There are mainly two ways to update the graphics driver. One way is to go to the manufacturer’s website ([NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) or[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) ) for your graphics card and look for the latest and most compatible graphics driver for your Windows version. Then download and install the driver manually.
@@ -54,14 +68,13 @@ Here’s how it works:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC for the changes to take effect.
@@ -78,8 +91,6 @@ Here’s how it works:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +98,22 @@ Here’s how it works:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-merging-text-and-vision-on-a-limited-budget/"><u>[New] In 2024, Merging Text & Vision on a Limited Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>[Updated] 2024 Approved DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-masterful-color-transformations-with-free-and-paid-luts-for-cameras/"><u>[Updated] Masterful Color Transformations with Free & Paid LUTs for Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-iphone-and-ipad-issues-with-ios-18-essential-tips-pre-installation/"><u>Avoid iPhone & iPad Issues with iOS 18: Essential Tips Pre-Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-a-comprehensive-guide-by-zdnet/"><u>Choosing the Right Device: IPad Pro or MacBook Air? A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-bugs-squashed-unveiling-the-new-features-of-macos-sonoma-update-14n4-insights-from-zdnets-tech-experts/"><u>Crucial Bugs Squashed: Unveiling the New Features of MacOS Sonoma Update 14.n.4 | Insights From ZDNET's Tech Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-camcorder-mic-troubleshooting-guide/"><u>Fixing Your Logitech Camcorder Mic: Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/highlights-from-chinas-winter-olympiad-2022/"><u>Highlights From China's Winter Olympiad 2022</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 15?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-updated-driver-software-for-brother-mfc-j480dw-to-enhance-printing-on-windows-operating-systems/"><u>Install Updated Driver Software for Brother MFC-J480DW to Enhance Printing on Windows Operating Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-apple-bringing-back-its-iconic-wireless-charger-the-new-airpower-video-suggests-a-comeback-with-qi-technology-zdnet-exclusive/"><u>Is Apple Bringing Back Its Iconic Wireless Charger? The New AirPower Video Suggests a Comeback with Qi Technology | ZDNET Exclusive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-main-complaint-how-pixel-watch-3-addresses-user-concerns-in-googles-line-of-smartwatches-insights/"><u>Solving the Main Complaint: How Pixel Watch 3 Addresses User Concerns in Google’s Line of Smartwatches - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-sneaky-savings-score-the-elusive-discounted-ipad-pro-before-prime-day-insights/"><u>Unveiling Apple’s Sneaky Savings: Score the Elusive Discounted iPad Pro Before Prime Day | Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-2024-mac-collection-for-tech-enthusiasts-your-comprehensive-resource-zdnet/"><u>Unveiling the Ultimate 2024 Mac Collection for Tech Enthusiasts – Your Comprehensive Resource | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-complete-guide-to-amazons-prime-day-202n4-savings-strategies-and-more/"><u>Your Complete Guide to Amazon's Prime Day 202N4 - Savings, Strategies, and More!</u></a></li>
+</ul></div>
 

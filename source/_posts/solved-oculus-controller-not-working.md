@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Oculus Controller Not Working"
-date: 2024-08-18T22:54:20.545Z
-updated: 2024-08-19T22:54:20.545Z
+date: 2025-01-26T17:57:47.773Z
+updated: 2025-01-30T17:16:52.355Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-662.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### To unblock phone numbers
 
  If you change your mind and want to unlock the phone number you blocked before, you can follow the steps below:
@@ -47,13 +51,22 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-669.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Tap**Edit** on the upper-tight corner,then tap**the minus icon** next to the phone number you want to unblock. Tap**Unblock** to unblock this phone number.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-iPhone-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Android
 
 #### To block unwanted calls in Android
@@ -66,9 +79,9 @@ What operating system is running on your phone?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### To unblock phone numbers
 
 You can follow the steps below to unblock a phone number:
@@ -77,16 +90,10 @@ You can follow the steps below to unblock a phone number:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  Hopefully, you find this post helpful. If you have any suggestions or questions, you’re more than welcome to leave us a comment below.
 
 * [Android](https://tools.techidaily.com/drivereasy/download/)
@@ -98,8 +105,6 @@ You can follow the steps below to unblock a phone number:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +112,20 @@ You can follow the steps below to unblock a phone number:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-a-compilation-of-best-video-chatting-applications-mobilepluspc/"><u>[Updated] 2024 Approved A Compilation of Best Video Chatting Applications (Mobile+PC)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide/"><u>2024 Approved How To Use The Background Eraser Tool In Photoshop Detailed Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-boosting-iphone-efficiency-with-advanced-siri-sounds-and-commands/"><u>Expert Tips for Boosting iPhone Efficiency with Advanced Siri Sounds and Commands</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/first-impressions-count-5-priority-steps-for-your-freshly-unboxed-computer/"><u>First Impressions Count: 5 Priority Steps for Your Freshly Unboxed Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ingenious-stop-motion-cinema-ranking-the-best-15/"><u>Ingenious Stop-Motion Cinema - Ranking the Best 15</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-weightless-power-next-gen-structural-carbon-fiber-battery-technology-transforms-device-design/"><u>Introducing Weightless Power: Next-Gen Structural Carbon Fiber Battery Technology Transforms Device Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-alert-get-your-hands-on-discounted-apple-airtag-4-pods-at-walmartsave-an-extra-24-details-inside-from-zdnet/"><u>Labor Day Alert: Get Your Hands on Discounted Apple AirTag 4-Pods at Walmart—Save an Extra $24, Details Inside From ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-tricks-for-smooth-auditory-paths/"><u>Top Tricks for Smooth Auditory Paths</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-release-a-guide-to-pre-ordering-and-expectations-of-the-latest-airpods-insights-from-zdnet/"><u>Upcoming Release: A Guide to Pre-Ordering & Expectations of the Latest AirPods - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-the-new-era-of-portability-comparing-m3-and-m1-macbook-pro-models-techinsights/"><u>Upgrading to the New Era of Portability: Comparing M3 and M1 MacBook Pro Models | TechInsights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-you-should-get-an-apple-watch-6-persuasive-arguments-by-industry-expert-featured/"><u>Why You Should Get an Apple Watch: 6 Persuasive Arguments by Industry Expert, Featured</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Siri's Next Leap in Intelligence Thanks to Apple Innovations, Anticipate Key Enhancements by 2Astock"
-date: 2025-01-17T17:26:37.965Z
-updated: 2025-01-23T02:59:00.085Z
+date: 2025-01-28T18:10:18.693Z
+updated: 2025-01-30T18:11:50.705Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
@@ -35,7 +31,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +49,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -73,7 +69,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -93,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -113,6 +109,10 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,24 +168,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-best-auto-tracking-cameras/"><u>[Updated] Best Auto Tracking Cameras</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-maximizing-youtube-income-lessons-from-sourav-joshi/"><u>[Updated] Maximizing YouTube Income Lessons From Sourav Joshi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-popularity-in-stock-images-and-stories/"><u>2024 Approved The Power of Popularity in Stock Images & Stories</u></a></li>
-<li><a href="https://extra-information.techidaily.com/basic-framework-of-tech-driven-narratives-for-2024/"><u>Basic Framework of Tech-Driven Narratives for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/capturing-moments-with-ease-powershot-sx740-hs/"><u>Capturing Moments with Ease: PowerShot SX740 HS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cat5-vs-cat6-cabling-a-comprehensive-guide-to-their-unique-characteristics/"><u>Cat5 Vs. Cat6 Cabling: A Comprehensive Guide to Their Unique Characteristics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversione-libera-ed-online-di-ogv-a-avi-utilizzando-il-servizio-web-di-movavi/"><u>Conversione Libera Ed Online Di OGV a AVI Utilizzando Il Servizio Web Di Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-role-of-dacs-in-home-theater-systems-do-you-really-need-one/"><u>Deciphering The Role Of DACs In Home Theater Systems - Do You Really Need One?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-professionalism-with-email-signatures-a-tutorial-for-godaddy-users/"><u>Enhance Professionalism with Email Signatures – A Tutorial for GoDaddy Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-depths-does-iphone-13-hold-up-against-water/"><u>Exploring the Depths: Does iPhone 13 Hold Up Against Water?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-present-landscape-of-5g-with-a-focus-on-verizons-role/"><u>Exploring the Present Landscape of 5G with a Focus on Verizon's Role</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-tech-triad-analysis-understanding-the-intersection-of-vr-ar-and-mr/"><u>In 2024, Tech Triad Analysis Understanding the Intersection of VR, AR & MR</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-turning-off-your-iphone-15-propro-max-detailed-walkthrough/"><u>Master the Art of Turning Off Your iPhone 15 Pro/Pro Max – Detailed Walkthrough</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/mastering-discord-live-a-step-by-step-playbook/"><u>Mastering Discord Live A Step-by-Step Playbook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-permissions-how-to-work-with-the-trustedinstaller-in-windows-11/"><u>Mastering Permissions: How to Work with the TrustedInstaller in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mobile-first-approach-navigating-the-web-without-standard-broadband-connections/"><u>Mobile-First Approach: Navigating the Web without Standard Broadband Connections</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-persistent-pc-crashes-in-madden-nfl-21-tips-and-guides/"><u>Solving Persistent PC Crashes in Madden NFL 21 - Tips & Guides</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-problem-of-d3dx933-dll-file-unavailability/"><u>Step-by-Step Guide: Correcting The Problem of D3DX9_33 DLL File Unavailability</u></a></li>
-<li><a href="https://discover-help.techidaily.com/untertitel-funktionen-fur-filmdvd-optionale-und-erzwungene-ubersetzungen-untertiteln/"><u>Untertitel-Funktionen Für Filmdvd - Optionale Und Erzwungene Übersetzungen Untertiteln</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fbx-gaming-a-complete-video-guide/"><u>[New] 2024 Approved FBX Gaming A Complete Video Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-for-sharing-srt-data-on-vimeo-and-linkedin/"><u>2024 Approved Advanced Techniques for Sharing SRT Data on Vimeo and LinkedIn</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-create-a-unique-identity-personalize-your-youtube-url-today/"><u>2024 Approved Create a Unique Identity Personalize Your YouTube URL Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-many-youtube-channels-can-a-single-person-create-and-run/"><u>How Many YouTube Channels Can a Single Person Create and Run?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-users-who-liked-and-commented-on-your-instagram-content/"><u>Identifying Users Who Liked and Commented on Your Instagram Content</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/master-user-management-on-your-devices-control-panel-with-yl-software-tips/"><u>Master User Management on Your Device's Control Panel with YL Software Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rethinking-the-need-for-an-iphone-16-insights-into-apple-innovation-zdnet/"><u>Rethinking the Need for an iPhone 16? Insights Into Apple Innovation | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-craft-experience-on-your-mac-tips-and-tricks-for-efficient-document-management/"><u>The Ultimate Craft Experience on Your Mac - Tips & Tricks for Efficient Document Management.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-showdown-google-pixel-watch-similar-problem/"><u>The Ultimate Showdown: Google Pixel Watch # Similar Problem</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-picks-7-exceptional-android-adblocking-apps-for-2024/"><u>Top Picks 7 Exceptional Android AdBlocking Apps for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-potential-your-ultimate-youtube-facebook-transition-guide-for-2024/"><u>Unlocking Potential Your Ultimate YouTube-Facebook Transition Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/voice-driven-technology-evolution-best-speech-recognition-software-for-mac-for-2024/"><u>Voice-Driven Technology Evolution Best Speech Recognition Software for Mac for 2024</u></a></li>
 </ul></div>
 

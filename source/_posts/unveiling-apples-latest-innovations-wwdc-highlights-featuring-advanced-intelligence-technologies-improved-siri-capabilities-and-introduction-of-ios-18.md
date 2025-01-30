@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Innovations: WWDC Highlights Featuring Advanced Intelligence Technologies, Improved Siri Capabilities and Introduction of iOS 18"
-date: 2025-01-19T07:08:28.443Z
-updated: 2025-01-22T17:00:49.689Z
+date: 2025-01-26T17:18:04.373Z
+updated: 2025-01-30T18:41:37.543Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,17 +128,24 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/chieve-stellar-clickthrough-rates-via-thumbnail-enlargement-on-youtube/"><u>[New] Achieve Stellar Clickthrough Rates via Thumbnail Enlargement on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unleash-timeliness-iphone-slow-motion-filming/"><u>[New] In 2024, Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>[New] Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-industry-pioneers-of-immersive-visualization/"><u>[Updated] 2024 Approved Industry Pioneers of Immersive Visualization</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-defrag-software-tools-to-enhance-your-computer-speed-july-update/"><u>Best FREE Defrag Software Tools to Enhance Your Computer Speed (July Update)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enablingdisabling-network-discovery-on-your-pc-a-step-by-step-guide/"><u>Enabling/Disabling Network Discovery on Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-x8b-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor X8b to iPad | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-no-more-reddit-roulette-reliable-filmora-discounts-here-for-2024/"><u>New No More Reddit Roulette Reliable Filmora Discounts Here for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-to-reboot-your-lenovo-pc-back-to-its-original-state/"><u>Step-by-Step Process to Reboot Your Lenovo PC Back to Its Original State</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-free-streaming-your-guide-to-accessing-netflix-without-costs/"><u>Unlocking Free Streaming: Your Guide to Accessing Netflix without Costs</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-5-free-mov-video-rotators/"><u>Updated In 2024, Top 5 Free MOV Video Rotators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-16-best-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>[New] 16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamlining-the-demo-process-in-adobe-captivate/"><u>[New] In 2024, Streamlining the Demo Process in Adobe Captivate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-high-quality-sound-discover-how-beats-latest-solo-in-ear-headphones-offer-a-budget-friendly-alternative-to-apples-airpods-as-revealed/"><u>Affordable High-Quality Sound: Discover How Beats' Latest Solo In-Ear Headphones Offer a Budget-Friendly Alternative to Apple's AirPods, As Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bringing-text-to-life-inserting-unique-fonts-onto-an-iphone-screen/"><u>Bringing Text to Life: Inserting Unique Fonts Onto an iPhone Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-solutions-resolving-issues-with-your-firestick-control-device/"><u>DIY Solutions: Resolving Issues with Your Firestick Control Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-windows-1110-zoom-mic-issues-expert-solutions/"><u>Fixing Your Windows 11/10 Zoom Mic Issues: Expert Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2020-update-resolving-persistent-crashing-troubles-for-a-smooth-gaming-experience/"><u>Football Manager 2020 Update: Resolving Persistent Crashing Troubles for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-do-digital-video-recorders-work-and-why-are-they-important/"><u>How Do Digital Video Recorders Work and Why Are They Important?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-boosting-traffic-through-innovative-facebook-video-tactics/"><u>In 2024, Boosting Traffic Through Innovative Facebook Video Tactics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Motorola Moto G04</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-studio-m2-vs-mac-mini-m1-the-ultimate-battle-for-supremacy-expert-analysis-by-zdnet/"><u>Mac Studio M2 vs Mac Mini M1: The Ultimate Battle for Supremacy | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/phasing-out-of-iphone-13-and-15-pro-smart-choices-for-your-next-upgrade-tech-insights/"><u>Phasing Out of iPhone 13 & 15 Pro - Smart Choices for Your Next Upgrade | Tech Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002456031-screen-capture-triumph-with-obs-no-recording-errors-here/"><u>Screen Capture Triumph with OBS – No Recording Errors Here!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-inbox-with-one-simple-tactic-no-complicated-filters-needed-as-explained/"><u>Simplify Your Inbox with One Simple Tactic – No Complicated Filters Needed, as Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-chefs-roadmap-creating-culinary-content-for-2024/"><u>The Chef's Roadmap Creating Culinary Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-price-debate-is-it-cheaper-to-take-an-uber-or-a-taxi/"><u>The Price Debate: Is It Cheaper to Take an Uber or a Taxi?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turning-virtual-into-reality-experience-stunning-apple-3d-spatial-content-with-your-own-meta-quest-3-headset-explore-the-process/"><u>Turning Virtual Into Reality: Experience Stunning Apple 3D Spatial Content with Your Own Meta Quest 3 Headset | Explore the Process</u></a></li>
+<li><a href="https://media-tips.techidaily.com/watch-more-share-more-disney-enhances-hulu-for-bigger-group-experiences/"><u>Watch More, Share More: Disney Enhances Hulu for Bigger Group Experiences!</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1728466673636-404/"><u>ページ検索失敗:404エラーの理由と対処法</u></a></li>
 </ul></div>
 

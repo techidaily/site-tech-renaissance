@@ -1,7 +1,7 @@
 ---
 title: "Section 3B: Five Facts to Remember"
-date: 2025-01-15T16:45:19.576Z
-updated: 2025-01-22T18:34:56.017Z
+date: 2025-01-29T16:23:22.144Z
+updated: 2025-01-30T16:27:08.089Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Whatever the form, mobile spyware may steal your information, track your locatio
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is spyware?
 
@@ -66,7 +62,7 @@ Stalkerware is typically used to spy on someone as an individual and watch what 
 Finally, there's **government-grade commercial spyware**. [Pegasus](https://www.zdnet.com/article/nso-groups-pegasus-spyware-used-against-journalists-political-activists-worldwide-report/) is one of the most well-known variants, sold to governments as a tool for combating terrorism and for law enforcement purposes. Pegasus was ultimately found on smartphones belonging to journalists, activists, political dissidents, and lawyers. Unless you're part of a group of specific interest to ethically challenged governments, it's unlikely that commercial-grade spyware will impact you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the warning signs of a spyware infection attempt?
@@ -84,6 +80,10 @@ To catch a victim unaware, phishing messages will lure you into clicking a link 
 When it comes to stalkerware, initial infection messages may be more personal and tailored to the victim. Physical access or the victim's accidental installation of spyware is necessary. However, installing some variants of stalkerware can take mere moments.
 
 If your phone goes missing or has been out of your possession for a time, and reappears with different settings or changes that you do not recognize, this may be an indicator that your device has been tampered with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the typical signs that spyware is on my phone?
 
@@ -111,6 +111,10 @@ Unfortunately, there's little that the average user can do if an app is updated 
 
 Surveillance software is becoming more sophisticated and can be difficult to detect. However, not all forms of spyware and stalkerware are invisible, and it is possible, in many cases, to find out if you are being monitored.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Android
 
 One telltale sign on an Android device is a setting that allows apps to be downloaded and installed outside of the official Google Play Store. 
@@ -120,10 +124,6 @@ If this setting is enabled, this may indicate tampering and jailbreaking without
 This setting is found in most modern Android builds in **Settings** \> **Security** \> **Allow unknown sources**. (This varies depending on the device and vendor.) You can also check **Apps** \> **Menu** \> **Special Access** \> **Install unknown apps** to see if anything appears that you do not recognize, but there is no guarantee that spyware will show up on the app list.
 
 Some forms of spyware will also use generic names and icons to avoid detection. For example, they may appear to be useful utility apps such as calendars, calculators, utilities, or currency converters. If a process or app comes up on the app list that you are not familiar with, a quick search online may help you find out whether it is legitimate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### iOS
 
@@ -169,7 +169,7 @@ Government-grade spyware can be more difficult to detect. However, as noted in a
 * **GrapheneOS**: It is also recommended that individuals who suspect a Pegasus infection make use of a secondary device, preferably running the Android-based [GrapheneOS](https://grapheneos.org/), for secure communication.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I keep spyware and stalkerware off my device in the first place?
@@ -186,6 +186,10 @@ Unfortunately, no mobile device is completely protected against the scourge of s
 * **Do not jailbreak your device**: Jailbreaking not only voids your warranty but can also allow malicious apps and software to have a deep foothold in your operating system, which may make removal extremely difficult or impossible.
 * **Enable multi-factor authentication (MFA):** When account activity and logins require further consent from a mobile device, this can also help protect individual accounts. (However, spyware may intercept the codes sent during [2FA](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/) protocols.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are Google and Apple doing to protect Android and iOS devices?
 
 Google and Apple are generally quick to tackle malicious apps that manage to avoid the privacy and security protections imposed in their respective official app stores. 
@@ -199,10 +203,6 @@ Since then, Google has banned stalkerware ads, and the firm's [Threat Analysis G
 Apple has [cracked down](https://www.zdnet.com/article/apple-refutes-anti-competitive-parent-control-app-claims-says-removal-was-for-security-user-privacy/) on parental control apps, citing privacy-invading functions as the reason for removal. The company offers its own parental device control service called [Screen Time](https://www.cnet.com/how-to/ios-12-screen-time-and-stronger-parental-controls/) for parents who want to limit their child's device usage. Furthermore, the company does not allow [sideloading](https://www.apple.com/privacy/docs/Building%5Fa%5FTrusted%5FEcosystem%5Ffor%5FMillions%5Fof%5FApps%5FA%5FThreat%5FAnalysis%5Fof%5FSideloading.pdf) \-- that is, the installing of third-party apps from sources other than Apple's App Store, and is quick to remove any iOS apps that display privacy-eroding functionality.
 
 In 2022, Apple revealed the details of a [$10 million grant](https://www.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/) to research ways to combat state-sponsored spyware. Recently, the company [issued an alert](https://www.forbes.com/sites/kateoflahertyuk/2024/04/12/apple-issues-new-spyware-attack-warning-to-iphone-users/) to iPhone users in 92 countries, warning them of remote, targeted attacks launched by spyware operators. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are parental control apps spyware?
 
@@ -251,16 +251,18 @@ However, they are limited in scope and you may not be able to use them once a ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-music-selections-for-movie-making/"><u>2024 Approved Premier Music Selections for Movie Making</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/best-hd-visual-recorders-available/"><u>Best HD Visual Recorders Available</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/inverting-film-tracks-in-mobile-devices-for-2024/"><u>Inverting Film Tracks in Mobile Devices for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/masterful-designers-top-insta-hlv-page-builders-for-2024/"><u>Masterful Designers Top Insta HLV Page Builders for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/natureglow-xt/"><u>NatureGlow XT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-level-experience-in-metaverse-with-top-8-accessories-for-2024/"><u>Next-Level Experience in Metaverse with Top 8 Accessories for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-200-on-tp-link-tapo-smart-video-doorbell-ai-technology-no-monthly-fee-only-75-using-promo-code-techworld/"><u>Save $200 on TP-Link Tapo Smart Video Doorbell - AI Technology, No Monthly Fee, Only $75 Using Promo Code | TechWorld</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-home-with-style-get-a-blink-4-camera-and-floodlight-bundle-for-just-80-this-labor-day-season-techguide/"><u>Secure Your Home with Style – Get a Blink 4 Camera and Floodlight Bundle for Just $80 This Labor Day Season | TechGuide.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-chill-friendly-coolers-ranked-insights-by-zdnet/"><u>Top 5 Chill-Friendly Coolers Ranked - Insights by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-chillboxes-of-2022-the-ultimate-rig-review-by-techradar/"><u>Top 5 Chillboxes of 2022: The Ultimate Rig Review by TechRadar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-irecorders-top-screen-capabilities-for-2024/"><u>[Updated] Unveiling iRecorder's Top Screen Capabilities for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859754647-binkw32dll-missing-heres-how-you-can-quickly-resolve-this-common-error/"><u>Binkw32.dll Missing? Here's How You Can Quickly Resolve This Common Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-package-of-the-nintendo-switch-features-and-extras/"><u>Complete Package of the Nintendo Switch - Features and Extras</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-the-elusive-cygwin1dll-dll-not-found-problem/"><u>Effective Fixes for the Elusive cygwin1.dll DLL Not Found Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prevent-apple-music-from-playing-without-pause-button/"><u>How to Prevent Apple Music From Playing Without Pause Button</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-integrating-external-websites-into-instagrams-ecosystem/"><u>In 2024, Integrating External Websites Into Instagram's Ecosystem</u></a></li>
+<li><a href="https://facebook.techidaily.com/moment-of-no-internet-facebook-and-co-outage/"><u>Moment of No Internet: Facebook and Co. Outage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/time-management-mastery-integrating-chatgpt-into-your-routine/"><u>Time Management Mastery: Integrating ChatGPT Into Your Routine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-advantages-of-using-apples-websites-insights/"><u>Top 5 Advantages of Using Apple's Websites: Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-exceptional-disneyplus-films-to-stream-immediately/"><u>Top Picks: Exceptional Disney+ Films to Stream Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-windows-drive-space-a-guide-to-diskusage/"><u>Unlocking the Secrets of Windows' Drive Space: A Guide to DiskUsage</u></a></li>
 </ul></div>
 

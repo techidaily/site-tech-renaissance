@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2025-01-16T20:00:49.700Z
-updated: 2025-01-23T03:29:10.890Z
+date: 2025-01-27T17:56:32.694Z
+updated: 2025-01-30T17:15:38.671Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,20 +150,24 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-how-much-money-can-a-podcaster-make/"><u>[New] How Much Money Can a Podcaster Make?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-12-proven-ways-to-increase-youtube-views-you-should-try/"><u>[Updated] 2024 Approved 12 Proven Ways to Increase YouTube Views You Should Try</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-engage-viewers-immediitsly-the-art-of-screensharing-on-facebook-livestreams/"><u>[Updated] In 2024, Engage Viewers Immediitsly The Art of Screensharing on Facebook Livestreams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>2024 Approved Realize Your Vision A Comprehensible List of 3D Animation Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-smart-savings-the-complete-guide-to-tidals-educational-offers/"><u>Get Smart Savings – The Complete Guide to Tidal's Educational Offers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-pro-max-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Pro Max? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722857490342-is-it-feasible-to-delete-native-ios-programs-from-your-iphone/"><u>Is It Feasible to Delete Native iOS Programs From Your iPhone?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-with-information-on-google-pixel-tablet-launch-date-specs-reviews-and-more/"><u>Stay Ahead with Information on Google Pixel Tablet - Launch Date, Specs, Reviews, and More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-joining-shared-albums-via-ios/"><u>Step-by-Step Guide: Joining Shared Albums via iOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stop-unknown-numbers-a-step-by-step-guide-to-filtering-restricted-calls-on-your-iphone/"><u>Stop Unknown Numbers: A Step-by-Step Guide to Filtering Restricted Calls on Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/title-tag-and-meta-description-incorporate-primary-keywords-in-the-title-tag-for-instance-quantum-computings-potential-to-revolutionize-ai-explore-how-ensur8/"><u>Title Tag and Meta Description: Incorporate Primary Keywords in the Title Tag. For Instance, Quantum Computing's Potential to Revolutionize AI - Explore How. Ensure Your Meta Description Includes Secondary Keywords or Long Tail Terms Too</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-mapi32dll-is-nowhere-to-be-found/"><u>Troubleshooting Steps for When Mapi3^2.dll Is Nowhere to Be Found</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-after-effects-vs-premiere-pro-understanding-their-unique-strengths-and-weaknesses/"><u>Updated In 2024, After Effects vs Premiere Pro Understanding Their Unique Strengths and Weaknesses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gourmet-guide-culinary-video-production/"><u>[New] 2024 Approved Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktok-to-twitter-strategy-for-maximum-engagement-for-2024/"><u>[New] TikTok-to-Twitter Strategy for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-evaluating-video-space-on-a-64gb-card/"><u>[Updated] 2024 Approved Evaluating Video Space on a 64GB Card</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-apple-vision-pro-unveiling-the-costs-capabilities-and-user-experience-a-comprehensive-guide-for-potential-buyers/"><u>All About Apple Vision Pro: Unveiling the Costs, Capabilities, and User Experience - A Comprehensive Guide for Potential Buyers</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/aomei-backupper-erfolgreiche-datensicherung-mit-integrierten-unterstutzungsdateisystemen/"><u>AOMEI Backupper: Erfolgreiche Datensicherung Mit Integrierten Unterstützungsdateisystemen</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blackout-expert-advice-to-fix-league-of-legends-screen-problems/"><u>Beat the Blackout: Expert Advice to Fix League of Legends Screen Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/delving-into-aether-detailed-overview-and-path-to-inclusion/"><u>Delving Into Aether: Detailed Overview & Path to Inclusion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-techniques-for-removing-and-substituting-cell-phone-glass-protection/"><u>DIY Techniques for Removing and Substituting Cell Phone Glass Protection</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-your-system-how-to-navigate-trustedinstaller-permissions-in-windows-11/"><u>Master Your System: How to Navigate TrustedInstaller Permissions in Windows 11</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-common-issues-with-faulty-hardware-on-your-pc-insights-from-yl-computing/"><u>Resolving Common Issues with Faulty Hardware on Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/satellite-emergency-feature-now-available-on-the-google-pixel-9-a-milestone-for-android-phones-zdnet/"><u>Satellite Emergency Feature Now Available on the Google Pixel 9, a Milestone for Android Phones - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-impressive-ipad-air-reviewed-a-stunning-device-that-challenges-the-worth-of-an-ipad-pro-investment/"><u>The Impressive iPad Air Reviewed : A Stunning Device that Challenges the Worth of an iPad Pro Investment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-selecting-ideal-ipad-add-ons-for-apple-devices-insights-from-zdnet/"><u>The Ultimate Guide to Selecting Ideal iPad Add-Ons for Apple Devices | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-gear-comprehensive-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated AirTag Gear : Comprehensive Reviews & Comparisons by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-soundtrack-compilation-fitness-edition/"><u>Ultimate Soundtrack Compilation (Fitness Edition)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210475749-9781638445098-views-from-shenir-mount-of-light/"><u>Views From Shenir (Mount of Light) | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/walmart-sale-save-24-on-apple-airtag-4-pack-during-labor-day-special-exclusive-deals/"><u>Walmart Sale: Save $24 on Apple AirTag 4-Pack During Labor Day Special - Exclusive Deals</u></a></li>
 </ul></div>
 

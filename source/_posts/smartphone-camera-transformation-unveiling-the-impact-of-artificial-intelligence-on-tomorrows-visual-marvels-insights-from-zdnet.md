@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights From ZDNet"
-date: 2025-01-20T00:40:09.356Z
-updated: 2025-01-22T18:21:07.035Z
+date: 2025-01-23T17:21:21.046Z
+updated: 2025-01-30T19:05:25.036Z
 tags:
   - apple
 categories:
@@ -24,19 +24,11 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -65,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -108,6 +100,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -119,7 +115,7 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -152,10 +148,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Object knowledge
 
 During the film era, some analog techniques were possible for image improvement. Now, AI and ML are critical when it comes to having intelligence about what's in a scene. Here are some of the powerful capabilities built into those smartphones I discussed earlier.
@@ -175,6 +167,10 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -197,6 +193,10 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -254,20 +254,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates/"><u>[New] 2024 Approved Amplifying Your Brand The FameBit Approach to YouTube Affiliates</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>[Updated] From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-shift-turning-srt-into-subc/"><u>[Updated] Navigating the Shift Turning SRT Into SUBC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-record-games-with-no-hassle-nvidia-way-for-2024/"><u>[Updated] Record Games with No Hassle - NVIDIA Way for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-fast-track-your-visuals-the-best-pinterest-downloaders-listed/"><u>2024 Approved Fast-Track Your Visuals The Best Pinterest Downloaders Listed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-screenshots-using-your-xbox-gaming-console/"><u>Easy Instructions for Screenshots Using Your Xbox Gaming Console</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enhance-indoor-tv-signals-with-an-effective-indoor-antenna-solution/"><u>How to Enhance Indoor TV Signals with an Effective Indoor Antenna Solution</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6s</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-lg-channels-crucial-details-uncovered-for-success/"><u>Mastering LG Channels: Crucial Details Uncovered for Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-libgdk-win32-20-0dll-errors-on-your-windows-pc/"><u>Resolving Missing libgdk-win32-2.0-0.dll Errors on Your Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-your-chromebook-from-freezing-8-key-solutions-to-try/"><u>Revive Your Chromebook From Freezing: 8 Key Solutions to Try</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-of-apple-watch-without-cellular-service/"><u>Solving the Dilemma of Apple Watch Without Cellular Service</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-of-the-curve-in-depth-look-at-ipados-update-timeline-price-structure-and-feature-highlights/"><u>Stay Ahead of the Curve: In Depth Look at iPadOS Update Timeline, Price Structure & Feature Highlights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-hurdles-of-qualification-understanding-teredos-shortcomings/"><u>The Hurdles of Qualification: Understanding Teredo's Shortcomings</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-concept-to-completion-a-stories-polling-handbook-for-2024/"><u>[New] From Concept to Completion A Stories Polling Handbook for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tactics-to-quiet-down-distractions-during-google-meets/"><u>[Updated] In 2024, Tactics to Quiet Down Distractions During Google Meets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/activate-meta-quest-3s-advanced-ai-features-beating-out-the-apple-vision-pro-learn-inside/"><u>Activate Meta Quest 3’S Advanced AI Features – Beating Out the Apple Vision Pro [Learn Inside]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-walkthrough-creating-a-new-account-for-your-oculus-quiet-or-quiet-2-headset/"><u>Beginner's Walkthrough: Creating a New Account for Your Oculus (Quiet or Quiet 2) Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-blogosphere-why-we-should-doubt-critics/"><u>Behind the Blogosphere: Why We Should Doubt Critics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-earnings-through-side-job-options-like-chatgpt-diy-pc-construction-guide-and-nostalgic-handheld-game-systems/"><u>Boosting Earnings Through Side Job Options Like ChatGPT, DIY PC Construction Guide, and Nostalgic Handheld Game Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-cost-not-quality-how-these-economical-xr-glasses-outperform-apples-luxury-product-for-fomo-relief/"><u>Cutting Cost, Not Quality: How These Economical XR Glasses Outperform Apple's Luxury Product for FOMO Relief</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/get-the-best-free-pc-sound-logger-download-x-recorder-for-2024/"><u>Get the Best Free PC Sound Logger – Download X-Recorder for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-tools-to-craft-top-titles/"><u>In 2024, Innovative Tools to Craft Top Titles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-transform-your-facebook-vids-to-mp3-easy-and-fast/"><u>In 2024, Transform Your Facebook Vids to MP3 - Easy & Fast</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/imate-strategies-to-amass-over-a-million-youtube-views-for-2024/"><u>Legitimate Strategies to Amass Over a Million YouTube Views for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-and-preserve-your-iphone-es-aesthetics-with-these-3-must-have-accessories-insights/"><u>Protect and Preserve Your iPhone E's Aesthetics with These 3 Must-Have Accessories | Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reconsidering-the-apple-watch-series-10-the-breakthrough-traits-that-sealed-my-decision-insights/"><u>Reconsidering the Apple Watch Series 10: The Breakthrough Traits That Sealed My Decision | Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-on-sending-back-your-apple-vision-pro-insights/"><u>Step-by-Step Guide on Sending Back Your Apple Vision Pro - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-apple-watch-series-a-comprehensive-overview-of-release-details-innovative-specs-price-points-and-recent-developments/"><u>The Next-Gen Apple Watch Series Ⅷ: A Comprehensive Overview of Release Details, Innovative Specs, Price Points & Recent Developments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-apple-watch-series-nine-offer-huge-savings-post-prime-day-grab-your-exclusive-deal-now/"><u>Unbeatable Apple Watch Series Nine Offer - Huge Savings Post-Prime Day! Grab Your Exclusive Deal Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-8-complimentary-streaming-gems-on-roku-this-year/"><u>Unveiling the Top 8 Complimentary Streaming Gems on Roku This Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-went-down-when-i-sought-to-send-back-my-purchase-from-temu-an-insightful-review-for-consumers/"><u>What Went Down When I Sought To Send Back My Purchase From Temu – An Insightful Review for Consumers</u></a></li>
 </ul></div>
 
