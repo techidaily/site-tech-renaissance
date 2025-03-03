@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2025-01-24T19:18:44.295Z
-updated: 2025-01-30T17:06:02.904Z
+date: 2025-02-09T22:43:27.937Z
+updated: 2025-02-11T23:16:16.140Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,17 +175,20 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-10-best-instagram-meme-accounts-to-make-you-laugh-with-tears-for-2024/"><u>[Updated] 10 Best Instagram Meme Accounts to Make You Laugh (with Tears) for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-explore-revolutionary-meeting-platforms-that-cost-nothing/"><u>[Updated] Explore Revolutionary Meeting Platforms That Cost Nothing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-preventing-motion-sickness-in-virtual-worlds/"><u>[Updated] In 2024, Preventing Motion Sickness in Virtual Worlds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-latest-innovation-iphone-16-now-boasts-similar-image-analysis-capabilities-to-google-lens-explore-the-details/"><u>Apple's Latest Innovation: IPhone 16 Now Boasts Similar Image Analysis Capabilities to Google Lens | Explore the Details</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-vision-pro-display-goes-live-on-february-2nd-secure-your-unit-with-pre-orders-starting-january-19th-zdnet-update/"><u>Apple's Vision Pro Display Goes Live on February 2Nd – Secure Your Unit with Pre-Orders Starting January 19Th | ZDNET Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-anticipated-tesla-mobile-device-pricing-insights-release-forecasts-and-specs-explained/"><u>Discover the Anticipated Tesla Mobile Device: Pricing Insights, Release Forecasts, and Specs Explained</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-markets-leading-boom-mics-for-professional-audio-2024-edition/"><u>Exploring the Market's Leading Boom Mics for Professional Audio - 2024 Edition</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-logitech-g27-steering-wheel-working-on-windows-11107-with-these-driver-downloads/"><u>Get Your Logitech G27 Steering Wheel Working on Windows 11/10/7 with These Driver Downloads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-sony-xperia-10-v-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Sony Xperia 10 V Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-worlds-top-platforms-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World's Top Platforms: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-2024s-leading-wireless-charger-picks-expert-ratings-and-reviews-zdnet/"><u>Ultimate Guide to 2024'S Leading Wireless Charger Picks: Expert Ratings & Reviews | ZDNet</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1728467390466-windows-11ssd/"><u>Windows 11におけるSSDの検出不能状態解消ガイド</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-varieties-of-aerial-robotics/"><u>[New] Varieties of Aerial Robotics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snickerslide-lighten-up-your-online-presence/"><u>[Updated] SnickerSlide Lighten Up Your Online Presence</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streaming-social-feeds-on-your-smart-tv-whats-next/"><u>2024 Approved Streaming Social Feeds on Your Smart TV What's Next?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creating-shared-musical-experiences-with-friends-through-spotify/"><u>Creating Shared Musical Experiences with Friends Through Spotify</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-your-facebook-profile-with-these-11-superior-tools-for-2024/"><u>Elevate Your Facebook Profile with These 11 Superior Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/freshly-compiled-list-of-standard-passwords-for-d-link-products-july-2024-edition/"><u>Freshly Compiled List of Standard Passwords for D-Link Products - July 2024 Edition</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guida-passo-passo-per-riconquistare-le-parti-disperse-del-tuo-hard-drive-seagate-con-windows/"><u>Guida Passo-Passo per Riconquistare Le Parti Disperse Del Tuo Hard Drive Seagate Con Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-obtaining-canon-scandisk-drivers-at-zero-expense-for-windows-pcs/"><u>Guide to Obtaining Canon ScanDisk Drivers at Zero Expense for Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-block-no-caller-id-calls-on-iphone/"><u>How to Block No Caller ID Calls on iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/msi-mystic-light-failure-on-windows-how-to-restore-proper-functionality/"><u>MSI Mystic Light Failure on Windows - How to Restore Proper Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-propsysdll-file-cannot-be-located-issues/"><u>Solutions for Resolving 'Propsys.dll File Cannot Be Located' Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/superior-ai-conversational-tools-top-alternatives-to-chategpt/"><u>Superior AI Conversational Tools: Top Alternatives to ChateGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-facebook-decoded-understanding-its-birth-appeal-and-main-functions/"><u>The Essentials of Facebook Decoded: Understanding Its Birth, Appeal, and Main Functions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-gaming-systems-in-2nnd-2024/"><u>Top-Ranked Gaming Systems in 2Nnd 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Lava Storm 5G? | Dr.fone</u></a></li>
 </ul></div>
 

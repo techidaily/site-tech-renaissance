@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Your PC: 10 Effective Tips for Enhanced Efficiency"
-date: 2024-08-18T22:56:13.728Z
-updated: 2024-08-19T22:56:13.728Z
+date: 2025-02-07T16:30:55.495Z
+updated: 2025-02-12T00:54:49.215Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  While in most cases, a hard shutdown during the update process didn’t cause issues. There are no guarantees that it also works for you. Unfortunately, it’s the only method to try if your computer gets stuck there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### After restarting your PC, try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -37,6 +41,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 4. **[Free up your hard drive space](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run the Windows Update Troubleshooter
 
@@ -52,24 +60,22 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Follow the on-screen instructions to fix your problem.
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -94,15 +100,9 @@ No advertising on the website.
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -112,9 +112,6 @@ If your problem persists, then move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -131,9 +128,6 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
@@ -145,9 +139,9 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -160,9 +154,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -175,10 +166,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your device drivers
 
@@ -226,6 +218,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -233,15 +229,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
@@ -257,8 +251,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
@@ -268,18 +263,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
  Hopefully, you would find this article useful and easy to follow. Feel free to leave a comment below if you have any suggestions and questions.
@@ -293,8 +285,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -302,4 +292,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-drone-for-sale-best-drones-to-buy-for-2024/"><u>[Updated] Drone for Sale - Best Drones to Buy for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-great-livestream-showdown-streamlabs-vs-obs-head-to-head-for-2024/"><u>[Updated] The Great Livestream Showdown Streamlabs Vs. OBS Head-to-Head for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/blue-screen-errors-explained-quick-fixes-and-prevention-tips-from-yl-tech-experts/"><u>Blue Screen Errors Explained: Quick Fixes & Prevention Tips From YL Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-insight-apples-next-move-into-artificial-intelligence-with-smart-home-robotics-details-on-upcoming-devices/"><u>Exclusive Insight: Apple's Next Move Into Artificial Intelligence with Smart Home Robotics - Details on Upcoming Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-motorola-edge-40-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Motorola Edge 40 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-zte-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of ZTE Without PUK Codes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-training-with-tech-duo-uniting-whoop-and-apple-watch-for-peak-athlete-performance-expert-analysis-by-zdnet/"><u>Maximize Training with Tech Duo: Uniting Whoop & Apple Watch for Peak Athlete Performance | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-14-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from 14.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/privacy-alert-learn-how-to-identify-a-hidden-airtag-tracker/"><u>Privacy Alert: Learn How to Identify a Hidden AirTag Tracker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-libcea32dll-errors-in-windows/"><u>Step-by-Step Solutions for Fixing libcea32.dll Errors in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-to-legally-capturing-iphone-calls-and-understanding-state-regulations/"><u>The Complete Guide to Legally Capturing iPhone Calls & Understanding State Regulations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-kid-friendly-smartphones-the-safest-options-for-parents-insights/"><u>Top-Rated Kid-Friendly Smartphones: The Safest Options for Parents - Insights</u></a></li>
+</ul></div>
 

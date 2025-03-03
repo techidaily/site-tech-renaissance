@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Center on iOS 18: A Step-by-Step Guide"
-date: 2025-01-23T16:06:19.054Z
-updated: 2025-01-30T16:45:57.609Z
+date: 2025-02-10T19:46:12.618Z
+updated: 2025-02-11T16:24:54.107Z
 tags:
   - apple
 categories:
@@ -29,14 +29,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -45,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -62,6 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +126,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-samsung-photography-essentials-a-detailed-review-2023/"><u>[New] 2024 Approved Samsung Photography Essentials – A Detailed Review, 2023</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-can-you-stream-fb-videos-on-your-living-room-screen-this-year-for-2024/"><u>[New] Can You Stream FB Videos On Your Living Room Screen This Year for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-decreasing-volume-gradually-in-garageband/"><u>[New] In 2024, Decreasing Volume Gradually in Garageband</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outubes-mini-millionaire-how-a-kid-earned-big-bucks-daily/"><u>[New] YouTube's Mini Millionaire How a Kid Earned Big Bucks Daily</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-dissecting-the-core-features-comprehensive-review-of-lightroom-on-android/"><u>[Updated] 2024 Approved Dissecting the Core Features Comprehensive Review of Lightroom on Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-finewoven-case-series-in-favor-of-acquiring-beats-by-dre-products-insight-from-zdnet/"><u>Apple Discontinues FineWoven Case Series in Favor of Acquiring Beats by Dre Products - Insight From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-intriguing-gaming-update-unveiling-the-mysterious-new-game-mode/"><u>Apple's Intriguing Gaming Update: Unveiling the Mysterious New Game Mode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-protecting-your-iphone-16-with-the-right-case-a-must-read-for-first-time-users/"><u>Essential Guide: Protecting Your iPhone 16 with the Right Case – A Must-Read for First-Time Users!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722901173130-exploring-the-hottest-imessage-game-selection-of-2024-our-picks/"><u>Exploring The Hottest iMessage Game Selection of 2024: Our Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-integrating-pintrest-features-into-your-facebook-business-profile/"><u>Guide: Integrating Pintrest Features Into Your Facebook Business Profile</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/how-to-make-a-video-on-mac-that-best-fits-snapchat-size-for-2024/"><u>How to Make a Video on Mac that Best Fits Snapchat Size for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-hiccups-a-guide-to-fixing-netflix-problems-with-roku-streamers/"><u>Overcoming Hiccups: A Guide to Fixing Netflix Problems with Roku Streamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/shared-woes-the-unforeseen-pitfalls-of-transitioning-to-iphone-on-ios-18-a-collective-experience/"><u>Shared Woes: The Unforeseen Pitfalls of Transitioning to iPhone on iOS 18 – A Collective Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-unmarked-manual-for-instagrams-livestream-privacy-for-2024/"><u>The Unmarked Manual for Instagram's Livestream Privacy for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/will-the-new-wave-of-arm-technology-elevate-windows-above-apples-custom-chip-dominance/"><u>Will the New Wave of ARM Technology Elevate Windows Above Apple's Custom Chip Dominance?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-improving-vimeo-playback-pace-for-2024/"><u>[New] Improving Vimeo Playback Pace for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc/"><u>[New] Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-hdcp-issues-causes-solutions-and-prevention-tips/"><u>Demystifying HDCP Issues: Causes, Solutions & Prevention Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-casting-content-from-apple-devices-to-hdtvs-using-airplay/"><u>Guide to Casting Content From Apple Devices to HDTVs Using AirPlay</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rical-insights-top-educational-yt-creators-for-2024/"><u>Historical Insights Top Educational YT Creators for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-optimize-your-instagram-stories-for-engagement/"><u>How to Optimize Your Instagram Stories for Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-swap-out-your-avatar-in-discord-quick-and-easy-steps/"><u>How to Swap Out Your Avatar in Discord – Quick & Easy Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-cache-purification-in-multiple-browsing-environments/"><u>Mastering the Art of Cache Purification in Multiple Browsing Environments</u></a></li>
 </ul></div>
 

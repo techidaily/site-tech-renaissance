@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2025-01-23T18:41:10.636Z
-updated: 2025-01-30T18:16:47.397Z
+date: 2025-02-05T17:51:24.293Z
+updated: 2025-02-11T17:05:58.795Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-align-video-content-with-instagram-viewer-preferences/"><u>[New] 2024 Approved Align Video Content with Instagram Viewer Preferences</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>[New] 2024 Approved Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-brightening-up-your-youtube-content-for-2024/"><u>[New] The Ultimate Guide to Brightening Up Your YouTube Content for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-can-i-stream-in-hd-1080p-on-facebook/"><u>[Updated] 2024 Approved How Can I Stream in HD 1080P on Facebook?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-legal-harmonies-unpacking-music-policy-on-instagram/"><u>[Updated] Legal Harmonies Unpacking Music Policy on Instagram</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-obs-overpower-vs-streamlabs-supremacy/"><u>[Updated] OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-video-testimonial-why-its-so-important-for-marketing-for-2024/"><u>[Updated] Video Testimonial! Why It's So Important for Marketing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-flagship-phones-google-pixel-student/"><u>Comparing Flagship Phones: Google Pixel # Student</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/creative-and-perfect-gifting-solutions-for-the-clueless-shopper/"><u>Creative and Perfect Gifting Solutions for the Clueless Shopper</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-accessories-for-your-freshly-bought-iphone-next-week-discover-the-best-choices-on-zdnets-latest-review-of-anker-products/"><u>Essential Accessories for Your Freshly Bought iPhone Next Week - Discover the Best Choices on ZDNet's Latest Review of Anker Products</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-video-editing-compatible-software-across-windows-systems/"><u>Pro Video Editing Compatible Software Across Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-no-cost-web-based-fax-providers-your-comprehensive-guide/"><u>Top 7 No-Cost Web-Based Fax Providers: Your Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-the-art-mastering-storytelling-in-scripts/"><u>[New] 2024 Approved Elevating the Art Mastering Storytelling in Scripts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubers-toolkit-essential-setup-guidelines-for-2024/"><u>[Updated] Youtubers' Toolkit Essential Setup Guidelines for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>2024 Approved Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-secure-login-for-icloud-emails-with-2fa-technology/"><u>Advanced Secure Login for iCloud Emails with 2FA Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-evs-as-eco-friendly-as-they-claim-a-deep-dive-into-their-green-credentials/"><u>Are EVs as 'Eco-Friendly' As They Claim? A Deep Dive Into Their Green Credentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-windows-11-battery-details-a-step-by-step-user-manual-on-utilizing-reports/"><u>Dive Into Windows 11 Battery Details - A Step-by-Step User Manual on Utilizing Reports</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-theme-changes-for-a-stylish-windows-11-desktop/"><u>Effortless Theme Changes for a Stylish Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-screen-captures-adding-sound-in-the-snipping-tool-max-156/"><u>Elevate Your Screen Captures: Adding Sound in the Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improve-performance-and-fix-issues-with-amd-radeon-download-v2n10-graphics-card-drivers/"><u>Improve Performance & Fix Issues With AMD Radeon - Download V2n.10 Graphics Card Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/interrupting-infinity-tips-for-preventing-unending-plays-in-apple-music/"><u>Interrupting Infinity: Tips for Preventing Unending Plays in Apple Music</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-specifications-for-building-or-buying-an-ideal-gaming-pc-system/"><u>Key Specifications for Building or Buying an Ideal Gaming PC System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-26-premium-and-gratis-pc-tidy-up-tools-of-2024/"><u>Top 26 Premium and Gratis PC Tidy-Up Tools of 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-high-definition-entertainment-do-i-really-need-a-blu-ray-player/"><u>Unlocking High Definition Entertainment: Do I Really Need a Blu-Ray Player?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286193628-windows-11-dvd/"><u>Windows 11 DVDコピー手順集：スマートフォンへのダビングガイド</u></a></li>
 </ul></div>
 

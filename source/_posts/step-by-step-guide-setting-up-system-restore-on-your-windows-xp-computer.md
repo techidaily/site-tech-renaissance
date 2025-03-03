@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up System Restore on Your Windows XP Computer"
-date: 2024-08-18T22:56:14.786Z
-updated: 2024-08-19T22:56:14.786Z
+date: 2025-02-10T17:58:51.412Z
+updated: 2025-02-11T18:07:46.669Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 ## The Complete Guide to Speeding Up Your Windows Update Time - Discover Why It Takes So Long
 
 **Windows update takes so long to complete?** Although it’s very frustrating, you’re definitely not the only person to experience this problem. Many other Windows users have reported the very same issue. More importantly, you should be able to fix this issue pretty easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -58,9 +62,17 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Other troubleshooters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click on the**Run** button next to**Windows Update** .
 
@@ -68,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -95,13 +104,25 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reset Windows Update components
 
@@ -142,18 +163,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -163,8 +172,9 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
@@ -172,8 +182,9 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /CheckHealth**
@@ -194,16 +205,8 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -212,9 +215,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
@@ -227,9 +227,6 @@ It may take some time for the command operation to be completed.
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -246,6 +243,10 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. Type the command line**systeminfo** and press **Enter** to view your system type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
@@ -258,21 +259,19 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
@@ -288,8 +287,6 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +294,16 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/avigating-video-migration-youtube-to-dailymotion-process/"><u>[New] Navigating Video Migration YouTube to Dailymotion Process</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-advanced-filmmaking-techniques-selecting-top-notch-lenses-for-2024/"><u>[Updated] Advanced Filmmaking Techniques Selecting Top-Notch Lenses for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>2024 Approved Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-missing-or-not-found-an-in-depth-look-at-btballoondll-issues/"><u>Fixing 'Missing' Or 'Not Found': An In-Depth Look at BTBalloon.DLL Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-and-watch-hulu-content-on-an-lg-smart-tv/"><u>How to Access and Watch Hulu Content on an LG Smart TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-essence-filmoras-top-10-enchanting-features/"><u>In 2024, Unveiling the Essence Filmora’s Top 10 Enchanting Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-privacy-stop-apple-journal-from-broadcasting-your-iphone-presence-automatically-step-by-step-guide/"><u>Secure Your Privacy: Stop Apple Journal From Broadcasting Your iPhone Presence Automatically - Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/sharpscope-zoommax7-precision-in-size-adjustment/"><u>SharpScope ZoomMax7 Precision in Size Adjustment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-curated-list-the-ultimate-selection-of-top-tier-ios-microsoft-business-applications/"><u>ZDNet's Curated List: The Ultimate Selection of Top-Tier iOS Microsoft Business Applications</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Switch Your PC's Network From Public to Private on Windows 11"
-date: 2024-08-18T22:56:10.434Z
-updated: 2024-08-19T22:56:10.434Z
+date: 2025-02-08T18:25:34.875Z
+updated: 2025-02-11T16:34:33.687Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
  Here are 3 easy-to-follow methods you can try to**stop Windows update in Windows 10** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  You may not have to try all the methods (methods 1-3) to**disable Windows Update on your Windows 10** ; just work your way down the list until you find the one that works for you.
@@ -37,6 +41,10 @@ Windows Update is a feature that automatically checks and provide updates for ou
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Scroll down to the bottom, locate and double-click on **Windows Update** .
 
@@ -57,15 +65,13 @@ Windows Update is a feature that automatically checks and provide updates for ou
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e4af7b4b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click on**the name of your Wifi connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e51d793cb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Toggle the**Set as metered connection** switch**On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
@@ -80,6 +86,10 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320075a239c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click on **Computer Configuration** \> **Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
@@ -89,24 +99,26 @@ Windows Update is a feature that automatically checks and provide updates for ou
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 6) Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: Update your device drivers via Driver Easy
 
@@ -126,9 +138,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321850aaba5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer to finish the update.
 
  That’s it  – 3 easy methods for you to turn off Windows Update on your computer  . Hope this helps and feel free to comment below if you have any further questions. ?
@@ -141,8 +150,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +157,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-evaluationcast-breakdown/"><u>[New] In 2024, EvaluationCast Breakdown</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-essentials-of-image-augmentation-inserting-text-into-images-for-pc-and-mac-users/"><u>[New] In 2024, The Essentials of Image Augmentation Inserting Text Into Images for PC & Mac Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-small-businesss-safest-video-conferencing-top-picks/"><u>[Updated] In 2024, Small Business's Safest Video Conferencing Top Picks</u></a></li>
+<li><a href="https://win-unique.techidaily.com/configuring-your-printers-options-through-windows-control-panel-a-step-by-step-guide-with-yl-computing/"><u>Configuring Your Printer's Options Through Windows Control Panel: A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-12-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locating-your-wi-fi-key-on-windows-11-a-step-by-step-guide/"><u>Locating Your Wi-Fi Key on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-powered-and-cool-with-this-innovative-3-in-1-magsafe-station-for-apple-devices-read-more-on-zdnet/"><u>Stay Powered and Cool with This Innovative 3-in-1 MagSafe Station for Apple Devices | Read More on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-setting-up-an-email-alias-on-gmail/"><u>Ultimate Guide: Setting Up an Email Alias on Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-how-to-constructing-an-easy-and-affordable-projector-screen/"><u>Ultimate How-To: Constructing an Easy and Affordable Projector Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-apple-sales-for-july-2024-secure-your-iphone-apple-watch-and-ipad-at-jaw-dropping-prices-zdnet-insider-tips/"><u>Unbeatable Apple Sales for July 2024: Secure Your iPhone, Apple Watch, and iPad at Jaw-Dropping Prices | ZDNET Insider Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleashing-full-potential-advanced-techniques-for-using-your-vr-headsets-microphone/"><u>Unleashing Full Potential: Advanced Techniques for Using Your VR Headset's Microphone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-webm-video-compressors-for-online-use/"><u>Updated 2024 Approved The Best WebM Video Compressors for Online Use</u></a></li>
+</ul></div>
 

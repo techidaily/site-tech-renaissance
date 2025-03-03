@@ -1,7 +1,7 @@
 ---
 title: Samsung's Next Big Thing? Exploring the Forthcoming S25 Ultra Specs, Release Info, and Estimated Pricing
-date: 2024-08-12T03:47:55.672Z
-updated: 2024-08-13T03:47:55.672Z
+date: 2025-02-07T18:38:48.334Z
+updated: 2025-02-12T01:34:30.949Z
 categories:
   - BestProducts
 description: This Article Describes Samsung's Next Big Thing? Exploring the Forthcoming S25 Ultra Specs, Release Info, and Estimated Pricing
@@ -23,22 +23,25 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
  Samsung's next flagship phone is scheduled to arrive early next year. We've collected all the rumors about the Galaxy S25 Ultra so you can decide whether to wait for it or stick with the[latest phone in the Galaxy lineup](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Will the Samsung Galaxy S25 Ultra Be Released?
 
  The Galaxy S25 Ultra release date hasn't been revealed yet, but we're watching for it in early 2025\. This is when Samsung typically releases new Galaxy S series phones, so this is essentially already confirmed. It will arrive next to the[S25 and S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  The Galaxy S25 Ultra will likely be available in January or February 2025.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Price Rumors
 
  We hate to say it, but this phone will probably be a little more expensive than the[S24 Ultra](https://www.lifewire.com/samsung-galaxy-s24-ultra-review-8548896) . And that's a bummer because this is the highest-end phone from the set, so it's already priced above the other options.
@@ -59,9 +62,6 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
  Samsung Galaxy 25 Ultra pre-orders will start following the phone's announcement at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event in early 2025\. It should last around two weeks before the phone becomes available. We'll provide the link at that time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Features
 
  When a new phone rolls out, one of the main things that gets a makeover is its operating system. The Galaxy S25 Ultra is expected to hit shelves with Android 15 and[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7.
@@ -73,14 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 [What Is a Large Language Model?](https://www.lifewire.com/large-language-model-7724669)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Specs and Hardware
 
  A Samsung fan shared some disappointing news about the S25 Ultra on X: it seems it will keep the same battery size and charging speeds as previous Ultra models. If this turns out to be true, it means the phone will still charge at 45W with a wire, 15W wirelessly, and 4.5W reverse wireless charging. And, naturally, it'll stick with the same 5000 mAh battery.
@@ -102,8 +97,9 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 [Ice Universe suggests the Galaxy S25 Ultra will maintain its 200MP main camera and 50MP 5x camera](https://www.notebookcheck.net/Samsung-Galaxy-S25-Ultra-Upgraded-ultrawide-and-3x-cameras-hinted-by-fresh-leak.841616.0.html) while upgrading the ultrawide and 3x cameras to 50MP each. Upgrading the 3x camera from the current 10MP sensor could enhance low-light performance and hybrid zoom quality.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Samsung Galaxy S25 Ultra
 
  You [get more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more on Android and Samsung.
@@ -120,8 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +123,26 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-curated-collection-of-the-best-9-cross-device-video-calls-androidiphone/"><u>[New] 2024 Approved Curated Collection of the Best 9 Cross-Device Video Calls (Android/iPhone)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-detailed-review-all-about-gecatas-recording-mechanism/"><u>[New] In 2024, Detailed Review All About Gecata's Recording Mechanism</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-demystified-a-complete-guide-for-computer-users-for-2024/"><u>[New] TikTok Demystified A Complete Guide for Computer Users for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-studies-with-extra-perks-navigating-the-path-to-free-youtube-premium-access-as-an-academic/"><u>Ace Your Studies with Extra Perks: Navigating the Path to Free YouTube Premium Access as an Academic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-deleted-or-saved-instagram-reels-a-simple-how-to/"><u>Discovering Deleted or Saved Instagram Reels - A Simple How-To</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-email-efficiency-utilizing-google-duet-within-gmail/"><u>Enhancing Email Efficiency: Utilizing Google Duet Within Gmail</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/igniting-laughter-a-path-to-meme-fame/"><u>Igniting Laughter A Path to Meme Fame</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-users-handbook-easy-tips-for-splitting-your-screen-like-a-pro/"><u>MacBook Air Users' Handbook: Easy Tips for Splitting Your Screen Like a Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-meme-making-process-top-6-techniques-that-define-creativity-in-gifs/"><u>Master the Meme-Making Process Top 6 Techniques That Define Creativity in GIFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-experience-adding-uninstall-shortcut-in-windows-10/"><u>Optimize Your Experience: Adding Uninstall Shortcut in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/slash-your-spending-with-these-6-superb-deal-snagging-websites/"><u>Slash Your Spending with These 6 Superb Deal-Snagging Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-of-a-non-existent-coredll-file-expert-advice-and-fixes/"><u>Solving the Problem of a Non-Existent Core.dll File: Expert Advice and Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-7-best-ways-to-speed-up-your-computer/"><u>The 7 Best Ways to Speed Up Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-parenting-in-a-connected-age-our-top-8-tools-for-online-safety-2024-edition/"><u>The Ultimate Guide to Parenting in a Connected Age: Our Top 8 Tools for Online Safety, 2024 Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-discover-the-best-video-editing-apps-for-kids-a-comprehensive-list/"><u>Updated In 2024, Discover the Best Video Editing Apps for Kids A Comprehensive List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-at-apple-groovy-wwdc-2025-sneak-peeks-into-future-tech-and-dev-tools/"><u>What to Expect at Apple' Groovy WWDC 2025: Sneak Peeks Into Future Tech & Dev Tools</u></a></li>
+</ul></div>
 

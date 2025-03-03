@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Installation Now Successfully Completed After Previous Failures
-date: 2024-08-18T22:59:11.251Z
-updated: 2024-08-19T22:59:11.251Z
+date: 2025-02-08T20:40:57.941Z
+updated: 2025-02-11T18:53:39.119Z
 tags:
   - win11
   - win10
@@ -32,17 +32,27 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. In Device Manager, expand the **Display adapters**  category. Right click your graphics card and select **Update driver** (In some cases, this might be Update Driver Software).  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0594834c.png)
 3. In the pop-up window, you will see two options. Click **Search automatically for updated driver software** . Then Windows will find and install drivers for your video device automatically.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0a3b3b6a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Download and install new drivers from manufacturers
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -52,16 +62,10 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -71,14 +75,13 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
+
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,8 +94,9 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -112,8 +116,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +123,20 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-image-jest-inc-punpictures-pro/"><u>2024 Approved Image Jest Inc PunPictures Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-maximizing-macs-potential-capturing-the-spirit-of-roblox-games/"><u>2024 Approved Maximizing Mac's Potential Capturing the Spirit of Roblox Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watchs-battery-performance-with-8-key-configuration-tweaks-tips-from-a-tech-expert/"><u>Boost Your Apple Watch's Battery Performance with 8 Key Configuration Tweaks: Tips From a Tech Expert</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/breaking-news-apple-investigates-launching-ai-enabled-domestic-robots-among-new-ventures-spotlight-on-top-duo-of-gadgets-techzoo/"><u>Breaking News: Apple Investigates Launching AI-Enabled Domestic Robots Among New Ventures - Spotlight on Top Duo of Gadgets | TechZoo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-fall-lineup-enhancements-for-iphone-ipad-mac-embrace-the-future-with-advanced-ai-integration-tech-insights-by-zdnet/"><u>Discover Apple's Fall Lineup Enhancements for iPhone, iPad, Mac - Embrace the Future with Advanced AI Integration | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-8-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 8 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-watchs-longevity-top-8-essential-battery-saving-tweaks-revealed-insights-from-zdnet/"><u>Maximize Your Apple Watch's Longevity: Top 8 Essential Battery-Saving Tweaks Revealed - Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/optimizing-mac-ipad-iphone-browsing-via-pip/"><u>Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-picks-for-classroom-audio-for-2024/"><u>Prime Picks for Classroom Audio for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-key-to-a-cohesive-audio-setup-steps-for-merging-different-bluetooth-speakers-with-one-central-device/"><u>The Key To A Cohesive Audio Setup: Steps for Merging Different Bluetooth Speakers With One Central Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-priority-access-navigating-the-release-of-apple-vision-pro-beta-versions-with-testflight-insights/"><u>Unlock Priority Access: Navigating the Release of Apple Vision Pro Beta Versions with TestFlight | Insights</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/wonderfox-dvd-ripper-pro-and-factory-pro/"><u>WonderFox DVD Ripper Pro & Factory Pro デジタル化に必要！購入が目下の話です。</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ethereum's Roadmap: Continuing Innovation and Development"
-date: 2024-08-18T22:56:39.365Z
-updated: 2024-08-19T22:56:39.365Z
+date: 2025-02-08T18:39:57.979Z
+updated: 2025-02-11T19:35:54.244Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 If you’re constantly wondering**what version of Windows you have on your computer** , don’t worry. You’re only 1 step away to finding it out!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1
 
  On your keyboard, press the**Windows logo** key and the**Pause/Break** key at the same time.
@@ -30,9 +34,17 @@ your computer is running.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c7f96c235d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s it – the_magic_ _step_ for you to find out what Windows version you have on your computer.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus Tip 1: How to find out the exact version of Windows and OS Build
 
@@ -43,17 +55,9 @@ your computer is running.
  Click**OK** to close the Window once you get the information desired.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus Tip 2: How to get more detailed hardware information of your PC
 
  In the great majority of cases, you’ll need more detailed hardware information of your PC. It can be that you need to find out whether your computer meets the system requirements of the games you’re playing, check on the compatibility for upgrades, or simply compare your computer to another.
@@ -68,16 +72,14 @@ your computer is running.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  You can then take an overview of the hardware information on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is an overview of the hardware info on your PC. For more detailed information of the specific hardware, click the**CPU** , the**Motherboard** , the**Memory** or the**Graphics** modules to find out. 🙂
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -88,8 +90,6 @@ your computer is running.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +97,22 @@ your computer is running.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-perceiving-beyond-understanding-ars-impact/"><u>[New] Perceiving Beyond Understanding AR's Impact</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-shorts-solutions-to-frequent-problems-for-2024/"><u>[Updated] YouTube Shorts Solutions to Frequent Problems for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-air-4-and-ipad-air-nplus-do-the-improvements-warrant-a-switch/"><u>Comparing iPad Air 4 and iPad Air N+: Do the Improvements Warrant a Switch?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dont-panic-just-power-down-the-ultimate-troubleshooting-for-water-damaged-iphones-and-ipods/"><u>Don't Panic, Just Power Down! The Ultimate Troubleshooting for Water-Damaged iPhones & iPods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>In 2024, Expert Analysis Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/investigating-possible-aol-mail-service-interruptions-tips-for-users/"><u>Investigating Possible AOL Mail Service Interruptions: Tips for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/parent-approved-child-friendly-tablets-top-selections-insights-and-tips-from-zdnet/"><u>Parent Approved Child-Friendly Tablets - Top Selections | Insights & Tips From ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/pro-techniques-for-professional-iphone-shots-for-2024/"><u>Pro Techniques for Professional Iphone Shots for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-adobe-premiere-elements-alternatives-for-video-enthusiasts/"><u>The Ultimate List 10 Adobe Premiere Elements Alternatives for Video Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformez-rapidement-vos-audios-ogg-en-qualite-cd-sans-frais-grace-a-movavi-en-ligne/"><u>Transformez Rapidement Vos Audios OGG en Qualité CD Sans Frais Grâce À Movavi en Ligne</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/turn-games-into-memories-no-fuss-nvidia-style/"><u>Turn Games Into Memories - No Fuss, NVIDIA Style</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-apple-watch-promotions-avoid-missing-out/"><u>Unbeatable Apple Watch Promotions: Avoid Missing Out!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-is-it-worth-the-leap-tech-insights/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro: Is It Worth the Leap? | Tech Insights</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728468841709-windows-111087/"><u>Windows 11/10/8/7におけるドロップボックス同期不具合の解決方法</u></a></li>
+</ul></div>
 

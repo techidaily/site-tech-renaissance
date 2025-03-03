@@ -1,7 +1,7 @@
 ---
 title: How to Solve Desktop Icons Moving | Quick & Easy
-date: 2024-08-18T22:59:37.200Z
-updated: 2024-08-19T22:59:37.200Z
+date: 2025-02-06T16:03:17.162Z
+updated: 2025-02-11T21:12:32.473Z
 tags:
   - win11
   - win10
@@ -86,10 +86,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
  Usually it’s located in the tab called ‘**Basic** ‘, ‘**Network** ‘, or ‘**WAN Setup** ‘. It varies from different router models.  
@@ -97,9 +93,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
@@ -107,11 +100,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
@@ -132,9 +130,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3322be6ce67.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
@@ -142,8 +148,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
@@ -160,16 +167,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8af87822.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 You should now be able to using the VPN on your Xbox One.
 
 ---
@@ -186,8 +187,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +194,20 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/xploring-nextgen-videostreaming-platforms-for-2024/"><u>[New] Exploring NextGen Videostreaming Platforms for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-a-step-by-step-process-for-twitch-streamers/"><u>[Updated] A Step-by-Step Process for Twitch Streamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-updates-and-unsupported-models-revealed-zdnet/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11: Updates and Unsupported Models Revealed | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/converting-pages-documents-for-use-on-windows-computers/"><u>Converting Pages Documents for Use on Windows Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-western-digital-data-lifeguard-a-comprehensive-software-review/"><u>Expert Analysis: Western Digital Data Lifeguard - A Comprehensive Software Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-issues-troubleshooting-a-non-responsive-vrchat-experience/"><u>Fixing Persistent Issues: Troubleshooting a Non-Responsive VRChat Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yielding-yearly-yield-channel-to-currency-conversion/"><u>In 2024, Yielding Yearly Yield Channel to Currency Conversion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-fix-for-osetupdll-errors-quick-guide-and-troubleshooting-steps/"><u>Master the Fix for Osetup.dll Errors: Quick Guide and Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/outstanding-unlimited-space-service-index/"><u>Outstanding Unlimited Space Service Index</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-lost-video-content-with-flawed-nikon-files/"><u>Restoring Lost Video Content with Flawed Nikon Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/swiftly-relocate-memories-a-step-by-step-tutorial-for-shifting-your-photos-from-google-photos-to-icloud/"><u>Swiftly Relocate Memories: A Step-by-Step Tutorial for Shifting Your Photos From Google Photos to iCloud</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-top-6-ai-enhancements-in-ios-18-what-iphone-owners-should-know-before-they-upgrade/"><u>The Top 6 AI Enhancements in iOS 18: What iPhone Owners Should Know Before They Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-the-chatgpt-ios-app-surpasses-the-website-6-key-reasons-for-optimal-usage/"><u>Why the ChatGPT iOS App Surpasses the Website: 6 Key Reasons for Optimal Usage</u></a></li>
+</ul></div>
 

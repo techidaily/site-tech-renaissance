@@ -1,7 +1,7 @@
 ---
 title: How to Fix Logitech K750 Not Working | Step by Step
-date: 2024-08-18T22:58:35.753Z
-updated: 2024-08-19T22:58:35.753Z
+date: 2025-02-10T22:47:47.900Z
+updated: 2025-02-12T00:29:04.936Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
 
 **Logitech K520 keyboard not working?** Don’t worry! Although it’s very frustrating, you’re definitely not the only one to experience this problem. Many Logitech keyboard users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Logitech keyboard users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
 4. **[Restart the Human Interface Device Service](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Troubleshoot the hardware issues
 
@@ -54,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
 
  If it still doesn’t work, it may suggest If the keyboard itself is faulty. If the keyboard works well on another computer, don’t worry! Just try the fixes below one by one to troubleshoot your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update the keyboard driver
 
  If the keyboard driver on your computer is faulty or corrupted, your Logitech K520 keyboard may also not function properly.
@@ -79,14 +84,9 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Reinstall Logitech unifying software
 
  You may also need to reinstall Logitech unifying software if the Logitech K520 keyboard not working issue persists. Here is how to do it:
@@ -96,15 +96,9 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
 2. Locate the Logitech unifying software,**right-click** on it and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall-logitech-unifying-software.png)
 3. Download the latest version of Logitech unifying software from the official website of[Logitech.](https://support.logi.com/hc/en-us/articles/360025297913)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Restart the Human Interface Device Service
 
  You may also run into this issue if the Human Interface Device Service is stopped. In this case, you need to restart the Human Interface Device Service. Here’s how to do it:
@@ -112,16 +106,20 @@ See if this fix works for you. If not, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**services.msc** and press**Enter** to open**the Services window** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/services-msc.png)
 2. In the**Name** list of services in the Details pane, locate**Human Interface Device Service** .**Double-click** on it to view its properties.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
-3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
+3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
+
  See if you can fix the problem after restarting the Human Interface Device Service.
 
 ---
@@ -138,8 +136,6 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +143,20 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-editprime-vision-for-2024/"><u>[Updated] EditPrime Vision for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-phone-a-detailed-comparison-of-samsung-galaxy-s23-vs-iphone/"><u>Choosing the Right Phone : A Detailed Comparison of Samsung Galaxy S23 Vs. IPhone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comprehensive-screencast-insights-for-creators/"><u>Comprehensive Screencast Insights for Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhanced-sound-on-lg-televisions-an-exclusive-perk-for-apple-enthusiasts-revealed/"><u>Enhanced Sound on LG Televisions: An Exclusive Perk for Apple Enthusiasts Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-buying-v-bucks-via-playstation-console/"><u>Gamers' Guide: Buying V-Bucks via PlayStation Console</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-x5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco X5 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-upgrade-to-the-current-logitech-g910-mx-keyboard-software-for-windows-computers/"><u>How to Upgrade to the Current Logitech G910 MX Keyboard Software for Windows Computers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/irresistible-article-announcer-for-2024/"><u>Irresistible Article Announcer for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prepare-to-power-up-your-apple-devices-top-anker-chargers-reviewed-experts/"><u>Prepare to Power Up Your Apple Devices: Top Anker Chargers Reviewed Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-missing-and-dll-unfound-system-issues/"><u>Step-by-Step Guide: Correcting Missing and DLL Unfound System Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-budget-vr-headsets/"><u>The Best Budget VR Headsets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-non-apple-non-tile-brands-discovering-exceptional-alternatives-to-the-famous-wallet-airtags/"><u>Top Non-Apple, Non-Tile Brands: Discovering Exceptional Alternatives to the Famous Wallet AirTags</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbelievable-deal-alert-own-the-latest-ipad-9gen-for-just-250-post-apple-reveal-exclusive-offer-at-zdnet/"><u>Unbelievable Deal Alert: Own the Latest iPad (9Gen) for Just $250 Post-Apple Reveal | Exclusive Offer at ZDNet!</u></a></li>
+</ul></div>
 

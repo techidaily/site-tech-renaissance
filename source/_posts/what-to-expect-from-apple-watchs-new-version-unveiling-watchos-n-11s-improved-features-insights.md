@@ -1,7 +1,7 @@
 ---
 title: What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights
-date: 2025-01-23T17:41:03.164Z
-updated: 2025-01-30T19:11:14.392Z
+date: 2025-02-10T17:33:43.351Z
+updated: 2025-02-11T16:14:53.952Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
@@ -67,7 +63,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -75,10 +71,6 @@ Apple
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -93,7 +85,7 @@ Jason Hiner/ZDNET
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
@@ -102,21 +94,29 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -152,22 +152,24 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-adjusting-settings-stop-automatic-additions-of-podcast-listings/"><u>[New] 2024 Approved Adjusting Settings Stop Automatic Additions of Podcast Listings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-action-camera-buying-for-newbies-the-updated-guide-23/"><u>[New] In 2024, Action Camera Buying for Newbies - The Updated Guide '23</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-a-year-end-curation-of-youtubes-most-compelling-stories/"><u>[Updated] A Year-End Curation of YouTube’s Most Compelling Stories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-boost-video-velocity-top-android-helpers/"><u>[Updated] Boost Video Velocity - Top Android Helpers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-secrets-to-earning-from-viral-snippets/"><u>[Updated] Unlocking the Secrets to Earning From Viral Snippets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-lut-use-in-professional-video-editing/"><u>2024 Approved Navigating LUT Use in Professional Video Editing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/a-step-by-step-guide-converting-iso-files-into-avi-format-maintaining-superior-image-clarity/"><u>A Step-by-Step Guide: Converting ISO Files Into AVI Format Maintaining Superior Image Clarity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-new-artificial-intelligence-program-expanding-learning-opportunities-to-countless-learners-and-graduates/"><u>Apple Unveils New Artificial Intelligence Program, Expanding Learning Opportunities to Countless Learners & Graduates</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-zero-30-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Zero 30 5GFRP Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-comparison-the-new-macbook-air-m3-against-the-previous-generation-m2-expert-advice-from-zdnet/"><u>In-Depth Comparison: The New MacBook Air (M3) Against the Previous Generation (M2) – Expert Advice From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-apple-bringing-back-its-elusive-airpower-pad-new-video-suggests-a-switch-to-qi-wireless-charging-technology/"><u>Is Apple Bringing Back Its Elusive AirPower Pad? New Video Suggests a Switch to Qi Wireless Charging Technology.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/july-2024-ultimate-guide-to-premium-apple-bargains-spotlighting-iphones-watches-and-tablets/"><u>July 2024 Ultimate Guide to Premium Apple Bargains: Spotlighting IPhones, Watches, and Tablets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sonos-unveils-s2-application-for-streamlined-audio-command-yet-beware-not-all-is-smooth-sailing-zdnet/"><u>Sonos Unveils S2 Application for Streamlined Audio Command, Yet Beware - Not All Is Smooth Sailing | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-36-unbeatable-apple-discounts-remaining-this-prime-day-score-big-savings-now/"><u>Top 36 Unbeatable Apple Discounts Remaining This Prime Day - Score Big Savings Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protectors-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protectors : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-stylus-tablets-featuring-comprehensive-reviews-by-tech-experts-zdnets-picks/"><u>Top-Rated Stylus Tablets Featuring Comprehensive Reviews by Tech Experts - ZDNet's Picks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/viewers-verdict-on-scopes-for-2024/"><u>Viewer's Verdict on Scopes for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimized-strategies-for-youtube-and-facebook-cross-posting/"><u>[New] Optimized Strategies for YouTube & Facebook Cross-Posting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-safaris-picture-in-picture-settings-simplified/"><u>[New] Safari’s Picture In Picture Settings Simplified</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-instagrams-potential-elevating-content-impact/"><u>[Updated] 2024 Approved Unlocking Instagram's Potential Elevating Content Impact</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-monetizing-success-a-strategic-approach-for-2024/"><u>[Updated] Monetizing Success A Strategic Approach for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-chatgpt-plugins-to-boost-your-conversational-ai-now/"><u>Discover the Best ChatGPT Plugins to Boost Your Conversational AI Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209973318-error-80240020-on-your-pc-heres-how-to-successfully-install-windows-10/"><u>Error 80240020 on Your PC? Here's How to Successfully Install Windows 10!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-informed-the-most-recent-windows-updates-and-service-packs-for-july-2024/"><u>Get Informed: The Most Recent Windows Updates and Service Packs for July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-jvmdll-not-found-or-missing-errors/"><u>How to Fix Jvm.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y55s-5g-2023-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y55s 5G (2023) IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-new-m4-mac-mini-anticipated-costs-release-timeline-and-feature-specs-revealed/"><u>Inside Look at the New M4 Mac Mini – Anticipated Costs, Release Timeline & Feature Specs Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-wwdc-2025-insights-apples-new-releases-and-updates/"><u>Latest WWDC 2025 Insights: Apple's New Releases & Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/siri-voiceover-assistance-effortlessly-navigating-textual-content-with-your-iphone-or-macbook-pro/"><u>Siri Voiceover Assistance: Effortlessly Navigating Textual Content with Your iPhone or MacBook Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/start-using-nexiqs-usb-interface-driver-quick-download-and-tutorial/"><u>Start Using Nexiq's USB Interface Driver - Quick Download & Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-the-missing-mfc42dll-error-on-your-computer/"><u>Step-by-Step Solutions for the 'Missing mfc42.dll Error' On Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-eliminating-user-authentication-pins-on-microsofts-latest-operating-system/"><u>The Ultimate Guide to Eliminating User Authentication Pins on Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-cable-modem-models-for-2eplus24-a-comprehensive-guide/"><u>Top-Ranked Cable Modem Models for 2E+24: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-comparison-of-premium-group-video-calls-solutions/"><u>Ultimate Comparison of Premium Group Video Calls Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-9-unveiling-rumored-features-estimated-cost-and-launch-timeline/"><u>Upcoming Google Pixel 9: Unveiling Rumored Features, Estimated Cost & Launch Timeline</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlocking-frames-a-comprehensive-guide-to-converting-videos-to-images-10-converters-for-2024/"><u>Updated Unlocking Frames A Comprehensive Guide to Converting Videos to Images 10 Converters for 2024</u></a></li>
 </ul></div>
 

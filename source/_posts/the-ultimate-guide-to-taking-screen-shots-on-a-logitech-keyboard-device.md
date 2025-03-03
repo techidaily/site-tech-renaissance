@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Taking Screen Shots on a Logitech Keyboard Device
-date: 2024-08-12T03:45:27.725Z
-updated: 2024-08-13T03:45:27.725Z
+date: 2025-02-08T16:29:29.743Z
+updated: 2025-02-11T20:47:35.040Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Taking Screen Shots on a Logitech Keyboard Device
@@ -10,9 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 ---
 
 ## The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -22,8 +24,9 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
  To[take a screenshot on Windows](https://www.lifewire.com/take-screenshots-using-windows-3507009) , press**Windows key+PrtScn** .
@@ -39,22 +42,25 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
 
  If you want to reassign the Print Screen command, you can[remap the Windows keyboard](https://www.lifewire.com/remap-keyboard-in-windows-10-5181178) and create custom screenshot shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -92,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +105,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-visualcut-pro/"><u>[New] In 2024, VisualCut Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-connecting-for-content-roku-and-facebook-live/"><u>[Updated] 2024 Approved Connecting for Content Roku and Facebook LIVE</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/best-value-picks-the-most-unbeatable-acer-deals-during-prime-day-2024/"><u>Best Value Picks - The Most Unbeatable Acer Deals During Prime Day 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-graphics-software-selections-for-creatives/"><u>Discover the Premier Graphics Software Selections for Creatives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-insight-on-recuva-the-leading-software-for-effective-file-reconstruction-and-retrieval/"><u>Expert Insight on Recuva: The Leading Software for Effective File Reconstruction and Retrieval</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-your-computer-after-encountering-a-stop-0x0000003d-error-a-comprehensive-walkthrough/"><u>Fixing Your Computer After Encountering a STOP 0X0000003D Error - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-pc-reboot-failures-in-windows/"><u>Step-by-Step Solutions for Fixing PC Reboot Failures in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-transformation-androids-best-vid-upgrades/"><u>Swift Transformation Android's Best Vid Upgrades</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Computer Drivers: Identifying & Resolving Windows Driver Problems"
-date: 2024-08-18T23:00:05.560Z
-updated: 2024-08-19T23:00:05.560Z
+date: 2025-02-08T00:38:34.304Z
+updated: 2025-02-11T16:43:23.918Z
 tags:
   - win11
   - win10
@@ -49,20 +49,16 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 4. Uncheck the checkbox of**Read-Only** , then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-38-03.png)
 5. Run the installation again.
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t solve the installation error you have, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Uninstall the language pack
 
@@ -73,16 +69,15 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 1. In the search bar on your taskbar, type**language** , then click**Language settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-03-06.png)
 2. Make sure your Windows display language is set to**English** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-04-37.png)
 3. Remove all the non-English language packs you have.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 #### On Windows 7
 
@@ -91,21 +86,17 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
 3. Click**Uninstall display languages** .  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
 4. **Remove any non-English language packs** per instructions. Make sure you save the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 5. Run the installer again.
 
  If this doesn’t solve your problem and you keep running into the error, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Rebuild the Boot Configuration Data
 
  Any error found in Boot Manager could lead to the “Windows 10 installation has failed” error. The easiest way to fix the Boot Manager is to rebuild the Boot Configuration Data (BCD). It may seem a bit complicated, but the process is very straightforward. Here’s how:
@@ -117,10 +108,25 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 1. Press the**Windows key** , search for**recovery** , then click**Recovery options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-10-46.png)
 2. Under Advanced Startup, click**Restart now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-16-10.png)
 3. Click**Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-46.png)
 5. Select**Command Prompt** . You may be prompted to log in to your account at this step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-55.png)
@@ -149,38 +155,28 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 1. Press the**Windows ke** y, type**msconfig** in the search bar, and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-14-09-1.png)
 2. Under the**General** tab, choose**Selective startup** , and make sure**the checkbox of Load startup items is unticked** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-24-57.png)
 3. Go to the**Boot** tab,**untick the checkbox of Safe boot** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-17-16.png)
 4. Under the**Services** tab, choose**Hide all microsoft services** , then click**Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-18-39.png)
 5. Switch to the**Startup** tab, click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  (If you’re on Windows 7, right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 6. Under the**Startup** tab, select every enabled startup item and click**Disable** until you’ve disabled all startup items.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 7. Restart your PC and try to run the Windows installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If performing a clean boot installation doesn’t solve the error for you, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Repair corrupted system files
 
  If the fixes above didn’t solve the “Windows 10 installation has failed” error on your PC, you may be looking at a system-wide error. When the system files required for the Windows installation process are corrupted, it could trigger an installation error. You can use the System File Checker tool (sfc /scannow) to look for any critical system corruption, but most of the time, manual repair is required.
@@ -192,18 +188,8 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the Windows installer to crash, you can click **START REPAIR** to fix them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Bonus tip: how to keep your PC in top condition
 
  Outdated or faulty drivers may trigger this error, although not very common. And as we briefly mentioned before, if a driver issue caused this installation error, you’re likely to get a specific error code. But in general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -223,6 +209,10 @@ No advertising on the website.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
@@ -237,8 +227,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +234,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-compreeved-tips-on-using-vlcs-video-tools/"><u>[New] In 2024, Compreeved Tips on Using VLC's Video Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-quick-clip-cinema-scenario/"><u>[New] Quick Clip Cinema Scenario</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format/"><u>[Updated] 2024 Approved Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-thumbnail-blueprint-for-successful-videos/"><u>[Updated] The Ultimate Thumbnail Blueprint for Successful Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-rumored-venture-introducing-camera-equipped-airpods-in-2026-insights/"><u>Apple's Rumored Venture: Introducing Camera-Equipped AirPods in 2026 - Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-screen-recording-minecraft-with-your-macos/"><u>In 2024, The Ultimate Guide Screen Recording Minecraft with Your MacOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-path-to-youtube-studio-the-editors-command-center/"><u>In 2024, Your Path to YouTube Studio The Editor's Command Center</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-battery-draining-fast-after-ios-n751-explore-these-proven-7-fixes-for-improved-performance-gadgetguru/"><u>IPhone Battery Draining Fast After iOS N7.5.1? Explore These Proven 7 Fixes for Improved Performance | GadgetGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-collection-20-essential-chatgpt-conversation-starters-from-github/"><u>Prime Collection: 20 Essential ChatGPT Conversation Starters From GitHub</u></a></li>
+<li><a href="https://facebook.techidaily.com/securely-engage-with-friends-on-facebook-heres-how/"><u>Securely Engage with Friends on Facebook, Here’s How</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tensile-strength-and-yield-strength-are-critical-in-determining-a-materials-capacity-to-withstand-loads-during-service/"><u>Tensile Strength and Yield Strength Are Critical in Determining a Material's Capacity to Withstand Loads During Service.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tiny-yet-mighty-discover-how-this-dwarf-case-outperforms-the-standard-for-apples-optical-gem/"><u>Tiny Yet Mighty: Discover How This Dwarf Case Outperforms the Standard for Apple's Optical Gem</u></a></li>
+</ul></div>
 

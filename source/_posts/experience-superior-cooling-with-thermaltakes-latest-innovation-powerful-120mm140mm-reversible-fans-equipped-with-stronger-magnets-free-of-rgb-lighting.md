@@ -1,7 +1,7 @@
 ---
 title: "Experience Superior Cooling with Thermaltake's Latest Innovation: Powerful 120Mm/140mm Reversible Fans Equipped With Stronger Magnets, Free of RGB Lighting"
-date: 2024-08-12T03:46:58.089Z
-updated: 2024-08-13T03:46:58.089Z
+date: 2025-02-11T01:12:17.386Z
+updated: 2025-02-11T16:41:26.232Z
 tags:
   - cooling
 categories:
@@ -17,18 +17,12 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
   
  I tried out the improved screws with the company's new iCue Link RX120 RGB fans, but a company rep tells me the screws won't likely be included with iCue Link fans, but rather will likely debut with future cases to be determined, with an aim to make them available sometime after March.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/HZBZ5MfyidHRJLugVCZtQC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The RX120 fans, however, are a more affordable version of its QX120 / 140 RGB spinners, which the company says should sell for about $35 each (rather than $50 each for the QX models). They have fewer RGBs and a replaceable light diffusion side panel. And Corsair claims their noise-normalized performance is still right up there with the best from the likes of Noctua.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/5LYXfgY5XcJqwBCBrBDvnC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -39,9 +33,6 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/7VQTHBu25iyzUiGiUmcmcC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -51,8 +42,9 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
  And the good news is at some point, you won't have to buy Corsair's fans in order to add these new screws to your PC-building arsenal. A Corsair rep told me that the company will be selling these screws as a standalone product at some point, likely later this year. Are these screws likely to make a major dent in the difficulty level of PC builds? Not really. But they do seem to be a minor improvement, and it's good to see companies thinking of small ways of streamlining one of our favorite hobbies. Now if only Corsair could manage to make all of its its cable-decluttering[iCue Link system](https://www.tomshardware.com/news/corsair-icue-link-tested) more affordable.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,14 +53,11 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,4 +66,26 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-best-concealed-vids-2023s-selective-8-software-guide/"><u>[Updated] 2024 Approved Best Concealed Vids - 2023'S Selective 8 Software Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-icons-and-logos-from-6-innovative-websites/"><u>[Updated] Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-iphone-slow-motion-camera-video/"><u>[Updated] IPhone Slow-Motion Camera Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-sketches-prime-ipados-drawing-software/"><u>[Updated] Revolutionizing Sketches Prime iPadOS Drawing Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-projection-vs-television-best-device-for-immersive-4k-content/"><u>2024 Approved Projection vs Television Best Device for Immersive 4K Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-redmi-note-12-4g-frp-bypass-by-drfone-android/"><u>About Xiaomi Redmi Note 12 4G FRP Bypass</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-civi-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Civi 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-of-the-best-network-rack-enclosures-whats-new/"><u>Best of the Best Network Rack Enclosures - What's New</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-ultimate-list-7-must-have-note-taking-tools-for-ipad-users/"><u>Explore the Ultimate List: 7 Must-Have Note-Taking Tools for iPad Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prepare-your-amazon-echo-dot-for-initial-configuration/"><u>How to Prepare Your Amazon Echo Dot for Initial Configuration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipados-18-arrives-upgrade-for-free-and-explore-enhanced-features-latest-price-changes-and-breaking-news/"><u>IPadOS 18 Arrives! Upgrade for Free and Explore Enhanced Features, Latest Price Changes & Breaking News.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-citation-incorporating-chatgpt-into-your-references/"><u>Mastering the Art of Citation: Incorporating ChatGPT Into Your References</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-screen-shots-on-microsofts-xbox-one/"><u>Mastering the Art of Screen Shots on Microsoft's Xbox One</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-elite-quartet-of-driverless-car-makers-dominating-the-market/"><u>The Elite Quartet of Driverless Car Makers Dominating the Market</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-leading-vpn-services-of-202eplusy-testing-and-reviews-expert-analysis-by-zdnet/"><u>Ultimate Guide to the Leading VPN Services of 202E+y Testing & Reviews | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-apple-watch-ultra-2-anticipated-features-launch-timeline-and-pricing-the-latest-buzz/"><u>Unveiling the Apple Watch Ultra 2: Anticipated Features, Launch Timeline & Pricing – The Latest Buzz</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-best-zero-cost-movie-creation-tools-for-all-skill-levels/"><u>Updated In 2024, S Best Zero-Cost Movie Creation Tools for All Skill Levels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-go-to-guide-viewing-fandangos-selection-of-movies-directly-on-apple-tv/"><u>Your Go-To Guide: Viewing Fandango's Selection of Movies Directly on Apple TV</u></a></li>
+</ul></div>
 

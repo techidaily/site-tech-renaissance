@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Microsoft Surface Pro 8 Enterprise Evaluation"
-date: 2025-01-26T19:21:26.785Z
-updated: 2025-01-30T19:23:11.691Z
+date: 2025-02-06T23:04:07.883Z
+updated: 2025-02-11T19:31:26.701Z
 tags:
   - apple
 categories:
@@ -42,19 +42,11 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -79,7 +71,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -111,7 +103,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -138,6 +130,10 @@ Speaking of which, I had the Pro 8 connected to a monitor for the majority of my
 The ability to connect a tablet to an external display and have it actually work how it's supposed to is a huge boost for my productivity. I was able to have apps like Slack and iCloud email open on the Pro 8's screen, while writing in iA Writer on the larger external monitor with multiple Edge tabs open. 
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -172,6 +168,10 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -212,21 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlocking-the-secrets-of-silent-video-suggestions-in-feed/"><u>[New] In 2024, Unlocking the Secrets of Silent Video Suggestions in Feed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unveiling-itop-a-screencast-game-changer/"><u>[New] In 2024, Unveiling ITop A Screencast Game-Changer?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-explore-meme-land-top-9-tools-to-make-your-creative-mark-with-gifs-for-2024/"><u>[Updated] Explore Meme Land Top 9 Tools to Make Your Creative Mark with GIFs for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-advanced-techniques-to-record-and-save-stories/"><u>[Updated] In 2024, Advanced Techniques to Record and Save Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipating-prime-day-savings-heres-why-apples-hidden-ipad-pro-discounts-are-worth-your-attention-reveals/"><u>Anticipating Prime Day Savings? Here's Why Apple's Hidden iPad Pro Discounts Are Worth Your Attention Reveals!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/digital-ecosystem-integration-windows-apps-on-iphones-pcs-and-macs-launched/"><u>Digital Ecosystem Integration: Windows Apps on iPhones, PCs and Macs Launched</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dont-ignore-this-urgent-ios-1712-upgrade-for-iphone-users-exclusive-zdnet-coverage/"><u>Don't Ignore This! Urgent IOS 17.1.2 Upgrade for iPhone Users | Exclusive ZDNET Coverage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-mobile-filmmaking-with-apples-final-cut-pro-on-iphone-the-future-of-on-the-spot-cinematography/"><u>Elevate Your Mobile Filmmaking with Apple's Final Cut Pro on iPhone - The Future of On-the-Spot Cinematography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-july-2ve-deals-discover-how-you-can-score-up-to-90-off-on-apple-watches-as-revealed/"><u>Exclusive July 2Ve Deals! Discover How You Can Score up to 90% Off on Apple Watches, as Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-ai-creates-a-world-where-fantasy-meets-reality-unveiling-eight-intriguing-examples/"><u>How AI Creates a World Where Fantasy Meets Reality: Unveiling Eight Intriguing Examples</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-moto-g04-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Moto G04 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15-evaluation-convincing-pros-and-enthusiasts-alike-the-ultimate-tech-guide-by-zdnet/"><u>IPhone 15 Evaluation: Convincing Pros and Enthusiasts Alike - The Ultimate Tech Guide by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maintain-a-fresh-look-top-3-iphone-13-gadgets-and-add-ons-featured-by-zdnet/"><u>Maintain a Fresh Look: Top 3 iPhone 13 Gadgets and Add-Ons Featured by ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-bypassing-drm-on-disney-movies-for-personal-use/"><u>Step-by-Step Guide to Bypassing DRM on Disney Movies for Personal Use</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-features-of-the-new-apple-tv-4k-gen-3/"><u>Unveiling the Features of the New Apple TV 4K (Gen 3)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-ditch-subtitle-edit-explore-these-exceptional-mac-subtitle-editors/"><u>Updated Ditch Subtitle Edit Explore These Exceptional Mac Subtitle Editors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-guide-to-finding-a-quality-microphone-for-every-yt-style/"><u>[New] 2024 Approved The Ultimate Guide to Finding a Quality Microphone for Every YT Style</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-choreographing-spellbinding-short-films/"><u>[New] Choreographing Spellbinding Short Films</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-zen-of-sleep-curated-asmr-vocalists-for-2024/"><u>[New] The Zen of Sleep Curated ASMR Vocalists for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-msvcrt10dll-disappearance-and-non-availability-glitches/"><u>Fixing Msvcrt10.dll Disappearance and Non-Availability Glitches</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-video-editing-apps-for-young-creators-free-and-paid-editions/"><u>In 2024, Best Video Editing Apps for Young Creators Free and Paid Editions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-full-feature-analysis-videon-plus-suite-the-edit-experience/"><u>In 2024, Full Feature Analysis Videon Plus Suite – The Edit Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-methods-for-increased-srt-on-macoswindows-for-2024/"><u>Pioneering Methods for Increased SRT on macOS/Windows for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-how-to-correctly-address-comctl32dll-file-missing-or-unavailable/"><u>Solving the Issue: How to Correctly Address 'Comctl32.dll' File Missing or Unavailable</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-breakdown-of-ergonomics-and-design-in-the-x-chair-x4-corporate-seating-solution/"><u>The Definitive Breakdown of Ergonomics and Design in the X-Chair X4 Corporate Seating Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-securing-your-favorite-oculus-quest-2-vr-experiences-online/"><u>The Ultimate Walkthrough: Securing Your Favorite Oculus Quest 2 VR Experiences Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-combining-your-favorite-tracks-on-spotify/"><u>Ultimate Guide: Combining Your Favorite Tracks on Spotify</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connect-your-nintendo-switch-to-any-television/"><u>Ultimate Guide: Connect Your Nintendo Switch to Any Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-top-travel-experts-on-twitter-discounts-guidance-and-journeys/"><u>Ultimate List of Top Travel Experts on Twitter: Discounts, Guidance, and Journeys</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/makr-althol-bsry-kyfya-nskh-hdd-il-ssd-balkyada-aabr-usb/"><u>ماكر التحول بصري: كيفية نسخ HDD إلى SSD بالقيادة عبر USB</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not to Buy the iPhone 16: Evaluating Apple’s Artificial Intelligence Tech | Perspectives by ZDNet"
-date: 2025-01-26T16:36:22.513Z
-updated: 2025-01-30T16:53:36.396Z
+date: 2025-02-05T20:35:47.858Z
+updated: 2025-02-11T18:54:11.963Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,6 +39,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -56,7 +64,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -88,7 +96,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -103,10 +111,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -120,7 +124,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -166,10 +170,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the technical requirements for Apple Intelligence?
 
 Apple
@@ -210,17 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-exclusive-farewell-to-game-costs/"><u>[New] Exclusive Farewell to Game Costs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-videotwit-hatcher-harvest-tweets-visuals-for-ios-devices/"><u>[New] In 2024, VideoTwit Hatcher Harvest Tweets' Visuals for iOS Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-the-process-of-modifying-your-networks-visual-backdrop/"><u>[New] Navigating the Process of Modifying Your Network's Visual Backdrop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-realme-gt-5-240w-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Realme GT 5 (240W)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-smart-7-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Smart 7 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15-evaluation-the-ultimate-choice-for-professionals-and-enthusiasts-alike-insights/"><u>IPhone 15 Evaluation: The Ultimate Choice for Professionals and Enthusiasts Alike - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-solutions-for-when-you-cant-find-d3dx933dll-on-your-computer/"><u>Quick Solutions for When You Can't Find d3dx9_33.dll on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-leads-as-google-faces-setback-in-antitrust-rulings-amidst-galaxy-ai-advancements-tops-tech-innovation-chart/"><u>Samsung Leads as Google Faces Setback in Antitrust Rulings Amidst Galaxy AI Advancements - Tops Tech Innovation Chart</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-cutting-edge-discount-sites-to-slash-your-spending/"><u>Top 6 Cutting-Edge Discount Sites to Slash Your Spending</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-event-detailed-coverage-on-timings-latest-gossip-and-expectations/"><u>Upcoming Apple Event - Detailed Coverage on Timings, Latest Gossip & Expectations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-12r-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus 12R? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide-for-2024/"><u>[New] Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-your-daily-dose-of-humor-and-heartbreak-from-instagram-memes/"><u>[Updated] 2024 Approved Your Daily Dose of Humor & Heartbreak From Instagram Memes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-free-macdvd-to-music-converter-effortless-mp3mp4-extraction-from-dvds-using-macx/"><u>1. Free MacDVD-to-Music Converter: Effortless MP3/MP4 Extraction From DVDs Using MacX</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-utilizing-gmails-tools-to-filter-messages-and-expand-contact-list-efficiently/"><u>Boost Productivity: Utilizing Gmail's Tools to Filter Messages & Expand Contact List Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-to-overcome-the-there-was-a-problem-reboot-glitch-on-your-computer/"><u>Effective Fixes to Overcome the 'There Was a Problem' Reboot Glitch on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-and-enjoy-the-ultimate-list-of-places-to-view-your-fav-music-clips/"><u>Find & Enjoy: The Ultimate List of Places to View Your Fav Music Clips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/full-method-how-to-unlike-all-songs-on-spotify-at-once/"><u>Full Method: How to Unlike All Songs on Spotify at Once</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a1x-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A1x 5G FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>In 2024, Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-avcodecdll-cannot-be-found-expert-strategies-and-repairs/"><u>Overcoming 'Avcodec.dll Cannot Be Found' - Expert Strategies and Repairs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-popularity-understanding-the-renewed-interest-in-openstack-and-kata-containers/"><u>The Rising Popularity: Understanding the Renewed Interest in OpenStack & Kata Containers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-eliminating-sound-echo-issues-in-discord-on-your-computer/"><u>Ultimate Guide: Eliminating Sound Echo Issues in Discord on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-bass-management-an-in-depth-guide-on-its-functionality/"><u>Understanding Bass Management: An In-Depth Guide on Its Functionality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion-in-2024/"><u>Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
 </ul></div>
 

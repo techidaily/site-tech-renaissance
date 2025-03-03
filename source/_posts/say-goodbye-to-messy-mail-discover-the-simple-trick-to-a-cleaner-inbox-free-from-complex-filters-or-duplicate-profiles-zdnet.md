@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Messy Mail: Discover the Simple Trick to a Cleaner Inbox, Free From Complex Filters or Duplicate Profiles | ZDNET"
-date: 2025-01-25T16:28:34.818Z
-updated: 2025-01-30T16:52:02.418Z
+date: 2025-02-07T17:35:31.441Z
+updated: 2025-02-11T18:56:32.982Z
 tags:
   - apple
 categories:
@@ -75,10 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727348400000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -88,7 +84,7 @@ Asus/ZDNET
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
@@ -100,7 +96,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -118,10 +114,6 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -131,6 +123,10 @@ Kyle Kucharski/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -139,15 +135,19 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -230,16 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-eye-on-the-social-scene-top-tweets-of-2023/"><u>[New] In 2024, Eye on the Social Scene Top Tweets of 2023</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-easy-steps-to-transform-iphone-7-into-a-recorder/"><u>[Updated] In 2024, Easy Steps to Transform iPhone 7 Into a Recorder</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unpacking-video-editing-excellence-is-inshot-at-the-top-in-2024/"><u>[Updated] Unpacking Video Editing Excellence Is InShot at the Top, In 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/camera-showdown-of-the-year-pixel-ninexl-challenges-iphone-15-pro-stunning-results-and-astonishing-twist-digital-trends/"><u>Camera Showdown of the Year: Pixel nineXL Challenges iPhone 15 Pro - Stunning Results & Astonishing Twist! | Digital Trends</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-walt-disneys-a-christmas-carol-from-dvd-to-popular-video-formats-for-mobile-devices/"><u>Convert Walt Disney's 'A Christmas Carol' From DVD to Popular Video Formats for Mobile Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-your-brand-new-iphone-13-with-these-essential-accessories-as-recommended/"><u>Protect Your Brand New iPhone 13 with These Essential Accessories, As Recommended</u></a></li>
-<li><a href="https://blog-min.techidaily.com/resolved-how-to-successfully-import-mov-file-formats-into-imovie/"><u>Resolved: How to Successfully Import MOV File Formats Into iMovie</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resurrecting-drenched-electronics-saving-your-soaked-idevice/"><u>Resurrecting Drenched Electronics: Saving Your Soaked iDevice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-must-try-book-reading-apps/"><u>Top 8 Must-Try Book Reading Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-smartphone-savings-unbeatable-offers-available-in-march-2024-zdnet/"><u>Top Smartphone Savings: Unbeatable Offers Available in March 2024 - ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-audio-interface-for-podcasters-a-must-know-tip-for-your-podcasting-setup-for-2024/"><u>[Updated] The Ultimate Audio Interface for Podcasters A Must-Know Tip for Your Podcasting Setup for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-configuring-parent-controls-on-discord/"><u>A Step-by-Step Guide to Configuring Parent Controls on Discord</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-friendly-tactics-to-increase-your-youtube-video-impact/"><u>Budget-Friendly Tactics to Increase Your YouTube Video Impact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-the-mystery-of-laptop-video-editing-with-inshot/"><u>Decoding the Mystery of Laptop Video Editing With Inshot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-no-cost-iphone-tunes-top-8-picks/"><u>Discover the Best No-Cost iPhone Tunes: Top 8 Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-4-tech-helpers-for-efficient-house-painting-jobs/"><u>Discover the Top 4 Tech Helpers for Efficient House Painting Jobs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-free-computing-how-to-handle-fm20dll-not-found-issues/"><u>Error-Free Computing: How to Handle fm20.dll Not Found Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-clearing-space-by-deleting-apps-on-your-samsung-smart-tv/"><u>Expert Tips: Clearing Space By Deleting Apps on Your Samsung Smart TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-maxsun-catalog-intels-arrow-lake-amds-ryzen-9000-boards-with-latest-unveiled-motherboard-chipsets-and-800-series-labeling/"><u>Exploring the Maxsun Catalog: Intel's Arrow Lake, AMD's Ryzen 9000 Boards with Latest Unveiled Motherboard Chipsets & 800-Series Labeling</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-moto-g04-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Moto G04? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-determine-the-exact-specifications-of-your-macbook/"><u>How to Determine the Exact Specifications of Your MacBook</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-xr21-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-8-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel 8 Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speeding-up-windows-11-effective-solutions-for-enhanced-efficiency/"><u>Speeding Up Windows 11: Effective Solutions for Enhanced Efficiency</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-defy-2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Defy 2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722903258846-what-to-expect-from-the-upcoming-samsung-galaxy-s25-ultra-price-predictions-and-release-date-insights/"><u>What to Expect From the Upcoming Samsung Galaxy S25 Ultra - Price Predictions & Release Date Insights</u></a></li>
 </ul></div>
 

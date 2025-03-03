@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: How to Identify Your Motherboard Model Effortlessly"
-date: 2024-08-18T22:58:46.738Z
-updated: 2024-08-19T22:58:46.738Z
+date: 2025-02-09T18:12:49.731Z
+updated: 2025-02-11T20:51:21.406Z
 tags:
   - win11
   - win10
@@ -42,8 +42,9 @@ This article explains how to manually start Windows 10 in safe mode.
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -79,15 +80,13 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the Boot Options menu above doesn’t display, and instead Windows just launches normally, it’s likely that you didn’t press F8 early enough.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 2: Start Safe Mode by turning off your PC 3 times**
 
  If you’re unable to launch Windows, and you haven’t enabled the F8 method above, this is how to start Safe Mode:
@@ -100,6 +99,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait for Windows to diagnose your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
@@ -107,6 +110,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  4) Click**Advanced Options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Troubleshoot** :
 
@@ -116,9 +123,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  7) Click**Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
@@ -145,17 +149,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
@@ -169,8 +166,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
@@ -179,14 +177,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -197,26 +193,28 @@ If you can boot to the login screen, you can enter Safe Mode from there:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/login-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 The Windows RE (Recovery environment) screen will then display.
 
  3) Click **Troubleshoot** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
@@ -228,13 +226,11 @@ The Windows RE (Recovery environment) screen will then display.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can’t solve the problem? Try Driver Easy
 
  If you couldn’t solve your computer problem in Safe Mode but you can still run Windows normally, give **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  a try.
@@ -251,9 +247,6 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b60655cf90.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -261,8 +254,9 @@ The Windows RE (Recovery environment) screen will then display.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -271,8 +265,6 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,4 +272,26 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-prime-20-anime-openers-soundscape-for-2024/"><u>[New] Prime 20 Anime Openers' Soundscape for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-step-into-innovation-top-10-youtube-vr-creations/"><u>[Updated] Step Into Innovation Top 10 YouTube VR Creations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beginning-zoom-video-calls-on-android-devices/"><u>2024 Approved Beginning Zoom Video Calls on Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-10-review-how-three-key-features-swayed-my-opinion-insights/"><u>Apple Watch Series 10 Review: How Three Key Features Swayed My Opinion Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-models-should-you-upgrade-to-the-iphone-16-pro-from-the-iphone-14-pro-insights-and-analysis/"><u>Comparing iPhone Models: Should You Upgrade to the iPhone 16 Pro From the iPhone 14 Pro? Insights & Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-controller-issue-addressed-and-fixed/"><u>Display Controller Issue Addressed and Fixed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expected-release-new-ipad-models-set-for-late-marchearly-april-insights/"><u>Expected Release: New iPad Models Set For Late-March/Early-April - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-change-opus-files-to-mp4-format-with-ease/"><u>Free Online Converter: Change Opus Files to MP4 Format with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-instant-push-notifications-for-slack-on-the-apple-watch-tips-and-tricks-by-zdnet/"><u>Get Instant Push Notifications for Slack on the Apple Watch - Tips & Tricks by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-8-premium-websites-for-3d-text-psdfiles/"><u>In 2024, Explore 8 Premium Websites for 3D Text PSDFiles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-a-lifesaving-feature-googles-latest-pixel-vehicle-9-the-first-android-phone-to-support-sos-messaging-via-satellite-tech-insights-by-zdnet/"><u>Introducing a Lifesaving Feature: Google's Latest Pixel Vehicle 9, The First Android Phone to Support SOS Messaging via Satellite | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-engagement-find-the-top-5-tools-to-streamline-your-pinterest-posting-cadence/"><u>Maximize Engagement: Find the Top 5 Tools to Streamline Your Pinterest Posting Cadence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-this-october-get-metas-expanded-vr-experience-with-the-quest-3-now-at-a-stellar-512gb-exclusive-prime-day-sale-still-going-strong/"><u>Save Big This October! Get Meta's Expanded VR Experience with the Quest 3, Now at a Stellar 512GB – Exclusive Prime Day Sale Still Going Strong .</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-turn-your-images-darker-for-2024/"><u>Step-by-Step Turn Your Images Darker for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-remarkable-difference-of-using-ios-18-on-an-iphone-14-for-content-creation-a-deep-dive/"><u>The Remarkable Difference of Using iOS 18 on an iPhone 14 for Content Creation - A Deep Dive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-protective-sleeves-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated iPad Air Protective Sleeves : Comprehensive Review by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-how-to-restore-functionality-in-non-responsive-pc-speakers/"><u>Ultimate Solutions: How to Restore Functionality in Non-Responsive PC Speakers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-secret-a-remarkable-unadvertised-feature-on-your-iphone-revealed-by-zdnet/"><u>Unveiling Apple's Secret: A Remarkable, Unadvertised Feature on Your iPhone Revealed by ZDNet</u></a></li>
+</ul></div>
 

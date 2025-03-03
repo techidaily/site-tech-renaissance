@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Disabling Mouse Acceleration Easily"
-date: 2024-08-18T22:59:08.897Z
-updated: 2024-08-19T22:59:08.898Z
+date: 2025-02-04T23:40:22.798Z
+updated: 2025-02-11T22:00:10.200Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ The answer is, no.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975b754c83e3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you haven’t changed the location where you placed your system file, choose**(C:)** and click**OK** . If you have changed the file location before, choose the correct file directory accordingly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975b948ea778.png)
@@ -55,6 +59,14 @@ The answer is, no.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975bf68b4ff6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2\. Use DISM Tool**
 
 **DISM**  stands for Deployment Image & Servicing Management. It is a tool that allows you to make changes to Windows features, packages, drivers, and international settings. In this case, we will use it to help us clean up our WinSxS folder.
@@ -64,6 +76,10 @@ The answer is, no.
  1) On your keyboard, press **Windows logo key**   and **X**   at the same time, then choose **Command Prompt (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c1bb42138.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When prompted with the UAC, hit **Yes** to continue.
 
@@ -78,6 +94,10 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup
  3) Check for possible typo. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c4b394177.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the same DISM window, type in or copy and paste in the following command:
 
@@ -115,8 +135,6 @@ Hope your problem solved!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,8 +142,24 @@ Hope your problem solved!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-new-frontiers-in-mobile-videography-alternatives-to-periscope-for-2024/"><u>[New] New Frontiers in Mobile Videography - Alternatives to Periscope for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-ranking-the-best-no-cost-tiktok-to-mp3-conversion-services/"><u>[Updated] Ranking the Best No-Cost TikTok to MP3 Conversion Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-playback-in-reverse-the-ultimate-youtube-playlist-technique/"><u>2024 Approved Playback in Reverse The Ultimate YouTube Playlist Technique</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-your-adventure-defeating-forza-horizon-5s-persistent-load-puzzle/"><u>Accelerate Your Adventure: Defeating Forza Horizon 5'S Persistent Load Puzzle</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-on-your-ideal-tablet-in-depth-comparison-of-apples-latest-ipad-pro-models-with-m1-and-m2-processors-expert-review/"><u>Deciding on Your Ideal Tablet: In-Depth Comparison of Apple's Latest iPad Pro Models with M1 & M2 Processors | Expert Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-revealing-private-gpt-chat-exchanges/"><u>Efficiently Revealing Private GPT-Chat Exchanges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-much-splash-does-the-iphone-13-handle-dive-into-its-ip68-protection-details/"><u>How Much Splash Does the iPhone 13 Handle? Dive Into Its IP68 Protection Details</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-12-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 12 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-surpass-everyday-photo-taking-with-ios-11/"><u>In 2024, Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-productivity-and-travel-top-picks-in-xr-glasses-feature-newly-enhanced-tech/"><u>Revolutionizing Productivity & Travel: Top Picks in XR Glasses Feature Newly Enhanced Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-alluring-appeal-of-apples-latest-innovation-top-4-convincing-factors-to-upgrade-to-the-new-ipad-air/"><u>The Alluring Appeal of Apple's Latest Innovation: Top 4 Convincing Factors to Upgrade to the New iPad Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-mens-ncaa-ball-radio-broadcasts-from-march-mayhem-to-championship-glory/"><u>The Ultimate Guide to Men's NCAA Ball: Radio Broadcasts From March Mayhem to Championship Glory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-revolutionary-capabilities-of-the-new-iphone-16-why-you-should-consider-switching-from-older-models/"><u>Top 4 Revolutionary Capabilities of the New iPhone 16: Why You Should Consider Switching From Older Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-pick-breakdown-the-enhanced-ring-doorbell-battery-experience-review/"><u>Top Pick Breakdown: The Enhanced Ring Doorbell Battery Experience Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protective-covers-reviewed-by-professionals/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protective Covers - Reviewed by Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-your-iphone-display-with-the-perfect-night-setting-guide/"><u>Transforming Your iPhone Display with the Perfect Night Setting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-lifespan-of-your-apple-watch-battery-unexpected-insights-revealed-zdnet/"><u>Unveiling the Lifespan of Your Apple Watch Battery: Unexpected Insights Revealed | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->

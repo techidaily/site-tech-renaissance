@@ -1,7 +1,7 @@
 ---
 title: How to Use the Windows 10 Device Manager to Update Your Drivers
-date: 2024-08-18T22:56:51.950Z
-updated: 2024-08-19T22:56:51.950Z
+date: 2025-02-04T19:26:59.075Z
+updated: 2025-02-11T18:28:39.376Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 3. In the pop-up window, you will see two options. Click **Search automatically for updated driver software** . Then Windows will find and install drivers for your video device automatically.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0a3b3b6a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
 
 ## Method 2: Download and install new drivers from manufacturers
@@ -51,18 +55,12 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
+
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -72,10 +70,11 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Update video drivers automatically
 
@@ -89,15 +88,17 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -113,8 +114,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +121,26 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-screenshots-software-series/"><u>[New] Best Screenshots Software Series</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-comparing-igs-new-features-reels-vs-stories/"><u>[New] In 2024, Comparing IG's New Features Reels Vs Stories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-6-pillars-of-effective-facebook-live-website-integration/"><u>[New] In 2024, The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-expert-advice-sharing-youtube-videos-with-fb-ease-for-2024/"><u>[Updated] Expert Advice Sharing YouTube Videos with FB Ease for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-finding-and-using-microsoft-word-at-zero-price/"><u>A Comprehensive Guide to Finding and Using Microsoft Word at Zero Price</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-apple-vision-pros-potential-a-weekend-review-with-key-findings-for-tech-enthusiasts/"><u>Discovering Apple Vision Pro's Potential: A Weekend Review with Key Findings for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/early-warning-signs-of-rogue-chatgpt-services/"><u>Early Warning Signs of Rogue ChatGPT Services</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50iplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50i+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ios-and-android-perfecting-your-chat-tone-with-whatsapp-ringtones/"><u>In 2024, IOS & Android Perfecting Your Chat Tone with WhatsApp Ringtones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-leading-suggestions-best-iphone-audio-innovators/"><u>In 2024, Leading Suggestions Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-connectivity-how-apple-enables-third-party-app-integration-with-iphone-nfc-technology/"><u>Revolutionizing Connectivity: How Apple Enables Third-Party App Integration with iPhone NFC Technology</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782074-9781620550588-sir-gawain/"><u>Sir Gawain | Free Book</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solving-the-issue-why-isnt-google-drive-displayed-in-windows-file-explorer/"><u>Solving the Issue: Why Isn't Google Drive Displayed in Windows File Explorer?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-shared-disappointment-with-iphones-ios-18-update-explored/"><u>The Shared Disappointment with iPhone's iOS 18 Update Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-essential-accessories-to-maintain-the-pristine-look-of-your-iphone-13-tips/"><u>Top 3 Essential Accessories to Maintain the Pristine Look of Your iPhone 13 - Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-computers-comprehensive-list-and-reviews/"><u>Top Rated Mac Computers : Comprehensive List & Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-the-power-of-time-with-apple-watch-series-10-secure-yours-at-just-99-through-preorders-at-best-buy-your-step-by-step-guide-techsavvy/"><u>Unleash the Power of Time with Apple Watch Series 10: Secure Yours at Just $99 Through Preorders at Best Buy – Your Step-by-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-reviews-iphone-14-fulfilling-necessary-standards-for-modern-consumers/"><u>ZDNet Reviews iPhone 14: Fulfilling Necessary Standards for Modern Consumers</u></a></li>
+</ul></div>
 

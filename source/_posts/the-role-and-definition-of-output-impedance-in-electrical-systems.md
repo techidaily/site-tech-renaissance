@@ -1,7 +1,7 @@
 ---
 title: The Role and Definition of Output Impedance in Electrical Systems
-date: 2024-08-12T03:49:20.562Z
-updated: 2024-08-13T03:49:20.562Z
+date: 2025-02-11T00:10:55.598Z
+updated: 2025-02-11T22:24:28.541Z
 categories:
   - BestProducts
 description: This Article Describes The Role and Definition of Output Impedance in Electrical Systems
@@ -22,9 +22,6 @@ In This Article
 
  One idea floating around is Apple combining an iPhone and an iPad to make a double-wide phone, or maybe the iPhone Flip will fold like the iconic Motorola Razr. These are just rumors for now, and some experts think Apple might release a foldable iPad before a flip phone. Whatever the case, the talk about a foldable Apple gadget is picking up.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Summary
 
 * **Release date** : 2026
@@ -32,10 +29,9 @@ In This Article
 * **Specs** : Clamshell form factor, small outer screen
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -48,10 +44,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  There are various designs in those documents, and some of them are wildly different from the others (including a way to fold the device multiple ways). The plans could mean that they're referring to something different, like an e-reader or tablet, but they hint at what we could expect with this iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Patent US8929085B2.
 
@@ -60,6 +57,10 @@ Patent US8929085B2.
 > In the described embodiment, the flexible display assembly is configured to present visual content at any portion of the transparent housing.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -81,12 +82,13 @@ iPhone Fold concept.
 
 Michal Dufka
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Features
 
@@ -101,8 +103,9 @@ Michal Dufka
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -127,9 +130,6 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -140,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +153,23 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-oops-tiktok-refresh-how-to-retrieve-videos-for-2024/"><u>[New] Oops, TikTok Refresh – How to Retrieve Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-preserve-instagram-pics-and-videos-for-long-term-storage/"><u>[Updated] In 2024, Preserve Instagram Pics and Videos for Long-Term Storage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leveraging-snap-functions-boosting-virtual-interaction-during-meets/"><u>[Updated] Leveraging Snap Functions Boosting Virtual Interaction During Meets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-redefinition-adjusting-youtube-on-mac-pixels/"><u>[Updated] Rapid Redefinition Adjusting YouTube on Mac Pixels</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unraveling-the-secrets-of-exceptional-green-screen-filming-for-2024/"><u>[Updated] Unraveling the Secrets of Exceptional Green Screen Filming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-video-previews-easily-accessible-for-all/"><u>[Updated] Video Previews Easily Accessible for All</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-ultimate-guide-discovering-the-best-ipad-why-the-new-apple-m2-powered-ipad-air-is-a-must-have-techinsights/"><u>1. Ultimate Guide: Discovering the Best iPad - Why the New Apple M2 Powered iPad Air Is a Must-Have | TechInsights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-iphone-showdown-key-factors-when-upgrading-from-iphone-15-to-iphone-16-insights-from-zdnet/"><u>Apple iPhone Showdown: Key Factors When Upgrading From iPhone 15 to iPhone 16 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-look-the-game-changing-feature-in-ipados-18-unveiled-at-wwdc-2024-that-could-sway-users-to-apples-tablet-tech-analysis-by-zdnet/"><u>Exclusive Look: The Game-Changing Feature in iPadOS 18 Unveiled at WWDC 2024 That Could Sway Users to Apple's Tablet | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-series-3-prototype-lite-price-predictions-and-launch-window-comprehensive-rumor-roundup-included/"><u>Meta Quest Series 3 Prototype 'Lite' - Price Predictions & Launch Window; Comprehensive Rumor Roundup Included</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/penning-perfectly-captivating-podcast-descriptions/"><u>Penning Perfectly Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-audio-expert-tips-for-fixing-an-acer-laptop-without-sound-output/"><u>Reviving Audio: Expert Tips for Fixing an Acer Laptop Without Sound Output</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smartphone-camera-transformation-unveiling-the-impact-of-artificial-intelligence-on-tomorrows-visual-marvels-insights-from-zdnet/"><u>Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-iphone-choices-comprehensive-expert-evaluations-and-reviews-zdnet/"><u>Top-Ranking iPhone Choices : Comprehensive Expert Evaluations & Reviews | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-at-the-apple-keynote-m4-ipad-pro-enhanced-13-inch-ipad-air-and-new-apple-pencil-pro-comprehensive-recap/"><u>Unveiling at the Apple Keynote: M4 iPad Pro, Enhanced 13-Inch iPad Air & New Apple Pencil Pro - Comprehensive Recap</u></a></li>
+</ul></div>
 

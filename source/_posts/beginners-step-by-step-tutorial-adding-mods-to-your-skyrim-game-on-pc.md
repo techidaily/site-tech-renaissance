@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Step-by-Step Tutorial: Adding Mods to Your Skyrim Game on PC"
-date: 2024-08-18T22:57:24.566Z
-updated: 2024-08-19T22:57:24.566Z
+date: 2025-02-10T00:41:34.093Z
+updated: 2025-02-11T23:03:06.872Z
 tags:
   - win11
   - win10
@@ -17,20 +17,25 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In this guide, you’ll learn how to do it step by step. Read on and see how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I connect my laptop to the TV with HDMI
 
 ### Step 1
 
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Step 2
 
  Plug the HDMI cable into both your laptop’s and TV’s HDMI ports.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3
 
@@ -38,12 +43,6 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 4
 
 Tada! You may see the same screen with your laptop on the TV.
@@ -58,35 +57,35 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** when viewed by Large icons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  5) Select**TV** from Display drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-27.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Change the Resolution to earn a best view on TV screen. Then click OK to save your settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if there’s no sound from TV speakers?
 
@@ -107,8 +106,9 @@ In addition, set your HDMI audio output device as the default device.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Still No Sound?
 
  If after all the settings above, there’s still no sound from your TV’s speakers, we highly recommend you update your HDMI audio output device driver. You can choose to download the latest driver from your device manufacturer’s website. However, it’s not as easy as it sounds. It needs you to find the correct driver and download it all manually.
@@ -118,6 +118,10 @@ In addition, set your HDMI audio output device as the default device.
  To update your drivers with Driver Easy, just click the **Scan Now** button, then when it lists the drivers you need to update, click **Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s all there is to it. Hopefully, you can enjoy the large screen now.
 
@@ -129,8 +133,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +140,24 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-role-and-function-of-slug-lines/"><u>[New] 2024 Approved The Role and Function of Slug Lines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-panning-for-priceless-pieces-in-open-source-archives/"><u>[New] Panning for Priceless Pieces in Open-Source Archives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-evaluated-and-ranked-the-best-iphone-photo-watermarkers/"><u>[Updated] 2024 Approved Evaluated and Ranked The Best iPhone Photo Watermarkers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-follower-fallout-on-instagram-how-to-spot-it/"><u>[Updated] In 2024, Follower Fallout on Instagram How to Spot It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-users-confronting-ghost-touches-strategies-for-troubleshooting-and-fixes-digital-gadget-news/"><u>Apple Watch Users Confronting 'Ghost Touches' - Strategies for Troubleshooting and Fixes | Digital Gadget News</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-six-risks-with-unrestricted-ai-use/"><u>Beware! Six Risks With Unrestricted AI Use</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/esrs-latest-innovation-cryoboost-technology-in-qi2-magsafe-accelerates-iphone-16-charging-efficiently-and-safely-gadgetflow/"><u>ESR's Latest Innovation: CryoBoost Technology in Qi2 MagSafe Accelerates iPhone 16 Charging Efficiently and Safely | GadgetFlow</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-top-10-must-know-ipad-features-and-setups-for-beginners-and-experts-alike-discover-the-best-practices-with-zdnets-expert-advice/"><u>Essential Guide: Top 10 Must-Know iPad Features & Setups for Beginners & Experts Alike - Discover the Best Practices with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-productivity-in-your-home-workspace-using-an-ipad-pro-tips-and-tricks-from-zdnet/"><u>Maximize Productivity in Your Home Workspace Using an iPad Pro: Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-decision-top-5-considerations-for-pre-ordering-apples-vision-pro-expert-tips-by-zdnet/"><u>Navigating the Decision: Top 5 Considerations for Pre-Ordering Apple's Vision Pro | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/regular-monitoring-through-inspections-or-ndt-techniques-is-vital-for-early-detection-of-corrosion-and-timely-maintenance-actions/"><u>Regular Monitoring Through Inspections or NDT Techniques Is Vital for Early Detection of Corrosion and Timely Maintenance Actions.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-cycling-experience-how-photo-sensitive-lenses-enhanced-my-ride-insights-from-zdnet/"><u>Revolutionize Your Cycling Experience: How Photo-Sensitive Lenses Enhanced My Ride – Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-5-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-tech-phoenix-apples-historic-powerbook-of-94-revived-equipped-with-an-ipad-display-and-2015-macbook-pro-core-internals-for-the-ultimate-vintage-modern-h17/"><u>The Tech Phoenix: Apple's Historic PowerBook of '94 Revived, Equipped with an iPad Display & 2015 MacBook Pro Core Internals for the Ultimate Vintage-Modern Hybrid Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-how-ar-vr-mr-and-xr-differ-from-one-another-in-todays-tech-scene/"><u>The Ultimate Breakdown: How AR, VR, MR, and XR Differ From One Another in Today's Tech Scene</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-new-ipados-16-enhancements-revealed-at-apples-wwdc-2024-compatibility-breakdown-for-different-ipad-models-techexplore/"><u>Top 4 New iPadOS 16 Enhancements Revealed at Apple's WWDC 2024: Compatibility Breakdown for Different iPad Models | TechExplore</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-value-packed-gaming-laptops-below-1000/"><u>Top Value-Packed Gaming Laptops Below $1,000</u></a></li>
+</ul></div>
 

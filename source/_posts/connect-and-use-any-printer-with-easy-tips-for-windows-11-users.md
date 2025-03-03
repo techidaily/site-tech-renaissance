@@ -1,7 +1,7 @@
 ---
 title: Connect and Use Any Printer with Easy Tips for Windows 11 Users
-date: 2024-08-18T22:56:29.394Z
-updated: 2024-08-19T22:56:29.394Z
+date: 2025-02-06T17:16:49.864Z
+updated: 2025-02-11T17:32:50.767Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 5. [**Run the game as a new user**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the power plan
 
  Power plans are no more than a set of settings that controls how your PC consumes/saves power. And in Windows 10, Microsoft introduced a power plan for workstation called Ultimate Performance, which can be a safe and easy-to-get performance boost.
@@ -54,8 +58,9 @@ Once done, restart your game and check the performance.
 If you don’t see any changes, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check for system updates
 
  Windows 11 is fairly new, and the devs are still working on some major bugs. If you want to get the latest system updates, you can get one step ahead of the schedule checking and check for updates manually.
@@ -63,18 +68,20 @@ If you don’t see any changes, simply continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your PC and check the gameplay.
 
 If the performance is still crappy, take a look at the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update all your drivers
 
  The latest computer drivers improve overall stability and performance. And this is especially true for gaming PCs, as they usually need the up-to-date GPU drivers to unleash the full potential on new titles. So if you don’t remember when was the last time you checked for driver updates, definitely do it now.
@@ -85,12 +92,14 @@ If the performance is still crappy, take a look at the next method.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all the drivers, restart your PC and test the in-game performance.
@@ -108,20 +117,28 @@ If the performance is still crappy, take a look at the next method.
 1. On your keyboard, press Win+R (the Windows logo key and the R key) to open the Run dialog. Type**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
-3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
-4. Make sure**Memory integrity** is set to**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
-5. Restart your computer and test the gameplay again.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
+3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
+4. Make sure**Memory integrity** is set to**Off** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
+5. Restart your computer and test the gameplay again.
+
  If this trick doesn’t do the charm for you, check out the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the game as a new user
 
@@ -130,15 +147,9 @@ If the performance is still crappy, take a look at the next method.
 1. On your keyboard, press the**Windows logo key** . Type**other users** and select**Other users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user-0.jpg)
 2. In the**Other users** section, click**Add account** . In the pop-up window, follow the on-screen instructions to complete the process. (You can just create a local account so you won’t need another Microsoft account.)  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user.jpg)
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Scan and repair Windows
 
  Compared to its predecessor, Windows 11 does not have a good reputation according to the performance so far. And if you upgraded from Windows 10, chances are you may run into some system issues. To make sure there aren’t any critical issues, you can run a checkup with a system repair tool.
@@ -165,8 +176,6 @@ If the performance is still crappy, take a look at the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +183,21 @@ If the performance is still crappy, take a look at the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-portable-visual-tinkering-a-lut-enthusiasts-guide/"><u>[New] Portable Visual Tinkering A LUT Enthusiast's Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-youtube-rules-for-content-creators/"><u>[Updated] In 2024, Essential YouTube Rules for Content Creators</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-optimal-visual-experience-pondering-ultrawide-vs-uhd-4k-monitors/"><u>[Updated] In 2024, Optimal Visual Experience Pondering UltraWide vs UHD 4K Monitors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data-for-2024/"><u>[Updated] Navigating the Seas of Success Utilizing Social Blade for YouTube Data for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-finest-tech-for-streaming-and-saving-your-video-conferences/"><u>[Updated] The Finest Tech for Streaming and Saving Your Video Conferences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend-for-2024/"><u>[Updated] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-latest-ios-patch-eliminates-creepy-error-of-reviving-ejected-pictures-detailed-analysis/"><u>How the Latest iOS Patch Eliminates Creepy Error of Reviving Ejected Pictures Detailed Analysis</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-agni-2-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Agni 2 5GFRP Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-upgrade-unveiling-enhanced-repairability-of-apples-new-iphone-16-detailed-insights-from-tech-giant/"><u>Revolutionary Upgrade: Unveiling Enhanced Repairability of Apple's New iPhone 16 - Detailed Insights From Tech Giant</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-utilizing-slack-in-your-job-role/"><u>The Ultimate Guide to Utilizing Slack in Your Job Role</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-16-pro-protective-covers-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated iPhone 16 & 16 Pro Protective Covers - Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-airtag-enhancements-the-expertly-vetted-accessories-of-2024-zdnet/"><u>Ultimate Guide to AirTag Enhancements: The Expertly Vetted Accessories of 2024 | ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-your-inner-influencer-9-essential-instagram-steps/"><u>Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
+</ul></div>
 

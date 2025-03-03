@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Specific Updates From Your Windows 11 System"
-date: 2024-08-18T22:58:03.525Z
-updated: 2024-08-19T22:58:03.525Z
+date: 2025-02-08T00:04:32.555Z
+updated: 2025-02-11T17:26:25.601Z
 tags:
   - win11
   - win10
@@ -53,19 +53,21 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Follow the on-screen instructions to fix your problem.
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -90,15 +92,27 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Restart your PC to test the issue.
 
 If your problem persists, then move on to the next fix.
@@ -121,13 +135,13 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the program that you don’t use and select**Uninstall** .
 
@@ -143,16 +157,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -165,14 +173,8 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Update your device drivers
 
  Outdated or faulty hardware drivers can also trigger PC issues. To keep your computer running smoothly, it’s essential that you have the latest correct drivers at all times.
@@ -189,16 +191,21 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -233,18 +240,15 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -253,9 +257,6 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
@@ -264,9 +265,6 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
@@ -274,8 +272,9 @@ If your problem persists, then move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
  Hopefully, you would find this article useful and easy to follow. Feel free to leave a comment below if you have any suggestions and questions.
@@ -289,8 +288,6 @@ If your problem persists, then move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -298,4 +295,21 @@ If your problem persists, then move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/re-annual-payments-for-youtube-premium-better-than-monthly-for-2024/"><u>[New] Are Annual Payments for YouTube Premium Better Than Monthly for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-advanced-techniques-for-trimming-youtube-footage/"><u>[Updated] 2024 Approved Advanced Techniques for Trimming YouTube Footage</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-asus-rog-phone-7-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Asus ROG Phone 7 FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-look-at-lg-k51-beautiful-build-dampened-by-underpowered-processor/"><u>Comprehensive Look at LG K51: Beautiful Build Dampened by Underpowered Processor</u></a></li>
+<li><a href="https://techidaily.com/enhanced-conversion-tracking-with-the-latest-cookiebot-technology/"><u>Enhanced Conversion Tracking with the Latest Cookiebot Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/googles-legal-challenges-spur-samsung-to-dominate-with-expanding-galaxy-ai-capabilities-clinching-top-spot-in-latest-innovation-rankings-zdnet/"><u>Google's Legal Challenges Spur Samsung to Dominate with Expanding Galaxy AI Capabilities, Clinching Top Spot in Latest Innovation Rankings | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-sale-save-up-to-700-on-the-amazing-new-2022-ipad-pro-exclusive-deals/"><u>Labor Day Sale: Save Up To $700 on the Amazing New 2022 iPad Pro - Exclusive Deals !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-successful-age-of-empires-iv-installation/"><u>Resolved: Troubleshooting Steps for Successful 'Age of Empires IV' Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-remarkable-progression-of-mobile-photography-exploring-ais-role-in-shaping-tomorrows-snapshots/"><u>The Remarkable Progression of Mobile Photography: Exploring AI's Role in Shaping Tomorrow's Snapshots</u></a></li>
+<li><a href="https://facebook.techidaily.com/three-warnings-metas-media-conquest/"><u>Three Warnings: Meta's Media Conquest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-mac-enhancement-software-of-the-year-and-zdnets-top-selections/"><u>Ultimate Guide to MAC Enhancement Software of the Year ^&() - ZDNET's Top Selections!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-deal-of-a-lifetime-99-apple-watch-series-10-preorders-only-at-best-buy-a-complete-tutorial/"><u>Unlock the Deal of a Lifetime: $99 Apple Watch Series 10 Preorders Only at Best Buy - A Complete Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-7-ready-download-the-latest-amd-radeon-graphics-card-drivers/"><u>Windows 7-Ready: Download the Latest AMD Radeon Graphics Card Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MacBook Multi-Tasking Made Simple: A Comprehensive Split Screen Tutorial"
-date: 2024-08-12T03:49:30.214Z
-updated: 2024-08-13T03:49:30.214Z
+date: 2025-02-07T18:11:48.532Z
+updated: 2025-02-12T00:59:55.586Z
 categories:
   - BestProducts
 description: "This Article Describes MacBook Multi-Tasking Made Simple: A Comprehensive Split Screen Tutorial"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
  This article explains how to prevent your MacBook from sleeping when the lid is closed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Keep Your MacBook On When Closed
 
  You'll need to change a few settings to stop your MacBook from going to sleep with the lid closed.  
@@ -25,24 +29,22 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 1. Click**System Settings** or**System Preferences** from the Apple menu in the upper left corner.  
 ![The Apple menu on a MacBook](https://www.lifewire.com/thmb/l1I1ckMK4T1_Bb8Nx1Ws760pXLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macos-apple-menu-6e1d16f2da7f416bb5b09df2e105dc93.png)
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
 5. Connect your MacBook to an external monitor using an adapter if necessary.
@@ -51,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Does My MacBook Sleep When I Close the Lid?
 
  Your MacBook sleeps when you close the lid for several reasons, depending on whether it's plugged in. When plugged in, it sleeps to help conserve energy and allow it to charge more quickly, as it uses much less power while asleep. When running on battery power, it sleeps when you close the lid to conserve battery power. Since you typically don't need to use your MacBook when the lid is closed, the default setting is for the display to turn off and the MacBook to sleep whenever the lid is closed.
@@ -60,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
 
  Apple only provides you with one way to keep your MacBook from sleeping with the lid closed: tweak the[energy-saver settings](https://www.lifewire.com/use-energy-saver-preferences-pane-2260733) , connect the battery charger, and plug in an external monitor.
@@ -97,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +108,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-on-blurbs-captivating-podcast-intros/"><u>[New] Spotlight on Blurbs Captivating Podcast Intros</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>2024 Approved How to Retain Video Engagement Sustained Use of YouTube's CC License</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/big-name-apps-missing-from-apple-vision-pro-exclusive-insight-revealed/"><u>Big Name Apps Missing From Apple Vision Pro: Exclusive Insight Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722052067502-explore-the-best-free-ai-options-that-challenge-openais-sora-today/"><u>Explore the Best FREE AI Options That Challenge OpenAI's Sora Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-spark-20-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Spark 20 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-evolution-assessing-the-upgrade-from-m1-to-m3-s-in-depth-review/"><u>MacBook Evolution: Assessing the Upgrade From M1 to M3 'S In-Depth Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-and-explore-on-two-wheels-the-impact-of-heads-up-display-in-photochromic-biking-lenses-zdnet-review/"><u>Navigate and Explore on Two Wheels: The Impact of Heads-Up Display in Photochromic Biking Lenses | ZDNET Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/sony-vegas-not-your-cup-of-tea-try-these-windows-alternatives-for-2024/"><u>Sony Vegas Not Your Cup of Tea? Try These Windows Alternatives for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-pros-and-cons-of-the-line-communication-application/"><u>Unveiling the Pros and Cons of the Line Communication Application</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Start Your PC in Safe Mode on Windows 11 - A Comprehensive Guide to All 4 Strategies and Their Images
-date: 2024-08-18T22:56:38.266Z
-updated: 2024-08-19T22:56:38.266Z
+date: 2025-02-10T17:25:01.301Z
+updated: 2025-02-11T20:25:14.833Z
 tags:
   - win11
   - win10
@@ -37,13 +37,18 @@ This article explains how to manually start Windows 10 in safe mode.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Start Safe Mode by pressing F8 at startup**
 
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -78,9 +83,17 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the Boot Options menu above doesn’t display, and instead Windows just launches normally, it’s likely that you didn’t press F8 early enough.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Start Safe Mode by turning off your PC 3 times**
 
@@ -98,20 +111,18 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Advanced Options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Troubleshoot** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -124,24 +135,14 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your computer will restart and present a list of different startup options.
 
  9) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/enable-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -161,9 +162,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### To turn off Safe Mode and go back to normal mode
 
  When you want to return Windows to normal mode, you just have to undo your changes:
@@ -172,26 +173,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -208,16 +211,10 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  4) Click **Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
@@ -225,6 +222,10 @@ The Windows RE (Recovery environment) screen will then display.
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer will then restart and another screen opens showing a lot of different startup options.
 
@@ -234,9 +235,6 @@ The Windows RE (Recovery environment) screen will then display.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Can’t solve the problem? Try Driver Easy
 
  If you couldn’t solve your computer problem in Safe Mode but you can still run Windows normally, give **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  a try.
@@ -253,23 +251,12 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b60655cf90.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -278,8 +265,6 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +272,20 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-food-videography-how-to-shoot-food-videos-for-2024/"><u>[New] Food Videography How to Shoot Food Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-superior-screen-refinement-software-for-video-lovers/"><u>[New] In 2024, Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-zooming-into-miniature-realms-of-minecraft/"><u>[New] In 2024, Zooming Into Miniature Realms of Minecraft</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ranking-the-best-camcorders-review-guide/"><u>2024 Approved Ranking the Best Camcorders Review Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipating-success-through-pre-release-experiences-how-ordering-apples-vision-pro-gave-hope-for-what-lies-ahead-analysis/"><u>Anticipating Success Through Pre-Release Experiences: How Ordering Apple's Vision Pro Gave Hope for What Lies Ahead Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/bring-back-classic-ps3-fun-with-best-tools-for-2024/"><u>Bring Back Classic PS3 Fun with Best Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-opinions-on-the-ultimate-ipads-of-2024-in-depth-analysis-and-ratings/"><u>Expert Opinions on the Ultimate iPads of 2024: In-Depth Analysis & Ratings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-ipads-detailed-inspections-and-expert-opinions-featured-on-zdnet/"><u>Leading iPads : Detailed Inspections & Expert Opinions Featured on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-error-4201-in-genshin-impact-a-step-by-step-guide/"><u>Resolving Error 4201 in Genshin Impact: A Step-by-Step Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-and-effective-techniques-converting-flv-files-into-avi-format/"><u>Simple and Effective Techniques: Converting FLV Files Into AVI Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steer-clear-of-these-devastating-mistakes-in-using-apple-vision-pro-save-your-project-before-its-too-late-expert-advice/"><u>Steer Clear of These Devastating Mistakes in Using Apple Vision Pro – Save Your Project Before It's Too Late | Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-removing-unwanted-applications-from-your-samsung-smart-tv/"><u>Ultimate Guide: Removing Unwanted Applications From Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-superior-ipad-air-cases-for-2-completion-in-depth-analysis-and-ratings-by-specialists/"><u>Ultimate List of Superior iPad Air Cases for 2# Completion : In-Depth Analysis and Ratings by Specialists</u></a></li>
+</ul></div>
 

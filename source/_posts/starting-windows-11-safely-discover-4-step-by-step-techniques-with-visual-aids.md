@@ -1,7 +1,7 @@
 ---
 title: "Starting Windows 11 Safely: Discover 4 Step-by-Step Techniques with Visual Aids"
-date: 2024-08-18T23:00:19.983Z
-updated: 2024-08-19T23:00:19.983Z
+date: 2025-02-08T22:30:54.759Z
+updated: 2025-02-11T23:35:16.405Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ This article explains how to manually start Windows 10 in safe mode.
 
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -64,6 +61,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/bcdedit-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your PC.
 
 ### Now you can start Safe Mode using the F8 key
@@ -79,15 +80,13 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the Boot Options menu above doesn’t display, and instead Windows just launches normally, it’s likely that you didn’t press F8 early enough.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 2: Start Safe Mode by turning off your PC 3 times**
 
  If you’re unable to launch Windows, and you haven’t enabled the F8 method above, this is how to start Safe Mode:
@@ -100,9 +99,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3) Wait for Windows to diagnose your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
@@ -115,9 +111,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -126,12 +119,13 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer will restart and present a list of different startup options.
 
@@ -142,8 +136,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -155,25 +150,21 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### To turn off Safe Mode and go back to normal mode
 
  When you want to return Windows to normal mode, you just have to undo your changes:
@@ -187,15 +178,13 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
 ## Method 4: Start Safe Mode from the login screen
@@ -214,6 +203,10 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
@@ -226,16 +219,21 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Your computer will then restart and another screen opens showing a lot of different startup options.
 
  7) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can’t solve the problem? Try Driver Easy
 
@@ -259,9 +257,6 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -270,8 +265,6 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -279,4 +272,26 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-perfect-livestream-match-10-top-tier-platform-recommendations/"><u>[New] Perfect Livestream Match 10 Top-Tier Platform Recommendations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-seamless-slack-filmora-synergy-your-guide-to-meeting-organization/"><u>[New] Seamless Slack-Filmora Synergy Your Guide to Meeting Organization</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-soar-in-popularity-with-key-seo-strategies-for-your-youtube-content/"><u>[Updated] 2024 Approved Soar in Popularity with Key SEO Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-social-media-impact-mastering-snapchats-boomerang-art-for-2024/"><u>[Updated] Elevate Social Media Impact Mastering Snapchat's Boomerang Art for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unveiling-the-secrets-of-superior-tiktok-captions-top-5-strategies/"><u>[Updated] Unveiling the Secrets of Superior TikTok Captions (Top 5 Strategies)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-instant-restoration-for-missing-snaps/"><u>2024 Approved Instant Restoration for Missing Snaps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-store-insider-shares-unbelievable-appeal-of-vision-pro-zdnet/"><u>Apple Store Insider Shares Unbelievable Appeal of Vision Pro - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-newest-contenders-how-does-the-m3-macbook-air-stack-up-against-its-predecessor-the-m2-tech-analysis/"><u>Apple's Newest Contenders: How Does the M3 MacBook Air Stack Up Against Its Predecessor, The M2? | Tech Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/balancing-acts-understanding-the-importance-of-drone-stabilizers/"><u>Balancing Acts Understanding the Importance of Drone Stabilizers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-filmmaking-on-the-go-the-new-final-cut-feature-now-available-on-iphones-according-to-zdnet/"><u>Elevate Your Filmmaking on the Go - The New Final Cut Feature Now Available on iPhones, According to ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-roundup-discover-the-elite-mac-lineup-unveiled/"><u>Exclusive Roundup: Discover the Elite Mac Lineup Unveiled</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-11r-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prevent-auto-sleep-on-macbook-when-lid-is-shut-tightly/"><u>How To Prevent Auto-Sleep on MacBook When Lid Is Shut Tightly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-showdown-comparing-latest-models-to-decide-which-flagship-fits-you-best-techradar-guide/"><u>IPad Pro Showdown: Comparing Latest Models to Decide Which Flagship Fits You Best | TechRadar Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/legally-recording-phone-calls-using-iphone-a-comprehensive-guide-by-zdnet/"><u>Legally Recording Phone Calls Using iPhone – A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-stuck-instagram-story-troubleshooting-tips/"><u>Solving Your Stuck Instagram Story: Troubleshooting Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-chrome-freezing-on-you-effective-fixes-and-workarounds-revealed/"><u>Stop Chrome Freezing on You! Effective Fixes & Workarounds Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-41-unbeatable-holiday-bargains-on-apples-your-ultimate-guide-from-zdnet/"><u>Top 41 Unbeatable Holiday Bargains on Apples: Your Ultimate Guide From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wise-choices-for-building-an-inexpensive-diy-home-theater-experience/"><u>Wise Choices for Building an Inexpensive DIY Home Theater Experience</u></a></li>
+</ul></div>
 

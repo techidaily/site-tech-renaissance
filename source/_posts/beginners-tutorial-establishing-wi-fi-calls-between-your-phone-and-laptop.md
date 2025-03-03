@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Tutorial: Establishing Wi-Fi Calls Between Your Phone & Laptop"
-date: 2024-08-18T23:00:07.725Z
-updated: 2024-08-19T23:00:07.725Z
+date: 2025-02-07T20:22:31.621Z
+updated: 2025-02-12T00:26:12.420Z
 tags:
   - win11
   - win10
@@ -30,6 +30,11 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. In Device Manager, expand the **Display adapters**  category. Right click your graphics card and select **Update driver** (In some cases, this might be Update Driver Software).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0594834c.png)
 3. In the pop-up window, you will see two options. Click **Search automatically for updated driver software** . Then Windows will find and install drivers for your video device automatically.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0a3b3b6a.png)
@@ -49,23 +54,19 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
+
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -75,14 +76,13 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
+
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -95,6 +95,10 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
@@ -113,8 +117,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +124,23 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-creating-an-impactful-film-short-summary/"><u>[New] In 2024, Creating an Impactful Film Short Summary</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essential-android-camera-techniques-and-software/"><u>[Updated] 2024 Approved Essential Android Camera Techniques & Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exploring-freeweb-cam-studios-capabilities/"><u>[Updated] Exploring FreeWeb Cam Studio's Capabilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quick-steps-for-saving-your-macs-desktop/"><u>[Updated] In 2024, Quick Steps for Saving Your Mac's Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-agrees-to-compensation-in-macbook-owner-lawsuit-a-closer-look-at-the-class-action-settlement-technews/"><u>Apple Agrees to Compensation in MacBook Owner Lawsuit: A Closer Look at the Class Action Settlement - TechNews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-loyalists-rejoice-unveiling-lgs-new-audio-upgrade-for-their-televisions-featured/"><u>Apple Loyalists Rejoice: Unveiling LG's New Audio Upgrade for Their Televisions, Featured</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-media-outlets-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Popular Media Outlets: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-blaze-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Blaze 2 Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-a05-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy A05 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-worth-the-upgrade-a-comprehensive-review-techadvisor/"><u>IPad Air 4 vs iPad Air 5: Is It Worth the Upgrade? A Comprehensive Review | TechAdvisor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/march-2024s-ultimate-headset-offers-and-savings-check-out-the-latest-deals/"><u>March 2024'S Ultimate Headset Offers & Savings - Check Out the Latest Deals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-media-experience-how-to-stream-apple-tvplus-via-googles-casting-technology-on-chromecast/"><u>Maximizing Your Media Experience: How to Stream Apple TV+ via Google's Casting Technology on Chromecast</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-the-stage-imovies-role-in-video-intro-magic-for-2024/"><u>Setting the Stage IMovie's Role in Video Intro Magic for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-workout-discover-the-heart-of-apples-latest-feature-airpods-pro-3rd-gen-with-integrated-hr-monitoring/"><u>Transform Your Workout: Discover the Heart of Apple's Latest Feature - AirPods Pro 3Rd Gen with Integrated HR Monitoring</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-the-power-of-technology-snap-up-the-new-ipad-9th-generation-at-a-steal-only-250-following-apples-fresh-launch-zdnet/"><u>Unleash the Power of Technology: Snap Up the New iPad 9Th Generation at a Steal - Only $250 Following Apple’s Fresh Launch | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317541-9781401927653-what-does-that-mean/"><u>What Does That Mean? | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Complete System Restore on Windows 7 Without Using a Disc
-date: 2024-08-18T22:58:39.136Z
-updated: 2024-08-19T22:58:39.136Z
+date: 2025-02-06T00:22:13.217Z
+updated: 2025-02-11T19:21:42.009Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
 **IMPORTANT** : We focus on software triggered Windows 10 not booting problem here in this post only. If you suspect that the problem is with your hardware, we recommend that you ask your computer technicians for further assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Step 1: Check the Power Supply
 
  Turn on your computer. If you cannot hear fans starting and cannot see anything on the screen, please follow the steps bellow to check the status of your power supply and make sure that it is problem-free.
@@ -66,9 +59,9 @@ No advertising on the website.
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -79,9 +72,6 @@ No advertising on the website.
 
  4) If your computer won’t start and the same problem exists, press and hold the power button to turn off the computer. Please make sure that you don’t connect any external devices to your computer for now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 3: Perform a Hard Reboot
 
  If you**CANNOT**  log into the Windows 10, you can perform a hard reboot on your computer. This will allow you to go to the**Advanced options** page, where you are able to perform a refresh or a reset of your Windows 10\.
@@ -96,20 +86,22 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
@@ -126,16 +118,21 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 5: Run disk check
 
@@ -146,8 +143,9 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -159,6 +157,10 @@ chkdsk c: /r /x
 3) Wait for the scan process to finish.
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 6: Refresh or Rest your computer
 
@@ -174,17 +176,10 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
@@ -201,8 +196,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +203,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-giggles-and-grins-topical-humor-guides-for-everyone/"><u>[New] In 2024, Giggles and Grins Topical Humor Guides for Everyone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-pixel-perfect-facebook-recording-tools/"><u>[New] Pixel-Perfect Facebook Recording Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-win10-video-capture-pro-professional-edition/"><u>[New] Win10 Video Capture Pro - Professional Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevating-presentations-with-adobe-captivate-skills/"><u>2024 Approved Elevating Presentations with Adobe Captivate Skills</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-apples-upcoming-airpods-lite-and-premium-airpods-max-set-for-release-in-the-coming-months/"><u>Anticipated Launch: Apple's Upcoming 'AirPods Lite' And Premium AirPods Max Set for Release in the Coming Months</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creating-a-child-friendly-environment-on-discord-enabling-parental-settings/"><u>Creating a Child-Friendly Environment on Discord: Enabling Parental Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-ways-to-liven-up-static-video-texts/"><u>FREE Ways to Liven Up Static Video Texts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-tvos-18-update-boosts-speech-quality-for-a-superior-sound-on-apple-tv-zdnet-insights/"><u>How Apple's tvOS 18 Update Boosts Speech Quality for a Superior Sound on Apple TV | ZDNET Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/julys-top-discounts-on-apple-products-secure-exclusive-rates-on-iphones-apple-watches-and-ipads-in-depth-reviews/"><u>July's Top Discounts on Apple Products : Secure Exclusive Rates on iPhones, Apple Watches, and iPads | In-Depth Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/presidents-day-sale-alert-save-big-with-macbook-pro-plus-m3-pro-chip-for-a-cool-200-off-shop-smart-at-zdnet/"><u>President's Day Sale Alert! Save Big with MacBook Pro + M3 Pro Chip for a Cool $200 Off | Shop Smart at ZDNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/sharpen-your-videos-top-10-free-online-enhancement-solutions-for-2024/"><u>Sharpen Your Videos Top 10 Free Online Enhancement Solutions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722872283914-troubleshooting-the-missing-system-files-fix-procpsdll-errors-today/"><u>Troubleshooting the 'Missing System Files': Fix Procps.dll Errors Today!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/uncover-these-5-techniques-restore-deleted-word-documents-after-reboot/"><u>Uncover These 5 Techniques: Restore Deleted Word Documents After Reboot</u></a></li>
+</ul></div>
 

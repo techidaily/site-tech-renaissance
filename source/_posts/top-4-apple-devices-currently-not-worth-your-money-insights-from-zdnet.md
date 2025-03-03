@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights From ZDNet"
-date: 2025-01-26T16:08:43.326Z
-updated: 2025-01-30T17:41:02.955Z
+date: 2025-02-09T21:30:53.822Z
+updated: 2025-02-11T16:21:24.348Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -59,6 +63,10 @@ Don't buy these devices:
 
 ## **The 'Nice' list**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple iPhone 16**
 
 iPhone 16
@@ -68,7 +76,7 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -78,10 +86,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -96,10 +100,6 @@ Apple's MacBook Air has an M3 chip -- more oomph to tackle heavier-duty AI tasks
 Along with the updated processor, this MacBook Air can also power two external monitors with the lid closed, making it a great desktop replacement -- just add two screens! 
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
 
@@ -131,7 +131,7 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
@@ -148,6 +148,10 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -169,10 +173,6 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -214,17 +214,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-lightning-share-youtube-playlist-hacks/"><u>[New] Lightning Share YouTube Playlist Hacks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-skillful-minecraft-players-building-circular-and-spherical-objects-for-2024/"><u>[New] Skillful Minecraft Players Building Circular & Spherical Objects for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elevating-your-social-signature-top-tips-and-tricks-for-impressive-biographies-on-fb-for-2024/"><u>[Updated] Elevating Your Social Signature Top Tips and Tricks for Impressive Biographies on FB for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-slack-vs-discord-selecting-teams-ideal-chat-platform/"><u>[Updated] Slack Vs. Discord Selecting Teams' Ideal Chat Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-devices-performance-by-halting-run-in-background-apps-on-android/"><u>Boost Your Device's Performance by Halting Run-in-Background Apps on Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-features-a-thorough-review-of-western-digitals-diagnostic-tool-datalifeguard/"><u>Decoding the Features: A Thorough Review of Western Digital's Diagnostic Tool, DataLifeGuard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-exclusive-insider-tips-on-game-deals-during-the-ultimate-october-prime-day-2024-save-big-with-discounts-up-to-1000-zdnet/"><u>Don't Miss Out: Exclusive Insider Tips on Game Deals During the Ultimate October Prime Day 2024 – Save Big with Discounts up to $1,000 | ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fintie-protective-case-for-macbook-pro-13-review-durability-and-value/"><u>Fintie Protective Case for MacBook Pro 13 Review: Durability and Value</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/getting-to-know-the-playstation-5-slim-key-details-on-costs-availability-and-system-specifications/"><u>Getting to Know the PlayStation 5 (Slim): Key Details on Costs, Availability & System Specifications</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-obs-the-ultimate-tutorial-for-live-broadcasts/"><u>Mastering OBS The Ultimate Tutorial for Live Broadcasts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-simple-tutorial-streaming-videos-and-music-with-vlc-on-your-chromecast/"><u>Quick & Simple Tutorial: Streaming Videos and Music with VLC on Your Chromecast</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultra-sophisticated-ipad-calculator-a-must-have-feature-worth-owning-an-apple-pencil-for/"><u>Unveiling the Ultra-Sophisticated iPad Calculator: A Must-Have Feature Worth Owning an Apple Pencil For!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-psd-overhaul-techniques/"><u>[Updated] 2024 Approved Expert PSD Overhaul Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-easy-guide-to-boost-your-videos-speed-in-snapchat-for-2024/"><u>[Updated] Easy Guide to Boost Your Videos Speed in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-learn-to-negate-video-ordering-in-android/"><u>[Updated] Learn To Negate Video Ordering in Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>[Updated] ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-make-invisible-apps-visible-on-an-iphone-easily/"><u>Discover How to Make Invisible Apps Visible on an iPhone Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-setting-the-correct-time-on-your-amazon-kindle-paperwhite/"><u>Easy Tips for Setting the Correct Time on Your Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-wake-up-call-the-top-7-alarm-app-choices/"><u>Find Your Perfect Wake-Up Call: The Top 7 Alarm App Choices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hp-laptop-screenshotting-made-easy-step-by-step-instructions/"><u>HP Laptop Screenshotting Made Easy: Step-by-Step Instructions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-filters-applying-them-to-old-memories-for-2024/"><u>Mastering Instagram Filters Applying Them to Old Memories for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-resolution-of-directx-errors-for-a-smooth-run-of-battlefield-2042/"><u>Mastering the Resolution of DirectX Errors for a Smooth Run of Battlefield 2042</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-improve-camera-video-resolution/"><u>Methods to Improve Camera Video Resolution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-streaming-made-easy-how-to-connect-and-control-your-chromecast-remote/"><u>Seamless Streaming Made Easy: How to Connect and Control Your Chromecast Remote</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-destinations-for-purchasing-cellphones-a-comprehensive-guide/"><u>Top Destinations for Purchasing Cellphones: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-elite-huion-inspiroy-g10t-sketching-device-a-blend-of-elegance-and-power/"><u>Unboxing & Testing the Elite Huion Inspiroy G10T Sketching Device – A Blend of Elegance & Power</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-might-you-experience-issues-with-your-automobiles-speakers-exploring-the-reasons/"><u>Why Might You Experience Issues with Your Automobile's Speakers? Exploring the Reasons</u></a></li>
 </ul></div>
 

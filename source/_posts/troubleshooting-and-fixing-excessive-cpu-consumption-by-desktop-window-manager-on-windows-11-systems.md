@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Excessive CPU Consumption by Desktop Window Manager on Windows 11 Systems
-date: 2024-08-18T22:59:05.658Z
-updated: 2024-08-19T22:59:05.658Z
+date: 2025-02-10T17:40:44.329Z
+updated: 2025-02-11T23:46:34.593Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 
  The “Windows 10 installation has failed” error is one of the most reported errors that users get when they try to install Windows 10\. If you also encounter this exact error and have no clue what to do, you’ve come to the right place. In this post, we’ll walk you through the steps to fix the “Windows 10 installation has failed” error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 * [5: Perform a clean boot installation](https://tools.techidaily.com/drivereasy/download/)
 * [6: Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)
 * [Bonus tip: how to keep your PC at top condition](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Remove the peripheral devices
 
@@ -45,18 +53,20 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 2. From the toolbar, click**View** and make sure you tick the checkbox of**Hidden items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-22-46.png)
 3. You should find the**$WINDOWS.\~BT** folder here. Right-click it and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-24-21.png)
 4. Uncheck the checkbox of**Read-Only** , then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-38-03.png)
 5. Run the installation again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t solve the installation error you have, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Uninstall the language pack
 
@@ -72,31 +82,32 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### On Windows 7
 
 1. Click the**Start** button. Type**language** in the search bar, then click**Change display languages** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-17.png)
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
 3. Click**Uninstall display languages** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
 4. **Remove any non-English language packs** per instructions. Make sure you save the changes.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Run the installer again.
 
  If this doesn’t solve your problem and you keep running into the error, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Rebuild the Boot Configuration Data
 
  Any error found in Boot Manager could lead to the “Windows 10 installation has failed” error. The easiest way to fix the Boot Manager is to rebuild the Boot Configuration Data (BCD). It may seem a bit complicated, but the process is very straightforward. Here’s how:
@@ -108,30 +119,14 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 1. Press the**Windows key** , search for**recovery** , then click**Recovery options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-10-46.png)
 2. Under Advanced Startup, click**Restart now** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-16-10.png)
 3. Click**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-46.png)
 5. Select**Command Prompt** . You may be prompted to log in to your account at this step.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-55.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### On Windows 7
 
 1. Restart your PC. When you see the manufacturer logo, keep pressing the**F8** key to enter the Advanced Boot Options screen.
@@ -156,16 +151,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Press the**Windows ke** y, type**msconfig** in the search bar, and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-14-09-1.png)
 2. Under the**General** tab, choose**Selective startup** , and make sure**the checkbox of Load startup items is unticked** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-24-57.png)
 3. Go to the**Boot** tab,**untick the checkbox of Safe boot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-17-16.png)
 4. Under the**Services** tab, choose**Hide all microsoft services** , then click**Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-18-39.png)
 5. Switch to the**Startup** tab, click**Open Task Manager** .  
  (If you’re on Windows 7, right-click anywhere empty on your taskbar to find the option of task manager.)  
@@ -187,7 +176,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the Windows installer to crash, you can click **START REPAIR** to fix them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: how to keep your PC in top condition
 
@@ -204,13 +201,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -226,8 +223,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +230,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-funnyframe-generator/"><u>[New] FunnyFrame Generator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tune-the-frame-diy-music-video-production-with-iphone/"><u>[Updated] Tune the Frame DIY Music Video Production with iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-finding-gratuitous-software-for-streaming-online-seminars/"><u>2024 Approved Finding Gratuitous Software for Streaming Online Seminars</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-virtual-voyages-101-starting-your-journey-with-vr-tours/"><u>2024 Approved Virtual Voyages 101 Starting Your Journey with VR Tours</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-mini-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 mini in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-closer-look-at-the-newest-apple-airpods-gen-3-review-noteworthy-upgrades-and-user-experience-insights/"><u>A Closer Look at the Newest Apple AirPods (Gen 3) Review: Noteworthy Upgrades and User Experience Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>Cut the Red Tape Simplify Xbox/FB Broadcasting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-additions-to-apples-diy-repair-program-iphone-15-and-m2-mac-now-equipped-with-advanced-remote-diagnostics-tools/"><u>Discover the Latest Additions to Apple's DIY Repair Program: IPhone 15 and M2 Mac Now Equipped with Advanced Remote Diagnostics Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/goodbye-flashes-solve-the-persistent-screen-shimmering-dilemma-today/"><u>Goodbye Flashes! Solve the Persistent Screen Shimmering Dilemma Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-connection-is-not-secure-warnings-step-by-step-solutions/"><u>Resolving 'Connection Is Not Secure' Warnings: Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/shutting-down-facebook-on-android-a-comprehensive-tutorial/"><u>Shutting Down Facebook on Android: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-reviews-and-advice/"><u>Tom's Tech Hub: Expert Reviews and Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-essential-gadgets-to-maintain-your-iphone-13s-flawless-appearance-insights-from-zdnet/"><u>Top 3 Essential Gadgets to Maintain Your iPhone 13'S Flawless Appearance - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-cycling-experience-with-photochromic-smartglasses-hud-a-review-on-zdnet/"><u>Transforming Cycling Experience with Photochromic Smartglasses HUD - A Review on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-apple-vision-prometa-quest-3-check-these-budget-friendly-xr-wearables-zdnet/"><u>Upgrading From Apple Vision Pro/Meta Quest 3? Check These Budget-Friendly XR Wearables | ZDNET</u></a></li>
+</ul></div>
 

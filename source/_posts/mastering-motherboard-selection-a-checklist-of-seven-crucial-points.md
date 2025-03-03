@@ -1,7 +1,7 @@
 ---
 title: "Mastering Motherboard Selection: A Checklist of Seven Crucial Points"
-date: 2024-08-12T03:46:54.864Z
-updated: 2024-08-13T03:46:54.864Z
+date: 2025-02-06T23:43:20.169Z
+updated: 2025-02-11T17:01:34.811Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Motherboard Selection: A Checklist of Seven Crucial Points"
@@ -62,27 +62,16 @@ thumbnail: https://thmb.techidaily.com/4b16b3251288c72bae4d52566292d0ff9c24e9171
 
 [How to Check RAM and Motherboard Compatibility](https://www.lifewire.com/check-ram-and-motherboard-compatibility-5186297)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Close up of the CPU socket and motherboard laying on a table.](https://www.lifewire.com/thmb/WV8WVXvqGDl2YvFDsCxNkgVIkPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1267327926-7d1724acc0504c8391f4e08bd8f150e9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close up of a CPU socket and motherboard.
 
 Narumon Bowonkitwanchai/Getty Images
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Form Factor and Case Should a Motherboard Have?
 
  Along with the CPU socket, a motherboard's form factor is one of the most critical elements to select.
@@ -104,8 +93,9 @@ Narumon Bowonkitwanchai/Getty Images
  The form factor of the motherboard doesn't affect the type of CPU you need to use. If the motherboard has the correct socket, you can use the same CPU with an ATX, Micro-ATX, or Mini-ITX motherboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Expansion Ports Should a Motherboard Have?
 
  After the CPU socket and form factor, the next most important factor is how many expansion ports, usually[PCIe ports](https://www.lifewire.com/pci-express-pcie-2625962) , the motherboard has and how many you think you'll need.
@@ -114,14 +104,6 @@ Narumon Bowonkitwanchai/Getty Images
 
  Most motherboards support PCIe 3.0, but some support the newer PCIe 4.0 and 5.0, which provide more bandwidth. If you have any PCIe cards or want to future-proof your selection, look for a board with PCIe 5.0 support.  
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Built-In Ports Does a Motherboard Need?
 
  It’s also worth looking at the ports built into the motherboard. Motherboards will include a mix of[USB-A](https://www.lifewire.com/usb-type-a-connector-2626032) ,[USB-C](https://www.lifewire.com/usb-c-4149490) , audio ports,[HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) , and even legacy ports like VGA, PS/2, parallel, and serial ports. Motherboards can also include Ethernet ports and other connectivity like built-in Wi-Fi and Bluetooth.
@@ -129,24 +111,23 @@ Narumon Bowonkitwanchai/Getty Images
  Consider which ports you’re most likely to need, and select a motherboard that fits your requirements so you won’t have to add an expansion card or USB hub immediately.  
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much RAM Does a Motherboard Need?
 
  It’s also important to look at how many[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) slots the motherboard has and how much total RAM it supports to meet your memory needs. This factor isn’t crucial if your computer only needs to stream media, surf the web, and play basic games. Still, having the option to install more RAM is vital if you do any video or photo editing or play resource-intensive games.  
 
 [How to Check RAM and Motherboard Compatibility](https://www.lifewire.com/check-ram-and-motherboard-compatibility-5186297)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Who Should Buy a Motherboard?
 
  You'll need to purchase a motherboard if you're building a new PC. You may need to replace the motherboard when upgrading or fixing your current PC. If you're buying a new motherboard as a replacement or building a PC, ensure you have the knowledge and instructions on how to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Should I Do After Buying a Motherboard?
 
  After buying a motherboard, you must install it on your current PC or the PC you're building. Before you begin, be sure to have your motherboard and PC manuals. Consult an experienced tech for help or outsource the task if you're not an expert.
@@ -168,6 +149,10 @@ Narumon Bowonkitwanchai/Getty Images
 * When connecting devices to your motherboard, you may also need to install[device drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) so they work correctly with your operating system.
 * Consider additional motherboard features and if they'll be helpful to you. For example, a motherboard may include onboard wireless, audio, or a RAID controller.
 * If you want to overclock your CPU, ensure your motherboard can handle the job concerning CPU multipliers and voltages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is a Motherboard?
 
@@ -206,8 +191,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +198,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-gone-locating-the-disappeared-fans/"><u>2024 Approved Insta Gone? Locating the Disappeared Fans</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211332522-9798869177285-45-minuten-dood-verklaard/"><u>45 minuten dood verklaard | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-hidden-notifications-in-your-iphones-history-tutorial-included/"><u>Access Hidden Notifications in Your iPhone's History - Tutorial Included!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-tech-support-tips-and-tricks-to-overcome-stop-error-0x00000078/"><u>DIY Tech Support: Tips and Tricks to Overcome Stop Error 0X00000078</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-retrieving-saved-reels-in-the-instagram-app/"><u>Easy Steps for Retrieving Saved Reels in the Instagram App</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/effective-techniques-for-restoring-lost-jnb-file-data/"><u>Effective Techniques for Restoring Lost JNB File Data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfected-approaches-to-capturing-remote-training-sessions-for-2024/"><u>Perfected Approaches to Capturing Remote Training Sessions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-motivational-films-guaranteed-to-uplift-your-spirits/"><u>Top 11 Motivational Films Guaranteed to Uplift Your Spirits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-connecting-a-second-screen-with-your-macbook/"><u>Troubleshooting Tips for Connecting a Second Screen with Your MacBook</u></a></li>
+</ul></div>
 

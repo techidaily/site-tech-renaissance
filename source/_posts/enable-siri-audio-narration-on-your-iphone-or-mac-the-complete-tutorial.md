@@ -1,7 +1,7 @@
 ---
 title: Enable Siri Audio Narration on Your iPhone or Mac - The Complete Tutorial
-date: 2024-08-12T03:46:22.106Z
-updated: 2024-08-13T03:46:22.106Z
+date: 2025-02-10T00:06:47.025Z
+updated: 2025-02-11T20:02:43.259Z
 categories:
   - BestProducts
 description: This Article Describes Enable Siri Audio Narration on Your iPhone or Mac - The Complete Tutorial
@@ -19,8 +19,9 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
  Text to speech on the iPhone and the Mac is an accessibility feature for the visually challenged. They also can be productivity boosters if you prefer listening over reading. This article explains how to make Siri read text on your iPhone and Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make Siri Read Text on iPhone
 
  Siri can read most text on the screen. The personal voice assistant works on almost all apps while your free hands can work on other things. To make the iPhone read text, go into the Accessibility settings and set up the feature first.
@@ -28,11 +29,13 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
 1. Go to**Settings** \>**Accessibilit** y >**Spoken Content** .
 2. Enable**Speak Selection** to display a**Speak** button on top of any selected text.
 3. Enable**Speak Screen** to hear the entire screen with a two-finger swipe from the top to the bottom of the screen.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![An iOS user accesses the Spoken Content settings](https://www.lifewire.com/thmb/Bjn_gbyvBF3yjtHF41HyJxb4Qso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOSSpokenContent-0e71ddcbef89402b8ec0cbc5f1a3329f.jpg)
 4. Select**Speech Controller** and enable the**Show Controller** toggle button. The Speak Controller gives you quick access to the Speak Screen and Speak on Touch features with the help of an overlay on the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Spoken content settings in iOS](https://www.lifewire.com/thmb/ylf2BNsi37DP0v0NYOn9kvBA30E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOSSpokenContent2-09a5b83596ff4e6989b85938657427ad.jpg)
 5. The other settings on the Spoken Content screen allow you to select**Voices** and adjust the**Speaking Rate** . Use**Pronunciations** to add difficult words to a list and have them voiced precisely.**Typing Feedback** is another accessibility feature that provides voice feedback as it spells each character, entire words, auto-corrections, auto-capitalizations, and typing predictions. Enable this only if necessary.
 6. [To use Siri](https://www.lifewire.com/use-siri-on-iphone-12-5084595) , long-press the button on the right side or trigger it with the “Hey Siri” voice command. Say something like “Speak screen” to make Siri read text on the screen. Alternatively, select the text you want Siri to read and then tap**Speak** .
@@ -40,8 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
  Enabling**Highlight Content** in the**Spoken Content** settings helps you follow the words as Siri read them. Change the highlight colors if you don’t like the default blue. It’s a handy feature for reviewing documents on the phone.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make Siri Read Text on macOS
 
  Spoken content works a bit differently on macOS. It's again an accessibility feature that uses text to speech to read what’s on the screen. On the macOS, it's activated by a keyboard shortcut instead of a direct Siri command.
@@ -49,28 +53,20 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
 1. Select**Apple menu** \>**System Preferences.**  
 ![A Mac desktop with System Preferences displayed on a menu](https://www.lifewire.com/thmb/JePVkwZGU-m6dF4Y0a30lGySjqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent-7d71e81fd5954ab2afde7e7e9a5a9784.jpg)
 2. Select**Accessibility** \>**Spoken Content** . Check the**Speak selection** box.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac accessibility settings with the Spoken Content option highlighted](https://www.lifewire.com/thmb/c0bq7RNNBDrxDv0vfw_qc6WWYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent2-9f3887c708684f8b9cfec0b0e387a86f.jpg)
 3. Select**Options** to change the keyboard shortcut if required.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![macOS Accessibility Options](https://www.lifewire.com/thmb/I7B33RXXHsUmsee6IPS_Ab4Rq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Accessibility-Options-978adbae8c8049ee8577a2f30724ffe4.jpg)
 4. Leave the other options to their defaults or change them to have words, sentences, or both highlighted as your Mac speaks. Underlined or highlighted sentences mark the spoken sentences to help your eyes track them. Select the pop-up menu for**Highlight content** and choose**Never** to disable highlighted text.  
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Highlight Content options in Mac with "Never" highlighted](https://www.lifewire.com/thmb/0jTMxiH3ijI6Sd2taHnCjACVvGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent3-bea1792702df4aacbd9dadfd0458b9e1.jpg)
 5. Select the**Show controller** pop-up menu to choose the behavior of the controller. By default, the controller will appear with the spoken content and allow you to set the speed. Use the buttons to play, pause, skip ahead or back, or stop the narration. The**turtle** icon on the left slows down the speaking rate while the**rabbit** boosts it.  
 ![Mac Show Controller menu options with 'Automatically' highlighted](https://www.lifewire.com/thmb/0Sz__njRMCAB-J-Y3iumEA-7bSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent4-aefe0f45f6be477c9210d77742d541ce.jpg)
@@ -105,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +108,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dynamic-design-tips-after-effects-best-1-written-on-type/"><u>[Updated] In 2024, Dynamic Design Tips After Effects' Best 1 Written on Type</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertissez-gratuitement-vos-fichiers-aif-en-ogg-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers AIF en OGG en Ligne - Avec Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-and-repairing-website-security-blocks-the-401-unauthorized-code-guide/"><u>Decoding and Repairing Website Security Blocks - The 401 Unauthorized Code Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-latest-features-of-apples-most-recent-ipad-release/"><u>Dive Into the Latest Features of Apple's Most Recent iPad Release</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-artificial-intelligence-at-meta/"><u>Exploring the World of Artificial Intelligence at Meta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-changing-growl-techniques-in-free-fire-for-2024/"><u>Game-Changing Growl Techniques in Free Fire for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722848848078-is-twitch-really-down-or-is-your-connection-at-fault/"><u>Is Twitch Really Down, or Is Your Connection at Fault?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-portrait-photography-a-beginners-guide-to-the-best-selfie-lights/"><u>Mastering Portrait Photography: A Beginner's Guide to the Best Selfie Lights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-watch-originals-featured-on-max-streaming-service/"><u>Must-Watch Originals Featured on Max Streaming Service</u></a></li>
+<li><a href="https://win-online.techidaily.com/optimizing-your-pc-adjusting-auto-start-applications-in-windows-tips-from-yl-computing/"><u>Optimizing Your PC: Adjusting Auto-Start Applications in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-multiple-vpn-profiles-on-macos-for-enhanced-connectivity-options-tips-and-tricks/"><u>Setting Up Multiple VPN Profiles on macOS for Enhanced Connectivity Options | Tips & Tricks</u></a></li>
+</ul></div>
 

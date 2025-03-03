@@ -1,7 +1,7 @@
 ---
 title: "Crafting Custom iMessage Stickers From Personal Images: A Step-by-Step Guide"
-date: 2025-01-27T18:47:35.506Z
-updated: 2025-01-30T18:24:54.738Z
+date: 2025-02-09T19:24:57.774Z
+updated: 2025-02-11T21:22:23.422Z
 tags:
   - apple
 categories:
@@ -72,6 +72,10 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -83,10 +87,6 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -103,7 +103,7 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -113,10 +113,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -130,15 +126,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -147,7 +143,7 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,19 +192,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creating-content-with-purpose-balancing-job-and-youtube-for-2024/"><u>[New] Creating Content with Purpose Balancing Job & YouTube for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/collaborative-video-magic-a-comprehensive-guide-to-dueting-on-tiktok/"><u>Collaborative Video Magic: A Comprehensive Guide to Dueting on TikTok</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-instructions-activating-and-utilizing-microsoft-copilot-on-macos-systems/"><u>Expert Instructions: Activating and Utilizing Microsoft Copilot on macOS Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/heres-what-you-dont-know-about-instagram-story-viewer2/"><u>Here's What You Don't Know About Instagram Story Viewer2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-an-unresponsive-iphone-camera-expert-tips-and-tricks/"><u>How to Repair an Unresponsive iPhone Camera: Expert Tips and Tricks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a1-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A1 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-discounted-second-gen-apple-watch-se-a-hidden-gem-in-the-prime-day-aftermath-find-out-on-zdnet/"><u>Is the Discounted Second Gen Apple Watch SE a Hidden Gem in the Prime Day Aftermath? Find Out on ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-network-diagnostics-a-comprehensive-guide-to-using-tracert-on-windows/"><u>Mastering Network Diagnostics: A Comprehensive Guide to Using Tracert on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-z-fold-7-revealed-dive-into-the-rumors-and-predictions-for-release-date-price-and-features/"><u>Samsung Galaxy Z Fold 7 Revealed? Dive Into the Rumors and Predictions for Release Date, Price, and Features</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsungs-newest-marvel-an-in-depth-review-of-the-galaxy-s2-5g-feature-phone-unveiled/"><u>Samsung's Newest Marvel: An In-Depth Review of the Galaxy S2지 5G Feature Phone Unveiled!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wwdc-2024-spotlight-explore-the-new-and-improved-features-of-apple-carplay-whats-hot-in-your-dashboard-now-cnet/"><u>WWDC 2024 Spotlight: Explore the New and Improved Features of Apple CarPlay - What's Hot in Your Dashboard Now | CNET</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-assessing-the-real-benefits-of-paying-for-youtube-premium/"><u>[New] 2024 Approved Assessing the Real Benefits of Paying for YouTube Premium</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-discover-the-art-of-sound-modification-in-free-fire-expert-tips-and-tricks-no-charge/"><u>[New] In 2024, Discover the Art of Sound Modification in Free Fire Expert Tips and Tricks (No Charge!)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-enlightening-your-iphone-experience-with-new-camera-features/"><u>[Updated] In 2024, Enlightening Your iPhone Experience with New Camera Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-the-secrets-of-popularity-a-guide-to-15-best-opener-plans-for-2024/"><u>[Updated] Unveiling the Secrets of Popularity A Guide to 15 Best Opener Plans for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>Bridging the Gap YouTube Editing Mastered in iMovie Workflows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-xcover-7-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy XCover 7?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722876876536-change-your-discord-icon-easily-detailed-instructions-inside/"><u>Change Your Discord Icon Easily: Detailed Instructions Inside</u></a></li>
+<li><a href="https://facebook.techidaily.com/digitally-dividable-social-sites-revenue-rules/"><u>Digitally Dividable: Social Sites' Revenue Rules</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-exceptional-websites-with-complimentary-digital-literature/"><u>Discover Exceptional Websites with Complimentary Digital Literature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-ways-to-share-a-batch-of-photos-with-friends-on-facebook/"><u>Efficient Ways to Share a Batch of Photos with Friends on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-unmatched-alternatives-to-gmail-for-enhanced-email-experience/"><u>Explore These Unmatched Alternatives to Gmail for Enhanced Email Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-and-disable-iphone-recovery-mode-easily/"><u>How to Enable and Disable iPhone Recovery Mode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-instagram-reels-tips-and-techniques-for-2024/"><u>Mastering Instagram Reels Tips & Techniques for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-debunking-digital-audio-studio-myths-the-truth-behind-daw/"><u>New Debunking Digital Audio Studio Myths The Truth Behind DAW</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solution-steps-for-the-missing-ksuserdll-error-on-your-computer/"><u>Solution Steps for the Missing ksuser.dll Error on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-for-implementing-tracert-commands-in-windows-systems/"><u>Step-by-Step Strategies for Implementing 'Tracert' Commands in Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unseen-surfing-mastery-how-to-use-private-modes-effectively-in-top-web-browsers/"><u>Unseen Surfing Mastery: How to Use Private Modes Effectively in Top Web Browsers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/urgent-fixes-for-when-you-cant-find-ftd2xxdll-on-your-computer/"><u>Urgent Fixes for When You Can't Find ftd2xx.dll on Your Computer</u></a></li>
 </ul></div>
 

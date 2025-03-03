@@ -1,7 +1,7 @@
 ---
 title: "Determining Your PC's Eligibility: Essential Minimum and Recommended Specs for Playing Fortnite"
-date: 2024-08-18T22:58:28.179Z
-updated: 2024-08-19T22:58:28.179Z
+date: 2025-02-06T19:39:37.500Z
+updated: 2025-02-12T01:03:53.302Z
 tags:
   - win11
   - win10
@@ -52,57 +52,43 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to play Fortnite Battle Royale on PC?
 
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd824ec12d74.jpg)
 2. Open Fortnite.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
 7. Back in the main screen, select the game mode through the button on the lower left.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8394bf277f.jpg)
 8. Select a mode, then click**ACCEPT** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
@@ -111,24 +97,21 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
  Meanwhile, use your**pickaxe** (the only weapon that you start out with) on any structures that you see (trees, houses, rocks, etc.) It’s an essential way to collect building materials. Since building materials don’t take up space in your backpack, you can grab as much as you like.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95bd6d3175.jpg)
 
@@ -138,27 +121,39 @@ No advertising on the website.
 **F1** is used to build upright walls, usually as four-sided defences.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9549b833f5.jpg)  
 **F2** is used to build flat walls, which can be used as ceilings or floors.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95570a4028.jpg)  
 **F3** is used to build stairs. They’re necessary for climbing up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd955e9807a3.jpg)  
 **F4** is used to build triangular cones. They can be used as shelters.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pro tips: How to get good at Fortnite Battle Royale?
 
@@ -182,10 +177,6 @@ No advertising on the website.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9718c13fe0.jpg)
 3. Click the**Update** button next to your device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -197,6 +188,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Now, it’s time to learn how to land, build and use your weapon but you will need time before becoming a true Fortnite ninja.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83b4e36894-1024x576.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any question or suggestion, please feel free to leave a comment below.
 
@@ -210,8 +205,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +212,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-snap-the-truth-your-manual-to-authenticity-on-instagram/"><u>[New] 2024 Approved Snap the Truth Your Manual to Authenticity on Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-sharing-of-vast-viewpoints-uploading-wide-angle-content-on-iosandroid/"><u>[New] In 2024, Seamless Sharing of Vast Viewpoints Uploading Wide Angle Content on iOS/Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-professional-youtube-editing-secrets/"><u>[Updated] In 2024, From Script to Screen Professional YouTube Editing Secrets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-fans-rejoice-lg-tvs-receive-a-revolutionary-audio-upgrade-to-boost-your-viewing-pleasure-as-reported/"><u>Apple Fans Rejoice: LG TVs Receive a Revolutionary Audio Upgrade to Boost Your Viewing Pleasure, as Reported</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-techniques-for-screen-casts-ezvide-edition-for-2024/"><u>Essential Techniques for Screen Casts - EZvide Edition for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/flame-ionization-detector-fid/"><u>Flame Ionization Detector (FID):</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-visual-roadblocks-in-halo-infinite-problem-fixed/"><u>Overcoming Visual Roadblocks in Halo Infinite – Problem Fixed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-and-enhancing-the-performance-of-your-logitech-g933-microphone/"><u>Repairing and Enhancing the Performance of Your Logitech G933 Microphone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-8-preferred-alternate-contact-number-tools-for-your-smartphone/"><u>The Ultimate List: 8 Preferred Alternate Contact Number Tools for Your Smartphone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y17s-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y17s Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essentials-android-must-improve-to-challenge-apples-ios-dominance-insights-from-zdnet/"><u>Top 5 Essentials Android Must Improve to Challenge Apple's iOS Dominance: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-protective-cases-for-the-newly-released-iphone-1616-pro-comprehensive-review-by-tech-experts/"><u>Top-Rated Protective Cases for the Newly Released iPhone 16/16 Pro - Comprehensive Review by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-your-surface-pros-unstable-display-issues/"><u>Ultimate Guide: Resolving Your Surface Pro's Unstable Display Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-ranking-of-miniature-tablets-professional-tests-and-assessments/"><u>Ultimate Ranking of Miniature Tablets : Professional Tests and Assessments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-this-iphone-case-outshines-its-awesome-physical-keyboard-with-unmatched-perks/"><u>Why This iPhone Case Outshines Its Awesome Physical Keyboard with Unmatched Perks</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-softwares-tips-for-keeping-windows-defender-updated-effectively/"><u>YL Software's Tips for Keeping Windows Defender Updated Effectively</u></a></li>
+</ul></div>
 

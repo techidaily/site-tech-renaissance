@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2025-01-23T19:04:01.265Z
-updated: 2025-01-30T18:05:54.359Z
+date: 2025-02-08T19:31:42.702Z
+updated: 2025-02-12T02:01:38.284Z
 tags:
   - apple
 categories:
@@ -27,16 +27,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -48,15 +44,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -80,6 +76,10 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -90,15 +90,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -109,7 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -154,24 +154,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-charting-your-course-from-creator-to-major-label/"><u>[New] 2024 Approved Charting Your Course From Creator to Major Label</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-secret-sauce-for-successful-self-clone-campaigns-on-social-medias-trending-platform-tiktok/"><u>[Updated] In 2024, The Secret Sauce for Successful Self-Clone Campaigns on Social Media's Trending Platform, TikTok</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-screensnap-chromecast-quick-video-capture-for-2024/"><u>[Updated] ScreenSnap Chromecast Quick Video Capture for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-highfidelity-capture-tool-win-10/"><u>2024 Approved HighFidelity Capture Tool Win 10</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-narzo-60x-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Narzo 60x 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/configuring-additional-macos-network-profiles-to-improve-connection-options-expert-strategies-from-zdnet/"><u>Configuring Additional MacOS Network Profiles to Improve Connection Options - Expert Strategies From ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/conveniently-connect-friends-across-os-platforms-using-skype-chats-for-2024/"><u>Conveniently Connect Friends Across OS Platforms Using Skype Chats for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-enhancements-in-apples-iphone-16-lineup-how-the-newly-added-camera-button-transforms-your-photography-experience/"><u>Exploring Enhancements in Apple's iPhone 16 Lineup: How the Newly Added Camera Button Transforms Your Photography Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-appeal-of-chatgpt-to-malicious-online-entities/"><u>Exploring the Appeal of ChatGPT to Malicious Online Entities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improving-audio-clarity-how-tvos-18-revolutionizes-conversations-on-your-apple-tv-for-crystal-clear-sound-tech-innovation/"><u>Improving Audio Clarity: How TVOS 18 Revolutionizes Conversations on Your Apple TV for Crystal Clear Sound | Tech Innovation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/july-2024s-top-apple-watch-promotions-the-ultimate-shopping-list-for-smartwatch-enthusiasts-zdnet-insights/"><u>July 2024'S Top Apple Watch Promotions: The Ultimate Shopping List for Smartwatch Enthusiasts | ZDNet Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-showdown-pros-and-cons-of-m3-vs-m2-air-laptops-for-your-next-purchase-gizmodo/"><u>Macbook Showdown: Pros & Cons of M3 Vs. M2 Air Laptops for Your Next Purchase | Gizmodo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-typing-with-our-top-picks-aster-free-courses-best-for-everyone/"><u>Master the Art of Typing with Our Top Picks: Aster Free Courses Best For Everyone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-how-to-updating-your-scansnap-s1100-driver-with-ease/"><u>Quick How-To: Updating Your ScanSnap S1100 Driver with Ease</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-10-personalization-options-to-maximize-your-fb/"><u>Top 10 Personalization Options to Maximize Your FB</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-smartwatches-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top Rated Smartwatches : Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-protective-sleeves-comprehensive-review-by-tech-gurus/"><u>Top-Rated iPad Air Protective Sleeves : Comprehensive Review by Tech Gurus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-priority-entry-master-the-new-apple-vision-pro-beta-via-testflight-exclusive-guide/"><u>Unlock Priority Entry: Master the New Apple Vision Pro Beta via TestFlight – Exclusive Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/wiederherstellung-beschadigter-datentragerpartitionen-unter-windows-1011-effiziente-strategien-zum-schutz-ihrer-informationen/"><u>Wiederherstellung Beschädigter Datenträgerpartitionen Unter Windows 10/11 – Effiziente Strategien Zum Schutz Ihrer Informationen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-choose-best-free-youtube-video-editor-apps-on-ios-for-2024/"><u>[New] How to Choose Best-Free YouTube Video Editor Apps on iOS for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-post-twitter-videos-on-snapchat/"><u>[New] In 2024, How to Post Twitter Videos on Snapchat?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-gamers-choice-best-alternatives-to-official-recorder/"><u>[Updated] Gamer's Choice Best Alternatives to Official Recorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-recommendations-the-top-10-sports-apps-for-live-tennis-games/"><u>[Updated] Premier Recommendations The Top 10 Sports Apps for Live Tennis Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-instant-recording-sight-and-sound-fused/"><u>2024 Approved Instant Recording Sight & Sound Fused</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-wont-connect-to-cellular-service-heres-how-to-fix-it/"><u>Apple Watch Won't Connect to Cellular Service? Here's How to Fix It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-of-ai-unlocking-knowledge-through-lifewires-15-free-online-self-taught-courses/"><u>Explore the World of AI: Unlocking Knowledge Through Lifewire's 15 Free Online Self-Taught Courses</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-effective-strategies-to-document-competitive-play/"><u>In 2024, Effective Strategies to Document Competitive Play</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/installing-your-favorite-streams-a-comprehensive-walkthrough-for-the-ccloud-addon-on-kodi-leia-update/"><u>Installing Your Favorite Streams: A Comprehensive Walkthrough for the cCloud Addon on Kodi Leia Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-dealing-with-missing-boot-manager-challenges/"><u>Quick Fixes for Dealing with Missing Boot Manager Challenges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-airpods-to-your-macbook-air/"><u>Step-by-Step Guide: Linking AirPods to Your MacBook Air</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-adding-new-adventures-with-oculus-quest-2-meta-purchases/"><u>The Ultimate Guide to Adding New Adventures with Oculus Quest 2 Meta Purchases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-netflix-on-a-nintendo-switch-is-it-possible/"><u>Watching Netflix on a Nintendo Switch - Is It Possible?</u></a></li>
 </ul></div>
 

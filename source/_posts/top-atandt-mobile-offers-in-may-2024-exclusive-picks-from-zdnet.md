@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Picks From ZDNet
-date: 2025-01-27T17:20:22.589Z
-updated: 2025-01-30T16:14:28.915Z
+date: 2025-02-04T22:34:02.667Z
+updated: 2025-02-11T22:53:32.752Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -116,6 +120,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -131,7 +139,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -144,10 +152,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -158,34 +162,30 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,16 +236,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-igniting-your-individual-brand-flame/"><u>[Updated] Igniting Your Individual Brand Flame</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-boost-virtual-engagement-select-top-10-recorder-software/"><u>[Updated] In 2024, Boost Virtual Engagement Select Top 10 Recorder Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-leveraging-snap-camera-for-better-online-interaction-on-google-meet/"><u>2024 Approved Leveraging Snap Camera for Better Online Interaction on Google Meet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-explores-breath-monitoring-feature-in-upcoming-vision-pro-insights-and-predictions/"><u>Apple Explores Breath Monitoring Feature in Upcoming Vision Pro: Insights and Predictions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-new-iphone-15-pro-should-you-trade-in-your-iphone-13-pro-zdnet/"><u>Apple Unveils New iPhone 15 Pro – Should You Trade-In Your iPhone 13 Pro? | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-icloud-improvements-and-bug-fixes-now-available-for-windows-users-apples-fresh-release/"><u>Discover the Latest iCloud Improvements and Bug Fixes Now Available for Windows Users - Apple's Fresh Release!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/grab-your-dual-nomad-iphone-cases-at-half-price-today-exclusive-offer/"><u>Grab Your Dual Nomad iPhone Cases at Half Price Today - Exclusive Offer !</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/harnessing-the-power-of-stories-in-fb-networks-for-2024/"><u>Harnessing the Power of Stories in FB Networks for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-edge-40-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Edge 40 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-sideload-charges-and-app-reviews-on-iphones-with-apples-latest-plan-zdnet/"><u>Navigating Sideload Charges & App Reviews on iPhones with Apple's Latest Plan | ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-brainpower-of-moto-z2-detailed-insights-for-2024/"><u>The Brainpower of Moto Z2 Detailed Insights for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>[New] In 2024, The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-editing-game-changer-fcps-best-10-plugins/"><u>[Updated] 2024 Approved The Editing Game Changer FCP's Best 10 Plugins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-the-perfect-free-video-editor-app-for-iphones-and-ipads-for-2024/"><u>[Updated] Find the Perfect Free Video Editor App for iPhones & iPads for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-sundae-screening-comprehensive-tutorial-on-frozen-camera-app-for-2024/"><u>[Updated] Sundae Screening Comprehensive Tutorial on Frozen Camera App for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adjusting-stream-velocity-in-netflix-for-2024/"><u>Adjusting Stream Velocity in Netflix for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-psvr2-title-reveal-a-comprehensive-catalog-of-all-officially-unveiled-games/"><u>Complete PSVR2 Title Reveal: A Comprehensive Catalog of All Officially Unveiled Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-chromecast-device-to-fire-stick-for-seamless-sharing/"><u>Connect Chromecast Device to Fire Stick for Seamless Sharing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-7-alarm-clock-apps-on-the-market/"><u>Discover the Best 7 Alarm Clock Apps on the Market</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-news-aggregators-dominating-2024/"><u>Discover the Leading News Aggregators Dominating 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-markets-finest-our-selection-of-10-leading-non-chatgpt-chatbots/"><u>Explore the Market's Finest: Our Selection of 10 Leading Non-ChatGPT Chatbots</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-react-if-your-instagram-profile-gets-disconnected-steps-and-tips/"><u>How to React if Your Instagram Profile Gets Disconnected: Steps and Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-htc-u23-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from HTC U23.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-simplify-your-internet-experience-step-by-step-guide-to-disabling-youtube-on-devices/"><u>In 2024, Simplify Your Internet Experience Step-by-Step Guide to Disabling Youtube on Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-step-by-step-to-creating-an-unbeatable-biz-youtube-channel/"><u>In 2024, Step-by-Step to Creating an Unbeatable Biz YouTube Channel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-evaluation-unlocking-insights-with-the-western-digital-datalabs-diagnostics-suite/"><u>In-Depth Evaluation: Unlocking Insights with the Western Digital DataLabs Diagnostics Suite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/speech-reader-feedback-summary-for-2024/"><u>Speech Reader Feedback Summary for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-worlds-best-travel-accounts-on-twitter-for-unmissable-deals/"><u>Ultimate Guide to the World's Best Travel Accounts on Twitter for Unmissable Deals!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-for-shifting-printer-output-directly-onto-your-laptop-or-pc/"><u>Ultimate Tutorial for Shifting Printer Output Directly Onto Your Laptop or PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-c300-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia C300 Device</u></a></li>
 </ul></div>
 

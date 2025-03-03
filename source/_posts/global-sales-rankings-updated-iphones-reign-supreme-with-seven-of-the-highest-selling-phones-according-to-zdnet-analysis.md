@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2025-01-29T16:27:05.892Z
-updated: 2025-01-30T18:41:34.433Z
+date: 2025-02-05T22:12:56.880Z
+updated: 2025-02-11T19:33:55.754Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-beginner-friendly-iphone-screen-recording-techniques/"><u>[New] 2024 Approved Beginner-Friendly Iphone Screen Recording Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-eco-friendly-recorder-ads-absolved/"><u>[New] Eco-Friendly Recorder - Ads Absolved</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-methodology-assembling-youtube-playlists/"><u>[New] Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/buddhist-symbols/"><u>Buddhist Symbols</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/compact-computing-unleashed-the-new-mac-mini-with-impressive-m4-performance/"><u>Compact Computing Unleashed: The New Mac Mini with Impressive M4 Performance!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/controlling-system-integrity-levels-a-users-guide-to-interact-with-trustedinstaller-in-windows-10/"><u>Controlling System Integrity Levels: A User's Guide to Interact with TrustedInstaller in Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-iphone-reset-methods-no-itunes-required/"><u>DIY iPhone Reset Methods - No iTunes Required</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-combining-your-favorite-tunes-into-one-spotify-list/"><u>Guide: Combining Your Favorite Tunes Into One Spotify List</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-uncovering-your-individual-playlist-sanctuary-on-youtube/"><u>In 2024, Uncovering Your Individual Playlist Sanctuary on Youtube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-coverage-of-the-latest-tech-revealed-at-apples-glowing-iphone-16-launch-artificial-intelligence-innovations-tenth-generation-apple-watch-and-new-ai52/"><u>In-Depth Coverage of the Latest Tech Revealed at Apple's Glowing iPhone 16 Launch: Artificial Intelligence Innovations, Tenth Generation Apple Watch & New AirPod Upgrades - Explored</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-ring-doorbell-plus-assessment-enhancing-home-safety-and-convenience/"><u>Innovative Ring Doorbell Plus Assessment: Enhancing Home Safety and Convenience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/most-recommended-movies-on-disneyplus-at-this-very-moment/"><u>Most Recommended Movies on Disney+ at This Very Moment</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-slow-mo-top-video-editing-software-revealed-for-2024/"><u>New Unleash the Power of Slow Mo Top Video Editing Software Revealed for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-gionee-f3-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Gionee F3 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901090389-samsung-tv-app-troubles-heres-how-to-restore-their-functionality-easily/"><u>Samsung TV App Troubles? Here's How to Restore Their Functionality Easily!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-you-cant-resist-the-latest-ipad-air-discover-apples-top-4-irresistible-features-detailed-review/"><u>Why You Can't Resist the Latest iPad Air? Discover Apple's Top 4 Irresistible Features! - Detailed Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-tinder-profiles-top-tricks-for-quick-likes/"><u>[New] In 2024, Mastering Tinder Profiles Top Tricks for Quick Likes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ultimate-mic-showdown-for-podcasters/"><u>[New] In 2024, Ultimate Mic Showdown for Podcasters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-blueprint-for-buzz-elevating-your-profile-on-fb-for-2024/"><u>[Updated] Blueprint for Buzz Elevating Your Profile on FB for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-essential-guide-for-swift-ipad-screen-captures-for-2024/"><u>[Updated] The Essential Guide for Swift iPad Screen Captures for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-no-cost-backup-solutions-the-ultimate-list-and-assessment-of-32-options/"><u>Best No-Cost Backup Solutions: The Ultimate List and Assessment of 32 Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-address-msstfmtdll-not-detected-problems/"><u>Effective Solutions to Address 'Msstfmt.dll' Not Detected Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-communication-tips-and-tricks-for-texting-on-an-ipad-device/"><u>Effortless Communication: Tips and Tricks for Texting on an iPad Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-streaming-android-videos-to-your-amazon-firestick/"><u>Guide: Streaming Android Videos to Your Amazon Firestick</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-lava-yuva-2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Lava Yuva 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-magic-in-haul-video-creation/"><u>In 2024, Unveiling the Magic in Haul Video Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-the-mini-marvel-of-tech-unveiling-the-smallest-webcam-ever-a-surprisingly-multifaceted-device/"><u>Inside the Mini Marvel of Tech: Unveiling the 'Smallest Webcam Ever' – A Surprisingly Multifaceted Device!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-pro-ebin-8740-drivers-compatible-with-windows-11108-free-download/"><u>Latest HP OfficeJet Pro Ebin 8740 Drivers: Compatible with Windows 11/10/8 - Free Download!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pcwhat-is-environmental-setting-on-a-computer/"><u>PC環境構成の基本を理解する：What Is Environmental Setting on a Computer?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-boot-failures-a-guide-to-diagnosing-post-related-errors/"><u>Resolving Boot Failures: A Guide to Diagnosing Post-Related Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-to-get-your-tiktok-up-and-running-again/"><u>Step-by-Step Fixes to Get Your TikTok Up and Running Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-capturing-and-sharing-your-nintendo-switch-gameplay/"><u>Step-by-Step Guide: Capturing & Sharing Your Nintendo Switch Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722871227974-step-by-step-tutorial-navigating-and-optimizing-your-experience-with-google-gemini/"><u>Step-by-Step Tutorial: Navigating and Optimizing Your Experience with Google Gemini</u></a></li>
 </ul></div>
 

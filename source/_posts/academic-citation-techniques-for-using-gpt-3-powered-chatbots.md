@@ -1,7 +1,7 @@
 ---
 title: Academic Citation Techniques for Using GPT-3 Powered Chatbots
-date: 2024-08-12T03:46:00.395Z
-updated: 2024-08-13T03:46:00.395Z
+date: 2025-02-06T21:38:10.917Z
+updated: 2025-02-11T22:33:58.395Z
 categories:
   - BestProducts
 description: This Article Describes Academic Citation Techniques for Using GPT-3 Powered Chatbots
@@ -14,8 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/ejrq3uwF_m2orjfX4biKEvl5CJI=/400x300/fi
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  What to Know
 
 * For APA style, you need to cite the AI tool, its version, date, and provide a URL.
@@ -25,13 +26,9 @@ Close
  This guide will explain how to cite[ ChatGPT](https://www.lifewire.com/what-is-chatgpt-7105508) in APA (American Psychological Association), MLA (Modern Language Association), and Chicago publishing styles.  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in APA Style 
 
  When writing in-text citations in[ APA style](https://www.lifewire.com/how-to-apa-format-in-google-docs-4844955) , writers are expected to give reference to the original author's last name and the year of publication. For example, if you were citing me in the writing of this article, you might quote me and then put "(Martindale, 2024)".
@@ -48,16 +45,18 @@ Close
 
 **(OpenAI, 2024; see Appendix A for the full transcript)** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT displayed on the screen of a laptop computer on a table with a coffee cup nearby.](https://www.lifewire.com/thmb/xz7Kz-RwDroVaT8wns5_1ebM-Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/emiliano-vittoriosi-kdNhf7vJSik-unsplash-beba734fd77446faaf1422be840fe2e3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emiliano Vittoriosi / Unsplash
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in MLA Style 
 
  When writing in-text citations in MLA style, writers must reference the original author's last name and provide a page reference number if the source has numbered pages. So that would typically be something like "(Martindale, 10)" if it were quoting me from a source with 10 or more pages.
@@ -79,9 +78,9 @@ Emiliano Vittoriosi / Unsplash
  However, MLA does suggest that if you feel any AI you use is quoting from a primary or more senior source, you should find the root of that quote and use the original source if possible, rather than citing ChatGPT.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Cite ChatGPT in Chicago Style 
 
  Chicago style citations are handled a little differently, and they don't lend ChatGPT as much credence as MLA and APA style in considering it as an author in most cases. However, writers are still encouraged to cite ChatGPT clearly and effectively in the following ways.
@@ -98,9 +97,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Since ChatGPT doesn't let you link to specific conversations, Chicago style argues any further linking would be ineffective for citation purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why It's Important to Cite ChatGPT 
 
  Citing ChatGPT is just as important as citing textbooks, websites, authors, journalists, and other sources of information when you are collating your data to put together an article or thesis. It provides accountability for you as the author and allows anyone reviewing your work to trace your sources properly.  
@@ -129,8 +125,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +132,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>[New] In 2024, Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-navigating-video-editor-landscape-choose-filmora-or-democracy-creator/"><u>[New] In 2024, Navigating Video Editor Landscape Choose Filmora or Democracy Creator?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-overcoming-obs-fullscreen-issues/"><u>[New] In 2024, Overcoming OBS Fullscreen Issues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-paw-some-profits-the-paychecks-of-pewdiepie/"><u>[Updated] Paw-Some Profits The Paychecks of PewDiePie</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-the-process-of-recording-in-adobe-presenter/"><u>2024 Approved Unveiling the Process of Recording in Adobe Presenter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-keeping-your-mechanical-keyboard-spotless-and-functional/"><u>Expert Tips for Keeping Your Mechanical Keyboard Spotless and Functional</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-novice-to-pro-a-comprehensive-guide-for-using-googles-measure-app-on-android-phones/"><u>From Novice to Pro: A Comprehensive Guide for Using Google's Measure App on Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-mark-email-read-in-gmail/"><u>How to Mark Email Read in Gmail</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-x5-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco X5 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-snapchat-personal-branding-generate-a-hundredplus-ideas-for-memorable-stories/"><u>In 2024, The Art of Snapchat Personal Branding Generate a Hundred+ Ideas for Memorable Stories</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-your-gameplay-with-asus-vg2nvht-the-ultimate-choice-for-console-enthusiasts/"><u>Master Your Gameplay with Asus VG2nVHT – The Ultimate Choice for Console Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-see-kid-friendly-flicks-streaming-on-netflix/"><u>Must-See Kid-Friendly Flicks Streaming on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-to-resolve-dsounddll-error-missing-file-on-your-pc/"><u>Solutions to Resolve dsound.dll Error: Missing File on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-top-8-alternatives-to-gmail-in-the-new-year/"><u>The Ultimate List of Top 8 Alternatives to Gmail in the New Year</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-factors-to-evaluate-when-choosing-a-health-and-activity-monitor/"><u>Top 5 Factors To Evaluate When Choosing A Health & Activity Monitor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-picking-out-your-ultimate-cellphone-case/"><u>Top Tips for Picking Out Your Ultimate Cellphone Case</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-90-gt-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor 90 GT? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights by ZDNET"
-date: 2025-01-23T18:03:03.936Z
-updated: 2025-01-30T16:57:53.884Z
+date: 2025-02-09T00:46:41.705Z
+updated: 2025-02-11T18:37:33.201Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,19 +62,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>[New] 2024 Approved Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-altering-who-can-access-your-youtube-videos/"><u>[Updated] 2024 Approved Altering Who Can Access Your YouTube Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elite-enhancements-for-high-quality-gopros/"><u>[Updated] In 2024, Elite Enhancements for High-Quality GoPros</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-media-management-on-instagram/"><u>[Updated] Mastering Media Management on Instagram</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipated-release-date-new-ipad-models-expected-in-late-spring-of-2024-insights-from-zdnet/"><u>Anticipated Release Date: New iPad Models Expected in Late Spring of 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ahead-with-apple-watch-series-10-preorders-essential-guide-and-top-tricks-for-savings/"><u>Get Ahead with Apple Watch Series 10 Preorders - Essential Guide & Top Tricks for Savings</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-big-on-apple-airpods-exclusive-40-discount-just-in-time-for-independence-day-shopping-tips/"><u>Save Big on Apple AirPods: Exclusive $40 Discount Just in Time for Independence Day - Shopping Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-3-iphone-13-gadgets-for-preserving-pristine-appearance-insights-from-zdnet/"><u>Top 3 iPhone 13 Gadgets for Preserving Pristine Appearance - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-ranking-digital-marketing-webinars-and-e-learning-courses-by-massmail/"><u>Top-Ranking Digital Marketing Webinars & E-Learning Courses by Massmail</u></a></li>
-<li><a href="https://discover-best.techidaily.com/troubleshooting-steps-fixing-scanner-unrecognized-problems-in-your-pc-expert-tips-from-yl-computing/"><u>Troubleshooting Steps: Fixing 'Scanner Unrecognized' Problems in Your PC - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-concepts-behind-ray-tracing/"><u>Unveiling the Concepts Behind Ray Tracing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/winning-strategies-to-repair-osetupdll-not-detected-issues-effortlessly/"><u>Winning Strategies to Repair 'Osetup.dll Not Detected' Issues Effortlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pros-and-experts-choice-discover-the-finest-12-stock-photography-sites/"><u>[New] Pros and Experts' Choice Discover the Finest 12 Stock Photography Sites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-youtube-ad-creators/"><u>[Updated] 2024 Approved Best YouTube Ad Creators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-comprehensible-breakdown-for-youtube-annotation-and-card-implementation/"><u>[Updated] A Comprehensible Breakdown for YouTube Annotation and Card Implementation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screener-info-deconverter/"><u>[Updated] Screener Info Deconverter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892289870-all-you-need-to-know-about-apples-latest-wearable-audio-tech-rumors-and-specs-included/"><u>All You Need to Know About Apple's Latest Wearable Audio Tech, Rumors & Specs Included</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/el-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Moto G73 5G FRP?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/installing-microsoft-office-365-seamlessly-a-step-by-step-process-for-windows-and-mac-users/"><u>Installing Microsoft Office 365 Seamlessly - A Step-by-Step Process for Windows and Mac Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-pinning-messages-in-your-instagram-stories/"><u>Mastering the Art of Pinning Messages in Your Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-remedy-of-kernel32dll-failures-on-windows-platform/"><u>Mastering the Remedy of Kernel32.dll Failures on Windows Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-top-notch-screen-tech-exclusive-laptop-sale-covered-by-zdnet-awaits-your-clicks-now/"><u>Score a Steal with Top-Notch Screen Tech: Exclusive Laptop Sale Covered by ZDNet Awaits Your Clicks Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-headphone-connectivity-issues-on-your-windows-eb-os-device/"><u>Solving Headphone Connectivity Issues on Your Windows Eb OS Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-command-line-interface-within-any-folder/"><u>Step-by-Step Guide: Accessing Command Line Interface Within Any Folder</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reviving-your-waterlogged-apple-device/"><u>Step-by-Step Guide: Reviving Your Waterlogged Apple Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-free-web-based-calendar-apps-we-love/"><u>Top 4 Free Web-Based Calendar Apps We Love</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890047303-trouble-with-physxloaderdll-heres-how-you-can-solve-the-absence-issue/"><u>Trouble with PhysXLoader.dll? Here’s How You Can Solve the Absence Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-apple-watch-display/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Apple Watch Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-iphone-15-pro-maxs-resilience-to-water-fact-or-myth/"><u>Understanding iPhone 15 Pro Max's Resilience to Water – Fact or Myth?</u></a></li>
 </ul></div>
 

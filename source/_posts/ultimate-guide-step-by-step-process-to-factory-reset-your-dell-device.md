@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Step-by-Step Process to Factory Reset Your Dell Device"
-date: 2024-08-12T03:45:52.982Z
-updated: 2024-08-13T03:45:52.982Z
+date: 2025-02-08T17:14:32.895Z
+updated: 2025-02-11T16:22:21.538Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Step-by-Step Process to Factory Reset Your Dell Device"
@@ -17,17 +17,15 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 * When asked what to wipe, choose either**Keep my files** (videos, documents, etc.) or**Remove everything** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset a Dell Laptop From Windows Settings
 
  One way to reset a Dell laptop is through the Settings app. This method is ideal if you're already logged in to Windows, maybe because you're[backing up your files](https://www.lifewire.com/ways-to-back-up-your-data-2640426) before the reset.
 
  Keep your laptop connected to a power source through the entire reset and reinstallation process.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Windows 11 Steps
 
  Here's how this works in Windows 11:  
@@ -37,19 +35,26 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 2. Select**System** from the left, then**Recovery** from the right.  
 ![Recovery in Windows 11 System Settings](https://www.lifewire.com/thmb/4Kg8AVbEWStuLWTCS7Rn7F0PY1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-factory-reset-a-lenovo-laptop-5115817-58d784f0138a4569a88e690431c4af75.jpg)
 3. Select**Reset PC** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reset PC in Windows 11 Settings](https://www.lifewire.com/thmb/l92V1Sz84J0Ci2hpCiFmUbkWp00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-factory-reset-a-lenovo-laptop-5115817-5bd2852edce94c1abf7e55fe93bd8a09.jpg)
 4. Choose**Keep my files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Keep my files in Reset This PC for Windows 11](https://www.lifewire.com/thmb/_HXHKUo786hh9-Ww-hG89BM-4tI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-factory-reset-a-lenovo-laptop-5115817-ab7757eefd8c45b3893aedcbf5548be0.jpg)
 5. Pick how you want to reinstall Windows:**Cloud download** or**Local reinstall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Cloud Download and Local Reinstall in Reset This PC in Windows 11](https://www.lifewire.com/thmb/89hkzrisbRVLHT9hRk7DDnY6FeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-factory-reset-a-lenovo-laptop-5115817-20940592c4f74d56ac4a6b08c7255fa2.jpg)
 6. Complete any subsequent on-screen directions to complete the reset procedure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows 10 Steps
 
@@ -58,9 +63,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Search for**reset** from the Start menu and select**Reset this PC** when you see that option in the results.  
 ![Reset this PC highlighted in Windows 10 Search Result](https://www.lifewire.com/thmb/w322knvWAY5LS3g2ijD9Lo-WW7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Reset-This-PC-6b112a58f46e405e94ea393de2bbe622-1456912db2a6436b9e0e3ed71a557f06.jpg)
 2. Under**Reset this PC** , select**Get started** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Get Started button highlighted for Reset this PC](https://www.lifewire.com/thmb/M12BhAylYUYxIRH8BaYkjPh3cH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GetStartedannotated-aa6108a0a5fa406080cc54262b3d8906.jpg)
 3. Select **Remove everything** to wipe the Dell laptop clean and reinstall Windows. This step is the nuclear option, as it removes your files, all custom settings, and any apps your PC manufacturer installed.  
  Alternatively, select **Keep my files** to reinstall Windows and keep your personal files, like videos, documents, images, desktop items, etc.  
@@ -70,14 +77,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Otherwise, choose**Local reinstall** to reinstall Windows from your device. This option makes for a faster installation and doesn't require an active internet connection.  
 ![Reinstall Windows Choice Screen](https://www.lifewire.com/thmb/BSKyYJa8z6rwNwXiaXM7n9YYnjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resinstall-Windows-Choices-80a92105c9e34e6b891d883150d5bc49.jpg)
 5. Select **Change settings** for additional options.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reset this PC Additional Settings with Change Settings highlighted](https://www.lifewire.com/thmb/YNxIyOubi5d_yfZeAc7MC2KVY0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChangeSettings-a0c30ea2d39244f985bc63510072333e.jpg)  
  By default, Reset this PC will remove your files but doesn't securely erase them. It also only deletes data from the drive where you have Windows installed.
 6. Toggle on the switch for**Clean data?** to have Windows wipe everything on the drive securely and reduce the chances of data recovery. This process will take time but will make any sensitive data unrecoverable. It's not necessary if you don't plan to give away your laptop.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clean my data switch toggle highlighted in the Choose Settings screen](https://www.lifewire.com/thmb/RxENIQz6Szpjl7Ln7hD3yEkzrzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CleanDatatoggle-3f12ed4ff3f3414098d30869b251b4af.jpg)
 7. Follow the on-screen instructions to complete the reset process. It can take an hour or more, and your computer will restart a few times before it's all finished.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset a Dell Laptop From the ASO Menu
 
@@ -87,26 +100,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Select**Troubleshoot** on the first screen.  
 ![Troubleshoot highlighted in WinRE Screen](https://www.lifewire.com/thmb/xP84RJIU-KCXCyOyheyj9g2gnaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Troubleshoot-a8617bc95f2040f9858f68ee56839218.jpg)
 3. Select**Reset this PC** .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Reset This PC highlighted in Windows 10 troubleshooting](https://www.lifewire.com/thmb/JQvwm4AEJXKrNNqJBvqW3ZwO_9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resetthispc-4ff0855d89ee4b94b726e6d44c3eb699.jpg)
 4. Choose either**Keep my files** or**Remove everything** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Recovery Environment](https://www.lifewire.com/thmb/0193C72O0bxYFJhlP4NZetVlIsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Windows10-WinRE-Remove-Everything-10e8c706f03f4f8e9f7a318ad09c1dc9.jpg)
 5. Pick how Windows should be reinstalled. We recommend choosing**Cloud download** , but if your computer's files are corrupt or you don't have a stable internet connection,**Local reinstall** works fine, too.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Installation choice for Windows 10 in the Windows Recovery Environment](https://www.lifewire.com/thmb/ZT1HOElhXLn2JLybyrK9n_JoiLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Windows10-WinRE-Local-Install-b7bdc5da2e7348edb156a93ab9ed93ad.jpg)
 6. Follow the on-screen instructions to complete the reset process. This takes some time, and your computer will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is a Factory Reset?
 
  Wiping a Dell laptop is the final troubleshooting solution when things go wrong with Windows. It's also a recommended step when you want to give away your old laptop.
@@ -151,8 +156,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +163,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhance-your-marketing-game-the-top-15-social-media-analyzers-to-increase-e-commerce/"><u>[New] In 2024, Enhance Your Marketing Game The Top 15 Social Media Analyzers to Increase E-Commerce</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-through-the-lens-sage-advice-for-improving-your-edits-for-2024/"><u>[New] Through the Lens Sage Advice for Improving Your Edits for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-resource-compilation-for-media-imagery/"><u>[New] Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-aggregate-video-chat-and-multi-user-platforms/"><u>[Updated] In 2024, Best Aggregate Video Chat & Multi-User Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-iphone-gps-apps-according-to-us/"><u>Discover the Best iPhone GPS Apps According to Us</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-troubleshoot-and-fix-the-access-is-denied-401-error/"><u>Expert Tips to Troubleshoot and Fix the 'Access Is Denied' 401 Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finding-the-right-pace-the-essential-speed-for-your-computer/"><u>Finding the Right Pace: The Essential Speed for Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-novice-to-pro-learn-how-to-take-perfect-screenshots-on-any-computer/"><u>From Novice to Pro: Learn How to Take Perfect Screenshots on Any Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-review-of-lg-bp350-from-screen-brightness-to-audio-output-for-2024/"><u>Full Review of LG BP350 - From Screen Brightness to Audio Output for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exciting-conversation-starter-ideas/"><u>In 2024, Exciting Conversation Starter Ideas</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-going-viral-guide-keyword-strategies-for-cut-to-the-chase-videos/"><u>In 2024, Going Viral Guide Keyword Strategies for Cut-to-the-Chase Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professionals-insight-into-morphvox-techniques-for-precise-audio-alteration-for-2024/"><u>Professional's Insight Into MorphVOX Techniques for Precise Audio Alteration for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-ntldr-is-missing-issue-a-comprehensive-guide/"><u>Resolving the 'NTLDR Is Missing' Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-viewing-guide-how-to-connect-apple-tv-plus-content-on-chromecast/"><u>Seamless Viewing Guide: How to Connect Apple TV Plus Content on Chromecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-26-free-computer-maintenance-software-for-optimal-system-health-in-202-cups/"><u>The Ultimate List: 26 FREE Computer Maintenance Software for Optimal System Health in 202 Cups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-msvbvm50dll-heres-how-to-correctly-fix-the-not-found-error/"><u>Trouble with MSVBVM50.DLL? Here's How to Correctly Fix the Not Found Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-and-resolve-hidden-5ghz-network-on-windows-11-here/"><u>Uncover and Resolve Hidden 5GHz Network on Windows 11 Here</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolve Lenovo EasyCamera Problems in Windows 11"
-date: 2024-08-18T22:57:14.285Z
-updated: 2024-08-19T22:57:14.285Z
+date: 2025-02-08T00:43:08.772Z
+updated: 2025-02-11T17:51:00.813Z
 tags:
   - win11
   - win10
@@ -31,15 +31,16 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 6. **[Enable hardware-accelerated GPU scheduling](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair missing or corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update your graphics driver
 
  Before jumping into any in-game settings or optimizations, we highly recommend that you look into**updating your GPU driver** . Outdated graphics drivers are often responsible for FPS drops and stuttering in numerous games, including Diablo 4\. These drivers act as intermediaries between your hardware and the game, and using outdated versions can lead to compatibility issues.
 
 To address this, follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Manually update your drivers
 
 1. Identify your graphics card model by pressing the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter to open the Task Manager.
@@ -47,9 +48,6 @@ To address this, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/how-to-identify-your-graphics-card-model-1.png)
 3. Visit the official website of your GPU manufacturer and download the latest driver suitable for your specific GPU model.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
 [AMD](https://www.amd.com/en/support)  
@@ -67,18 +65,20 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will proceed to download and install the latest versions of all your outdated and missing device drivers directly from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  To access this feature, you’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, which offers complete support and a 30-day money-back guarantee. If you choose to upgrade by clicking on ‘Update All,’ you’ll receive a prompt. However, if you prefer to stick with the FREE version, you can still update your drivers individually by downloading them one by one and manually installing them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Should you need any assistance, feel free to contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Ensure your system is optimized
 
@@ -93,21 +93,11 @@ Below is the simple three-step guide:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. Windows will then search for available updates. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then restart your device.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Disable background applications
 
  Background applications can consume system resources and lead to FPS drops. Close unnecessary programs running in the background, particularly those utilizing high CPU or GPU usage, such as video players or web browsers with multiple tabs.
@@ -117,17 +107,15 @@ Below is the simple three-step guide:
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Click on the**Processes** tab. Observe the**CPU** and**GPU** columns to identify any processes consuming a significant amount of resources.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/close-unnecessary-processes-1.png)
 4. Right-click the applications you want to close and select**End task** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Then restart your game and test your gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Scan and repair your game files
 
@@ -143,11 +131,12 @@ Then restart your game and test your gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files.png)
 4. Click**Begin Scan** and wait for the process to complete. Then restart the Battle.net desktop app and launch your game.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 If your issues persist, proceed to the next fix.
 
 ## 5\. Adjust your in-game settings
@@ -165,17 +154,15 @@ To use Windowed mode and turn off Vertical Sync, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 3. Under the**GRAPHICS** section, select**Windowed (Fullscreen)** from the dropdown. Then scroll down and find**Vertical Syncb** . Make sure it’s off.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-adjust-in-game-settings.png)
 
 After applying changes, relaunch your game and check if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Enable hardware-accelerated GPU scheduling
 
  Hardware-Accelerated GPU Scheduling is a feature introduced in Windows 10 version 2004 and later. It allows the GPU to manage its video memory directly. And that can reduce the burden on the CPU and potentially improve graphics performance in games and applications.
@@ -190,6 +177,10 @@ After applying changes, relaunch your game and check if it works.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
 Restart your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Repair missing or corrupted system files
 
@@ -206,12 +197,20 @@ Restart your computer to apply the changes.
 ![run command prompt as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd-run-as-administrator.jpg)
 2. In the Command Prompt window, type**sfc /scannow** and press Enter. The SFC tool will begin scanning your system for missing or corrupted files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sfc-scannow.jpg)
 3. The scanning process may take some time, so be patient and let it complete.
 4. Once the scan is finished, the Command Prompt will display the results. If any issues are found, the tool will attempt to repair the corrupted files automatically.
 5. After the repair process is complete, restart your computer to apply the changes.
 
  While the System File Checker (SFC) is a useful built-in tool for repairing missing or corrupted system files, there are situations where it may not be sufficient. If SFC fails to resolve the issues, seeking professional help or using reputable online tools could be considered. Here you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , an award-winning and user-friendly software designed to streamline PC repair. It’s legit and comes in handy when you encounter any critical issues on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Automatically scan and repair your system files
 
@@ -233,8 +232,6 @@ Restart your computer to apply the changes.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +239,16 @@ Restart your computer to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-a-compreranial-expedition-into-high-quality-pictures/"><u>[New] In 2024, A Compreranial Expedition Into High Quality Pictures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-se-unbeatable-price-drop-post-prime-day-zdnet/"><u>Apple Watch Series SE - Unbeatable Price Drop Post-Prime Day! | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-camera-tech-review/"><u>Elite Camera Tech Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-take-on-iphone-15-pros-explained-and-the-unwavering-recommendation-for-tech-enthusiasts/"><u>Expert Take on iPhone 15: Pros Explained and the Unwavering Recommendation for Tech Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-g54-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola G54 5G Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-enhanced-logic-pro-revolutionizing-music-with-ai-musicians-for-ipad-and-mac-discover-the-future-of-sound-creation/"><u>Introducing Apple's Enhanced Logic Pro: Revolutionizing Music with AI Musicians for iPad & Mac - Discover the Future of Sound Creation!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/julys-premier-iphone-bargains-exclusive-deals-on-the-latest-models-tech-guide/"><u>July's Premier iPhone Bargains: Exclusive Deals on the Latest Models Tech Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/pioneers-pushing-boundaries-triggering-discord/"><u>Pioneers Pushing Boundaries, Triggering Discord</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-easy-video-editing-free-cutters-and-joiners-for-new-users/"><u>Updated 2024 Approved Easy Video Editing Free Cutters and Joiners for New Users</u></a></li>
+</ul></div>
 

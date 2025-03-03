@@ -1,7 +1,7 @@
 ---
 title: "Pro Tips: Keeping an Eye on Your MacBook's Thermal Status"
-date: 2024-08-12T03:45:57.148Z
-updated: 2024-08-13T03:45:57.148Z
+date: 2025-02-07T21:05:10.588Z
+updated: 2025-02-11T22:27:14.887Z
 categories:
   - BestProducts
 description: "This Article Describes Pro Tips: Keeping an Eye on Your MacBook's Thermal Status"
@@ -13,8 +13,9 @@ thumbnail: https://thmb.techidaily.com/07e687f8419c4806cb630c22e1fb9dad311423267
  Surface Pro owners have reported problems with their Surface Pro's screen shaking or flickering. The problem appears as fast, flickering vertical distortions across the Surface Pro's display. These distortions can appear at any time, even just after the Surface Pro is turned on and loading Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Cause of Surface Pro Screen Shaking and Flickering
 
  A hardware defect in the Surface Pro 4 is the most common cause of the Surface Pro screen shaking and flickering. The cause of the defect remains arguable, but the Surface Pro owner community members troubleshooting this problem have settled on it being a problem with the display hardware, and it's thought to be brought on by heat.
@@ -22,26 +23,30 @@ thumbnail: https://thmb.techidaily.com/07e687f8419c4806cb630c22e1fb9dad311423267
  Other Surface devices can have problems that are perceived as screen flickering. If you don't own a Surface Pro 4, the problem probably isn't caused by a hardware defect, so the additional fixes in this article are more likely to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Surface Pro Screen Shaking and Flickering
 
 [Microsoft's support article about Surface Pro screen flickering](https://support.microsoft.com/en-us/surface/surface-pro-4-screen-flickers-or-is-scrambled-e48e8b60-0426-4de8-5a58-0a8f5a72a5c4) includes steps for confirming the issue. If it does confirm the flickering issue, then it's a hardware defect that further troubleshooting is unlikely to solve. If it does not, then try the steps below.
 
 1. Turn off automatic brightness adjustments. Right-click on the Windows desktop and select**Display Settings** . A window will open, and a checkbox labeled**Change brightness automatically when lighting changes** appears near the top of it. De-select the checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Display settings in Microsoft Windows 10.](https://www.lifewire.com/thmb/ReZ2XirBPkgMNJ2U0JdtvRoNjQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FixSurfaceProScreenShakingandFlickering-annotated-67bf52e272534991821edafbefd462eb.jpg)
 2. [Roll back your display driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) . This will uninstall the current driver and replace it with an older version, fixing the issue if the cause is a bug in a new display driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . This will install all Windows bug fixes and the latest drivers for your Surface device.
 4. [Perform a "two-button shutdown" of your Surface Pro](https://www.thewindowsclub.com/surface-pro-two-button-shutdown) . This will force the device to reboot Windows instead of hibernating.
 5. [Factory reset your Surface Device](https://www.lifewire.com/how-to-factory-reset-surface-pro-laptop-book-4175122) . This will clear up any software or driver conflicts causing screen flicker.
 6. [Connect your Surface Pro to an external monitor](https://www.lifewire.com/connect-surface-pro-to-a-monitor-5112683) . This does not fix the issue with the Surface Pro's display but, if it's caused by a hardware defect in the display itself, the issue won't appear on an external monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Freezer Trick: Not Recommended
 
  Users' attempts to resolve screen flickering on the Surface Pro 4 led to some bizarre fixes. The most popular is placing the Surface Pro in a freezer. We don't recommend this because not only is it a temporary fix (if it even works), but placing the Surface Pro in the freezer could damage it further.
@@ -75,8 +80,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +87,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-3dr-a-compreran-users-journey-through-tech-aloneness/"><u>[New] 2024 Approved '3DR' A Compreran User's Journey Through Tech Aloneness</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-your-biz-game-utilizing-snapchat-features/"><u>[New] Elevate Your Biz Game Utilizing Snapchat Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-step-into-wealthy-creator-land-via-youtube-shorts-revenue/"><u>[New] In 2024, Step Into Wealthy Creator Land via YouTube Shorts Revenue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-spark-conversation-crafting-questions-for-ig-story-boost/"><u>[Updated] 2024 Approved Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-humor-synthesizer-zombified-appliances/"><u>2024 Approved Humor Synthesizer Zombified Appliances</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/corrective-measures-addressing-and-repairing-msxml4dll-absence-issues/"><u>Corrective Measures: Addressing and Repairing Msxml4.dll Absence Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-26-gratis-pc-registry-cleaners-for-a-faster-system/"><u>Discover the Ultimate Selection of 26 Gratis PC Registry Cleaners for a Faster System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-clearing-up-and-managing-photoshops-scratch-disk-space/"><u>Expert Advice on Clearing Up and Managing Photoshop's Scratch Disk Space</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Without Passcode?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-designing-news-outro-sequences/"><u>In 2024, Designing News Outro Sequences</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/learn-the-ultimate-snap-sharing-trick-today-for-2024/"><u>Learn the Ultimate Snap Sharing Trick Today for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/permanent-deletion-process-for-yahoo-mail-step-by-step-tutorial/"><u>Permanent Deletion Process for Yahoo! Mail – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-xinput13dll-file-absent-issue-a-comprehensive-guide/"><u>Solving the xinput1_3.dll File Absent Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-essential-cybersecurity-certs-expert-picks-from-zdnet/"><u>Top 7 Essential Cybersecurity Certs : Expert Picks From ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Running Slow [SOLVED]
-date: 2024-08-18T22:58:13.899Z
-updated: 2024-08-19T22:58:13.899Z
+date: 2025-02-09T16:18:36.055Z
+updated: 2025-02-11T16:40:35.758Z
 tags:
   - win11
   - win10
@@ -32,17 +32,33 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5832bcb6321f9-1024x488.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double click the**MediaCreationTool.exe** file to run the installation of it. If prompted by UAC, just click**Yes** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/mediacreationtool-exe-installation-media-tool.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Accept** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Then choose**Upgrade this PC now** . Hit**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5870453c73720.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Then the tool will start downloading Windows 10\.
   
@@ -60,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58704f714fe10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) See a recap of what you have chosen, then save and close any open files you are running, then select**Install** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58704fe1998f8.jpg)
@@ -73,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
  1) Go to the Get Windows 10 download[**website**](https://www.microsoft.com/en-gb/software-download/windows10) , then download the Download Tool by clicking pressing the blue button.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5832bcb6321f9-1024x488.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Double click the**MediaCreationTool.exe** file to run the installation of it. If prompted by UAC, just click**Yes** .
   
@@ -98,6 +122,11 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/next-select-a-usb-flash-drive.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Windows 10 will now begin to download. The speed of which will be determined by the Internet speed that you have.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/downloading-windows-10.png)
@@ -118,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,8 +154,18 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-surgical-switch-mastering-the-process-of-changing-your-tiktok-username/"><u>[New] In 2024, Surgical Switch Mastering the Process of Changing Your TikTok Username</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streaming-success-youtube-broadcasts-of-google-meet/"><u>2024 Approved Streaming Success YouTube Broadcasts of Google Meet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728495582630-8/"><u>如何尋回失去的文件夾 - 8個最佳解決方案</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728510469308-windows-1111/"><u>如何在 Windows 11/11 中找回丟失的文件夹 - 全面指南解決方法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-upgrade-apples-new-m3-chip-enhances-1315-macbook-air-line-what-to-know/"><u>Explore the Upgrade: Apple's New M3 Chip Enhances 13/15 MacBook Air Line | What to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eye-movement-mastery-discovering-apples-groundbreaking-accessibility-updates-for-iphoneipad-control-detailed/"><u>Eye Movement Mastery: Discovering Apple's Groundbreaking Accessibility Updates for iPhone/iPad Control Detailed</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-ios-with-sight-alone-explore-how-apples-latest-accessibility-innovations-empower-users-to-command-iphones-and-ipads-using-their-gaze-insights-on-64/"><u>Navigating iOS with Sight Alone: Explore How Apple's Latest Accessibility Innovations Empower Users to Command iPhones and iPads Using Their Gaze | Insights on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-iphone-16-and-apples-ai-is-the-hype-justified-an-analytical-perspective-from-zdnet/"><u>The iPhone 16 and Apple's AI: Is the Hype Justified? An Analytical Perspective From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-waterproof-wearables-comprehensive-gadget-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Wearables - Comprehensive Gadget Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-the-benefits-and-drawbacks-of-using-dynamic-memory-in-microsoft-hyper-v/"><u>Understanding the Benefits & Drawbacks of Using Dynamic Memory in Microsoft Hyper-V</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

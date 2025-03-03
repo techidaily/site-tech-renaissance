@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows"
-date: 2025-01-27T17:36:19.608Z
-updated: 2025-01-30T17:49:21.870Z
+date: 2025-02-08T16:48:50.467Z
+updated: 2025-02-11T18:49:34.634Z
 tags:
   - apple
 categories:
@@ -62,6 +62,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -73,7 +77,7 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -81,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -94,10 +102,6 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -105,10 +109,14 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -142,19 +150,11 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,16 +192,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-most-reliable-voice-recorders-suited-for-macos-users/"><u>[Updated] In 2024, The Most Reliable Voice Recorders Suited for MacOS Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-issues-urgent-security-alert-on-spyware-threats-targeting-iphones-is-your-device-at-risk/"><u>Apple Issues Urgent Security Alert on Spyware Threats Targeting iPhones – Is Your Device at Risk?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-review-iphone-14-strikes-a-balance-between-quality-and-affordability-cnet/"><u>Comprehensive Review: IPhone 14 Strikes a Balance Between Quality & Affordability | CNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-natural-motion-depth-in-ps/"><u>Craft Natural Motion Depth in PS</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/effortless-switching-between-storage-migrating-data-to-a-portable-and-powerful-samsung-solid-state-drive/"><u>Effortless Switching Between Storage: Migrating Data to a Portable & Powerful Samsung Solid-State Drive</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-digital-life-with-this-google-photos-tutorial/"><u>Elevate Your Digital Life with This Google Photos Tutorial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-converting-tiktok-audio-into-desired-mobile-ringtones/"><u>In 2024, Converting TikTok Audio Into Desired Mobile Ringtones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/section-3a-series-capacitor-arrangements-and-energy-storage/"><u>Section 3A: Series Capacitor Arrangements and Energy Storage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-kid-friendly-mobile-devices-a-comprehensive-guide-zdnet/"><u>Top Kid-Friendly Mobile Devices: A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-productivity-booster-how-an-hp-copilotplus-laptop-transformed-my-remote-work-game-insights-from-zdnet/"><u>Unveiling the Ultimate Productivity Booster: How an HP Copilot+ Laptop Transformed My Remote Work Game - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722885173035-version-52-of-mozilla-thunderbird-released-explore-the-enhanced-email-client-today/"><u>Version 52 of Mozilla Thunderbird Released: Explore the Enhanced Email Client Today!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-warehouse-in-the-sky-top-pricing-on-demand/"><u>[New] In 2024, Warehouse in the Sky Top Pricing on Demand</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-nextupcameras-venturing-past-mycam/"><u>[New] NextUpCameras Venturing Past MyCam</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-15-activities-perfect-for-podcast-lovers/"><u>[New] Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-modern-photographys-dynamic-range-capabilities/"><u>[Updated] 2024 Approved Mastering Modern Photography's Dynamic Range Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-which-is-superior-for-editing-bandicam-or-camtasia/"><u>[Updated] Which Is Superior for Editing Bandicam or Camtasia?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-user-manual-how-to-remove-yourself-from-the-twitch-platform/"><u>Complete User Manual: How to Remove Yourself From the Twitch Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-integrating-disney-plus-into-your-chromecast-experience/"><u>Easy Steps for Integrating Disney Plus Into Your Chromecast Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-methods-for-embedding-programming-codes-in-microsoft-word/"><u>Effective Methods for Embedding Programming Codes in Microsoft Word</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/re-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-camon-30-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Camon 30 Pro 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-update-your-amd-radeon-gpus-with-the-latest-firmware-v2410/"><u>How to Update Your AMD Radeon GPUs with the Latest Firmware V24.10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-camon-20-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Camon 20 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/recuperacion-rapida-de-informacion-tecnicas-efectivas-para-desmontar-y-rescatar-contenido-de-un-disco-duro-borrado/"><u>Recuperación Rápida De Información: Técnicas Efectivas Para Desmontar Y Rescatar Contenido De Un Disco Duro Borrado</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-nospinlockavailable-a-step-by-step-guide/"><u>Resolving NO_SPIN_LOCK_AVAILABLE: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-408-request-timed-out-issue-for-smoother-web-experience/"><u>Troubleshooting a 408 Request Timed Out Issue for Smoother Web Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-the-leading-wet-proof-phones-shields/"><u>Ultimate Guide: The Leading Wet-Proof Phones Shields</u></a></li>
 </ul></div>
 

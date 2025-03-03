@@ -1,7 +1,7 @@
 ---
 title: Can Apple Turnaround Troubled Experiences for Sonos Enthusiasts? Insights From ZDNet
-date: 2025-01-25T17:21:20.507Z
-updated: 2025-01-30T18:46:15.976Z
+date: 2025-02-06T21:10:40.878Z
+updated: 2025-02-11T19:59:32.352Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A lack of competitors
 
 While many users like myself are looking for a clear migration path to a competitor, no true alternatives to Sonos exist. Neither [Amazon Echo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3Fie%3DUTF8%26node%3D9818047011%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5Fijuevad4z%5Fe%26www.amazon.com%2Fdp%2FB07XKF5RM3%3Ftag%3Dgooghydr-20%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5F2g7cb1h5ze%5Fe%26gclid%3DCj0KCQjw-uK0BhC0ARIsANQtgGN0ThJnnXE7wtYeCxiGIl5czneMT%5FsjULx2rJ86YnnFx2KqPCbNjZ8aAjIfEALw%5FwcB%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caf79af40-ba0a-4fc8-bf8a-369938c64f6e%7Cdtp&dtb=1) nor [Google Nest Audio](https://store.google.com/us/product/nest%5Faudio?pli=1&hl=en-US) provides comparable multiroom audio or surround sound with their current smart speakers. Apple's [HomePod](https://www.apple.com/homepod/) is an excellent solution for a bedroom or a small living room with a two-speaker setup paired with an [Apple TV](https://www.zdnet.com/home-and-office/home-entertainment/tvos-18-will-enhance-the-dialogue-on-your-apple-tv-to-help-you-better-hear-it/), but the technology doesn't offer multiroom or surround sound.
@@ -75,7 +71,7 @@ For Apple (or Amazon or Google) to truly compete with Sonos, the companies will 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Apple should do it
@@ -88,29 +84,25 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 [As reported](https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/) in _MacRumors_, a connected "accessory" for Apple TV and HomePod powered by the yet-to-be-released A18 processor (coming in the [iPhone 16](https://www.zdnet.com/article/i-upgrade-my-iphone-every-year-but-iphone-16-worries-me-heres-why/)) may bring the highly awaited Apple Intelligence features to the home entertainment space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Transforming Apple Music with AI
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Personalized music experiences
 
 Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/) and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration that offers dynamic playlists tailored to your real-time preferences, activities, and moods. This AI could provide context-aware music suggestions based on your current activity, location in your home, or time of day, seamlessly enhancing your environment whether you're working out, hosting a party, or relaxing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Interactive music discovery
 
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Social and collaborative features
 
@@ -120,11 +112,19 @@ Social and collaborative features could facilitate the creation of collaborative
 
 Smart home integration could allow voice-controlled music management across HomePod and other devices, setting up multiroom audio experiences with personalized settings for different rooms and family members. Event-based playlists could be automatically generated for scheduled events, syncing with other Apple devices to create immersive audio experiences tailored to specific activities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Learning and adaptation
 
 The AI's adaptive learning capabilities could continuously refine music recommendations based on your interactions. Mood and sentiment analysis could recommend music to match or alter your mood, offering comforting or uplifting tunes as needed. Additionally, integrating with other streaming services and social media platforms could provide a unified music experience, allowing you to import and export playlists and create music-related content.
 
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
 
@@ -160,15 +160,20 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pioneering-rpgs-rogelikes-and-their-descendants/"><u>[New] 2024 Approved Pioneering RPGs Rogelikes & Their Descendants</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decrypting-youtubes-view-count-calculation-system/"><u>[New] In 2024, Decrypting YouTube’s View-Count Calculation System</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-solving-problems-missing-facebook-video-suggestions-for-2024/"><u>[New] Solving Problems Missing Facebook Video Suggestions for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-managing-google-smart-devices-from-your-desktop-or-laptop/"><u>Guide to Managing Google Smart Devices From Your Desktop or Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/post-prime-day-snag-the-new-apple-10th-generation-ipad-at-an-unbeatable-price-of-only-299-the-latest-deal-you-cant-misszdnet/"><u>Post-Prime Day: Snag the New Apple 10Th Generation iPad at an Unbeatable Price of Only $299 - The Latest Deal You Can't Miss![ZDNet]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-dall-e-apples-latest-innovation-delivers-magical-image-generation-right-on-your-device-master-the-art-of-digital-wizardry-today/"><u>Say Goodbye to DALL-E: Apple's Latest Innovation Delivers Magical Image Generation Right on Your Device – Master the Art of Digital Wizardry Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stay-updated-safely-with-macos-1441-a-comprehensive-guide/"><u>Stay Updated Safely with macOS 14.4.1: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tackling-photo-app-errors-in-windows-11/"><u>Tackling Photo App Errors in Windows 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/ultimate-guide-to-restoring-your-asus-vivobook-with-windows-11-and-alternative-methods/"><u>Ultimate Guide to Restoring Your ASUS VivoBook with Windows 11 & Alternative Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-concealed-viewers-guide-to-instagram-live-broadcasting-without-attention/"><u>[New] Concealed Viewers' Guide to Instagram Live Broadcasting Without Attention</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovating-with-iphone-for-complete-360-video-capture/"><u>[Updated] Innovating with iPhone for Complete 360 Video Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-stills-extraction-in-windows-11-photos/"><u>[Updated] Mastering Stills Extraction in Windows 11 Photos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/all-you-need-to-know-demystifying-the-m4v-video-file-type/"><u>All You Need to Know: Demystifying the M4V Video File Type</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-max-documentaries-available-in-july-2024/"><u>Discover the Best Max Documentaries Available in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expanding-horizons-in-television-tcl-unveils-new-array-of-19-q-and-s-class-smart-tvs/"><u>Expanding Horizons in Television - TCL Unveils New Array of 19 Q & S Class Smart TVs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-make-your-videos-take-off-the-ultimate-guide/"><u>How to Make Your Videos Take Off: The Ultimate Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-c50-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Poco C50 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-users-guide-how-to-opt-out-of-automatic-emergency-and-amber-notifications/"><u>IPhone Users Guide: How to Opt-Out of Automatic Emergency & AMBER Notifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/kindle-paperwhite-tips-and-tricks-how-to-modify-device-time-settings/"><u>Kindle Paperwhite Tips & Tricks: How to Modify Device Time Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/master-windows-task-handling-with-advanced-execution-tools/"><u>Master Windows Task Handling with Advanced Execution Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-easy-route-sending-and-receiving-steam-game-gifts-like-a-pro/"><u>Navigating the Easy Route: Sending and Receiving Steam Game Gifts Like a Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-optimal-performance-rate-your-pc-requires/"><u>What's the Optimal Performance Rate Your PC Requires?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Easily Overcome the Persistent '0X80070422' Error During Windows 10 Updates
-date: 2024-08-18T22:56:48.078Z
-updated: 2024-08-19T22:56:48.078Z
+date: 2025-02-04T23:14:52.414Z
+updated: 2025-02-11T17:20:37.957Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 ## The Complete Guide to Speeding Up Your Windows Update Time - Discover Why It Takes So Long
 
 **Windows update takes so long to complete?** Although it’s very frustrating, you’re definitely not the only person to experience this problem. Many other Windows users have reported the very same issue. More importantly, you should be able to fix this issue pretty easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -62,15 +66,24 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click on the**Run** button next to**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -112,8 +125,9 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In Command Prompt, type the command lines below and press**Enter** on your keyboard **after typing each** :
 
 **net stop bits**  
@@ -154,13 +168,18 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
@@ -169,17 +188,15 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -188,9 +205,6 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
 ### Fix 5: Run System File Checker
@@ -207,18 +221,12 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -229,22 +237,20 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  ii. Type the command line**systeminfo** and press **Enter** to view your system type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
  4) Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -258,6 +264,10 @@ It may take some time for the command operation to be completed.
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) In the pop-up window, click the link to start downloading the updates.
 
@@ -277,8 +287,6 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +294,16 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-digital-delight-designer/"><u>[New] 2024 Approved Digital Delight Designer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-visibility-in-a-newly-updated-social-platform/"><u>[New] Maximizing Visibility in a Newly Updated Social Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-vpn-free-trial-tests-decoded-in-depth-reviews-and-ratings-zdnet-expert-insights/"><u>Ace VPN Free Trial Tests Decoded: In-Depth Reviews and Ratings | ZDNET Expert Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-ready-list-of-iphone-models-set-to-integrate-apples-latest-artificebile-features-and-revamped-siri-experience/"><u>Future Ready: List of iPhone Models Set to Integrate Apple's Latest Artificebile Features & Revamped Siri Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-achieve-slick-sound-segmentation-in-premiere/"><u>How to Achieve Slick Sound Segmentation in Premiere</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y100i-power-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y100i Power 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-modifications-tailoring-your-iphones-control-center-on-ios-18-a-step-by-step-guide/"><u>Mastering the Modifications: Tailoring Your iPhone's Control Center on iOS 18 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-smart-tv-essential-steps-for-a-full-samsung-reset/"><u>Revive Your Smart TV: Essential Steps for a Full Samsung Reset</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-compact-tablets-in-depth-analysis-by-tech-experts/"><u>Top-Rated Compact Tablets - In-Depth Analysis by Tech Experts</u></a></li>
+</ul></div>
 

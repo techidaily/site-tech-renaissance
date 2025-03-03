@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Browsing: Fixing and Speeding up Google Chrome Swiftly"
-date: 2024-08-18T22:58:24.863Z
-updated: 2024-08-19T22:58:24.863Z
+date: 2025-02-08T21:46:42.268Z
+updated: 2025-02-11T23:45:02.624Z
 tags:
   - win11
   - win10
@@ -28,6 +28,14 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 5. [Temporarily disable background programs](https://tools.techidaily.com/drivereasy/download/)
 
 ![Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/12/Featured-image-1200x538.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Disable NVIDIA reflex
 
@@ -64,8 +72,9 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ## Fix 3: Update your video card driver
@@ -83,9 +92,6 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your video card driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update your video card driver manually, you can, instead, do it automatically with Driver Easy. Driver Easy will automatically recognize your system and find the correct version, download, and install them correctly.
@@ -103,18 +109,12 @@ Here’s how it works:
 
 ![update device drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and play your game. You should be able to see a noticeable difference in performance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Turn off hardware acceleration
 
  By default, hardware acceleration is enabled in Chrome and Discord. This feature utilizes your computer’s GPU to tackle graphics-intensive tasks. But it can cause your computer’s battery to drain a lot faster. And when you have pretty low FPS in the game, hardware acceleration could be the culprit. In this case, you need to turn off hardware acceleration in Chrome and Discord.
@@ -125,36 +125,39 @@ Here’s how it works:
   
 ![disable hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-hardware-acceleration-Google-Chrome.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Scroll down to the bottom and click on**Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the**System** section, and toggle off the option**Use hardware acceleration when available** . Then click**Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### In Discord
 
  1) Open the Discord app. Click on **Settings** (the gear icon beside your avatar).  
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left pane, navigate to**Appearance** . In this tab, scroll down to the**ADVANCED** section and toggle off the option**Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After turning off hardware acceleration, try and play your game to check if it mitigates your issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Temporarily disable background programs
 
@@ -167,16 +170,17 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Go to the **Services**  tab. Check **Hide all Microsoft services** and click **Disable all** .  
   
 ![disable programs running in the background cold war error code blzbntbgs000003f8](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-programs-running-in-the-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Now go to the **Startup** tab and click **Open Task Manager** .  
   
 ![terminate programs running in the background cold war error code blzbntbgs000003f8](https://images.drivereasy.com/wp-content/uploads/2020/11/terminate-programs-running-in-the-background.jpg)
@@ -195,8 +199,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +206,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-the-pros-and-cons-of-lgs-usb-type-c-monitors/"><u>[New] Assessing the Pros and Cons of LG's USB Type-C Monitors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-diving-into-virtual-worlds-iphone-vr-viewing-101/"><u>[New] Diving Into Virtual Worlds IPhone VR Viewing 101</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-vlog-anxieties-unmasked-how-to-combat-them/"><u>[New] In 2024, Vlog Anxieties Unmasked How to Combat Them</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-cutting-edge-guide-to-youtube-video-distribution-via-facebook/"><u>[Updated] 2024 Approved Cutting-Edge Guide to YouTube Video Distribution via Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-captivating-visuals-with-diy-filming-methods/"><u>[Updated] In 2024, Creating Captivating Visuals with DIY Filming Methods</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-lens-leaderships-top-ten-camera-lens-selections-for-photographers/"><u>[Updated] Lens Leaderships Top Ten Camera Lens Selections for Photographers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>[Updated] Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-next-gen-codecs-will-av1-surpass-hevc-as-the-preferred-format-for-high-quality-streams/"><u>Comparing Next-Gen Codecs: Will AV1 Surpass HEVC as the Preferred Format for High-Quality Streams?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-apple-watch-ultra-2-became-essential-to-me-now-with-a-100-labor-day-offer-highlighted/"><u>How the Apple Watch Ultra 2 Became Essential to Me, Now with a $100 Labor Day Offer Highlighted</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/if-no-private-ips-are-detected-raise-an-exception-stating-so/"><u>If No Private IPs Are Detected, Raise an Exception Stating So.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-airpower-update-released-could-this-signal-the-return-of-apples-discontinued-wireless-charger/"><u>Latest AirPower Update Released - Could This Signal the Return of Apple's Discontinued Wireless Charger?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macpaws-innovative-solution-an-itunes-app-store-substitute-adapting-to-updated-policies/"><u>MacPaw's Innovative Solution: An iTunes App Store Substitute Adapting to Updated Policies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/premier-disneyplus-movie-options-for-immediate-viewing/"><u>Premier Disney+ Movie Options for Immediate Viewing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-recommended-for-you-feed-on-instagram/"><u>Step-by-Step Guide: Removing 'Recommended For You' Feed on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-locking-in-early-bird-discounts-on-the-latest-tech-iphone-15-watch-ultra-2-expert-guide/"><u>Tips for Locking in Early Bird Discounts on the Latest Tech: IPhone 15, Watch Ultra 2 | Expert Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-kid-friendly-ipad-models-an-in-depth-review/"><u>Top 4 Kid-Friendly iPad Models : An In-Depth Review</u></a></li>
+</ul></div>
 

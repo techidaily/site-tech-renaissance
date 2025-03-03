@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights From ZDNet"
-date: 2025-01-23T17:21:21.046Z
-updated: 2025-01-30T19:05:25.036Z
+date: 2025-02-08T23:24:27.992Z
+updated: 2025-02-11T22:14:05.024Z
 tags:
   - apple
 categories:
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -80,6 +80,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -101,7 +105,7 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -113,10 +117,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -169,7 +169,7 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -195,7 +195,7 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -254,24 +254,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-from-concept-to-completion-a-stories-polling-handbook-for-2024/"><u>[New] From Concept to Completion A Stories Polling Handbook for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tactics-to-quiet-down-distractions-during-google-meets/"><u>[Updated] In 2024, Tactics to Quiet Down Distractions During Google Meets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/activate-meta-quest-3s-advanced-ai-features-beating-out-the-apple-vision-pro-learn-inside/"><u>Activate Meta Quest 3’S Advanced AI Features – Beating Out the Apple Vision Pro [Learn Inside]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-walkthrough-creating-a-new-account-for-your-oculus-quiet-or-quiet-2-headset/"><u>Beginner's Walkthrough: Creating a New Account for Your Oculus (Quiet or Quiet 2) Headset</u></a></li>
-<li><a href="https://games-able.techidaily.com/behind-the-blogosphere-why-we-should-doubt-critics/"><u>Behind the Blogosphere: Why We Should Doubt Critics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-earnings-through-side-job-options-like-chatgpt-diy-pc-construction-guide-and-nostalgic-handheld-game-systems/"><u>Boosting Earnings Through Side Job Options Like ChatGPT, DIY PC Construction Guide, and Nostalgic Handheld Game Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cutting-cost-not-quality-how-these-economical-xr-glasses-outperform-apples-luxury-product-for-fomo-relief/"><u>Cutting Cost, Not Quality: How These Economical XR Glasses Outperform Apple's Luxury Product for FOMO Relief</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/get-the-best-free-pc-sound-logger-download-x-recorder-for-2024/"><u>Get the Best Free PC Sound Logger – Download X-Recorder for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-tools-to-craft-top-titles/"><u>In 2024, Innovative Tools to Craft Top Titles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-transform-your-facebook-vids-to-mp3-easy-and-fast/"><u>In 2024, Transform Your Facebook Vids to MP3 - Easy & Fast</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/imate-strategies-to-amass-over-a-million-youtube-views-for-2024/"><u>Legitimate Strategies to Amass Over a Million YouTube Views for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-and-preserve-your-iphone-es-aesthetics-with-these-3-must-have-accessories-insights/"><u>Protect and Preserve Your iPhone E's Aesthetics with These 3 Must-Have Accessories | Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reconsidering-the-apple-watch-series-10-the-breakthrough-traits-that-sealed-my-decision-insights/"><u>Reconsidering the Apple Watch Series 10: The Breakthrough Traits That Sealed My Decision | Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-on-sending-back-your-apple-vision-pro-insights/"><u>Step-by-Step Guide on Sending Back Your Apple Vision Pro - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-apple-watch-series-a-comprehensive-overview-of-release-details-innovative-specs-price-points-and-recent-developments/"><u>The Next-Gen Apple Watch Series Ⅷ: A Comprehensive Overview of Release Details, Innovative Specs, Price Points & Recent Developments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-apple-watch-series-nine-offer-huge-savings-post-prime-day-grab-your-exclusive-deal-now/"><u>Unbeatable Apple Watch Series Nine Offer - Huge Savings Post-Prime Day! Grab Your Exclusive Deal Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-8-complimentary-streaming-gems-on-roku-this-year/"><u>Unveiling the Top 8 Complimentary Streaming Gems on Roku This Year</u></a></li>
-<li><a href="https://some-tips.techidaily.com/what-went-down-when-i-sought-to-send-back-my-purchase-from-temu-an-insightful-review-for-consumers/"><u>What Went Down When I Sought To Send Back My Purchase From Temu – An Insightful Review for Consumers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-examining-realities-intertwined-what-is-mixed-reality/"><u>[New] Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-ranking-the-best-no-cost-tiktok-to-mp3-conversion-services/"><u>[Updated] 2024 Approved Ranking the Best No-Cost TikTok to MP3 Conversion Services</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-no-cash-needed-for-youtube-audio-check-out-this-list-of-23-crackers/"><u>2024 Approved No Cash Needed for YouTube Audio? Check Out This List of 23 Crackers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-6-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-100-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor 100 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-remove-your-pin-from-windows-11/"><u>How to Remove Your PIN From Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-dnssddll-file-not-detected-a-comprehensive-guide/"><u>Resolving dnssd.dll File Not Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-superior-smartwatch-programs-for-your-android-device/"><u>Ultimate List of Superior Smartwatch Programs for Your Android Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-snapchats-emoji-code-a-comprehensive-user-manual/"><u>Understanding Snapchat's Emoji Code: A Comprehensive User Manual</u></a></li>
 </ul></div>
 

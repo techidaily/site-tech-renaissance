@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone ^5 Exceeds Expectations for All Skill Levels, According to ZDNet's In-Depth Review
-date: 2025-01-28T19:14:20.077Z
-updated: 2025-01-30T17:31:42.120Z
+date: 2025-02-07T21:42:15.802Z
+updated: 2025-02-11T18:06:20.768Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -65,7 +65,7 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -87,7 +87,7 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -114,6 +114,10 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -132,10 +136,6 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -147,7 +147,7 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,24 +186,16 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/omplete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>[New] Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-every-gopro-feature-explained-side-by-side-for-2024/"><u>[New] Every Gopro Feature, Explained Side by Side for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-tips-for-switch-gaming-recordings/"><u>[Updated] In 2024, Essential Tips for Switch Gaming Recordings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-fading-approaches-with-ableton/"><u>[Updated] Innovative Fading Approaches with Ableton</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-in-webp-to-jpeg-conversion/"><u>2024 Approved Masterclass in WebP to JPEG Conversion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aiding-academic-success-discover-the-6-greatest-study-apps-for-kids-and-their-guardians/"><u>Aiding Academic Success: Discover the 6 Greatest Study Apps for Kids and Their Guardians</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-advises-alternatives-to-the-rice-myth-for-soggy-iphones-find-out-what-really-works/"><u>Apple Advises Alternatives to the Rice Myth for Soggy iPhones - Find Out What Really Works</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-16-and-iphone-15-essential-factors-for-choosing-apples-newest-entry-level-device/"><u>Comparing iPhone 16 and iPhone 15: Essential Factors for Choosing Apple's Newest Entry-Level Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-whether-its-a-blizzard-battlenet-crash-or-your-own-tech-glitch/"><u>Identifying Whether It's a Blizzard Battle.net Crash or Your Own Tech Glitch</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-12-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi 12 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instastorysaver-free-storage-beyond-counts/"><u>InstaStorySaver Free Storage Beyond Counts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/integrate-your-ca-drivers-license-into-digital-wallets-a-comprehensive-tutorial-for-iphone-and-android-users/"><u>Integrate Your CA Driver's License Into Digital Wallets: A Comprehensive Tutorial for iPhone & Android Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reddit-users-share-their-experience-understanding-the-main-reasons-for-returning-apple-vision-pro-featured-on-zdnet/"><u>Reddit Users Share Their Experience: Understanding the Main Reasons for Returning Apple Vision Pro, Featured on ZDNet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-novices-route-to-rapidly-play-videos-on-snapchat/"><u>The Novice's Route to Rapidly Play Videos on Snapchat</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-atandt-mobile-plans-and-offers-exclusive-savings-in-may-2024-zdnet/"><u>Top AT&T Mobile Plans & Offers: Exclusive Savings in May 2024 - ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-smartwatches-thoroughly-vetted-by-tech-experts-discover-the-picks/"><u>Top-Rated Smartwatches : Thoroughly Vetted by Tech Experts - Discover the Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-power-banks-of-2024-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated Wireless Power Banks of 2024 - Comprehensive Review by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-5-steps-to-reset-windows-defender-status/"><u>Troubleshooting Guide: 5 Steps to Reset Windows Defender Status</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-i-prefer-keeping-my-apple-watch-series-n-over-upgrading-to-series-10-insights-from-zdnet/"><u>Why I Prefer Keeping My Apple Watch Series N over Upgrading to Series 10 - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-addressing-mute-problems-in-obs-live-recording/"><u>[New] In 2024, Addressing Mute Problems in OBS Live Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-navigating-virtual-meetings-setting-up-video-calls-via-whatsapp-browser-on-pcs/"><u>[Updated] In 2024, Navigating Virtual Meetings Setting up Video Calls via WhatsApp Browser on PCs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-why-testimonial-videos-boost-brand-credibility/"><u>[Updated] Why Testimonial Videos Boost Brand Credibility</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breathe-easy-with-knowledge-of-asmr-advantages/"><u>Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-turning-off-the-live-tile-newsfeed-on-your-windows-11-desktop/"><u>Guide: Turning Off the Live Tile Newsfeed on Your Windows 11 Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-bypass-or-reset-your-login-pin-on-windows-10-easily/"><u>How to Bypass or Reset Your Login PIN on Windows 10 Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/os-maiores-convertedores-de-dvd-para-mp4-para-o-windows-10-e-11-ou-macos-em-2023-top-10/"><u>Os Maiores Convertedores De DVD Para MP4 Para O Windows 10 E 11 Ou macOS Em 2023: Top 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-directdraw-issues-on-windows-1011/"><u>Overcoming DirectDraw Issues on Windows 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-best-7-note-taking-tools-for-apples-ipad-series/"><u>The Ultimate List: Best 7 Note-Taking Tools for Apple's iPad Series</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/travel-smart-setting-up-your-roku-in-hotels-and-university-dorms/"><u>Travel Smart: Setting Up Your Roku in Hotels and University Dorms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-what-to-do-when-your-computer-cant-find-msvcr100dll/"><u>Troubleshooting: What To Do When Your Computer Can't Find MSVCR100.DLL?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Removing the Live Tiles News on Windows 11 Desktop"
-date: 2024-08-12T03:47:47.110Z
-updated: 2024-08-13T03:47:47.110Z
+date: 2025-02-10T16:12:44.377Z
+updated: 2025-02-11T22:19:53.729Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Removing the Live Tiles News on Windows 11 Desktop"
@@ -18,15 +18,8 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## [Best for Holiday Vibes: Water Retreat PREMIUM](https://apps.microsoft.com/detail/9pm5fjs8xx6v)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Free Water Retreat PREMIUM Windows 11 theme.](https://www.lifewire.com/thmb/iIWu7Z9i4TCPx1rmJW4C8vleoJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-12-cc08a5e032b840ebb869a8b109c7a7f2.jpg)
 
 Microsoft
@@ -49,9 +42,6 @@ of 15
 
 ## [Best Sea Theme: World Oceans Day PREMIUM](https://apps.microsoft.com/detail/9p34d1r0ndj1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Free Windows 11 World Oceans Day PREMIUM theme.](https://www.lifewire.com/thmb/Pxnj6J-PdBe7vOrp0n0DsarZaR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-14-9e0df8be2f2b4db3b7d1832af3051150.jpg)
 
 Microsoft
@@ -73,8 +63,9 @@ Microsoft
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Best Theme for Café Lovers: Coffee Art](https://apps.microsoft.com/detail/9nzkqqvwc604)
 
 ![Coffee Art Windows 11 desktop theme.](https://www.lifewire.com/thmb/6TPDZYPSJuyMF6btOzu88k0oyUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-13-bcff0126341a4090bf9182a189d48c47.jpg)
@@ -98,9 +89,17 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Best for Gamers: Xbox Series X](https://apps.microsoft.com/detail/9njblrjjq18t)
 
 ![Xbox Series X Windows 11 desktop theme.](https://www.lifewire.com/thmb/ApO2Qm8k5GCWuF4tmFgJlMmocdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-01-97887803bbed4a17afcd021c4e0acd2a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -125,6 +124,10 @@ of 15
 
 ![The Solar Eclipse Windows 11 desktop theme.](https://www.lifewire.com/thmb/h-1lnPtPht5got_v1-eSRVp9_3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-02-e31b2bb50d594759a583d416f77f24dd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft
 
  What We Like
@@ -144,11 +147,12 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Most Cheerful: Springtime Art](https://apps.microsoft.com/detail/9nb94bhphhtv)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 Springtime Art desktop theme.](https://www.lifewire.com/thmb/Rl8atfR3H66J3LsBCZFVMG4I6FY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-03-571f1cc7d3be4479bae463eac891f889.jpg)
 
 Microsoft
@@ -172,13 +176,6 @@ of 15
 
 ## [Best Modern Building Theme: Architectural Structures PREMIUM](https://apps.microsoft.com/detail/9pnr72h74000)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Windows 11 Architectural Structures PREMIUM desktop theme.](https://www.lifewire.com/thmb/W-MGDIODiOFai8aJpPL1KNSBvnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-04-8bbb54c3900747f3bb91d4305bccf967.jpg)
 
 Microsoft
@@ -204,6 +201,10 @@ of 15
 
 ![Bing Wallpaper app on Windows 11 desktop.](https://www.lifewire.com/thmb/js_juFKx8Nb9e8nNeVfQogW_bXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-05-5c98705b50d742dc95db64064a0681af.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft
 
  What We Like
@@ -224,12 +225,13 @@ Microsoft
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## [Best Easter Theme: Chicks and Bunnies](https://apps.microsoft.com/detail/9p73cv0wfg37)
 
 ![Chicks and Bunnies Easter Windows 11 desktop theme.](https://www.lifewire.com/thmb/Ghg10D0YVh3iLi8V4TTlgqKRmEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-06-6036fa7953fe4377809b55942c41d992.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -250,15 +252,8 @@ Microsoft
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Best Theme for the New Year: Fireworks on New Years](https://apps.microsoft.com/detail/9npbkd8tc0kf)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Fireworks on New Years Windows 11 theme.](https://www.lifewire.com/thmb/SF392yfsUkMYpBYe3FcgyeaA1Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-07-138d93b2e67a4c3686810dcd17f237ea.jpg)
 
 Microsoft
@@ -282,9 +277,6 @@ of 15
 
 ## [Best Halloween Theme: Pumpkin Season](https://apps.microsoft.com/detail/9msz4smskq4z)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Pumpkin Season Windows 11 desktop theme.](https://www.lifewire.com/thmb/chs8BaTbSIipxSShdQNE4ligkt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-08-6d4c38c478ff42b2b229e00e73eeab87.jpg)
 
 Microsoft
@@ -329,13 +321,11 @@ Microsoft
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Best for Diwali: Festival of Lights](https://apps.microsoft.com/detail/9p5ms5vk11dm)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Festival of Lights Windows 11 free theme.](https://www.lifewire.com/thmb/4gDgrHCbFqMyMklqHUIsDwf92is=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-10-8acc34bb46764a06809365d6a3ebe412.jpg)
 
 Microsoft
@@ -355,6 +345,10 @@ Microsoft
 14
 
 of 15
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Best for Pride: Pride 2020 Flags](https://apps.microsoft.com/detail/9pk6dd3shc26)
 
@@ -380,14 +374,11 @@ Microsoft
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Best for Otter Lovers: Otters](https://apps.microsoft.com/detail/9n8n2lghzl36)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Free Windows 11 Otters theme.](https://www.lifewire.com/thmb/vaEO6MdlOBtbuiZaHQrQd2MKrNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-15-d92509b374a64e0c931e961b378d0369.jpg)
 
 Microsoft
@@ -433,8 +424,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -442,4 +431,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-compilation-of-must-play-virtual-realms-for-2024/"><u>[New] A Compilation of Must-Play Virtual Realms for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secrets-of-saving-gameplay-on-windows-10/"><u>[Updated] In 2024, Secrets of Saving Gameplay on Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-impact-of-luts-on-professional-photography-for-2024/"><u>[Updated] The Impact of LUTs on Professional Photography for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tailoring-your-headline-for-job-searches/"><u>2024 Approved Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722902009558-breaking-down-the-differences-between-advanced-neo-qled-and-oled-displays/"><u>Breaking Down the Differences Between Advanced Neo QLED & OLED Displays.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/citing-artificial-intelligence-assistance-from-chatgpt-in-academic-work/"><u>Citing Artificial Intelligence Assistance From ChatGPT in Academic Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-unleash-funimate-with-apk-on-your-phone/"><u>How to Unleash Funimate with APK on Your Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adding-dynamic-blurs-to-ai-designed-graphics/"><u>In 2024, Adding Dynamic Blurs to AI-Designed Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-teleportation-illusions-in-visual-effects-artistry/"><u>In 2024, Teleportation Illusions in Visual Effects Artistry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-time-to-switch-to-ios-17-a-comprehensive-guide/"><u>Is It Time to Switch to iOS 17: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-hunt-without-interruptions-resolve-far-cry-6-pc-performance-errors/"><u>Master the Hunt Without Interruptions: Resolve Far Cry 6 PC Performance Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silenced-messages-discover-top-techniques-to-enable-iphone-text-sounds/"><u>Silenced Messages? Discover Top Techniques to Enable iPhone Text Sounds!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-mozilla-thunderbirds-launch-failures/"><u>Step-by-Step Guide: Resolving Mozilla Thunderbird's Launch Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-must-watch-uk-series-streaming-on-netflix-today/"><u>Top Picks: Must-Watch UK Series Streaming on Netflix Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-xbox-connectivity-problems-is-it-a-service-disruption/"><u>Understanding Xbox Connectivity Problems – Is It a Service Disruption?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-latest-apple-innovation-the-next-generation-iphone/"><u>Unveiling the Latest Apple Innovation: The Next Generation iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/women-with-a-history-of-uterine-rupture-may-have-an-increased-risk-in-future-pregnancies-and-require-specialized-care-during-childbirth/"><u>Women with a History of Uterine Rupture May Have an Increased Risk in Future Pregnancies and Require Specialized Care During Childbirth</u></a></li>
+</ul></div>
 

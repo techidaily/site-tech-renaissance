@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving Graphics Card Acceleration Errors on Your PC
-date: 2024-08-18T22:59:06.743Z
-updated: 2024-08-19T22:59:06.743Z
+date: 2025-02-10T16:50:45.580Z
+updated: 2025-02-11T21:44:39.476Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 
 ![Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/12/Featured-image-1200x538.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Disable NVIDIA reflex
 
  NVIDIA Reflex uses GPU power to increase system responsiveness and decrease input latency. But it will sacrifice you a bunch of FPS. It’s turned on by default in the game. To turn it off, you need to set the value to 0\. Here’s how you can do this:
@@ -51,6 +55,10 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -66,8 +74,9 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Update your video card driver
 
  Your device drivers, the video card driver, in particular, are important components that greatly impact your computer’s performance. If you get low FPS when gaming, one of the recommended troubleshooting steps you should take is to update your video card driver especially if you can’t remember when was the last time you had it updated.
@@ -75,8 +84,9 @@ Since its launch, players have reported getting significant FPS drops in Beyond 
  There are mainly two ways you can update your video card driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your video card driver
 
  To update your video card driver manually, you can go to the official website:
@@ -103,6 +113,10 @@ Here’s how it works:
 
 ![update device drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and play your game. You should be able to see a noticeable difference in performance.
@@ -119,21 +133,22 @@ Here’s how it works:
   
 ![disable hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-hardware-acceleration-Google-Chrome.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to the bottom and click on**Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Scroll down to the**System** section, and toggle off the option**Use hardware acceleration when available** . Then click**Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### In Discord
 
  1) Open the Discord app. Click on **Settings** (the gear icon beside your avatar).  
@@ -144,16 +159,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After turning off hardware acceleration, try and play your game to check if it mitigates your issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Fix 5: Temporarily disable background programs
 
  Ideally, we suggest you close programs that may be using the internet and system resources. It’s also a great way to make sure that no third-party programs are interfering with your game. To disable programs running in the background, take these steps:
@@ -164,24 +173,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the **Services**  tab. Check **Hide all Microsoft services** and click **Disable all** .  
   
 ![disable programs running in the background cold war error code blzbntbgs000003f8](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-programs-running-in-the-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  4) Now go to the **Startup** tab and click **Open Task Manager** .  
   
 ![terminate programs running in the background cold war error code blzbntbgs000003f8](https://images.drivereasy.com/wp-content/uploads/2020/11/terminate-programs-running-in-the-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Under the **Startup**  tab, disable one task at a time (Right-click on each and select **Disable** .) Once done, restart your computer.
 
 ---
@@ -196,8 +199,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-elite-gimbal-solutions-youtube-creators-stabilizing-allies-for-2024/"><u>[New] Elite Gimbal Solutions YouTube Creators' Stabilizing Allies for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-10-best-hashtag-tracker-for-facebook-twitter-and-instagram/"><u>[New] In 2024, 10 Best Hashtag Tracker for Facebook, Twitter and Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-virtual-worlds-analyzing-current-state-and-ahead/"><u>2024 Approved Virtual Worlds Analyzing Current State & Ahead</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-airpods-4-release-key-features-and-enhancments-compared-for-tech-enthusiasts/"><u>Exploring Apple's AirPods 4 Release: Key Features and Enhancments Compared for Tech Enthusiasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-hidden-drain-how-many-leaving/"><u>Facebook's Hidden Drain: How Many Leaving?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/harness-the-power-of-open-source-photo-processing-darktable-editor-for-macos-and-linux/"><u>Harness the Power of Open Source Photo Processing: Darktable Editor for macOS & Linux</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y100i-power-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y100i Power 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-webster.techidaily.com/premium-pokemon-image-collection-for-screensaver-and-wallpaper-use-enhanced-quality-graphics-from-yl-computing/"><u>Premium Pokemon Image Collection for Screensaver & Wallpaper Use, Enhanced Quality Graphics From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-24-on-apples-latest-airpods-pro-with-built-in-hearing-aid-capabilities-shop-today/"><u>Save 24% on Apple's Latest AirPods Pro with Built-In Hearing Aid Capabilities - Shop Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-sound-locating-your-car-stereos-activation-code-with-ease-and-confidence/"><u>Securing Sound: Locating Your Car Stereo's Activation Code with Ease and Confidence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectral-sync-solutions-for-2024/"><u>Spectral Sync Solutions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-non-apple-non-anker-magsafe-wallet-deal-of-the-year-my-comprehensive-review/"><u>Top Non-Apple, Non-Anker MagSafe Wallet Deal of the Year: My Comprehensive Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-protectors-for-iphone-16pro-models-featuring-comprehensive-reviews-from-tech-experts/"><u>Top-Rated Protectors for iPhone 16/Pro Models - Featuring Comprehensive Reviews From Tech Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-linkedin-and-facebook-potential-for-job-advancement/"><u>Unlocking LinkedIn & Facebook Potential for Job Advancement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-iphone-16-pro-is-it-a-smart-move-compared-to-iphone/"><u>Upgrading to iPhone 16 Pro: Is It a Smart Move Compared to iPhone</u></a></li>
+</ul></div>
 

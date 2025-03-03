@@ -1,7 +1,7 @@
 ---
 title: Top Tips and Tricks for Blocking Video Sites Like YouTube on Your iPad
-date: 2024-08-12T03:48:54.504Z
-updated: 2024-08-13T03:48:54.504Z
+date: 2025-02-07T19:26:27.858Z
+updated: 2025-02-11T22:46:18.996Z
 categories:
   - BestProducts
 description: This Article Describes Top Tips and Tricks for Blocking Video Sites Like YouTube on Your iPad
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  Lifewire / Maritsa Patrinos​
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -25,8 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -35,9 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -50,9 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -61,9 +60,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -74,9 +70,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
@@ -109,9 +102,9 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -121,6 +114,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -144,9 +141,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -156,14 +150,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
 
@@ -201,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +206,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-technological-splendor-m1-pro-vs-m1-max/"><u>[New] Exploring the Technological Splendor M1 Pro Vs. M1 Max</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quick-and-simple-ipad-conversion-turn-jpgpng-into-pdf/"><u>[New] In 2024, Quick and Simple iPad Conversion Turn JPG/PNG Into PDF</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-end-screen-magic-free-templates-to-boost-video-appeal/"><u>[Updated] In 2024, End-Screen Magic Free Templates to Boost Video Appeal</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029847038-dvdusb/"><u>「対面レンダリングとの比較: DVDからUSBへデータ移行の新手法 - 無料ソフト推薦」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-video-to-dvd-transcoding-apps-top-10-reviews/"><u>Best Video-to-DVD Transcoding Apps: Top 10 Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-the-keys-discovering-the-top-features-of-this-amazing-iphone-case-insights-from-zdnet/"><u>Beyond the Keys: Discovering the Top Features of This Amazing iPhone Case - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-ios-16-functions-you-must-master-tips-and-tricks-to-enhance-your-iphone-experience/"><u>Essential iOS 16 Functions You Must Master: Tips & Tricks to Enhance Your iPhone Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-ipad-pro-extras-for-a-superior-experience-expert-picks-from-zdnet/"><u>Essential iPad Pro Extras for a Superior Experience : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-value-have-apples-2022-airpods-pro-held-up-over-time-insights-for-consumers-techreview/"><u>Evaluating the Value: Have Apple's 2022 AirPods Pro Held Up Over Time? Insights for Consumers - TechReview</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-take-on-fujitsu-scansnap-ix1400-perfect-for-boosting-productivity-in-small-scale-operations/"><u>Expert Take on Fujitsu ScanSnap iX1400: Perfect for Boosting Productivity in Small-Scale Operations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-visionary-to-victory-channel-command-school/"><u>From Visionary to Victory Channel Command School</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-13-and-14-set-to-get-advanced-qi2-wireless-charge-with-ios-172-upgrade/"><u>IPhone 13 & 14 Set To Get Advanced Qi2 Wireless Charge with iOS 17.2 Upgrade</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-top-7-instruments-de-decoupe-parfaits-pour-les-utilisateurs-dapple/"><u>Les Top 7 Instruments De Découpe Parfaits Pour Les Utilisateurs D'Apple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-unsticking-your-frozen-windows-update-at-0-percent/"><u>Simple Solutions for Unsticking Your Frozen Windows Update at 0 Percent</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-integrating-apple-homepod-with-your-television/"><u>Step-by-Step Guide: Integrating Apple HomePod with Your Television</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mac-performance-enhancers-of-2022-the-best-tools-recommended-by-zdnet-for-ultimate-system-efficiency/"><u>Top-Ranking Mac Performance Enhancers of 2022: The Best Tools Recommended by ZDNet for Ultimate System Efficiency</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-accessories-thoroughly-tested-and-evaluated-by-experts-zdnet/"><u>Top-Rated Apple Watch Accessories : Thoroughly Tested & Evaluated by Experts - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-advanced-ipads-of-2e24-thoroughly-tested-and-reviewed-zdnet/"><u>Ultimate Guide to the Most Advanced iPads of 2E24: Thoroughly Tested & Reviewed | ZDNET</u></a></li>
+</ul></div>
 

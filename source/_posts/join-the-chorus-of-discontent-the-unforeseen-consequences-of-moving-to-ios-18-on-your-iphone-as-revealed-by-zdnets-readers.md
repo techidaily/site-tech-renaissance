@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2025-01-24T18:58:31.154Z
-updated: 2025-01-30T17:39:49.537Z
+date: 2025-02-09T18:20:55.989Z
+updated: 2025-02-11T23:43:49.582Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mobile-methods-download-gifs-from-twitter-on-devices/"><u>[Updated] 2024 Approved Mobile Methods Download GIFs From Twitter on Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-silent-scribes-selection-top-choices-in-offline-recognition-tech/"><u>[Updated] 2024 Approved Silent Scribes' Selection Top Choices in Offline Recognition Tech</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-intro-to-cinema-top-8-user-friendly-cameras-35mm/"><u>2024 Approved Intro to Cinema Top 8 User-Friendly Cameras (35Mm)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/visual-improvement-voice-changing-apps-reviewed-for-2024/"><u>Audiovisual Improvement Voice Changing Apps Reviewed for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-ditch-your-garmin-for-apple-watchs-latest-workout-sync-feature/"><u>Can You Ditch Your Garmin for Apple Watch's Latest Workout Sync Feature?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/deciding-filmora-vs-democracy-creator/"><u>Deciding Filmora Vs. Democracy Creator</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-updated-pci-device-software-for-multiple-windows-versions-here/"><u>Get Your Updated PCI Device Software for Multiple Windows Versions Here!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hesitate-before-getting-iphone-16-explore-if-apples-ingenuity-measures-up/"><u>Hesitate Before Getting iPhone 16? Explore if Apple’s Ingenuity Measures Up!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/important-considerations-to-make-before-investing-in-an-electric-car/"><u>Important Considerations to Make Before Investing in an Electric Car</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-google-pixel-7a-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Google Pixel 7a without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-new-iphone-16-worth-it-expert-advice-on-why-to-embrace-or-avoid-the-upgrade-zdnet-analysis/"><u>Is the New iPhone 16 Worth It? Expert Advice on Why to Embrace or Avoid the Upgrade | ZDNET Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/magical-on-device-image-creation-with-apples-latest-ai-tool-surpasses-dall-e-discover-the-next-generation-of-visual-tech/"><u>Magical On-Device Image Creation with Apple's Latest AI Tool Surpasses DALL-E: Discover the Next Generation of Visual Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211042660-no-sound-from-my-acer-try-these-pro-tricks-for-audio-recovery/"><u>No Sound From My Acer? Try These Pro Tricks for Audio Recovery!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-ring-overview-understanding-prices-debut-date-and-tech-specifications/"><u>Samsung Galaxy Ring Overview: Understanding Prices, Debut Date, and Tech Specifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-standout-functions-of-the-new-iphone-16-that-justify-an-upgrade-from-apples-previous-models-insights/"><u>Top 4 Standout Functions of the New iPhone 16 That Justify an Upgrade From Apple’s Previous Models - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-green-myth-a-closer-look-at-the-real-eco-friendlinnss-of-electric-cars/"><u>Unveiling the Green Myth: A Closer Look at the Real Eco-Friendlinnss of Electric Cars</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-13t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi 13T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-hulu-and-huluplus-unveiling-key-distinctions/"><u>Comparing Hulu and Hulu+ - Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/continuous-monitoring-during-induction-is-critical-for-the-safety-of-both-mother-and-baby/"><u>Continuous Monitoring During Induction Is Critical for the Safety of Both Mother and Baby.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-youtube-videos-without-spending-a-penny-the-best-tools-for-2024/"><u>Elevate Your YouTube Videos Without Spending a Penny - The Best Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-of-the-fugetek-ft-568-premium-quality-and-durability-in-a-top-tier-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: Premium Quality and Durability in a Top-Tier Selfie Stick</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-blur-resolving-call-of-duty-warzone-screen-shimmer/"><u>Fixing the Blur: Resolving Call of Duty Warzone Screen Shimmer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-implement-bots-on-your-discord-server/"><u>How to Seamlessly Implement Bots on Your Discord Server</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-skip-persistent-sign-in-errors-in-ms-teams/"><u>How to Skip Persistent Sign-In Errors in MS Teams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-11-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme 11 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-next-years-cyber-landscape-predictions-and-tips/"><u>Navigating Next Year's Cyber Landscape: Predictions and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-of-the-phoenix-film-how-to-watch-all-harry-potter-movies-sequentially/"><u>Order of the Phoenix (Film): How to Watch All Harry Potter Movies Sequentially</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-techniques-for-shrinking-your-quicktime-media-files/"><u>Simplified Techniques for Shrinking Your QuickTime Media Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-activating-the-microphone-in-your-meta-quest-headset/"><u>The Ultimate Tutorial on Activating the Microphone in Your Meta Quest Headset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-mxf-in-mp3-senza-costi-con-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma I File MXF in MP3 Senza Costi Con Il Servizio Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-for-scanning-files-directly-from-a-printer-onto-your-computer/"><u>Ultimate Troubleshooting for Scanning Files Directly From a Printer Onto Your Computer</u></a></li>
 </ul></div>
 

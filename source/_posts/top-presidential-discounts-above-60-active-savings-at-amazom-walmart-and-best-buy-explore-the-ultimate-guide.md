@@ -1,7 +1,7 @@
 ---
 title: "Top Presidential Discounts Above 60: Active Savings at Amazom, Walmart & Best Buy - Explore the Ultimate Guide"
-date: 2025-01-25T16:09:02.596Z
-updated: 2025-01-30T17:20:24.609Z
+date: 2025-02-06T01:52:55.392Z
+updated: 2025-02-12T00:14:07.599Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ A MagSafe wallet is a streamlined way to keep your cards (and cash) secure and a
 
 With so many choices available, ZDNET went hands-on with some of the most popular and innovative MagSafe wallet options, testing each for their practicality, durability, versatility, and price. Our pick for the best MagSafe wallet overall is the [Journey Ezmo wallet and phone stand](https://shareasale.com/r.cfm?b=2017698&u=4338022&m=124934&afftrack=techidaily&urllink=https%3A%2F%2Fship7com.pxf.io%2F0zwaz3) for its versatile design, comfortable maximum storage, and strong magnetic hold. See how our other top picks stack up to our top pick and find the right MagSafe wallet design for you. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best MagSafe wallets of 2024
 
 Show less 
@@ -47,14 +51,10 @@ Cons
 * May be too bulky for some
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Journey Ezmo Wallet and Phone Stand
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe wallet overall
 
@@ -88,6 +88,10 @@ Pros
 Cons 
 * Comes unattached upon harsh impact
 * Can only hold 2 cards comfortably
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clckr MagSafe phone holder and wallet
 
@@ -156,11 +160,11 @@ Cons
 * A little snug with 3 cards
 * Can be a little tricky to get cards in and out in certain situations
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Moft Snap on Phone Stand and Wallet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best minimalist MagSafe wallet
 
@@ -196,6 +200,10 @@ Cons
 
 ## Casetify Snappy Leather MagSafe Wallet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best MagSafe wallet for fun color or customization
 
 Casetify offers a basic yet sleek MagSafe wallet for storing your cards with easy access. The wallet features built-in RFID technology to protect your card information, a card port on the back, and is made from 50% recycled materials. 
@@ -225,7 +233,15 @@ Cons
 * Magnet could be stronger
 * Bulkier
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ESR HaloLock wallet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best MagSafe wallet for a traditional wallet feel
 
@@ -256,15 +272,7 @@ Cons
 * Hard to get open
 * A little bulky
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pelican magnetic wallet and card holder
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe wallet for keeping items secure
 
@@ -298,6 +306,10 @@ If you're looking for a MagSafe wallet that does it all, the Journey Ezmo wallet
 
  \*MSRP at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right MagSafe wallet for you?
 
 MagSafe wallets are a practical option for those who use their phone as their primary always-on-them accessory. While some MagSafe wallets only offer basic storage for a few cards, others also double or triple as a kickstand, phone grip, or cash storage device, possibly converting your phone into the ultimate multitasking tool. 
@@ -313,10 +325,6 @@ ZDNET considered all those factors along with budget and use case to make select
 | Casetify Snappy Leather MagSafe wallet  | A simple MagSafe wallet that comes in numerous colors and designs and can be customized        |
 | ESR HaloLock wallet                     | A more traditional-looking wallet that doubles as a kickstand.                                 |
 | Pelican Magnetic wallet and card holder | To keep your cards and cash secure.                                                            |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best MagSafe wallet for you:
 
@@ -337,16 +345,12 @@ If we think another product is worth your money, we'll update this list or write
 Plus, we are routinely scouring the web for new products that are worthy of testing, following news on product rollouts and upgrades, and sourcing the best deals. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which phones are MagSafe compatible?
 
 The iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro, iPhone 14, iPhone 14 Pro, iPhone 15, and iPhone 15 Pro are all MagSafe compatible. Unfortunately, the iPhone 12 and [13 Mini models](https://www.zdnet.com/article/iphone-13-mini-lives-the-case-for-buying-it-in-2022/) don't feature MagSafe, and therefore can not be used with MagSafe accessories, however, there are MagSafe rings sold separately that can convert non-MagSafe cases into MagSafe compatible cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do I need a specific phone case to use a MagSafe wallet?
 
@@ -365,10 +369,6 @@ There are devices that can read information contained in a wireless device or "t
 ## Do MagSafe wallets ruin credit cards?
 
 No. MagSafe wallets will not damage your cards or make them unusable, though bending, breaking, chipping, and normal wear and tear can occur just as with traditional wallets. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other MagSafe wallets we've tested
 
@@ -422,18 +422,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>[Updated] From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagrams-visual-spectacle-with-step-by-step-slow-motion-guide/"><u>[Updated] Mastering Instagram’s Visual Spectacle with Step by Step Slow Motion Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-top-pick-the-ultimate-discreet-security-key-for-ios-devices-insights/"><u>1. Top Pick: The Ultimate Discreet Security Key for iOS Devices Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-100-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-closer-look-at-the-newest-apple-airpods-gen-3-zdnet-review-noteworthy-upgrades-and-user-experience-insights/"><u>A Closer Look at the Newest Apple AirPods (Gen 3) - ZDNet Review: Noteworthy Upgrades and User Experience Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-newly-affordable-m2-mac-mini-at-historic-low-of-479-in-depth-analysis-on-zdnet/"><u>Apple's Newly Affordable M2 Mac Mini at Historic Low of $479 | In-Depth Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/camera-face-off-pixel-cuatitrincocho-xl-versus-iphone-xvi-the-unexpected-tale-of-photographic-supremacy/"><u>Camera Face-Off: Pixel Cuatitrincocho XL Versus IPhone XVI - The Unexpected Tale of Photographic Supremacy!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-circular-imaging-and-its-distinct-characteristics-for-2024/"><u>Complete Circular Imaging and Its Distinct Characteristics for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-dell-sound-card-software-with-simple-steps/"><u>Download & Upgrade Dell Sound Card Software with Simple Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-the-affordable-20-anker-power-bank-overcomes-common-issues-with-portable-chargers-insights/"><u>How the Affordable $20 Anker Power Bank Overcomes Common Issues with Portable Chargers | Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-showdown-evaluating-performance-and-features-between-m1-and-m2-models-to-decide-on-your-next-upgrade/"><u>IPad Showdown: Evaluating Performance and Features Between M1 and M2 Models to Decide on Your Next Upgrade!</u></a></li>
-<li><a href="https://article-files.techidaily.com/prime-panel-participant-prompter-for-2024/"><u>Prime Panel Participant Prompter for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-selection-the-8-premier-games-for-android-with-play-pass/"><u>Ultimate Selection: The 8 Premier Games for Android with Play Pass</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-deciphering-the-maximum-duration-for-instagram-videos/"><u>[New] Deciphering the Maximum Duration for Instagram Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-skyline-scanning-smartphone-panorama-techniques/"><u>[Updated] Skyline Scanning Smartphone Panorama Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-list-mobile-camera-utilities-for-iphone/"><u>A-List Mobile Camera Utilities for iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-finding-files-in-windows-11-with-the-search-bar/"><u>Accelerate Finding Files in Windows 11 with the Search Bar</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722772114692-biocompatibility-is-non-negotiable-materials-must-not-cause-adverse-reactions-in-the-body/"><u>Biocompatibility Is Non-Negotiable; Materials Must Not Cause Adverse Reactions in the Body</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-school-computing-a-step-by-step-purchase-manual/"><u>Comprehensive School Computing: A Step-by-Step Purchase Manual</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/creating-captivating-presentations-with-sound-mastering-the-art-of-adding-audio-in-powerpoint/"><u>Creating Captivating Presentations with Sound: Mastering the Art of Adding Audio in PowerPoint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-functionality-and-design-insights-revealed/"><u>Demystifying OLED: Functionality & Design Insights Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experiencing-trouble-with-nintendo-switch-online-service-outage-or-connection-issues/"><u>Experiencing Trouble with Nintendo Switch Online: Service Outage or Connection Issues?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888827110-how-to-get-netflix-up-and-running-again-on-your-lg-hdtv/"><u>How To Get Netflix Up and Running Again on Your LG HDTV</u></a></li>
+<li><a href="https://fox-search.techidaily.com/la-demarche-simple-pour-repliquer-integralement-le-contenu-du-disque-dur-un-guide-etape-par-etape/"><u>La Démarche Simple Pour Répliquer Intégralement Le Contenu Du Disque Dur : Un Guide Étape Par Étape</u></a></li>
+<li><a href="https://fox-info.techidaily.com/starting-off-with-vlogging-necessary-equipmentsoftware/"><u>Starting Off with Vlogging Necessary Equipment/Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/synchronizing-samsung-audiobuds-with-your-pc-a-complete-walkthrough/"><u>Synchronizing Samsung Audiobuds with Your PC: A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-administrative-access-a-guide-to-dealing-with-trustedinstaller-in-windows-11/"><u>Unlock Administrative Access: A Guide to Dealing with TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-facebook-from-inception-to-favorites-and-essential-characteristics/"><u>Unveiling Facebook: From Inception to Favorites and Essential Characteristics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-9-unveiled-preliminary-pricing-launch-timeline-and-latest-leaks/"><u>Upcoming Google Pixel 9 Unveiled - Preliminary Pricing, Launch Timeline & Latest Leaks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-windows-and-mac-top-rated-video-tagging-software-for-2024/"><u>Updated Windows and Mac Top-Rated Video Tagging Software for 2024</u></a></li>
 </ul></div>
 

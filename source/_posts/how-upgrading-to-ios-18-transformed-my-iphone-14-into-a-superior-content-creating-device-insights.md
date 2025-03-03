@@ -1,7 +1,7 @@
 ---
 title: "How Upgrading to iOS 18 Transformed My iPhone 14 Into a Superior Content-Creating Device: Insights"
-date: 2025-01-28T16:27:38.684Z
-updated: 2025-01-30T18:00:55.185Z
+date: 2025-02-07T17:13:43.438Z
+updated: 2025-02-11T16:16:28.079Z
 tags:
   - apple
 categories:
@@ -34,15 +34,15 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,25 +52,21 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,21 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-expert-tips-to-improve-skype-broadcasts-using-obs-for-2024/"><u>[New] Expert Tips to Improve Skype Broadcasts Using OBS for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-settings-audience-focused-screen-shots-for-2024/"><u>Best Settings Audience-Focused Screen Shots for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/bidding-adieu-to-instagram-your-complete-deletion-manual-for-2024/"><u>Bidding Adieu to Instagram Your Complete Deletion Manual for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/budget-friendly-sturdy-and-dependable-storage-options-for-less-than-a-hundred-dollars/"><u>Budget-Friendly Sturdy & Dependable Storage Options for Less Than a Hundred Dollars</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mirth-manual-best-free-meme-kits-alive/"><u>In 2024, Mirth Manual Best Free Meme Kits Alive</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-windows-videography-innovative-editor-choices-for-2024/"><u>Mastering Windows Videography Innovative Editor Choices for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/meet-the-competitor-to-apples-budget-friendly-earbuds-beats-unveils-solo-edition-for-under-100-tech-analysis/"><u>Meet the Competitor to Apple's Budget-Friendly Earbuds: Beats Unveils Solo Edition for Under $100 | Tech Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/our-shared-struggles-with-iphone-ios-18-update-what-we-could-have-done-differently/"><u>Our Shared Struggles with iPhone iOS 18 Update - What We Could Have Done Differently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-big-get-20-discount-on-top-rated-nomad-accessories-iphone-cases-portable-chargers-and-more-techsavvy/"><u>Save Big: Get 20% Discount on Top-Rated Nomad Accessories - iPhone Cases, Portable Chargers & More | TechSavvy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/smooth-and-subtle-how-to-blur-iphone-images-for-free-and-easy/"><u>Smooth and Subtle How to Blur iPhone Images for Free & Easy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/story-3-the-beta-blocker-blind-spot/"><u>Story 3: The Beta Blocker Blind Spot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-2024-saga-of-crowdstrike-and-windows-meltdown-decoded-an-exclusive-history/"><u>The 2024 Saga of CrowdStrike & Windows Meltdown Decoded | An Exclusive History</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-remarkable-difference-of-using-ios-18-on-an-iphone-14-for-content-creation-a-deep-dive-by-zdnet/"><u>The Remarkable Difference of Using iOS 18 on an iPhone 14 for Content Creation - A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-connection-why-might-twitch-appear-unreachable/"><u>Troubleshooting Your Connection: Why Might Twitch Appear Unreachable?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/vn-video-editor-pro-the-ultimate-mobile-video-editing-solution-for-2024/"><u>VN Video Editor Pro The Ultimate Mobile Video Editing Solution for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enhance-audio-visual-fidelity-use-av1-on-youtube/"><u>[New] Enhance Audio-Visual Fidelity Use AV1 on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-ideal-timekeepers-top-10-androidios-apps-for-your-big-day/"><u>[New] In 2024, Ideal Timekeepers Top 10 Android/iOS Apps for Your Big Day</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-ultrawide-vs-uhd-4k-displays-a-comprehensive-guide/"><u>[Updated] Choosing UltraWide vs UHD 4K Displays A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webm4a-aiff-mova/"><u>無償でWeb上のM4A, AIFF形式を自動変換可能 - Movaビジュアル</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-windows-11-crashes-interrupt-fixation/"><u>Avoiding Windows 11 Crashes: Interrupt Fixation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correcting-msvcr100dll-missing-errors-on-your-pc-comprehensive-guide/"><u>Correcting 'MSVCR100.DLL Missing' Errors on Your PC – Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-address-the-absent-dciman32dll-file-issue/"><u>Effective Solutions to Address the Absent dciman32.dll File Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-typography-tweaks-in-windows-11-learn-how-to-change-fonts-easily/"><u>Effortless Typography Tweaks in Windows 11 – Learn How to Change Fonts Easily!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-top-six-exceptional-journaling-apps-today/"><u>Explore the Top Six Exceptional Journaling Apps Today</u></a></li>
+<li><a href="https://solve-help.techidaily.com/leading-dvd-video-software-for-seamless-slicing-cropping-and-reducing-size/"><u>Leading DVD Video Software for Seamless Slicing, Cropping & Reducing Size</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m4-mac-mini-revealed-predicted-pricing-structure-release-schedule-hardware-specs-and-ongoing-rumors/"><u>M4 Mac Mini Revealed: Predicted Pricing Structure, Release Schedule, Hardware Specs, and Ongoing Rumors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-jscriptdll-file-missing-error-a-comprehensive-guide/"><u>Resolving the 'JScript.dll' File Missing Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-made-easy-connecting-your-apple-tvplus-with-chromecast/"><u>Streaming Made Easy: Connecting Your Apple TV+ with Chromecast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-communication-the-art-of-using-zoom-in-win11/"><u>Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-transitioning-to-touchless-payments-with-apple-pay-on-apple-watch-devices/"><u>The Ultimate Tutorial for Transitioning to Touchless Payments with Apple Pay on Apple Watch Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-vpn-apps-reviewed-by-experts-find-your-perfect-match/"><u>Top-Rated iPhone VPN Apps Reviewed by Experts - Find Your Perfect Match</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-metas-decision-delay-in-default-end-to-end-encryption/"><u>Understanding Meta’s Decision: Delay in Default End-to-End Encryption</u></a></li>
 </ul></div>
 

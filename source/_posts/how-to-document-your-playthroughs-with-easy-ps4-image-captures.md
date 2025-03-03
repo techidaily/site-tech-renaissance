@@ -1,7 +1,7 @@
 ---
 title: How to Document Your Playthroughs with Easy PS4 Image Captures
-date: 2024-08-12T03:48:09.110Z
-updated: 2024-08-13T03:48:09.110Z
+date: 2025-02-10T23:50:05.151Z
+updated: 2025-02-12T00:45:12.742Z
 categories:
   - BestProducts
 description: This Article Describes How to Document Your Playthroughs with Easy PS4 Image Captures
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/v91UjC4fsKqSMpfGYrgi9fCw4Wc=/400x300/fi
 ---
 
 ## Easy Steps to Type a Love Heart Emoji with Just Your Keyboard
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
@@ -26,28 +31,18 @@ These instructions apply to PCs running Windows 10 and up.
 
 1. Open a web page or file (Word, PowerPoint, Notepad, etc.) and click to position the cursor in the text field where the heart will appear.
 2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -56,9 +51,6 @@ These instructions apply to PCs running Windows 10 and up.
 
 1. Open a web page or file (Word, PowerPoint, Notepad, etc.) and click to position the cursor in the text field where the heart should appear.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
@@ -67,8 +59,9 @@ These instructions apply to PCs running Windows 10 and up.
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -86,24 +79,22 @@ These instructions apply to PCs running Windows 10 and up.
 1. Hold down the**Windows key+Ctrl+O** to open the Windows 10 on-screen keyboard.
 2. Click**Options** .
 3. Check**Turn on numeric key pad** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
  The White Heart emoji 🤍 is commonly used online to discuss someone passing away. To get it, you can enter**Alt+9825** on Windows or find it in the Windows or Mac emoji keyboards.
@@ -139,8 +130,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +137,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crack-the-code-of-imagerys-roots-with-our-reverse-analysis-tools-for-instagram/"><u>[Updated] 2024 Approved Crack the Code of Imagery's Roots with Our Reverse Analysis Tools for Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-gone-locating-the-disappeared-fans-for-2024/"><u>[Updated] Insta Gone? Locating the Disappeared Fans for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-handsets-acknowledged-by-video-enthusiasts/"><u>2024 Approved Premier Handsets Acknowledged by Video Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-top-ranking-free-registry-cleanup-software/"><u>Explore Top-Ranking Free Registry Cleanup Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macos-ventura-release-notes-easy-steps-for-successful-download-and-system-upgrade/"><u>MacOS Ventura Release Notes: Easy Steps for Successful Download and System Upgrade</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-net-neutrality-a-comprehve-insight/"><u>Navigating the World of Net Neutrality: A Comprehve Insight</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-playstation-fans-fixing-non-startup-problems-in-tekken-8-pc/"><u>Solutions for PlayStation Fans: Fixing Non-Startup Problems in Tekken 8 (PC)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-roadmap-to-obtaining-discounts-on-dell-devices-for-students/"><u>The Complete Roadmap to Obtaining Discounts on Dell Devices for Students</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android-in-2024/"><u>The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android, In 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-summer-edc-gear-the-top-7-pieces-you-need/"><u>Ultimate List of Summer EDC Gear: The Top 7 Pieces You Need</u></a></li>
+</ul></div>
 

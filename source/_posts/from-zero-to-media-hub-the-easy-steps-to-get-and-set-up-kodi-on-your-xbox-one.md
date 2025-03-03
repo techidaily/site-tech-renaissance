@@ -1,7 +1,7 @@
 ---
 title: "From Zero to Media Hub: The Easy Steps to Get and Set Up Kodi on Your Xbox One"
-date: 2024-08-18T22:57:36.555Z
-updated: 2024-08-19T22:57:36.555Z
+date: 2025-02-05T22:27:01.142Z
+updated: 2025-02-11T21:35:02.762Z
 tags:
   - win11
   - win10
@@ -29,13 +29,18 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 1: Turn off your laptop and the projector**
 
  Make sure your laptop and the projector are both turned off before you connect your laptop to the projector.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 2: Connect your laptop to the projector**
 
  Before connecting your laptop to the projector, you need to know what ports your laptop and the projector have.
@@ -45,8 +50,9 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 2. Connect your laptop to the projector firmly with a compatible video cable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 3: Turn on the projector and your laptop**
 
  After connecting your laptop to the projector, turn on your laptop, and then press**the power button** to turn on the projector.
@@ -69,17 +75,10 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 2. Run Driver Easy and click**Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8.png)
 3. Click**Update**  next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-3.png)
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### **Step 5: Configure the display settings on your laptop**
 
  Once you’ve connected your laptop to the projector, Windows will automatically detect the projector and adjust for the different screen sizes of your laptop and the projector. Then you can begin to configure the display settings.
@@ -94,9 +93,11 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 1. Right-click an empty area of the desktop and select **Screen resolution**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-1.png)
 2. In the pop-up window, click the drop-down lists of **Display** and**Multiple displays**  to configure the display settings. **Normally, you don’t have to change the Resolution setting.**  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/43-1.png)  
  If Windows doesn’t detect the projector, then click**Detect** . If it still doesn’t work, restart your PC and then repeat the two steps above.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/43.png)
@@ -107,9 +108,6 @@ If you want to connect your laptop to a projector but don’t know how to do it,
    * **Show desktop only on 2:**  to show your screen only on the projector (the monitor of your laptop is disabled).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/3-1-1.png)  
     To switch the multiple displays mode quickly, on your keyboard, press**the Windows logo key** and**P** on your keyboard at the same time.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap56.png)
 4. Click **Apply**   and then click **Keep changes**   to save the new settings if you’re prompted to do so.
 5. Click **OK**  to save the setting and close the window.
@@ -119,27 +117,33 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 1. Right-click an empty area of the Desktop and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-1.png)
 2. In the pop-up window, click the drop-down lists of **Scale and layout** and **Multiple displays**  to configure the display settings. **Normally, you don’t have to change the Resolution setting.**  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap47-1.png)  
  If Windows doesn’t detect the projector, then click**Detect** . If it still doesn’t work,**restart** your PC and then repeat the two steps above.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap46.png)
 3. Select a display mode from the drop-down list of **Multiple displays**  according to your preference.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **Duplicate these displays:** to show the same screen on your laptop and the projector.  
    * **Extend these displays:** to treat the display on your laptop and the projector as one contiguous screen (this option is usually for setting up your second monitor).  
    * **Show desktop only on 1:**  to show your screen only on your laptop (the display on the projector is disabled).  
    * **Show desktop only on 2:**  to show your screen only on the projector (the monitor of your laptop is disabled).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap47.png)  
     To switch the multiple displays mode quickly, on your keyboard, press**the Windows logo key** and**P** at the same time.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap55.png)
 4. Click **Keep changes**  to save the new settings if you’re prompted to do so.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap48.png)
 
  Now, it’s time to enjoy the amazing screen of the projector! Please leave a comment if you have any questions!
@@ -152,8 +156,6 @@ If you want to connect your laptop to a projector but don’t know how to do it,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +163,16 @@ If you want to connect your laptop to a projector but don’t know how to do it,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-football-footage-fundamentals-without-finances/"><u>[Updated] 2024 Approved Football Footage Fundamentals Without Finances</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-10-budget-friendly-digital-photography-workspaces-online/"><u>[Updated] Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-creating-music-from-videos-instagrams-secret-sauce/"><u>2024 Approved Creating Music From Videos Instagram's Secret Sauce</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-time-to-upgrade-alternatives-to-apples-discontinued-iphone-13-and-iphone-15-pro-as-recommended-by-tech-experts-at-zdnet/"><u>Is It Time to Upgrade: Alternatives to Apple's Discontinued iPhone 13 & iPhone 15 Pro as Recommended by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/snicker-studio-cybernetic-cackles/"><u>Snicker Studio Cybernetic Cackles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-mobile-vpn-services-thoroughly-tested-by-experts-techradar/"><u>Top-Ranking Mobile VPN Services - Thoroughly Tested by Experts | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transitioning-from-the-m3-to-the-m1-is-it-time-to-upgrade-your-macbook-pro-with-the-latest-tech-zdnet/"><u>Transitioning From the M3 to the M1: Is It Time to Upgrade Your MacBook Pro with the Latest Tech | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-savings-snag-the-latest-10th-gen-apple-ipad-for-only-299-after-prime-day-according-to-zdnet/"><u>Unlocking the Savings: Snag the Latest 10Th Gen Apple iPad for Only $299 After Prime Day, According to ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-to-the-leading-mini-tablets-of-2024-expert-insights-and-evaluations/"><u>ZDNet's Ultimate Guide to the Leading Mini Tablets of 2024 - Expert Insights and Evaluations</u></a></li>
+</ul></div>
 

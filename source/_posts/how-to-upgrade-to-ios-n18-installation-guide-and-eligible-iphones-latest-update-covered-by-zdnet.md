@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2025-01-26T17:50:20.698Z
-updated: 2025-01-30T16:47:53.380Z
+date: 2025-02-05T20:43:18.396Z
+updated: 2025-02-12T00:04:06.916Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-asmr-explained-why-it-might-be-good-for-you/"><u>[Updated] ASMR Explained Why It Might Be Good For You</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified-for-2024/"><u>[Updated] Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>2024 Approved Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-latest-breakthrough-bringing-google-lens-powered-visual-intelligence-to-iphone-16-cameras-exclusive-coverage/"><u>Apple's Latest Breakthrough: Bringing Google Lens-Powered Visual Intelligence to iPhone 16 Cameras | Exclusive Coverage</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crystal-clear-capture-amping-up-your-home-studio-recordings-for-2024/"><u>Crystal Clear Capture Amping Up Your Home Studio Recordings for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhanced-video-repair-solutions-from-grau-gmbh-all-in-one-hardware-and-software-system/"><u>Enhanced Video Repair Solutions From Grau GmbH: All-in-One Hardware & Software System</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/making-waves-in-the-tech-world-iphone-16-sets-new-standards-for-easy-fixes-insight/"><u>Making Waves in the Tech World: IPhone 16 Sets New Standards for Easy Fixes Insight</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-post-iphone-13-15-pro-era-top-recommendations-for-your-future-phone-upgrade-zdnet/"><u>Navigating Post-iPhone 13, 15 Pro Era: Top Recommendations for Your Future Phone Upgrade | ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-mpg-3g2-movavi/"><u>Online 무료 MPG 파일을 3G2 형식으로 자유성 변환 - Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sifting-through-centuries-online-unlicensed-treasures/"><u>Sifting Through Centuries Online Unlicensed Treasures</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-television/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart Television</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-kid-friendly-ipad-models-expert-review-and-recommendations/"><u>Top 4 Kid-Friendly iPad Models : Expert Review and Recommendations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-savings-how-the-anticipated-ipad-pro-discount-pre-prime-day-outshines-competitors-insights/"><u>Unlocking Savings: How the Anticipated iPad Pro Discount Pre-Prime Day Outshines Competitors Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mysteries-of-twitch-chat-for-beginners/"><u>Unraveling the Mysteries of Twitch Chat for Beginners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-did-my-imessages-fail-to-send-last-day-uncover-the-reasons/"><u>Why Did My iMessages Fail to Send Last Day? Uncover the Reasons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-the-apple-watch-series-7-is-a-perfect-fit-for-me-not-looking-at-going-up-to-series-10-insights/"><u>Why the Apple Watch Series 7 Is a Perfect Fit for Me, Not Looking at Going Up to Series 10 - Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-to-trending-youtubers/"><u>[New] 2024 Approved Charting the Course to Trending YouTubers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-detailed-look-into-the-lg-bp350ayering-and-user-experience-for-2024/"><u>[Updated] Detailed Look Into the LG BP350'ayering and User Experience for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-yt-buzz-top-music-video-responses-and-why-they-roar-for-2024/"><u>[Updated] YT Buzz Top Music Video Responses & Why They Roar for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-forge-funny-online-content-on-the-fly/"><u>2024 Approved Forge Funny Online Content on the Fly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/80211-standards-explained-80211be-80211ax-80211ac-80211bgn-80211a/"><u>802.11 Standards Explained: 802.11Be, 802.11Ax, 802.11Ac, 802.11B/G/N, 802.11A</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726228120118-flvm4a/"><u>最適な無償FLVからM4Aへのオンライン変換方法：ムヴァビの紹介</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-methods-for-rectifying-uneven-colors-and-warped-images-on-your-pc-display/"><u>DIY Methods for Rectifying Uneven Colors & Warped Images on Your PC Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .dotx file</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-stop-your-mac-from-going-into-sleep-mode-easily/"><u>How Can You Stop Your Mac From Going Into Sleep Mode Easily?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-14-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 14 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo A79 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preserving-the-past-digitally-how-to-efficiently-use-wayback-machine/"><u>Preserving the Past Digitally: How to Efficiently Use Wayback Machine</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cket-your-channels-reach-secure-a-10k-views-milestone-for-2024/"><u>Skyrocket Your Channel's Reach Secure a 10K Views Milestone for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/social-media-jargon-unraveled-what-does-it-mean-to-retweet-versus-a-re-tweet-on-twitter/"><u>Social Media Jargon Unraveled: What Does It Mean to 'Retweet' Versus a 'Re-Tweet' On Twitter?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-ftd2xxdll-file-not-found-complete-guide/"><u>Solving the ftd2XX.dll File Not Found - Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-step-by-step-on-getting-in-touch-with-snapchat-help-desk/"><u>The Complete Step-by-Step on Getting in Touch with Snapchat Help Desk</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-6-student-favorites-apps-to-boost-homework-efficiency/"><u>The Ultimate List of 6 Student Favorites: Apps to Boost Homework Efficiency</u></a></li>
 </ul></div>
 

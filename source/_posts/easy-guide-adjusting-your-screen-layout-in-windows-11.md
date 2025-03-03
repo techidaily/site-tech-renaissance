@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adjusting Your Screen Layout in Windows 11"
-date: 2024-08-18T22:58:30.337Z
-updated: 2024-08-19T22:58:30.337Z
+date: 2025-02-04T21:47:33.432Z
+updated: 2025-02-12T01:07:56.496Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 5. [**Run the game as a new user**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the power plan
 
  Power plans are no more than a set of settings that controls how your PC consumes/saves power. And in Windows 10, Microsoft introduced a power plan for workstation called Ultimate Performance, which can be a safe and easy-to-get performance boost.
@@ -41,8 +45,18 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -54,8 +68,9 @@ Once done, restart your game and check the performance.
 If you don’t see any changes, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check for system updates
 
  Windows 11 is fairly new, and the devs are still working on some major bugs. If you want to get the latest system updates, you can get one step ahead of the schedule checking and check for updates manually.
@@ -63,14 +78,15 @@ If you don’t see any changes, simply continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the system updates, restart your PC and check the gameplay.
 
 If the performance is still crappy, take a look at the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update all your drivers
 
@@ -82,9 +98,11 @@ If the performance is still crappy, take a look at the next method.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
@@ -94,14 +112,6 @@ If the performance is still crappy, take a look at the next method.
 
  If the latest drivers don’t give you luck, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Virtualization-Based Security (VBS)
 
  If your computer ships with a pre-installed Windows 11, you may want to turn off Virtualization-Based Security (VBS). It’s a feature that **isolates part of the memory and uses it to host other security features** .
@@ -113,16 +123,15 @@ If the performance is still crappy, take a look at the next method.
 1. On your keyboard, press Win+R (the Windows logo key and the R key) to open the Run dialog. Type**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
 4. Make sure**Memory integrity** is set to**Off** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
 5. Restart your computer and test the gameplay again.
 
@@ -137,9 +146,9 @@ If the performance is still crappy, take a look at the next method.
 2. In the**Other users** section, click**Add account** . In the pop-up window, follow the on-screen instructions to complete the process. (You can just create a local account so you won’t need another Microsoft account.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user.jpg)
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Scan and repair Windows
@@ -154,10 +163,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -172,8 +177,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +184,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-story-lore-who-are-the-premier-channels-for-2024/"><u>[New] Story Lore Who Are the Premier Channels for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-time-travelers-guide-to-snapchatinasync-videos/"><u>[Updated] 2024 Approved The Time-Traveler's Guide to Snapchat'inasync Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sustaining-an-engaged-online-community-the-facebook-way/"><u>[Updated] Sustaining an Engaged Online Community The Facebook Way</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-iphone-15-vs-iphone-16-comparison-key-factors-to-weigh-before-switching-to-the-new-standard-model-tech-analysis-by-zdnet/"><u>Apple iPhone 15 vs iPhone 16 Comparison: Key Factors to Weigh Before Switching to the New Standard Model | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compact-and-powerful-is-the-new-m4-powered-mac-mini-comparable-to-an-apple-tv-in-size-and-performance/"><u>Compact & Powerful: Is the New M4-Powered Mac Mini Comparable to an Apple TV in Size and Performance?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ensuring-the-security-of-your-ai-data-in-the-cloud-unveiling-apples-strategies-and-impact-learn-on-zdnet/"><u>Ensuring the Security of Your AI Data in the Cloud: Unveiling Apple's Strategies & Impact - Learn on ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try/"><u>New Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/proper-maintenard-of-your-airpods-step-by-step-sanitizing-methods-and-benefits-explained/"><u>Proper Maintenard of Your AirPods: Step-by-Step Sanitizing Methods and Benefits Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/trategists-handbook-for-youtube-ad-profitability-for-2024/"><u>The Strategist's Handbook for YouTube Ad Profitability for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transitioning-from-siri-why-apple-might-need-a-bing-like-evolution-in-ai-technology-insights-by-zdnet/"><u>Transitioning From Siri: Why Apple Might Need a 'Bing'-Like Evolution in AI Technology - Insights by ZDNet</u></a></li>
+</ul></div>
 

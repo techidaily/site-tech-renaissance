@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Add and Configure a New Video Card on Your Computer System
-date: 2024-08-18T22:59:38.309Z
-updated: 2024-08-19T22:59:38.309Z
+date: 2025-02-08T21:33:35.633Z
+updated: 2025-02-11T16:21:19.958Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ This article explains how to manually start Windows 10 in safe mode.
 
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -61,11 +65,16 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/bcdedit-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Now you can start Safe Mode using the F8 key
 
  Now that you’ve enabled the F8 method, you can use it to start Safe Mode:
@@ -78,16 +87,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the Boot Options menu above doesn’t display, and instead Windows just launches normally, it’s likely that you didn’t press F8 early enough.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 2: Start Safe Mode by turning off your PC 3 times**
 
  If you’re unable to launch Windows, and you haven’t enabled the F8 method above, this is how to start Safe Mode:
@@ -105,9 +108,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Advanced Options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg)
@@ -116,12 +119,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**Startup Settings** :
 
@@ -132,8 +136,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your computer will restart and present a list of different startup options.
 
  9) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
@@ -143,8 +148,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -155,16 +161,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
@@ -187,9 +191,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -210,33 +211,25 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Your computer will then restart and another screen opens showing a lot of different startup options.
 
  7) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can’t solve the problem? Try Driver Easy
 
@@ -261,8 +254,9 @@ The Windows RE (Recovery environment) screen will then display.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -271,8 +265,6 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,4 +272,18 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-expert-techniques-for-simple-iphone-screenshot-processes/"><u>[Updated] In 2024, Expert Techniques for Simple IPhone Screenshot Processes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/80-less-on-the-second-gen-apple-watch-se-post-prime-day-deals-what-you-need-to-know/"><u>$80 Less on the Second-Gen Apple Watch SE Post-Prime Day Deals: What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/30-am-to-4-pm/"><u>30 Am to 4 Pm</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficient-digital-voice-alteration-for-vtubers/"><u>Efficient Digital Voice Alteration for VTubers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-google-pixel-8-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Google Pixel 8 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/imessage-communication-guide-sending-and-receiving-on-windows-pcs-tips-from-zdnet/"><u>IMessage Communication Guide: Sending & Receiving on Windows PCs - Tips From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/limited-time-deal-save-24-on-the-new-airpods-pro-with-built-in-hearing-aid-functionality-shop-at-zdnet-now/"><u>Limited-Time Deal: Save 24% on the New AirPods Pro with Built-In Hearing Aid Functionality | Shop at ZDNET Now</u></a></li>
+<li><a href="https://win-data.techidaily.com/resolving-the-issue-authentication-problem-in-vmware-vcenter-identified-and-fixed/"><u>Resolving the Issue: Authentication Problem in VMware vCenter Identified and Fixed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-of-home-cinema-in-depth-review-of-apple-tv-4ks-2021-release-exceptional-clarity-and-intuitive-siri-interactions-await/"><u>The Future of Home Cinema: In-Depth Review of Apple TV 4K's 2021 Release - Exceptional Clarity and Intuitive Siri Interactions Await</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-iphone-offers-and-discounts-in-july-2024-find-your-perfect-match/"><u>Top iPhone Offers and Discounts in July 2024 - Find Your Perfect Match</u></a></li>
+</ul></div>
 

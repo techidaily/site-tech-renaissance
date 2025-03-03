@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial for Switching On and Off the Screen Keyboard in Windows 11
-date: 2024-08-12T03:46:43.082Z
-updated: 2024-08-13T03:46:43.082Z
+date: 2025-02-10T19:58:46.980Z
+updated: 2025-02-11T19:15:32.922Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial for Switching On and Off the Screen Keyboard in Windows 11
@@ -10,18 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 ---
 
 ## The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -31,9 +24,9 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
  To[take a screenshot on Windows](https://www.lifewire.com/take-screenshots-using-windows-3507009) , press**Windows key+PrtScn** .
@@ -49,22 +42,25 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
 
  If you want to reassign the Print Screen command, you can[remap the Windows keyboard](https://www.lifewire.com/remap-keyboard-in-windows-10-5181178) and create custom screenshot shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -102,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +105,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-whip-up-funny-images-in-adobe-design/"><u>[New] Whip Up Funny Images in Adobe Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-unveiled-an-in-depth-guide-to-microsofts-ai-breakthrough/"><u>ChatGPT Unveiled: An In-Depth Guide to Microsoft's AI Breakthrough</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/easy-guide-navigating-windows-control-panel-for-effective-user-account-management-tips-from-yl-computing/"><u>Easy Guide: Navigating Windows Control Panel for Effective User Account Management - Tips From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effective-ways-to-tackle-elevated-disk-consumption-from-antimalware-service-exe/"><u>Effective Ways to Tackle Elevated Disk Consumption From Antimalware Service Exe</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-11-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 11 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-automatic-cycling-of-videos-on-iphone-ease/"><u>In 2024, Automatic Cycling of Videos on iPhone Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-get-tech-savvy-expert-guide-for-mac-screen-recording-via-shortcuts/"><u>In 2024, Get Tech-Savvy Expert Guide for Mac Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-create-a-google-meet-account/"><u>In 2024, How to Create a Google Meet Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-2023-unboxing-estimated-pricing-details-arrival-date-theories-and-speculative-tech-features/"><u>IPhone 2023 Unboxing: Estimated Pricing Details, Arrival Date Theories, and Speculative Tech Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-picture-in-picture-mode-a-step-by-step-guide-for-android-devices/"><u>Mastering Picture-in-Picture Mode: A Step-by-Step Guide for Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/official-end-user-licensing-contract-for-winxdvd-by-digiarty-software-get-access-now/"><u>Official End-User Licensing Contract for WinXDVD by Digiarty Software – Get Access Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-addressing-504-gateway-errors/"><u>Step-by-Step Solutions for Addressing 504 Gateway Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-on-resolving-windows-11-power-off-problems/"><u>Step-by-Step Tips on Resolving Windows 11 Power Off Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-path-to-professional-pictures-with-video-enhance-v22-for-2024/"><u>The Path to Professional Pictures with Video Enhance V2.2 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-top-performing-micro-atx-and-nano-pcs-for-gaming/"><u>The Top Performing Micro ATX & Nano PCs for Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-the-complete-indiana-jones-adventures-sequentially/"><u>The Ultimate Guide: Viewing The Complete Indiana Jones Adventures Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-creative-expression-with-these-6-standout-notekeeping-apps/"><u>Unlock Creative Expression with These 6 Standout Notekeeping Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/untangle-the-coredll-dilemma-solutions-for-common-issues/"><u>Untangle the Core.dll Dilemma – Solutions for Common Issues</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone XR? | Dr.fone</u></a></li>
+</ul></div>
 

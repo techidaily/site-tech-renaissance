@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Your System: Effective Strategies to Enhance Computer Performance"
-date: 2024-08-18T22:57:05.150Z
-updated: 2024-08-19T22:57:05.150Z
+date: 2025-02-06T20:51:18.941Z
+updated: 2025-02-12T01:11:24.987Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap828.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, select**Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap829-2.png)
@@ -68,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -95,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
@@ -106,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reset Windows Update components
 
  This issue may occur if there’s something wrong with Windows Update components. If Windows Update components are corrupted, Windows Update may not work properly. In this case, try resetting Windows Update components. Here is how to do it:
@@ -118,8 +113,9 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In Command Prompt, type the command lines below and press**Enter** on your keyboard **after typing each** :
 
 **net stop bits**  
@@ -151,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -160,9 +160,9 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
@@ -175,16 +175,16 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -192,6 +192,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3) Close the Command Prompt when the restore operation is completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
@@ -210,8 +214,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
@@ -228,22 +233,24 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. Type the command line**systeminfo** and press **Enter** to view your system type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
  4) Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -258,13 +265,14 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 Restart your PC to see if this issue persists. If not, congratulations!
@@ -279,8 +287,6 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +294,18 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-snap-up-humor-kapwings-meme-mastery-tool/"><u>[New] Snap Up Humor - Kapwing’s Meme Mastery Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc/"><u>[Updated] In 2024, Download & Install Your Ultimate Guide to Using OBS on a MacPC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sleeksky-saver-the-frugal-file-nest/"><u>2024 Approved SleekSky Saver - The Frugal File Nest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-challenges-global-browsing-champion-with-startling-ad-campaign-explore-the-details/"><u>Apple Challenges Global Browsing Champion with Startling Ad Campaign: Explore the Details</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/as-legal-proceeding-stalls-sales-for-apple-watch-series-9ultra-keep-thriving-insight/"><u>As Legal Proceeding Stalls, Sales for Apple Watch Series 9/Ultra Keep Thriving - Insight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correcting-physxloaderdll-not-found-issues-effective-strategies-revealed/"><u>Correcting 'PhysXLoader.dll' Not Found Issues - Effective Strategies Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-moto-g-5g-2023-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Moto G 5G (2023) on Mac?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-young-prodigys-riches-soar-in-digital-world-fame/"><u>In 2024, Young Prodigy's Riches Soar in Digital World Fame</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-next-gen-gadgets-preorder-ipad-pro-ipad-air-and-pro-pencil-at-unbeatable-prices-zdnets-expert-selection/"><u>Secure Your Next-Gen Gadgets: Preorder iPad Pro, iPad Air, and Pro Pencil at Unbeatable Prices - ZDNet's Expert Selection!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-reliable-magsafe-wallets-of-2erry-year-professional-ratings-and-insights-zdnet/"><u>Ultimate Guide to the Most Reliable MagSafe Wallets of 2Erry Year: Professional Ratings and Insights | ZDNet</u></a></li>
+</ul></div>
 

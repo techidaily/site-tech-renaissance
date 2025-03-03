@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2025-01-16T23:58:29.951Z
-updated: 2025-01-22T16:04:52.127Z
+date: 2025-02-10T23:30:38.554Z
+updated: 2025-02-11T17:40:24.489Z
 tags:
   - apple
 categories:
@@ -55,16 +55,12 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -77,7 +73,7 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -102,10 +98,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -126,9 +118,17 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,24 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-viral-videos-on-youtube-a-strategic-plan-for-2024/"><u>[New] Crafting Viral Videos on YouTube A Strategic Plan for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-crucial-info-every-asmr-viewer-should-absorb-for-2024/"><u>[New] Crucial Info Every ASMR Viewer Should Absorb for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-enhance-engagement-mastering-template-based-video-description-writing/"><u>[Updated] Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhanced-entertainment-tv-ready-looping-techniques-for-video-content/"><u>[Updated] In 2024, Enhanced Entertainment Tv-Ready Looping Techniques for Video Content</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-mastery-perfecting-edits-on-published-videos/"><u>[Updated] In 2024, YouTube Mastery Perfecting Edits on Published Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ais-revolutionary-impact-on-society-redefining-human-progress/"><u>AI's Revolutionary Impact on Society: Redefining Human Progress</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-system-performance-with-these-26-complimentary-cleaner-tools-for-pcs/"><u>Boost System Performance with These 26 Complimentary Cleaner Tools for PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-ns-capabilities-for-all-users/"><u>Demystifying GPT-N's Capabilities for All Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-full-roster-your-ultimate-guide-to-sonys-psvr2-exclusives-and-announcements/"><u>Discover the Full Roster: Your Ultimate Guide to Sony's PSVR2 Exclusives and Announcements</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/handling-page-not-found-error-404-messages-on-your-website-effectively/"><u>Handling Page Not Found (Error 404) Messages on Your Website Effectively</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-infinix-hot-40-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Infinix Hot 40 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-photo-framing-techniques-via-digital-platforms-2-written-by-user-johndoe/"><u>In 2024, Master Photo Framing Techniques via Digital Platforms (2 Written by User JohnDoe</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-multi-device-syncing-by-using-a-single-phone-number-expert-advice/"><u>Master Multi-Device Syncing by Using a Single Phone Number – Expert Advice</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-disk-issues-effortlessly-expert-guide-to-implementing-chkdsk-in-windows/"><u>Resolve Disk Issues Effortlessly: Expert Guide to Implementing Chkdsk in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-missing-libgdkwin32-20-0dll-file-issue/"><u>Resolving the Missing libgdk_win32-2.0-0.dll File Issue</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/retro-reality-on-snapchat-effortless-video-reversal-for-2024/"><u>Retro Reality on Snapchat Effortless Video Reversal for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-destiny-2-server-connectivity-problems-a-step-by-step-guide/"><u>Solving Destiny 2 Server Connectivity Problems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-ios-limitations-is-deleting-included-iphone-apps-feasible/"><u>Understanding iOS Limitations: Is Deleting Included iPhone Apps Feasible?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-watch-series-8-details-revealed-launch-date-technical-specifications-and-pricing/"><u>Upcoming Apple Watch Series 8 Details Revealed - Launch Date, Technical Specifications & Pricing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-speedy-execution-tactics-for-fb-video-success-for-2024/"><u>[New] Speedy Execution Tactics for FB Video Success for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevating-impact-refined-techniques-in-ppt-presentation-speaking/"><u>2024 Approved Elevating Impact Refined Techniques in PPT Presentation Speaking</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/balancing-act-camera-gimbals-for-drones/"><u>Balancing Act Camera Gimbals for Drones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-efficient-methods-for-compiling-songs-on-youtube-for-2024/"><u>Discover Efficient Methods for Compiling Songs on YouTube for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dominate-apple-tv-secrets-to-skyrocketing-success/"><u>Dominate Apple TV - Secrets to Skyrocketing Success</u></a></li>
+<li><a href="https://fox-http.techidaily.com/easy-color-techniques-for-professional-outputs/"><u>Easy Color Techniques for Professional Outputs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-evolution-from-streaming-giant-to-dvd-rentals-a-look-at-netflixs-former-business-model/"><u>Exploring the Evolution From Streaming Giant to DVD Rentals: A Look at Netflix's Former Business Model</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-pro-max-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Max Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-instagrams-secrets-for-creating-must-watch-unboxings/"><u>In 2024, Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/keep-your-macbook-active-with-lid-closed-a-step-by-step-guide/"><u>Keep Your MacBook Active with Lid Closed: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sonys-automotort-ambition-the-afeela-car-insider-info-on-cost-estimates-market-entry-date-and-technical-specifications/"><u>Sony's Automotort Ambition - The Afeela Car: Insider Info on Cost Estimates, Market Entry Date & Technical Specifications!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-stop-code-0x0000003d-on-windows/"><u>Step-by-Step Solutions for Fixing Stop Code 0X0000003D on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-on-the-big-screen-easy-setup-steps/"><u>Streaming TikTok Videos on the Big Screen: Easy Setup Steps</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-fundamentals-of-captivating-video-scripts/"><u>The Fundamentals of Captivating Video Scripts</u></a></li>
 </ul></div>
 

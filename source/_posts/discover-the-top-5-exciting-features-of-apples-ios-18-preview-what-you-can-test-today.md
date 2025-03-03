@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 5 Exciting Features of Apple's iOS 18 Preview - What You Can Test Today
-date: 2025-01-24T17:17:35.589Z
-updated: 2025-01-30T18:07:10.710Z
+date: 2025-02-07T17:59:59.665Z
+updated: 2025-02-11T16:03:02.463Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,16 +120,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-complete-strategy-for-superior-animoji-use-on-iphone-x/"><u>[Updated] 2024 Approved A Complete Strategy for Superior Animoji Use on iPhone X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-eradicating-the-mysterious-windows-c0000022/"><u>Deciphering and Eradicating the Mysterious Windows C0000022</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/developing-a-fortified-os-how-apple-powers-its-ai-driven-data-center-infrastructure-exclusive-details-uncovered/"><u>Developing a Fortified OS: How Apple Powers Its AI-Driven Data Center Infrastructure | Exclusive Details Uncovered</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-facebook-to-unknown-carolyn-everson-retires/"><u>From Facebook to Unknown: Carolyn Everson Retires</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-a38-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo A38 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-guide-to-apples-new-studio-monitor-detailed-specs-unique-attributes-and-crucial-data-you-cant-miss-expert-analysis/"><u>In-Depth Guide to Apple's New Studio Monitor: Detailed Specs, Unique Attributes & Crucial Data You Can't Miss | Expert Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-oversight-in-the-recent-ipad-release-strategies-apple-needs-to-implement-for-rectification-expert-analysis/"><u>The Oversight in the Recent iPad Release - Strategies Apple Needs to Implement for Rectification | Expert Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-battery-electric-plug-in-hydrogen-and-hybrid-cars-clearing-the-confusion/"><u>The Ultimate Guide to Battery-Electric, Plug-In, Hydrogen and Hybrid Cars: Clearing the Confusion.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mini-computers-comprehensive-evaluation-by-tech-experts-zdnet/"><u>Top-Ranking Mini Computers - Comprehensive Evaluation by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-7-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 7 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-20-visionary-metaverse-projects-with-educational-value/"><u>[New] 20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-riding-the-wave-strategies-for-high-likes-tiktok-unpacking-videos/"><u>2024 Approved Riding the Wave Strategies for High-Likes TikTok Unpacking Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beating-the-blu-ray-blockade-fixing-hulu-error-rununk13-easy/"><u>Beating the Blu-Ray Blockade: Fixing Hulu Error RUNUNK13 Easy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparison-guide-ar-vs-vr-vs-mr-vs-xr-explained-simply/"><u>Comparison Guide: AR Vs. VR Vs. MR Vs. XR Explained Simply</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-tech-hiccups-fixing-your-tiktok-app-when-its-acting-up/"><u>Dealing With Tech Hiccups: Fixing Your TikTok App When It's Acting Up</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-c55-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco C55 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-these-exceptional-no-internet-required-language-translators-ranked/"><u>Discover These Exceptional No-Internet Required Language Translators, Ranked!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-ps5-enthusiasts-guide-replacing-hdd-with-a-high-speed-solid-state-drive/"><u>DIY PS5 Enthusiast's Guide: Replacing HDD with a High-Speed Solid State Drive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy A24</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unparalleled-video-intros-made-easy-with-online-tools/"><u>In 2024, Unparalleled Video Intros Made Easy with Online Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-smooth-gaming-with-these-strategies-on-addressing-borderlands-3s-freezing-glitches/"><u>Master the Art of Smooth Gaming with These Strategies on Addressing Borderlands 3'S Freezing Glitches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-iphone-silent-mode-a-guide-to-restoring-your-ring-tone/"><u>Solving iPhone Silent Mode: A Guide to Restoring Your Ring Tone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-missing-incoming-emails-in-yahoo/"><u>Solving the Issue of Missing Incoming Emails in Yahoo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments-for-2024/"><u>The Art of Subscriber Chatter Best Practices for Comments for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uphere-c5c-plus-d6sec-top-performing-air-coolers-for-less-than-20-bucks/"><u>UpHere C5C + D6Sec - Top Performing Air Coolers for Less Than 20 Bucks?</u></a></li>
 </ul></div>
 

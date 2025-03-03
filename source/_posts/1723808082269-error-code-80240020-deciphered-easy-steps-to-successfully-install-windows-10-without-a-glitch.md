@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80240020 Deciphered: Easy Steps to Successfully Install Windows 10 without a Glitch"
-date: 2024-08-18T22:58:19.836Z
-updated: 2024-08-19T22:58:19.836Z
+date: 2025-02-11T01:03:05.875Z
+updated: 2025-02-11T23:22:17.886Z
 tags:
   - win11
   - win10
@@ -45,34 +45,18 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 2. From the toolbar, click**View** and make sure you tick the checkbox of**Hidden items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-22-46.png)
 3. You should find the**$WINDOWS.\~BT** folder here. Right-click it and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-24-21.png)
 4. Uncheck the checkbox of**Read-Only** , then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-38-03.png)
 5. Run the installation again.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix doesn’t solve the installation error you have, try the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Uninstall the language pack
 
  The “Windows 10 installation has failed” error may be triggered when the language pack of your previous Windows iteration is not the same as the localization. If that’s the case for you, you may need to remove the language pack. Here’s how:
@@ -82,13 +66,19 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 1. In the search bar on your taskbar, type**language** , then click**Language settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-03-06.png)
 2. Make sure your Windows display language is set to**English** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-04-37.png)
 3. Remove all the non-English language packs you have.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Windows 7
 
@@ -97,19 +87,26 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
 3. Click**Uninstall display languages** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
 4. **Remove any non-English language packs** per instructions. Make sure you save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Run the installer again.
 
  If this doesn’t solve your problem and you keep running into the error, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Rebuild the Boot Configuration Data
 
  Any error found in Boot Manager could lead to the “Windows 10 installation has failed” error. The easiest way to fix the Boot Manager is to rebuild the Boot Configuration Data (BCD). It may seem a bit complicated, but the process is very straightforward. Here’s how:
@@ -121,28 +118,22 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 1. Press the**Windows key** , search for**recovery** , then click**Recovery options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-10-46.png)
 2. Under Advanced Startup, click**Restart now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-16-10.png)
 3. Click**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-46.png)
 5. Select**Command Prompt** . You may be prompted to log in to your account at this step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-55.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Windows 7
 
@@ -159,9 +150,6 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 2. Close the Command Prompt window, and click**Continue** to exit to your desktop.
 3. Run the installer again to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Perform a clean boot installation
 
  Sometimes the programs on your PC may interfere with Windows installation. If you’ve got a specific error code, it’s likely due to an incompatible software or driver. Removing the problematic software or[updating your driver](https://tools.techidaily.com/drivereasy/download/) may solve the problem.
@@ -171,31 +159,28 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 1. Press the**Windows ke** y, type**msconfig** in the search bar, and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-14-09-1.png)
 2. Under the**General** tab, choose**Selective startup** , and make sure**the checkbox of Load startup items is unticked** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-24-57.png)
 3. Go to the**Boot** tab,**untick the checkbox of Safe boot** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-17-16.png)
 4. Under the**Services** tab, choose**Hide all microsoft services** , then click**Disable all** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_18-18-39.png)
 5. Switch to the**Startup** tab, click**Open Task Manager** .  
  (If you’re on Windows 7, right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 6. Under the**Startup** tab, select every enabled startup item and click**Disable** until you’ve disabled all startup items.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 7. Restart your PC and try to run the Windows installer.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  If performing a clean boot installation doesn’t solve the error for you, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Repair corrupted system files
 
@@ -243,8 +228,6 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +235,20 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/oost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>[New] Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-best-4k-screen-recorders/"><u>[Updated] 10 Best 4K Screen Recorders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-tag-wisdom-enhance-your-youtube-content/"><u>[Updated] 2024 Approved Tag Wisdom Enhance Your YouTube Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-insights-efficiently-adding-subtitles-to-vimeo-videos/"><u>[Updated] In 2024, Expert Insights Efficiently Adding Subtitles to Vimeo Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leading-spots-for-advertising-on-youtube-videos/"><u>[Updated] Leading Spots for Advertising on YouTube Videos</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-spot-and-avoid-crypto-frauds-and-pitfalls-insights-from-yl-computing/"><u>How to Spot and Avoid Crypto Frauds & Pitfalls - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-the-apple-watch-series-10-equipped-with-a-built-in-blood-pressure-tracker/"><u>Is the Apple Watch Series 10 Equipped with a Built-In Blood Pressure Tracker?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-multiple-mac-addresses-on-macos-enhance-your-network-configurability/"><u>Mastering Multiple MAC Addresses on macOS - Enhance Your Network Configurability</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-level-interaction-how-apples-cutting-edge-artificial-intelligence-can-decipher-your-desktop-and-empower-siri-for-superior-assistance/"><u>Next Level Interaction: How Apple's Cutting-Edge Artificial Intelligence Can Decipher Your Desktop and Empower Siri for Superior Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-start-guide-5-crucial-actions-post-purchase-for-optimal-pc-performance/"><u>Quick Start Guide: 5 Crucial Actions Post-Purchase for Optimal PC Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-is-this-what-it-was-designed-for/"><u>Review - Is This What It Was Designed For?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-essential-guide-to-understanding-and-using-instagrams-music-features-for-2024/"><u>The Essential Guide to Understanding and Using Instagram's Music Features for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-guide-to-seamless-app-updates-on-macos-using-dual-techniques/"><u>ZDNet's Guide to Seamless App Updates on macOS Using Dual Techniques</u></a></li>
+</ul></div>
 

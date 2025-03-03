@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2025-01-27T17:56:32.694Z
-updated: 2025-01-30T17:15:38.671Z
+date: 2025-02-05T20:46:02.941Z
+updated: 2025-02-11T16:21:49.256Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,24 +150,24 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gourmet-guide-culinary-video-production/"><u>[New] 2024 Approved Gourmet Guide Culinary Video Production</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tiktok-to-twitter-strategy-for-maximum-engagement-for-2024/"><u>[New] TikTok-to-Twitter Strategy for Maximum Engagement for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-evaluating-video-space-on-a-64gb-card/"><u>[Updated] 2024 Approved Evaluating Video Space on a 64GB Card</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-apple-vision-pro-unveiling-the-costs-capabilities-and-user-experience-a-comprehensive-guide-for-potential-buyers/"><u>All About Apple Vision Pro: Unveiling the Costs, Capabilities, and User Experience - A Comprehensive Guide for Potential Buyers</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/aomei-backupper-erfolgreiche-datensicherung-mit-integrierten-unterstutzungsdateisystemen/"><u>AOMEI Backupper: Erfolgreiche Datensicherung Mit Integrierten Unterstützungsdateisystemen</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blackout-expert-advice-to-fix-league-of-legends-screen-problems/"><u>Beat the Blackout: Expert Advice to Fix League of Legends Screen Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/delving-into-aether-detailed-overview-and-path-to-inclusion/"><u>Delving Into Aether: Detailed Overview & Path to Inclusion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-techniques-for-removing-and-substituting-cell-phone-glass-protection/"><u>DIY Techniques for Removing and Substituting Cell Phone Glass Protection</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-your-system-how-to-navigate-trustedinstaller-permissions-in-windows-11/"><u>Master Your System: How to Navigate TrustedInstaller Permissions in Windows 11</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-common-issues-with-faulty-hardware-on-your-pc-insights-from-yl-computing/"><u>Resolving Common Issues with Faulty Hardware on Your PC - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/satellite-emergency-feature-now-available-on-the-google-pixel-9-a-milestone-for-android-phones-zdnet/"><u>Satellite Emergency Feature Now Available on the Google Pixel 9, a Milestone for Android Phones - ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-impressive-ipad-air-reviewed-a-stunning-device-that-challenges-the-worth-of-an-ipad-pro-investment/"><u>The Impressive iPad Air Reviewed : A Stunning Device that Challenges the Worth of an iPad Pro Investment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-selecting-ideal-ipad-add-ons-for-apple-devices-insights-from-zdnet/"><u>The Ultimate Guide to Selecting Ideal iPad Add-Ons for Apple Devices | Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-gear-comprehensive-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated AirTag Gear : Comprehensive Reviews & Comparisons by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-soundtrack-compilation-fitness-edition/"><u>Ultimate Soundtrack Compilation (Fitness Edition)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210475749-9781638445098-views-from-shenir-mount-of-light/"><u>Views From Shenir (Mount of Light) | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/walmart-sale-save-24-on-apple-airtag-4-pack-during-labor-day-special-exclusive-deals/"><u>Walmart Sale: Save $24 on Apple AirTag 4-Pack During Labor Day Special - Exclusive Deals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-list-screen-recorders-for-expert-users-for-2024/"><u>[New] A-List Screen Recorders for Expert Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-subtitle-savant-strategies-for-unparalleled-srt-file-creation/"><u>[New] Subtitle Savant Strategies for Unparalleled SRT File Creation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>[Updated] The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>2024 Approved Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/3-mejores-herramientas-gratuitas-de-transferencia-de-dvd-a-mp4aviwmv-en-windows-11-como-transformar-su-biblioteca-de-dvd-sin-gastos/"><u>3 Mejores Herramientas Gratuitas De Transferencia De DVD a MP4/AVI/WMV en Windows 11 | Cómo Transformar Su Biblioteca De DVD Sin Gastos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-x-unveiled-anticipated-costs-launch-timeline-and-features-whats-next/"><u>Apple Watch Series X Unveiled: Anticipated Costs, Launch Timeline & Features – What's Next?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-binge-worthy-series-on-discovery-plus-for-julys-top-picks/"><u>Best Binge-Worthy Series on Discovery Plus for July's Top Picks!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-creativity-explore-more-than-5-dynamic-js-theme-options-for-web-design-using-tailwind-and-creative-tim-templates/"><u>Boost Creativity: Explore More than 5 Dynamic Js Theme Options for Web Design Using Tailwind & Creative Tim Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrate-labor-day-in-style-expert-advice-on-throwing-a-memorable-holiday-event-featuring-zdnet-strategies/"><u>Celebrate Labor Day in Style: Expert Advice on Throwing a Memorable Holiday Event - Featuring ZDNET Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-record-and-send-voicemail-on-your-apple-device/"><u>Easy Ways to Record and Send Voicemail on Your Apple Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-unparalleled-audio-the-15-premier-films-with-dolby-atmos-sound-for-home-viewing/"><u>Enjoy Unparalleled Audio: The 15 Premier Films with Dolby Atmos Sound for Home Viewing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-s18e-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo S18e Through Google Earth?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-youtube-profits-transitioning-from-ads-to-accounts/"><u>Maximizing YouTube Profits Transitioning From Ads to Accounts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-remove-filmora-watermark/"><u>New In 2024, How to Remove Filmora Watermark</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ordering-your-star-wars-adventure-a-step-by-step-disneyplus-tutorial/"><u>Ordering Your Star Wars Adventure: A Step-by-Step Disney+ Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-network-not-registered-issues-on-your-samsung-galaxy-device/"><u>Resolving 'Network Not Registered' Issues on Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-itinerary-for-enjoying-jrr-tolkiens-epic-saga-on-screen/"><u>Step-by-Step Itinerary for Enjoying J.R.R. Tolkien's Epic Saga on Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-network-diagnostics-how-to-execute-the-tracert-tool-in-windows/"><u>Unlocking Network Diagnostics: How to Execute the Tracert Tool in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-secrets-behind-video-streaming-equipment/"><u>Unraveling the Secrets Behind Video Streaming Equipment</u></a></li>
 </ul></div>
 

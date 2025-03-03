@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights From ZDNet"
-date: 2025-01-25T17:52:39.979Z
-updated: 2025-01-30T18:04:33.793Z
+date: 2025-02-09T16:17:20.105Z
+updated: 2025-02-11T23:04:40.076Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Apple/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Pro
@@ -55,7 +55,7 @@ Pricing is still up in the air, according to Kuo. If the price of the new 10.9-i
 Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo forecasts. The shipments will be slightly less than those of the existing Pro models, due to their higher prices and to possible cannibalization from the 12.9-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Air
@@ -63,7 +63,7 @@ Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo
 Speaking of the [iPad Air](https://www.zdnet.com/article/apple-ipad-air-fifth-generation-review/), two new versions of this model are slated for mass production in the first quarter of 2024, according to Kuo. The 12.9-inch Air is a brand-new model. Though it will stick with LED rather than move to mini-LED, it will use an Oxide backplane (the same as the current mini-LED iPad Pro). The 10.9-inch iPad Air will use an a-Si (amorphous silicon) backplane. Oxide backplanes provide better display performance than a-Si backplanes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Mini
@@ -73,7 +73,7 @@ Kuo didn't provide any concrete details on the 2024 [iPad mini](https://www.zdne
 **Also: [The best small tablets you can buy](https://www.zdnet.com/article/best-small-tablet/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad
@@ -122,16 +122,24 @@ One hiccup is that the global tablet market has seen better days, with [third-qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-understanding-when-people-drop-off-on-instagram/"><u>[New] In 2024, Understanding When People Drop Off on Instagram</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streamlining-cross-platform-communication-via-skype-chat-rooms/"><u>[New] Streamlining Cross-Platform Communication via Skype Chat Rooms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-online-image-enhancement-with-audio/"><u>2024 Approved Online Image Enhancement with Audio</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-9-at-record-low-prices-post-prime-day-exclusive-offer-on-zdnet/"><u>Apple Watch Series 9 at Record Low Prices Post-Prime Day - Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-inspirational-movie-picks-to-boost-your-spirit/"><u>Discover the Most Inspirational Movie Picks to Boost Your Spirit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-transferring-and-converting-dvd-movies-for-playstation-xbox-psp-ps-vita-and-zune/"><u>Guide to Transferring & Converting DVD Movies for PlayStation, Xbox, PSP, PS Vita, and Zune</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-the-apple-vision-pro-empowers-enterprises-with-advanced-device-management-insights-from-zdnet/"><u>How the Apple Vision Pro Empowers Enterprises with Advanced Device Management - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimiser-handbrake-les-parametres-parfaits-pour-la-qualite-constante-lors-de-lencodage-de-dvd-blu-ray-et-contenus-en-4k/"><u>Optimiser HandBrake: Les Paramètres Parfaits Pour La Qualité Constante Lors De L'encodage De DVD, Blu-Ray Et Contenus en 4K</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/struggling-with-poor-iphone-battery-life-after-updating-to-ios-1751-discover-these-7-power-saving-tips-gadgetguru/"><u>Struggling with Poor iPhone Battery Life After Updating to iOS 17.5.1? Discover These 7 Power-Saving Tips | GadgetGuru</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-secret-an-unknown-but-incredible-feature-on-the-latest-iphones-revealed/"><u>Unveiling Apple's Secret: An Unknown but Incredible Feature on the Latest iPhones Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-soundtracking-dreams-an-overview-of-magix-fx/"><u>[New] Soundtracking Dreams An Overview of Magix FX</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-exploring-the-functionalities-in-free2x-cam-tech/"><u>[Updated] 2024 Approved Exploring the Functionalities in Free2X Cam Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>2024 Approved Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-tutorial-for-resolving-the-missing-mss32dll-file-problem/"><u>A Step-by-Step Tutorial for Resolving the Missing mss32.dll File Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-reading-routine-changing-kindle-paperwhite-display-hours-easily/"><u>Ace Your Reading Routine: Changing Kindle Paperwhite Display Hours Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/blue-screen-of-death-codes-explained-your-full-reference-list/"><u>Blue Screen of Death Codes Explained: Your Full Reference List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-critical-error-handling-hal-initialization-failure-stop-0x0000005c/"><u>Fixing the Critical Error: Handling HAL Initialization Failure (STOP 0X0000005C)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-access-a-world-of-content-anywhere-anyplace-with-the-leading-6-best-and-cost-free-tools-to-download-youtubes-short-videos/"><u>In 2024, Access a World of Content Anywhere, Anyplace with the Leading 6 Best and Cost-Free Tools to Download YouTubes' Short Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xr-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone XR without the Previous Owner?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-m6-pro-4g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco M6 Pro 4G Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y100-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y100 5G Without PUK Codes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>In 2024, The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-hidden-navigation-shortcuts-learn-how-to-enable-and-use-your-devices-discreet-path-bar/"><u>Master Hidden Navigation Shortcuts: Learn How to Enable and Use Your Device's Discreet Path Bar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-youtube-a-video-journey-through-the-paths-of-virality-8-secrets-revealed/"><u>Mastering YouTube: A Video Journey Through the Paths of Virality (8 Secrets Revealed)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prepare-your-arsenal-upcoming-2024-enhancements-for-rainbow-six-siege/"><u>Prepare Your Arsenal: Upcoming 2024 Enhancements for Rainbow Six Siege</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-when-your-iphone-wont-make-a-sound-during-call/"><u>Step-by-Step Solutions for When Your iPhone Won't Make a Sound During Call</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-complete-guide-to-iphone-silhouette-mastery/"><u>The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-msvcr100dll-not-found-tips-and-tricks-inside/"><u>The Ultimate Fix for 'MSVCR100.DLL' Not Found – Tips and Tricks Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-latest-samsung-galaxy-z-fold-6-unveiled-pricing-launch-timeline-and-detailed-specifications/"><u>Unfolding the Latest - Samsung Galaxy Z Fold 6 Unveiled: Pricing, Launch Timeline & Detailed Specifications</u></a></li>
 </ul></div>
 

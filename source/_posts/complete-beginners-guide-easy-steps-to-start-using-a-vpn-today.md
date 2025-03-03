@@ -1,7 +1,7 @@
 ---
 title: "Complete Beginner's Guide: Easy Steps to Start Using a VPN Today"
-date: 2024-08-18T22:59:17.900Z
-updated: 2024-08-19T22:59:17.900Z
+date: 2025-02-11T00:53:42.233Z
+updated: 2025-02-11T23:58:21.447Z
 tags:
   - win11
   - win10
@@ -57,38 +57,53 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd824ec12d74.jpg)
 2. Open Fortnite.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
 7. Back in the main screen, select the game mode through the button on the lower left.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8394bf277f.jpg)
 8. Select a mode, then click**ACCEPT** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
@@ -97,17 +112,15 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
  Meanwhile, use your**pickaxe** (the only weapon that you start out with) on any structures that you see (trees, houses, rocks, etc.) It’s an essential way to collect building materials. Since building materials don’t take up space in your backpack, you can grab as much as you like.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95bd6d3175.jpg)
 
@@ -121,39 +134,26 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 **F3** is used to build stairs. They’re necessary for climbing up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd955e9807a3.jpg)  
 **F4** is used to build triangular cones. They can be used as shelters.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Pro tips: How to get good at Fortnite Battle Royale?
 
 #### Pro tip 1: Play Fortnite Battle Royale a lot
@@ -176,16 +176,14 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9718c13fe0.jpg)
 3. Click the**Update** button next to your device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the other hand, if you encounter any sound issue in Fortnite, you may find this article helpful: **[ Fortnite Mic Not Working \[Fixed\]](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -207,8 +205,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +212,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-financial-key-to-boosting-your-videos-reach/"><u>[New] 2024 Approved The Financial Key to Boosting Your Video's Reach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-expert-asmrists-praised-by-insomniacs-for-2024/"><u>[New] Expert ASMRists Praised by Insomniacs for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-boosting-snapchat-impact-select-6-excellent-video-editors/"><u>[New] In 2024, Boosting Snapchat Impact Select 6 Excellent Video Editors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-edge-screen-snapshot-software-for-2024/"><u>[New] Leading Edge Screen Snapshot Software for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-complete-guide-to-optimizing-your-picsart-experience-for-2024/"><u>[Updated] Complete Guide to Optimizing Your PicsArt Experience for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-the-m3-macbook-pro-with-the-m1-is-it-time-to-switch-to-apples-newest-laptop-model/"><u>Comparing the M3 MacBook Pro with the M1: Is It Time to Switch to Apple’s Newest Laptop Model?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-huion-inspiroy-g10t-graphic-tablet-assessment-high-end-craftsmanship-and-excellent-functionality/"><u>Comprehensive Huion Inspiroy G10T Graphic Tablet Assessment - High-End Craftsmanship & Excellent Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-your-content-uniquely-with-openais-tailored-gpt/"><u>Craft Your Content Uniquely with OpenAI’s Tailored GPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-test-results-2024s-top-magsafe-power-solutions-expert-reviews-and-ratings-zdnet/"><u>Exclusive Test Results: 2024'S Top MagSafe Power Solutions - Expert Reviews and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-latest-ai-breakthroughs-whats-coming-to-iphones-next-insights/"><u>Exploring Apple's Latest AI Breakthroughs: What’s Coming to iPhones Next - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-affordable-beats-solo-earbuds-the-sub-100-audio-experience-akin-to-airpods-latest-review/"><u>Introducing Affordable Beats Solo Earbuds: The Sub-$100 Audio Experience Akin to AirPods - Latest Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-call-recording-guide-methods-and-legality-by-state-zdnet/"><u>IPhone Call Recording Guide: Methods & Legality by State - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/my-ultimate-jetsetters-pick-the-versatile-3-in-1-magsafe-power-adapter-with-qi-wireless-charging-top-picks/"><u>My Ultimate Jetsetter's Pick: The Versatile 3-in-1 MagSafe Power Adapter with Qi Wireless Charging – Top Picks</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>New In 2024, Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/scritture-facili-per-la-creazione-di-fotografie-professionali-con-il-movavi-photo-editor/"><u>Scritture Facili per La Creazione Di Fotografie Professionali Con Il Movavi Photo Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-releases-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPhone Releases - Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbelievable-deal-alert-apple-m2-macbook-air-available-now-for-just-800-before-october-prime-day-shop-at-amazon/"><u>Unbelievable Deal Alert: Apple M2 MacBook Air Available Now for Just $800 Before October Prime Day - Shop at Amazon!</u></a></li>
+</ul></div>
 

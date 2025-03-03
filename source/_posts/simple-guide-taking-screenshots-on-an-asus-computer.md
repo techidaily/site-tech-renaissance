@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Taking Screenshots on an ASUS Computer"
-date: 2024-08-18T22:58:50.756Z
-updated: 2024-08-19T22:58:50.756Z
+date: 2025-02-10T19:39:22.426Z
+updated: 2025-02-11T17:02:33.139Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5102f68d4f6f5865eb613c39e1e5be805ea96bcf0
 1. **[Why should I set up a VPN on Xbox One?](https://tools.techidaily.com/drivereasy/download/)**
 2. **[How can I set up a VPN on Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why should I set up a VPN on Xbox One?
 
  We recommend using a**VPN(Virtual private network) on Xbox One** based on following benefits. You’ll find it worth having an Xbox One VPN.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/5102f68d4f6f5865eb613c39e1e5be805ea96bcf0
  Sounds appealing? Isn’t it? Move on to the next part to see how to set up an Xbox One VPN.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How can I set up a VPN on Xbox One?
 
@@ -82,16 +90,10 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
  Usually it’s located in the tab called ‘**Basic** ‘, ‘**Network** ‘, or ‘**WAN Setup** ‘. It varies from different router models.  
@@ -99,9 +101,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
@@ -112,9 +111,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
  All set! Now you’re free to stream media and play games on your Xbox One.
@@ -134,25 +130,31 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3322be6ce67.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) **Buy a VPN subscription and install its software to configure it on your computer.** You can review[how to choose a VPN service through the method above](https://tools.techidaily.com/drivereasy/download/) .
 
  We recommend[NordVPN](https://tools.techidaily.com/drivereasy/download/) as your best pick. And here’s how you can use it on your computer:
@@ -185,8 +187,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,19 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweet-vids-made-easy-and-free-to-gif-transformation/"><u>[Updated] 2024 Approved Tweet Vids Made Easy & Free To GIF Transformation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-screen-recorders-showdown-apowersoft-among-them/"><u>2024 Approved Screen Recorders Showdown Apowersoft Among Them</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/como-diminuir-o-tamanho-dos-seus-arquivos-mov-online-e-gratuitamente-top-7-dicas/"><u>Como Diminuir O Tamanho Dos Seus Arquivos MOV Online E Gratuitamente - Top 7 Dicas</u></a></li>
+<li><a href="https://win-bits.techidaily.com/easy-guide-to-moving-files-between-two-ssds-simple-tutorial/"><u>Easy Guide to Moving Files Between Two SSDs - Simple Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-insight-the-top-reason-professionals-cant-miss-with-apples-budget-friendly-m3-macbook-pro/"><u>Exclusive Insight: The Top Reason Professionals Can't Miss with Apple's Budget-Friendly M3 MacBook Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-install-third-party-ios-apps-without-jailbreaking-your-iphone-insights-from-zdnet/"><u>How to Install Third-Party iOS Apps Without Jailbreaking Your iPhone - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-productivity-in-your-home-workspace-using-an-ipad-pro-tips-and-tricks/"><u>Maximize Productivity in Your Home Workspace Using an iPad Pro: Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/personalizing-your-mac-experience-a-guide-to-adjusting-folder-appearances/"><u>Personalizing Your Mac Experience: A Guide to Adjusting Folder Appearances</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-gmail-substitutes-to-try/"><u>Top 8 Gmail Substitutes to Try</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-key-trackers-ultimate-guide-to-2024s-leading-devices/"><u>Top Rated Key Trackers: Ultimate Guide to 2024'S Leading Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-favorite-phones-a-closer-look-at-the-techies-real-life-choices/"><u>ZDNet's Favorite Phones: A Closer Look at the Techies' Real-Life Choices</u></a></li>
+</ul></div>
 

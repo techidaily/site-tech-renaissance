@@ -1,7 +1,7 @@
 ---
 title: How to Connect PS4 Controller to PS3. Easily！
-date: 2024-08-18T22:56:47.019Z
-updated: 2024-08-19T22:56:47.019Z
+date: 2025-02-10T21:57:20.475Z
+updated: 2025-02-11T20:23:18.248Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 2. [**Connect your Bluetooth speaker to your laptop**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Bonus tip: Update your Bluetooth driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Check your laptop Bluetooth settings
 
  All the screenshots shown below are from Windows 10, but the steps work in Windows 7 too.
@@ -35,13 +39,25 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae28ebe8f8fb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) The**Bluetooth Network Connection** shows you have Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2cc5bce058.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If the icon is grayed out, right click on**Bluetooth Network Connection** , and click**Enable** .
 
@@ -49,9 +65,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
  Don’t worry if you don’t see**Bluetooth Network Connection** . You can buy a USB Bluetooth receiver and plug it in any free USB port on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Step 2: Connect your Bluetooth speaker to your laptop
 
  Make sure your Bluetooth speaker is within the right distance (typically around 10 meters) from your laptop. Then click the link below that applies to you, to scroll to the instructions for your operating system.
@@ -69,17 +82,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2c70ceeef6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  3) Make sure the switch says**On** (if it says**Off** , click the switch). Click**Add Bluetooth or other device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a09682bc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select**Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a7f03edd.png)
@@ -88,10 +94,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2fe00df014.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
 
 #### **I’m using Windows 7**
@@ -104,16 +106,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2ca246b1f3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the name of your speaker and click**Next** .
 
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus tip: Update your Bluetooth driver
 
  In order for your Bluetooth devices to work the way it should, it’s always recommended you**have the latest Bluetooth driver** on your laptop. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -127,6 +123,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -157,8 +157,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +164,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-fast-track-your-fame-on-instagram-our-ultimate-list-of-15-must-try-techniques/"><u>[Updated] In 2024, Fast-Track Your Fame on Instagram Our Ultimate List of 15 Must-Try Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-down-the-fastest-green-screen-methods/"><u>2024 Approved Breaking Down the Fastest Green Screen Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-top-6-cutting-edge-21-hdmi-portable-displays/"><u>2024 Approved Ultimate Guide Top 6 Cutting-Edge 2.1 HDMI Portable Displays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emerging-ai-trends-reshaping-job-dynamics/"><u>Emerging AI Trends: Reshaping Job Dynamics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-comprehensive-mp4-video-downloader-review/"><u>In 2024, Comprehensive MP4 Video Downloader Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-elevate-your-mac-broadcast-top-5-live-streaming-applications/"><u>In 2024, Elevate Your Mac Broadcast Top 5 Live Streaming Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-16-upgrades-with-advanced-image-recognition-tech-similar-to-google-lens-apples-latest-innovation/"><u>IPhone 16 Upgrades with Advanced Image Recognition Tech Similar to Google Lens - Apple's Latest Innovation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/magical-imagery-at-your-fingerts-apples-latest-ai-innovation-eclipses-dall-e-with-device-based-generation-capabilities-zdnet-news/"><u>Magical Imagery at Your Fingerts: Apple's Latest AI Innovation Eclipses DALL-E with Device-Based Generation Capabilities | ZDNet News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-tune-management-discover-the-benefits-and-limitations-of-sonos-new-s2-app-zdnet/"><u>Revolutionizing Tune Management: Discover the Benefits and Limitations of Sonos' New S2 App | ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/superior-gopro-film-production-options-for-2024/"><u>Superior GoPro Film Production Options for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-design-of-an-artificial-earth-plane-can-vary-depending-on-the-frequency-of-operation-at-lower-frequencies-a-larger-physical-area-may-be-needed-to-effect85/"><u>The Design of an Artificial Earth Plane Can Vary Depending on the Frequency of Operation; at Lower Frequencies, a Larger Physical Area May Be Needed to Effectively Reflect Radio Waves.</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ps5-debate-pros-and-cons-explored/"><u>The PS5 Debate - Pros and Cons Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-strategy-for-iphone-data-safety-using-icloud-and-mac-solutions-insights-experts/"><u>Ultimate Strategy for iPhone Data Safety Using iCloud and Mac Solutions, Insights Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-latest-the-exciting-new-enhancements-for-apple-carplay-revealed-at-wwdc-2024-a-comprehensive-guide-zdnet/"><u>Unveiling Apple's Latest: The Exciting New Enhancements for Apple CarPlay Revealed at WWDC 2024 - A Comprehensive Guide [ZDNet]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-most-amazing-features-of-iphone-16-pro-that-will-thrill-every-apple-fan-zdnet/"><u>Unveiling the Most Amazing Features of iPhone 16 Pro That Will Thrill Every Apple Fan | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-supreme-shield-experts-picks-for-apple-watch-screen-protectors-tech-digest/"><u>Unveiling the Supreme Shield: Expert's Picks for Apple Watch Screen Protectors | Tech Digest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-iphone-16-pro-from-iphone-14-pro-is-it-a-smart-move-zdnet-insights/"><u>Upgrading to iPhone 16 Pro From iPhone 14 Pro - Is It a Smart Move? | ZDNET Insights</u></a></li>
+</ul></div>
 

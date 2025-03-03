@@ -1,7 +1,7 @@
 ---
 title: Revive Your ChatGPT Experience Using Our 5 Easy Fixes!
-date: 2024-08-18T22:57:55.959Z
-updated: 2024-08-19T22:57:55.959Z
+date: 2025-02-07T00:45:44.066Z
+updated: 2025-02-11T22:44:25.029Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  While in most cases, a hard shutdown during the update process didn’t cause issues. There are no guarantees that it also works for you. Unfortunately, it’s the only method to try if your computer gets stuck there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### After restarting your PC, try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -38,9 +42,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -51,9 +52,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Select**Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
@@ -66,9 +64,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -77,9 +72,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
@@ -87,6 +79,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Restart the Windows Update service
 
@@ -96,18 +92,12 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 Restart your PC to test the issue.
 
 If your problem persists, then move on to the next fix.
@@ -130,17 +120,14 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click the program that you don’t use and select**Uninstall** .
 
  Only uninstall those programs that you don’t use anymore, don’t remove any program that you are not familiar with. It may be critical for the functioning of your computer.
@@ -148,9 +135,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -159,9 +146,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
@@ -176,8 +171,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ### Fix 5: Update your device drivers
@@ -204,9 +200,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Repair corrupted system files
 
  Corrupted or damaged system files may also be the reason why your computer updates so slow. Follow the instructions below to see how to fix the issue:
@@ -230,8 +223,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -242,9 +236,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
@@ -252,8 +243,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -269,6 +261,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
@@ -289,8 +285,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -298,4 +292,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/1715859605792-2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>2024 Approved Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-selection-of-magsafe-wallets-in-depth-analysis-and-expert-ratings-insightful-picks-by-zdnet/"><u>2024'S Ultimate Selection of MagSafe Wallets: In-Depth Analysis and Expert Ratings | Insightful Picks by ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-ai-tools-for-automated-professional-quality-slideshows/"><u>Discover the Best AI Tools for Automated, Professional-Quality Slideshows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-face-off-choosing-between-the-m1-and-m2-models-expert-insights-techguide/"><u>IPad Pro Face-Off: Choosing Between the M1 and M2 Models - Expert Insights | TechGuide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-your-apple-device-outdated-insights-on-the-vintage-and-obsolete-status-revealed-by-tech-analyst/"><u>Is Your Apple Device Outdated? Insights on the 'Vintage' And 'Obsolete' Status Revealed by Tech Analyst</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-imperative-of-using-a-case-for-your-iphone-16-a-must-read-article-by-zdnet-even-if-youre-an-untried-user/"><u>The Imperative of Using a Case for Your iPhone 16 - A Must-Read Article by ZDNET, Even if You're an Untried User!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-upgrades-android-must-embrace-to-challenge-apples-ios-dominance-expert-analysis-tech-news/"><u>Top 5 Upgrades Android Must Embrace to Challenge Apple's iOS Dominance - Expert Analysis (Tech News)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mp3-players-expert-review-by-zdnet/"><u>Top Rated MP3 Players : Expert Review by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-fixes-for-defenders-error-code-0x80004004/"><u>Unveiling Fixes for Defender’s Error Code: 0X80004004</u></a></li>
+</ul></div>
 

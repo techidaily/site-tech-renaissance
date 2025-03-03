@@ -1,7 +1,7 @@
 ---
 title: "Guide: Fixing the Issue of CompatTelRunner.exe Overwhelming Disk Space in Both Windows 11 & 7 Environments"
-date: 2024-08-18T23:00:13.364Z
-updated: 2024-08-19T23:00:13.365Z
+date: 2025-02-06T22:13:02.550Z
+updated: 2025-02-11T23:39:09.348Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ It’s important to optimize your Windows 10 operating system if you want a best
 5. [**Disable your visual effects**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Upgrade your computer hardware**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Limit your startup items
 
  Startup items mean the programs or processes that run automatically when your operating system starts. They can affect your Windows 10 system and your game performance. You should check these items and disable the ones you don’t need.
@@ -40,6 +44,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a1b3f9adc9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Startup** tab, then disable the items you don’t need.
 
  If you’re not sure what an item is, do some research on the Internet to know what it is and if you can disable it.
@@ -49,6 +57,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a1ccd1d664.jpg)
 
  The next time you start your Windows 10 system, the items you disabled won’t start automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Configure your power plan
 
@@ -62,9 +74,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a281e65a10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Make sure the_Power saver_ plan is NOT chosen.
 
  You can choose the**High performance** plan for better performance. But if you want a longer battery life, it’s recommended that you choose the**Balanced** plan.
@@ -72,11 +81,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a293b83333.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Method 3: Update your system
 
  Installing updates for your system can fix your performance issues and make it run smoother. You should run Windows Update to update your Windows 10 operating system. To do so:
@@ -85,20 +92,18 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2ce44241f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2dbf235d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2e1292ffc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Wait for Windows Update to update your operating system.
 
  Updating your device drivers is also an effective way to optimize your Windows 10 system and your game. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -113,13 +118,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2090df306fe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -140,16 +145,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eea6be5120.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Turn on**Pause updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eeac6985cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Windows Update will be paused for up to 35 days. And after you resume it, you’ll only be able to re-pause it after you install the latest updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Disable your visual effects
 
@@ -173,9 +180,6 @@ To do so:
 
  You’ve successfully turned off the visual effects of your Windows 10 system.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Method 6: Upgrade your computer hardware
 
  Hardware component upgrade is always the most effective optimization method, if you have enough budget. The following are the components you should consider upgrading first:
@@ -191,8 +195,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +202,18 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/avigating-through-youtube-shorts-knowledge/"><u>[New] Navigating Through YouTube Shorts Knowledge</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-select-best-dvd-software-for-sierra-mac-users/"><u>[Updated] Select Best Dvd Software for Sierra Mac Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-guide-to-the-finest-3d-blu-ray-equipment-for-2024/"><u>[Updated] Ultimate Guide to the Finest 3D Blu-Ray Equipment for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-choosing-background-scores-for-vlogs/"><u>Best Practices for Choosing Background Scores for Vlogs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clear-vision-restored-how-to-resolve-line-defects-on-your-samsung-led-tv-screen/"><u>Clear Vision Restored: How to Resolve Line Defects on Your Samsung LED TV Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-gear-upgrades-for-tech-enthusiasts-sturdy-bracelets-and-sleeves-for-the-apple-watch-samsung-z-fold-4-browse-at-zdnet/"><u>Essential Gear Upgrades for Tech Enthusiasts: Sturdy Bracelets and Sleeves for the Apple Watch, Samsung Z Fold 4 | Browse at ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-latest-ai-showcase-what-it-got-right-and-where-it-fell-short-in-advancements-anticipating-the-next-leap-forward-zdnet-insights/"><u>Exploring Apple's Latest AI Showcase: What It Got Right and Where It Fell Short in Advancements - Anticipating the Next Leap Forward | ZDNET Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-shot-techniques-capturing-your-screen-on-windows-11-4-key-ways/"><u>Quick Shot Techniques: Capturing Your Screen on Windows 11, 4 Key Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-innovation-how-apple-is-leading-the-charge-in-artificial-intelligence-yet-room-for-growth-remains/"><u>Reviving Innovation: How Apple Is Leading the Charge in Artificial Intelligence, Yet Room for Growth Remains</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-iphone-gif-management-for-2024/"><u>The Ultimate Guide to iPhone GIF Management for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2025-01-26T17:52:37.682Z
-updated: 2025-01-30T16:54:31.705Z
+date: 2025-02-07T00:56:15.337Z
+updated: 2025-02-11T21:15:49.724Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-craftsmits-and-cinematography-precision-in-aspect-ratios/"><u>[New] 2024 Approved Craftsmits and Cinematography Precision in Aspect Ratios</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-blending-words-with-pictures-adding-text-to-images-windowsmac/"><u>[New] Blending Words with Pictures Adding Text to Images, Windows/Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-complete-critique-the-ultimate-review-for-bublcam-360-camera/"><u>[New] Complete Critique The Ultimate Review for Bublcam 360 Camera</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-digital-photography-how-to-erase-unwanted-areas-for-2024/"><u>[New] Digital Photography How to Erase Unwanted Areas for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unraveling-periscopes-mystique-is-it-free-and-how-to-signup/"><u>[Updated] 2024 Approved Unraveling Periscope's Mystique Is It Free and How to Signup?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-why-apples-latest-ipad-air-with-m2-chip-is-the-ideal-choice-for-consumers-insights/"><u>Comprehensive Guide: Why Apple's Latest iPad Air with M2 Chip Is the Ideal Choice for Consumers - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-reviews-on-all-iphone-16-models-top-pick-and-shopping-guide/"><u>Expert Reviews on All iPhone 16 Models - Top Pick & Shopping Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-hd-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 8 HD to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reinstate-precise-sound-in-zoom-chats-for-2024/"><u>Reinstate Precise Sound in Zoom Chats for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ideal-tech-accessory-unpacking-my-experience-with-the-discounted-apple-watch-ultra-2-for-labor-day-deals/"><u>The Ideal Tech Accessory: Unpacking My Experience with the Discounted Apple Watch Ultra 2 for Labor Day Deals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-pro-protection-gear-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated iPad Pro Protection Gear - Comprehensive Reviews & Ratings by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-a-premium-vpn-for-your-mac-professional-insights/"><u>Ultimate Guide to Choosing a Premium VPN for Your Mac: Professional Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-becoming-a-savvy-vr-tour-connoisseur/"><u>[New] Becoming a Savvy VR Tour Connoisseur</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/prinkle-life-into-text-two-methods-for-bouncing-effects/"><u>[New] Sprinkle Life Into Text Two Methods for Bouncing Effects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers/"><u>[Updated] Unveiling the Mysteries of IG Metrics An Essential Toolkit for Marketers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-pursuit-of-clarity-with-benq-sw320s-4k-screen/"><u>2024 Approved In Pursuit of Clarity with BenQ SW320's 4K Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-nstep-guide-to-fixing-system-problems-detected-by-post/"><u>A Step-by-nStep Guide to Fixing System Problems Detected by POST</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elite-selection-of-servers-rack-systems-unveiled/"><u>Elite Selection of Servers Rack Systems Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-ray-tracing-revolutionizing-realistic-renderings/"><u>Exploring Ray Tracing: Revolutionizing Realistic Renderings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-hp-laserjet-pro-m402n-printing-software-on-your-windows-computer/"><u>How to Successfully Install HP LaserJet Pro M402n Printing Software on Your Windows Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transferring-data-from-your-pc-to-xbox-one-with-an-external-hard-drive/"><u>Step-by-Step Guide: Transferring Data From Your PC to Xbox One with an External Hard Drive</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-15-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 15 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-perform-a-hardware-reset-on-your-lenovo-notebook/"><u>Ultimate Guide: Steps to Perform a Hardware Reset on Your Lenovo Notebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-elegance-affordable-options-for-cutting-edge-technology-marvels/"><u>Unlocking Elegance: Affordable Options for Cutting-Edge Technology Marvels</u></a></li>
 </ul></div>
 

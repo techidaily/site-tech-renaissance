@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Walkthrough: Setting Up Your WiFi Mouse for Computers and Macs"
-date: 2024-08-18T22:59:02.352Z
-updated: 2024-08-19T22:59:02.352Z
+date: 2025-02-11T00:03:14.334Z
+updated: 2025-02-11T21:10:11.921Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Safe Mode is designed to help you troubleshoot computer problems.
 
 This article explains how to manually start Windows 10 in safe mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 ways to start Windows 10 in Safe Mode
 
 1. [**Start Safe Mode by pressing F8 at startup**](https://tools.techidaily.com/drivereasy/download/)
@@ -36,6 +40,10 @@ This article explains how to manually start Windows 10 in safe mode.
 5. **[Can’t solve the problem? Try this fix…](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Start Safe Mode by pressing F8 at startup**
 
@@ -75,10 +83,6 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  If the Boot Options menu above doesn’t display, and instead Windows just launches normally, it’s likely that you didn’t press F8 early enough.
 
 ---
@@ -95,18 +99,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait for Windows to diagnose your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  4) Click**Advanced Options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg)
@@ -115,9 +111,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -131,17 +124,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your computer will restart and present a list of different startup options.
 
  9) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/enable-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ---
 
 ## Method 3: Start Safe Mode using the System Configuration tool
@@ -159,15 +150,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### To turn off Safe Mode and go back to normal mode
 
  When you want to return Windows to normal mode, you just have to undo your changes:
@@ -177,19 +170,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## Method 4: Start Safe Mode from the login screen
@@ -208,32 +203,14 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  4) Click **Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
@@ -244,11 +221,16 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can’t solve the problem? Try Driver Easy
 
  If you couldn’t solve your computer problem in Safe Mode but you can still run Windows normally, give **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  a try.
@@ -272,8 +254,9 @@ The Windows RE (Recovery environment) screen will then display.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -282,8 +265,6 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -291,4 +272,22 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-excellence-in-mac-video-capturing-top-5-alternatives-to-bandicam-for-2024/"><u>[Updated] Excellence in Mac Video Capturing Top 5 Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-5-video-tweaking-apps-for-social-networking/"><u>2024 Approved Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apex-apple-band-selection-guide-of-2024-in-depth-analysis-and-honed-ratings-by-gizmodo/"><u>Apex Apple Band Selection Guide of 2024 - In-Depth Analysis & Honed Ratings by Gizmodo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Huawei </u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-the-error-d3dx924dll-is-unavailable-on-your-computer/"><u>Comprehensive Fixes for the Error 'D3DX9_24.dll Is Unavailable on Your Computer'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-all-iphone-versions-compatible-with-apples-latest-artificial-intelligence-enhancements-including-an-updated-siri/"><u>Comprehensive Guide: All iPhone Versions Compatible with Apple's Latest Artificial Intelligence Enhancements, Including an Updated Siri</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/d3dx924dll-missing-follow-these-steps-to-rectify-the-problem/"><u>d3dx9_2‌​4.dll Missing? Follow These Steps to Rectify the Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-offer-purchase-airpods-pro-2-hearing-aid-ready-for-a-steep-discount-on-zdnet/"><u>Exclusive Offer: Purchase AirPods Pro 2 (Hearing-Aid Ready) for a Steep Discount on ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-x8b-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor X8b Is Unlocked</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-lenovo-thinkphone-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Lenovo ThinkPhone Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/relaunching-windows-photo-viewer-two-tactics-for-w10-users-for-2024/"><u>Relaunching Windows Photo Viewer Two Tactics for W10 Users for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/surprise-hit-of-electronics-how-this-small-handheld-8-in-1-adapter-busts-budget-limits-and-packs-big-features/"><u>Surprise Hit of Electronics: How This Small Handheld 8-in-1 Adapter Busts Budget Limits and Packs Big Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-roadmap-for-success-boosting-vision-pros-appeal-with-apple-insights-from-zdnet/"><u>The Roadmap for Success: Boosting Vision Pro's Appeal with Apple - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-reno-10-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Reno 10 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-pinnacle-studio-for-mac-best-replacement-options-this-year/"><u>Updated In 2024, Pinnacle Studio for Mac Best Replacement Options This Year</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Essentials: Defining and Understanding Output Impedance"
-date: 2024-08-12T03:48:15.605Z
-updated: 2024-08-13T03:48:15.605Z
+date: 2025-02-08T18:52:30.723Z
+updated: 2025-02-11T21:50:25.101Z
 categories:
   - BestProducts
 description: "This Article Describes The Essentials: Defining and Understanding Output Impedance"
@@ -12,9 +12,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 ## Deciding Between Building or Purchasing Your Own Computer - Find Out the Best Option
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Overall Findings
 
  Buying a PC
@@ -38,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -66,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -75,22 +73,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Building a PC: Pros and Cons
 
  Advantages
@@ -106,9 +91,6 @@ Key features:
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -122,8 +104,9 @@ Key features:
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -134,6 +117,10 @@ Key features:
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
@@ -143,8 +130,9 @@ Key features:
 Lifewire / Julie Bang
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Build a Computer
 
  If you're interested in building a desktop computer from parts, take the next steps.
@@ -179,8 +167,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +174,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here-for-2024/"><u>[New] How to Transcribe Speech to Text in Microsoft Word Learn It Here for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-quickfacebookvidextractor-pro/"><u>[Updated] 2024 Approved QuickFacebookVidExtractor Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-pioneers-in-digital-avengers-landscapes/"><u>[Updated] In 2024, Pioneers in Digital Avengers Landscapes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-tips-how-to-go-incognito-and-hide-your-number-from-calls/"><u>Android Tips: How To Go Incognito and Hide Your Number From Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-mic-fault-troubleshooting-and-fixes/"><u>Corsair HS50 Headset Mic Fault: Troubleshooting & Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/current-hot-deals-for-your-new-apple-smartwatch/"><u>Current Hot Deals for Your New Apple Smartwatch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-diagnosing-and-repairing-errors-related-to-the-nt-loader-ntldr/"><u>Expert Advice: Diagnosing & Repairing Errors Related to the NT Loader (NTLDR)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-for-windows-0x80780119-error-in-image/"><u>Fix for Windows' 0X80780119 Error in Image</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-on-playstation-5-slim-latest-updates-pricing-info-and-launch-timeline/"><u>Insights on PlayStation 5 Slim - Latest Updates, Pricing Info & Launch Timeline</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-d3dx933dll-file-not-detected-issues/"><u>Solutions for Resolving d3dx9_33.dll File Not Detected Issues</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-crafting-your-unique-flipbook-at-flipbuildercom/"><u>Step-by-Step Tutorial: Crafting Your Unique Flipbook at FlipBuilder.com</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-strategies-unveiled-essential-youtube-video-resources/"><u>Stock Strategies Unveiled Essential YouTube Video Resources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-when-your-mac-app-wont-launch/"><u>Troubleshooting Tips: Resolving Issues When Your Mac App Won't Launch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-solutions-for-windows-11-black-screen-troubleshooting-tips/"><u>Unveiling Solutions for Windows 11 Black Screen Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ws-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
+</ul></div>
 

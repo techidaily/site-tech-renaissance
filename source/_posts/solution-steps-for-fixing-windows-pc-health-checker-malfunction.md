@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for Fixing Windows PC Health Checker Malfunction
-date: 2024-08-18T22:59:51.446Z
-updated: 2024-08-19T22:59:51.446Z
+date: 2025-02-08T16:13:44.914Z
+updated: 2025-02-11T17:25:09.372Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 **Logitech K520 keyboard not working?** Don’t worry! Although it’s very frustrating, you’re definitely not the only one to experience this problem. Many Logitech keyboard users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Logitech keyboard users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 4. **[Restart the Human Interface Device Service](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Troubleshoot the hardware issues
 
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  If it still doesn’t work, it may suggest If the keyboard itself is faulty. If the keyboard works well on another computer, don’t worry! Just try the fixes below one by one to troubleshoot your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update the keyboard driver
 
  If the keyboard driver on your computer is faulty or corrupted, your Logitech K520 keyboard may also not function properly.
@@ -66,21 +78,19 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![Update all of your drivers by just 1 click with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-Update-all-drivers.png)  
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if this fix works after you updated the keyboard driver. If not, try the next fix, below.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall Logitech unifying software
 
  You may also need to reinstall Logitech unifying software if the Logitech K520 keyboard not working issue persists. Here is how to do it:
@@ -88,18 +98,11 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**appwiz.cpl** and press**Enter** to open the**Program and Features** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Locate the Logitech unifying software,**right-click** on it and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall-logitech-unifying-software.png)
 3. Download the latest version of Logitech unifying software from the official website of[Logitech.](https://support.logi.com/hc/en-us/articles/360025297913)
 
 See if this fix works for you. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Restart the Human Interface Device Service
 
  You may also run into this issue if the Human Interface Device Service is stopped. In this case, you need to restart the Human Interface Device Service. Here’s how to do it:
@@ -107,17 +110,15 @@ See if this fix works for you. If not, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**services.msc** and press**Enter** to open**the Services window** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/services-msc.png)
 2. In the**Name** list of services in the Details pane, locate**Human Interface Device Service** .**Double-click** on it to view its properties.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
 3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  See if you can fix the problem after restarting the Human Interface Device Service.
 
 ---
@@ -134,8 +135,6 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +142,21 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-youtube-traffic-best-hash-tactics-explained/"><u>[New] 2024 Approved Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming-for-2024/"><u>[Updated] From Novice to Notoriety Steps for a YouTube Channel in Gaming for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-down-on-setup-time-discover-how-corsairs-one-twist-screw-revolutionizes-pc-building/"><u>Cut Down on Setup Time: Discover How Corsair's One-Twist Screw Revolutionizes PC Building</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-wi-fi-connectivity-issues-on-microsoft-surface-pro/"><u>Diagnosing and Repairing Wi-Fi Connectivity Issues on Microsoft Surface Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-guide-securing-your-data-cloud-based-iphone-syncing-using-icloud-and-macos-techniques/"><u>Easy Guide: Securing Your Data - Cloud-Based iPhone Syncing Using iCloud & macOS Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-free-after-effects-resources-for-2024/"><u>Explore the Best FREE After Effects Resources for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-tomorrow-how-apples-innovative-robot-helper-could-transform-your-living-space/"><u>Exploring Tomorrow: How Apple's Innovative Robot Helper Could Transform Your Living Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-whether-apples-vision-pro-diminishes-discomfort-in-economy-class-a-zdnet-perspective/"><u>Exploring Whether Apple's Vision Pro Diminishes Discomfort in Economy Class: A ZDNet Perspective</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-resource-monitor-stalls-in-windows-11/"><u>Overcoming Resource Monitor Stalls in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873417-9781945422669-the-namaste-effect/"><u>The Namaste Effect | Free Book</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-list-top-free-screen-recorder-tools-for-easy-capture-for-2024/"><u>Ultimate List Top Free Screen Recorder Tools for Easy Capture for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-why-your-hard-drive-is-producing-unusual-clicks-insights-from-yl-softwares-tech-team/"><u>Understanding Why Your Hard Drive Is Producing Unusual Clicks: Insights From YL Software's Tech Team</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-savings-on-the-newest-m2-macbook-air-this-presidents-day-save-300-at-zdnet/"><u>Unlock Savings on the Newest M2 MacBook Air This Presidents' Day - Save $300 at ZDNet!</u></a></li>
+</ul></div>
 

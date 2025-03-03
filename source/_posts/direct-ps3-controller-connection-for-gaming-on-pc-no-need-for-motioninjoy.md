@@ -1,7 +1,7 @@
 ---
 title: "Direct PS3 Controller Connection for Gaming on PC: No Need for MotionINJoy"
-date: 2024-08-18T22:56:30.523Z
-updated: 2024-08-19T22:56:30.523Z
+date: 2025-02-06T22:45:04.710Z
+updated: 2025-02-11T20:49:25.422Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
  Though it might look complicated at first glance, just work your way down the list, step-by-step, and we’ll try to get you back on track.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Force restart your computer
 
  If all you see is a black screen after pressing the power button, try pressing the power button for 10 seconds to force shut down your PC, then turn it on. Doing this repeatedly for three times, the Windows Startup repair should launch automatically.
@@ -46,9 +50,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 **If your monitor works fine** , move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Reconnect your monitor to your computer
 
  A poor connection between your monitor and your computer might also be the cause of your problem. In this case, reconnecting the two devices is very likely the solution to your problem. Here is how to do it:
@@ -63,23 +64,12 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
 
 If your computer fails again, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -95,8 +85,9 @@ If your computer fails again, read on and check the fix below.
 If your computer still can’t boot correctly, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall your RAM
 
  A poor connection between your RAM and motherboard can also cause this problem. In this case, you need to reinstall your RAM. Here is how:
@@ -112,6 +103,10 @@ If your computer still can’t boot correctly, try the fix below.
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Put**your RAM** back into the slot.
 
@@ -133,13 +128,14 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip: Check for corrupt system files with Forect
 
  There are many factors that can cause Windows booting failures, like corrupted or missing Windows system files, registry, and more.
@@ -148,10 +144,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -161,6 +153,10 @@ The CMOS battery looks like this
  3) You can review a summary of the issues detected after the scan is finished. Click **START REPAIR** to start the repair process. This requires the full version – which comes with a**60-day Money-Back Guarantee** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -177,8 +173,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +180,26 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-youtube-to-facebook-sharing-pathways/"><u>[Updated] In 2024, Navigating YouTube to Facebook Sharing Pathways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-advises-alternative-methods-over-rice-soak-what-to-do-when-your-iphone-gets-wet/"><u>Apple Advises Alternative Methods Over Rice Soak: What to Do When Your iPhone Gets Wet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bards-clash-with-gpt-vs-online-sheep-best-ai-ranked/"><u>Bards Clash with GPT, vs Online Sheep - Best AI Ranked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-ideal-tablet-comparing-the-features-of-m1-vs-m2-ipad-pro-tech-analysis/"><u>Choosing Your Ideal Tablet: Comparing the Features of M1 Vs. M2 iPad Pro | Tech Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-free-drivers-software-for-optimal-performance-updated-august-2024-edition/"><u>Discover the Ultimate List of Free Drivers Software for Optimal Performance - Updated August 2024 Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-7-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 7 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-c33-2023-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme C33 2023 Phones? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-time-honored-top-15-in-the-world-of-stop-motion/"><u>In 2024, Time-Honored Top 15 in the World of Stop-Motion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-your-iphone-13-case-compatible-with-iphone-14-find-out-here-insights-from-zdnet/"><u>Is Your iPhone 13 Case Compatible with iPhone 14? Find Out Here - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/oled-what-it-is-and-how-it-works/"><u>OLED: What It Is and How It Works</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/set-up-your-apple-watch-for-slack-notifications-with-these-simple-steps/"><u>Set Up Your Apple Watch for Slack Notifications with These Simple Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-8-proven-techniques-to-amplify-content-for-2024/"><u>Top 8 Proven Techniques to Amplify Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Models - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-tablet-reviews-and-comparisons-in-depth-analysis-by-tech-experts/"><u>Top-Rated Tablet Reviews & Comparisons - In Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/track-your-every-step-top-motion-tracking-apps-for-2024/"><u>Track Your Every Step Top Motion Tracking Apps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-the-5-premier-tools-for-seamless-pin-scheduling-on-pinterest/"><u>Ultimate Guide: The 5 Premier Tools for Seamless Pin Scheduling on Pinterest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-ipad-air-sleeves-for-2ebeanry-expert-evaluations-zdnet/"><u>Ultimate Selection of iPad Air Sleeves for 2Ebeanry: Expert Evaluations | ZDNET</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/zero-price-maximum-fun-quickmemes-101/"><u>Zero Price, Maximum Fun QuickMemes 101</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered
-date: 2025-01-25T16:38:54.287Z
-updated: 2025-01-30T17:22:47.437Z
+date: 2025-02-08T00:58:17.527Z
+updated: 2025-02-11T17:52:52.750Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -91,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -108,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,17 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-communication-utilizing-masks-and-filters/"><u>[New] In 2024, Streamlining Communication Utilizing Masks and Filters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>[New] Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-platforms-for-snagging-snapchat-soundtracks/"><u>[Updated] Leading Platforms for Snagging Snapchat Soundtracks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-secrets-of-hosting-no-cost-seminars-on-the-worlds-largest-video-platform/"><u>2024 Approved Secrets of Hosting No-Cost Seminars on the World’s Largest Video Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cost-prohibitive-factors-preventing-new-apple-ai-innovations-on-legacy-iphones-insights-from-zdnet/"><u>Cost-Prohibitive Factors Preventing New Apple AI Innovations on Legacy iPhones - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-top-10-must-know-ipad-features-and-setups-for-beginners-and-experts-alike-discover-the-best-practices-expert-advice/"><u>Essential Guide: Top 10 Must-Know iPad Features & Setups for Beginners & Experts Alike - Discover the Best Practices Expert Advice</u></a></li>
-<li><a href="https://facebook.techidaily.com/pretender-on-linkedin-check-for-copycat-profiles/"><u>Pretender on LinkedIn: Check for Copycat Profiles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/professional-opinions-best-9-digital-microphone-capture-gear/"><u>Professional Opinions Best 9 Digital Microphone Capture Gear</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-transfer-moving-your-images-from-google-photos-to-icloud-a-step-by-step-guide/"><u>Seamless Transfer: Moving Your Images From Google Photos to iCloud - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-energy-stored-in-a-single-charged-capacitor-is-given-by-e-pressure-12-cv2/"><u>The Energy Stored in a Single Charged Capacitor Is Given by E = Pressure = 1/2 CV^2.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-techniques-for-your-hawki-car-concerns/"><u>Troubleshooting Techniques for Your Hawki Car Concerns</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-ease-of-repair-apple-confirms-enhanced-maintenance-with-iphone-16-compared-to-earlier-models-insights-by-zdnet/"><u>Unveiling Ease of Repair: Apple Confirms Enhanced Maintenance with iPhone 16 Compared to Earlier Models - Insights by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exceptional-7-dslr-devices-for-expert-video-content-creators-for-2024/"><u>[New] Exceptional 7 DSLR Devices For Expert Video Content Creators for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-elevating-obs-studios-impact-top-5-editing-techniques-revealed/"><u>[New] In 2024, Elevating OBS Studio's Impact Top 5 Editing Techniques Revealed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-your-archive-converting-snapchats-ephemeral-snaps-for-2024/"><u>[New] Streamlining Your Archive Converting Snapchat's Ephemeral Snaps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-quick-fixes-for-missing-sound-in-obs/"><u>[Updated] 2024 Approved Quick Fixes for Missing Sound in OBS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-trust-your-phones-durability-iphone-15-wet-test-results/"><u>Can You Trust Your Phone's Durability: IPhone 15 Wet Test Results</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-understanding-lg-channels-must-know-details/"><u>Comprehensive Guide To Understanding LG Channels: Must-Know Details</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-inception-to-now-exploring-the-evolution-of-ipad-operating-systems/"><u>From Inception to Now: Exploring the Evolution of iPad Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-repair-ac1s1t16dll-errors-quickly/"><u>How to Address and Repair 'Ac1S1T16.dll' Errors Quickly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>In 2024, Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 6 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-new-pixel-buds-pro-2-by-google-pricing-insights-and-anticipated-release-date-shared/"><u>Inside Scoop on the New Pixel Buds Pro 2 by Google - Pricing Insights & Anticipated Release Date Shared</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-network-diagnostics-a-guide-to-utilizing-the-tracert-tool-on-windows/"><u>Mastering Network Diagnostics: A Guide to Utilizing the Tracert Tool on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-start-to-setting-up-one-click-logins-for-windows-users/"><u>Quick Start to Setting Up One-Click Logins for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-implementing-copilot-within-microsoft-teams/"><u>The Ultimate Tutorial for Implementing Copilot Within Microsoft Teams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715701092312-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here!</u></a></li>
 </ul></div>
 

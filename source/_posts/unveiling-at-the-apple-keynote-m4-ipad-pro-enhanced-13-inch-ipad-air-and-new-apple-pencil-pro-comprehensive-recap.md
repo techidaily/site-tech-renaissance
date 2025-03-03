@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Apple Keynote: M4 iPad Pro, Enhanced 13-Inch iPad Air & New Apple Pencil Pro - Comprehensive Recap"
-date: 2025-01-28T17:19:53.455Z
-updated: 2025-01-30T17:14:16.858Z
+date: 2025-02-07T22:03:01.009Z
+updated: 2025-02-11T20:11:35.207Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -57,7 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -76,10 +76,6 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -97,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -105,6 +101,10 @@ The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting yo
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,18 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs/"><u>[New] 2024 Approved Unleash Your Potential Detailed Guide for PS4 Recordings with OBS</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-tailor-made-twitter-video-coverage/"><u>[New] Tailor-Made Twitter Video Coverage</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-echo-chambers-tech-updates/"><u>[Updated] Echo Chambers Tech Updates</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-masterful-text-setups-in-adobe-after-effects/"><u>[Updated] Masterful Text Setups in Adobe After Effects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>[Updated] Mirth Mechanics Gratis Tools to Amuse and Entertain</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/blood-pressure-features-on-apple-watch-series-10-does-it-meet-your-health-needs-a-look/"><u>Blood Pressure Features on Apple Watch Series 10 - Does It Meet Your Health Needs? A Look</u></a></li>
-<li><a href="https://app-tips.techidaily.com/detailed-insight-into-twistedwave-exploring-benefits-limitations-premier-qualities-and-usage-scenarios/"><u>Detailed Insight Into TwistedWave: Exploring Benefits, Limitations, Premier Qualities, and Usage Scenarios</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-of-tablets-unveiled-anticipate-two-advanced-oled-ipads-and-a-refreshed-129-air-by-apple-in-early-2024-as-revealed/"><u>Future of Tablets Unveiled: Anticipate Two Advanced OLED iPads & A Refreshed 12.9 Air by Apple in Early 2024, as Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-cinematography-apple-integrates-final-cut-pro-into-iphones-for-stunningly-professional-results/"><u>Revolutionizing Mobile Cinematography: Apple Integrates Final Cut Pro Into iPhones for Stunningly Professional Results</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-update-apples-projected-launch-of-budget-friendly-ar-glasses-and-vision-devices-as-revealed-by-zdnet/"><u>Tech Update: Apple's Projected Launch of Budget-Friendly AR Glasses and Vision Devices as Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-2024-stylus-tablets-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Ranking 2024 Stylus Tablets: Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-affordable-tunes-a-step-by-step-guide-to-snagging-your-apple-music-student-rate/"><u>Unlocking the Secrets of Affordable Tunes: A Step-by-Step Guide to Snagging Your Apple Music Student Rate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-ai-integration-in-oculus-quest-3-before-vision-pro-your-guide-to-enable-it-zdnet/"><u>Unveiling AI Integration in Oculus Quest 3 Before Vision Pro - Your Guide to Enable It | ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-10-leading-mobile-vr-headsets-ranked/"><u>[New] 2024 Approved 10 Leading Mobile VR Headsets Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-powerdirector-2024-reviewed/"><u>[New] Mastering PowerDirector 2024 Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturereview-station/"><u>[Updated] CaptureReview Station</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-time-bending-tips-iphone-video-reversal-hacks-for-2024/"><u>[Updated] Time-Bending Tips IPhone Video Reversal Hacks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-wwdc-2025-highlights-and-updates-all-the-latest-tech-news/"><u>Apple WWDC 2025 Highlights & Updates: All the Latest Tech News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-buyers-handbook-choosing-the-perfect-laptop-or-desktop-for-academics/"><u>Comprehensive Buyer's Handbook: Choosing the Perfect Laptop or Desktop for Academics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-androids-ai-capabilities-an-insight-into-system-intelligence/"><u>Exploring Android's AI Capabilities: An Insight Into System Intelligence</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-game-14-must-see-vids-for-youtube-gaming-success/"><u>In 2024, Elevate Your Game 14 Must-See Vids for YouTube Gaming Success</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-organization-on-mac-top-8-metadata-editors/"><u>New 2024 Approved Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/projector-shopping-heres-what-you-need-to-know/"><u>Projector Shopping? Here's What You Need To Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-msstdfmtdll-file-not-detected-issue/"><u>Solving the Msstdfmt.dll File Not Detected Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-using-the-chatgpt-copilot-add-on-effectively/"><u>The Comprehensive Guide to Using the ChatGPT Copilot Add-On Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-top-5-gps-applications-to-enhance-your-iphone-experience/"><u>The Ultimate Selection of Top 5 GPS Applications to Enhance Your iPhone Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-correcting-error-in-moderation-within-chatgpt-services/"><u>Troubleshooting Tips: Correcting 'Error in Moderation' Within ChatGPT Services</u></a></li>
 </ul></div>
 

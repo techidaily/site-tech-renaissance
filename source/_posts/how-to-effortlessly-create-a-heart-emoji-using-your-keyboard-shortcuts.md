@@ -1,7 +1,7 @@
 ---
 title: How to Effortlessly Create a Heart Emoji Using Your Keyboard Shortcuts
-date: 2024-08-12T03:48:38.662Z
-updated: 2024-08-13T03:48:38.662Z
+date: 2025-02-10T02:07:26.996Z
+updated: 2025-02-11T17:37:23.573Z
 categories:
   - BestProducts
 description: This Article Describes How to Effortlessly Create a Heart Emoji Using Your Keyboard Shortcuts
@@ -10,9 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/dFNNunECXAOYYV-CVgoQ3_NyT6Y=/400x300/fi
 ---
 
 ## Mac Users Rejoice: How to Reset Your DNS Records Effortlessly
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * You can delete the DNS cache through Terminal. Press**Command** +**Space** to search for it.
@@ -22,39 +19,38 @@ thumbnail: https://www.lifewire.com/thmb/dFNNunECXAOYYV-CVgoQ3_NyT6Y=/400x300/fi
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the macOS Flush DNS Command
 
  If you’re experiencing internet connectivity issues, you may be able to fix them by resetting the[DNS](https://www.lifewire.com/what-is-dns-domain-name-system-2625855) cache with a[Terminal command](https://www.lifewire.com/mac-terminal-commands-4774997) . It should only take a few moments.  
 
 1. [Open Terminal](https://www.lifewire.com/macos-terminal-4774149) . One quick way is to press**Command** +**Space** to launch[Spotlight](https://www.lifewire.com/use-spotlight-mac-4586951) . Then, type**Terminal** and select it from the results.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Terminal highlighted in Spotlight on a Mac.](https://www.lifewire.com/thmb/QGngs7Naa2bQVtWQWVaRG0K34yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Terminal-6e4ba7528a4c4220a28542f84f214676.jpg)  
  You can also access Terminal by navigating to**Go** \>**Utilities** \>**Terminal** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Type (or[copy and paste](https://www.lifewire.com/cut-copy-paste-on-mac-4427671) ) this command into Terminal and then press**Enter** :  
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
-3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Flush DNS on Mac OS X
 
  The Mac OS X flush DNS command is different than the one used in modern versions of the operating system. Open Terminal and then enter the command that corresponds with your version:
@@ -65,6 +61,10 @@ No advertising on the website.
 * **Snow Leopard** : sudo dscacheutil -flushcache
 * **Leopard** : sudo lookupd -flushcache
 * **Tiger** : lookupd -flushcache
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
 
@@ -105,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +112,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-monthly-income-prospects-for-youtube-creators/"><u>[New] 2024 Approved Monthly Income Prospects for YouTube Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/archive-your-future-with-chatgpt/"><u>Archive Your Future with ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-there-reports-of-nintendo-switch-online-service-interruptions-or-is-the-problem-localized/"><u>Are There Reports of Nintendo Switch Online Service Interruptions, or Is the Problem Localized?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repairing-the-physxloaderdll-cannot-be-loaded-problem/"><u>DIY: Repairing the 'PhysXLoader.dll Cannot Be Loaded' Problem</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fuhren-sie-ihre-dvds-nahtlos-in-live-streams-uber-nas-um-erleben-sie-qualitat-bei-synologyqnap/"><u>Führen Sie Ihre DVDs Nahtlos in Live-Streams Über NAS Um, Erleben Sie Qualität Bei Synology/QNAP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-filmmaking-gear-for-novices/"><u>In 2024, Prime Filmmaking Gear for Novices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-multiple-bluetooth-speaker-connection-in-your-space/"><u>Mastering the Art of Multiple Bluetooth Speaker Connection in Your Space</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-problems-resolved-stabilizing-your-world-of-tanks-blitz-experience/"><u>Persistent Problems Resolved: Stabilizing Your World of Tanks Blitz Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-essence-of-luts-mastering-photo-color-dynamics/"><u>The Essence of LUTs Mastering Photo Color Dynamics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unboxing-the-lg-27ud88uhd-monitor-experience-for-tech-enthusiasts-for-2024/"><u>Unboxing the LG 27UD88UHD Monitor Experience for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-notifications-from-the-past-strategies-for-iphones/"><u>Uncover Hidden Notifications From the Past: Strategies for iPhones</u></a></li>
+</ul></div>
 

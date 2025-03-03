@@ -1,7 +1,7 @@
 ---
 title: How to Separate and Disassociate Equipment From Google Home Platforms
-date: 2024-08-12T03:47:25.225Z
-updated: 2024-08-13T03:47:25.225Z
+date: 2025-02-08T21:10:34.297Z
+updated: 2025-02-11T17:19:35.719Z
 categories:
   - BestProducts
 description: This Article Describes How to Separate and Disassociate Equipment From Google Home Platforms
@@ -14,8 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/B2NonbFg-dZlZr2ZulyiOz-p91E=/400x300/fi
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  What to Know
 
 * Choose it from the**Devices** tab, select the**Settings** icon, and tap**Remove device** .
@@ -40,25 +41,20 @@ Close
 
 1. Select the device you want to remove from Google Home.
 2. Select the**settings/gear** icon at the top, then choose**Unlink** \[_device name_ \].  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Unlink option for a Google Home device on Android](https://www.lifewire.com/thmb/o5jaVTFHwpluSeXboLPar3MQaTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-device-settings-google-home-a8729996e03a46cda8b548fcd05133a4.png)
 3. Confirm you want to remove the device from this manufacturer by tapping**Unlink** .
 4. Select the service, such as**Roku** , and then tap**Unlink account** .  
 ![The Unlink Account option for a Google Home device on Android](https://www.lifewire.com/thmb/_cUCN02UantB9zDuIBlUqeYlVB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-home-app-control-settings-e49eff4c96ea47f3ae3001cdd8d8403a.png)  
  When you unlink one device from a Works With Google Home manufacturer, you’ll lose all devices from that specific product brand.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Can’t I Remove a Device From My Google Account? 
 
  If you continue to see your device after you’ve removed it, try these tactics.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Reset the Device 
 
  A good measure to take even if you’re planning to keep your device is to factory reset it. To factory reset your Google Home device, refer to the product documentation for specifics. We also have some guides here on Lifewire,[ such as this one to reset a Google Home speaker](https://www.lifewire.com/reset-google-home-mini-max-4172324) .
@@ -73,17 +69,19 @@ Close
 
 1. Tap the**Settings** tab and then choose**Google Assistant** from the list of options.
 2. Select**Manage all Assistant settings** \>**Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![The Google Assistant settings in the Google Home app for Android](https://www.lifewire.com/thmb/3ucfzRLQvHamvNAjPpLCVJ92RWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-home-assistant-settings-ac4d922b968848ef8c5f29c9fe7d1072.png)
 3. Choose the device you want to unlink from your Google account.
 4. Tap**Remove device** or**Unlink this device** , and then confirm your choice.  
 ![Removing a device in the Google Home app for Android](https://www.lifewire.com/thmb/nJNfMNBxgEIq2w77or5IXWc2_jU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-home-remove-device-ee5b20a1c32e48cbab1f88f58a2e269c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Delete the Associated Room or Home 
 
  If you continue to see your device after you’ve removed it, try deleting the room or the whole home a device is associated with for a fresh start.
@@ -94,10 +92,11 @@ Close
 
  To delete the whole home, pick the right one from the menu at the top of the**Favorites** tab, then go to**Settings** \>**Delete this home** \>**Delete home** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![The Delete Home option in the Google Home app for Android](https://www.lifewire.com/thmb/2jJ41GW94cdzmfwGDew4xD5X-d4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-home-google-home-app-0110de82caaa4e5a9859c8eb02ab4281.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To maintain access to the devices you still want to use, make sure you create another home first. Reassign each product to the new home by tapping the device and then selecting**Settings** \>**Device information** \>**Home** .
 
@@ -128,8 +127,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +134,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-efficient-mobile-methods-for-snapchat-archive/"><u>[New] 2024 Approved Efficient Mobile Methods for Snapchat Archive</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ixels-to-perfection-design-tips-for-captivating-banners/"><u>[New] Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-additions-to-maximize-gopro-potential/"><u>[Updated] Ideal Additions to Maximize GoPro Potential</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-learn-youtube-video-ad-building-at-no-cost/"><u>2024 Approved Learn YouTube Video Ad Building at No Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-restoring-d3dx924dll-file-on-windows/"><u>Comprehensive Guide to Restoring d3dx9_24.dll File on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hering-content-control-youtube-vs-creative-commons-license/"><u>Deciphering Content Control YouTube Vs. Creative Commons License</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-power-protection-with-our-curated-selection-of-top-tier-ups-battery-backups/"><u>Elevate Your Power Protection with Our Curated Selection of Top-Tier UPS Battery Backups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-free-learning-programs-to-prepare-your-child-for-back-to-school/"><u>Essential Free Learning Programs to Prepare Your Child for Back-to-School</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unparalleled-containers-red-hat-enterprise-linux-version-93-takes-the-lead/"><u>Experience Unparalleled Containers: Red Hat Enterprise Linux Version 9.3 Takes the Lead!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-the-10-best-techniques-for-becoming-a-pro-at-subway-surfers/"><u>Expert Advice: The 10 Best Techniques for Becoming a Pro at 'Subway Surfers'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-new-samsung-galaxy-z-flip-6-costs-introduction-dates-and-innovative-features/"><u>Explore the New Samsung Galaxy Z Flip 6 – Costs, Introduction Dates & Innovative Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-good-to-great-unveiling-video-enhance-22-secrets-for-2024/"><u>From Good to Great Unveiling Video Enhance 2.2 Secrets for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/practical-strategies-for-converting-pdfs-into-epub-format/"><u>Practical Strategies for Converting PDFs Into EPUB Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-mapping-external-storage-devices-in-macos/"><u>Step-by-Step Tutorial: Mapping External Storage Devices in macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixes-for-missing-mstdfmtdll-files/"><u>Troubleshooting and Fixes for Missing mstdfmt.dll Files</u></a></li>
+</ul></div>
 

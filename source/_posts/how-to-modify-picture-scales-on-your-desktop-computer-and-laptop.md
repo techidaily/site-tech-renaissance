@@ -1,7 +1,7 @@
 ---
 title: How to Modify Picture Scales on Your Desktop Computer & Laptop
-date: 2024-08-18T22:58:37.988Z
-updated: 2024-08-19T22:58:37.988Z
+date: 2025-02-05T20:04:01.555Z
+updated: 2025-02-11T20:30:30.609Z
 tags:
   - win11
   - win10
@@ -29,15 +29,33 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 2. Hold down the power button for**about 5 seconds** until you see the indicator light**flashes** . It’ll make your Beats discoverable.
 3. On your computer keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
  and **I**  key at the same time to go to **Windows Settings**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f5a9e333e.png)
 5. Select**Bluetooth & other devices** in the left pane, then **toggle on** the Bluetooth button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f8cd72a94.jpg)
 6. Click the**plus** icon next to **Add Bluetooth or other device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9668c02f.png)
 7. Select**Bluetooth** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fb09719ea.jpg)
 8. Select your Beats wireless from the list of all discovered Bluetooth devices, then follow any other on-screen instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to pair Beats wireless with Windows 11
 
@@ -53,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 ---
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to do if Windows can’t find your Beats wireless
 
  If your PC can’t find your Beats wireless, here are some methods for you to solve the problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -73,20 +83,18 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 3. [**Enable your Bluetooth driver via Device Manager**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update your Bluetooth driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Turn off Bluetooth in every device your Beats wireless have connected to
 
  When you turn on your Beats wireless headphones or earphones, they automatically reconnect to the device you last used with them. If your Beats last connected to a different device than your computer, you can**turn off Bluetooth in every device they have connected to** , then repeat the steps in [How to pair Beats wireless with Windows 10](https://tools.techidaily.com/drivereasy/download/) to help solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Hold down your Beats’ power button for a longer time
 
  When trying to turn on your Beats wireless, you can hold down the power button for a longer time in order to connect to Windows 10, in some cases up to 10 seconds. It worked for many people who had trouble connecting their Bluetooth audio devices to PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Method 3: Enable your Bluetooth driver via Device Manager
 
  Some people can’t reconnect their Bluetooth headphones to PC because their Bluetooth driver is disabled. Manually enabling the driver via Device Manager would fix the issue:
@@ -96,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 2. Expand the**Bluetooth** entry, or**Sound, video and game controllers** , to find your Beats.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b762db19ec09.png)
 3. If a down arrow icon is marked on your Beats, you should right-click on your device, and select**Enable device** .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then you can repeat the steps in [How to pair Beats wireless with Windows 10](https://tools.techidaily.com/drivereasy/download/) to troubleshoot the problem.
 
 ### Method 4: Update your Bluetooth driver
@@ -111,15 +116,8 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf150e5e1f3f.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf150f4e74e9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -138,8 +136,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +143,26 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hourly-highlight-reel-1-to-10-on-youtubes-view-chart/"><u>[New] 2024 Approved Hourly Highlight Reel #1 to #10 on YouTube's View Chart</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-action-to-archive-top-screenshot-tools-reviewed/"><u>[Updated] From Action to Archive Top Screenshot Tools Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-upcoming-home-assistant-robot-anticipated-cost-launch-timeline-specifications-and-latest-hype/"><u>Apple's Upcoming Home Assistant Robot: Anticipated Cost, Launch Timeline, Specifications & Latest Hype</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-ais-expertise-in-concocting-delicious-drinks-with-chatgpt/"><u>Assessing AI's Expertise in Concocting Delicious Drinks with ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-the-m1-and-m2-ipad-pro-a-comprehensive-comparison-to-find-your-perfect-match/"><u>Choosing Between the M1 and M2 iPad Pro: A Comprehensive Comparison to Find Your Perfect Match</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-note-30-vip-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Note 30 VIP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-hulu-on-demand-with-these-simple-steps-for-your-lg-smarttv-setup/"><u>Enjoy Hulu On Demand with These Simple Steps for Your LG SmartTV Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-why-protecting-your-privacy-with-a-vpn-is-crucial-for-vision-pro-and-similar-arvr-devices-insights/"><u>Essential Guide: Why Protecting Your Privacy with a VPN Is Crucial for Vision Pro & Similar AR/VR Devices - Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-14-pro-max-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 14 Pro Max Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-brand-identity-in-pictures-how-to-watermark-on-instagram/"><u>In 2024, Brand Identity in Pictures How to Watermark on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-firestick-a-comprehensive-guide-to-syncing-the-perfect-remote/"><u>Mastering Your Firestick: A Comprehensive Guide to Syncing the Perfect Remote</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-elevate-prompt-obstacles-with-effective-windows-tips/"><u>Overcoming 'Elevate Prompt' Obstacles with Effective Windows Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-lameencdll-errors-in-your-audio-editing-workflow-with-audacity/"><u>Overcoming lame_enc.dll Errors in Your Audio Editing Workflow with Audacity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-install-essential-asus-software-for-windows-pcs/"><u>Quick Install: Essential Asus Software for Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-apples-mind-blowingly-magical-universal-control-effortlessly-link-your-ipad-and-mac-for-an-enhanced-experience/"><u>The Ultimate Guide to Apple's (Mind-Blowingly Magical) Universal Control: Effortlessly Link Your iPad and Mac for an Enhanced Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-reno-9a-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Reno 9A FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-convenience-mastering-apple-pay-usage-in-retail-and-e-commerce-plus-benefits-you-need-to-know/"><u>Unlocking Convenience: Mastering Apple Pay Usage in Retail & E-Commerce, Plus Benefits You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-x-flip-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo X Flip ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-films-anywhere-using-fandango-on-apple-tv-for-at-home-viewing/"><u>Watch Films Anywhere: Using Fandango on Apple TV for At-Home Viewing</u></a></li>
+</ul></div>
 
