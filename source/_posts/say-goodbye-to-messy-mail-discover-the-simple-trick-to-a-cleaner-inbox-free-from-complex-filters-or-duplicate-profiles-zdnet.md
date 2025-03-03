@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Messy Mail: Discover the Simple Trick to a Cleaner Inbox, Free From Complex Filters or Duplicate Profiles | ZDNET"
-date: 2025-02-07T17:35:31.441Z
-updated: 2025-02-11T18:56:32.982Z
+date: 2025-02-27T00:04:30.560Z
+updated: 2025-03-02T20:06:27.431Z
 tags:
   - apple
 categories:
@@ -83,10 +83,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -94,10 +90,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -123,10 +115,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -135,19 +123,11 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -230,22 +210,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-audio-interface-for-podcasters-a-must-know-tip-for-your-podcasting-setup-for-2024/"><u>[Updated] The Ultimate Audio Interface for Podcasters A Must-Know Tip for Your Podcasting Setup for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-configuring-parent-controls-on-discord/"><u>A Step-by-Step Guide to Configuring Parent Controls on Discord</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/t-friendly-tactics-to-increase-your-youtube-video-impact/"><u>Budget-Friendly Tactics to Increase Your YouTube Video Impact</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-the-mystery-of-laptop-video-editing-with-inshot/"><u>Decoding the Mystery of Laptop Video Editing With Inshot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-no-cost-iphone-tunes-top-8-picks/"><u>Discover the Best No-Cost iPhone Tunes: Top 8 Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-4-tech-helpers-for-efficient-house-painting-jobs/"><u>Discover the Top 4 Tech Helpers for Efficient House Painting Jobs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/error-free-computing-how-to-handle-fm20dll-not-found-issues/"><u>Error-Free Computing: How to Handle fm20.dll Not Found Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-clearing-space-by-deleting-apps-on-your-samsung-smart-tv/"><u>Expert Tips: Clearing Space By Deleting Apps on Your Samsung Smart TV</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-maxsun-catalog-intels-arrow-lake-amds-ryzen-9000-boards-with-latest-unveiled-motherboard-chipsets-and-800-series-labeling/"><u>Exploring the Maxsun Catalog: Intel's Arrow Lake, AMD's Ryzen 9000 Boards with Latest Unveiled Motherboard Chipsets & 800-Series Labeling</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-moto-g04-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Moto G04? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-determine-the-exact-specifications-of-your-macbook/"><u>How to Determine the Exact Specifications of Your MacBook</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-xr21-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-8-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel 8 Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/speeding-up-windows-11-effective-solutions-for-enhanced-efficiency/"><u>Speeding Up Windows 11: Effective Solutions for Enhanced Efficiency</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-defy-2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Defy 2 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722903258846-what-to-expect-from-the-upcoming-samsung-galaxy-s25-ultra-price-predictions-and-release-date-insights/"><u>What to Expect From the Upcoming Samsung Galaxy S25 Ultra - Price Predictions & Release Date Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-transform-your-youtube-channel-url-in-minutes/"><u>[New] 2024 Approved Transform Your YouTube Channel URL in Minutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-audio-archiving-strategies-on-apple-devices/"><u>[New] Audio Archiving Strategies on Apple Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-step-by-step-approach-to-editing-titles-and-descriptions-for-igtv/"><u>[Updated] A Step-by-Step Approach to Editing Titles and Descriptions for IGTV</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exclusive-action-cam-colorization-top-15-luts-to-enhance-cinematography-for-2024/"><u>[Updated] Exclusive Action Cam Colorization Top 15 LUTs to Enhance Cinematography for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Civi 3 Disney 100th Anniversary Edition Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiovid-synergy-community-online/"><u>AudioVid Synergy Community Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-guide-pausing-auto-play-on-your-apple-music-streams/"><u>Easy Guide: Pausing Auto-Play on Your Apple Music Streams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-link-airpods-with-a-windows-pc/"><u>Easy Steps to Link AirPods with a Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-factors-to-evaluate-when-investing-in-a-video-recording-equipment/"><u>Essential Factors to Evaluate When Investing in a Video Recording Equipment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-video-editing-software-the-elite-picks/"><u>Essential Video Editing Software: The Elite Picks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-accurate-colors-and-fix-image-warping-problems-in-computer-screens/"><u>How to Restore Accurate Colors & Fix Image Warping Problems in Computer Screens</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-e-commerce-advancements/"><u>Immersive E-Commerce Advancements</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-find-x6-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo Find X6 Pro online without jailbreak</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-camera-controls-how-to-zoom-on-iphoneipad/"><u>Mastering Camera Controls: How to Zoom on iPhone/iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revel-in-these-14-enthralling-text-based-movements/"><u>Revel in These 14 Enthralling Text-Based Movements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-hooking-up-your-computer-to-the-television-with-hdmi/"><u>Step-by-Step Instructions on Hooking Up Your Computer to the Television with HDMI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-for-discontinuing-your-use-of-twitch/"><u>Step-by-Step Process for Discontinuing Your Use of Twitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-power-of-measure-app-on-android-a-comprehensive-guide/"><u>Unlock the Power of Measure App on Android - A Comprehensive Guide</u></a></li>
 </ul></div>
 

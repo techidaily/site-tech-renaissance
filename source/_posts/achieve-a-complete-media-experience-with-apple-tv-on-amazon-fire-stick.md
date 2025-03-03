@@ -1,7 +1,7 @@
 ---
 title: Achieve a Complete Media Experience with Apple TV on Amazon Fire Stick
-date: 2024-08-12T03:44:08.595Z
-updated: 2024-08-13T03:44:08.595Z
+date: 2025-03-01T23:35:11.637Z
+updated: 2025-03-02T17:53:52.887Z
 categories:
   - BestProducts
 description: This Article Describes Achieve a Complete Media Experience with Apple TV on Amazon Fire Stick
@@ -10,9 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/pSGR-HWZNvVbC5dLueeAgygFWos=/400x300/fi
 ---
 
 ## Unlock the Full Potential of PS5 Gaming - Achieve a Smooth 120 FPS Experience
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -28,34 +25,17 @@ thumbnail: https://www.lifewire.com/thmb/pSGR-HWZNvVbC5dLueeAgygFWos=/400x300/fi
  Depending on the game, the exact setting you'll need to adjust and where it's located will change, but you can usually find what you're looking for in a "Video" or "Graphics" section in Settings or Options.
 
 1. Turn on your PS5, and open**Settings** from the main menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -103,8 +83,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +90,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>[Updated] 2024 Approved Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-live-to-video-key-techniques-in-gaming-recordings/"><u>[Updated] 2024 Approved From Live to Video Key Techniques in Gaming Recordings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-marketing-mastery-crafting-viral-video-campaigns-on-social-media/"><u>2024 Approved Insta-Marketing Mastery Crafting Viral Video Campaigns on Social Media</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-studies-with-the-ideal-school-computer-top-tips-and-tricks-for-smart-purchases/"><u>Ace Your Studies with the Ideal School Computer: Top Tips and Tricks for Smart Purchases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-value-of-minecraft-realms-for-gamers-are-they-justifiable-expenses/"><u>Evaluating the Value of Minecraft Realms for Gamers: Are They Justifiable Expenses?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-verdict-on-the-highly-acclaimed-philips-somneo-alarm-clocks/"><u>Expert Verdict on the Highly Acclaimed Philips Somneo Alarm Clocks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secret-techniques-in-ps-for-first-timers/"><u>In 2024, Secret Techniques in PS for First-Timers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-the-differences-between-signal-and-whatsapp-security-protocols/"><u>Navigating Through the Differences Between Signal and WhatsApp Security Protocols</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210900577-9789395766593-sri-yantra-bhavana-upanishad/"><u>Sri Yantra Bhavana Upanishad | Free Book</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-smartphone-to-a-computer/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Smartphone to a Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-home-tech-apples-rumored-automated-helper-its-estimated-price-and-launch-date-insights/"><u>The Next Big Thing in Home Tech – Apple’s Rumored Automated Helper, Its Estimated Price & Launch Date Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-best-free-streaming-services-on-roku/"><u>Top 8 Best Free Streaming Services on Roku</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-verizon-promotions-and-upgrades-available-this-month/"><u>Top Verizon Promotions & Upgrades Available This Month</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-missing-user32dll-issues/"><u>Troubleshooting and Resolving 'Missing User32.dll' Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-remove-images-from-your-facebook-timeline/"><u>Ultimate Guide: Steps to Remove Images From Your Facebook Timeline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-patch-tuesday-what-does-it-mean-in-cybersecurity/"><u>Understanding Patch Tuesday: What Does It Mean in Cybersecurity?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-android-amidst-anticipation-prospective-pricing-details-and-expected-release-timeline-uncovered/"><u>Upcoming Android Amidst Anticipation: Prospective Pricing Details & Expected Release Timeline Uncovered</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-ea-play-and-is-it-worth-the-money/"><u>What Is EA Play and Is It Worth the Money?</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-14-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 14 files after scanning? | Stellar</u></a></li>
+</ul></div>
 

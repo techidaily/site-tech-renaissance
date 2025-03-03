@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2025-02-09T18:20:55.989Z
-updated: 2025-02-11T23:43:49.582Z
+date: 2025-02-27T17:36:37.859Z
+updated: 2025-03-02T19:36:40.220Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,20 +105,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/calls-on-xiaomi-13t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi 13T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-hulu-and-huluplus-unveiling-key-distinctions/"><u>Comparing Hulu and Hulu+ - Unveiling Key Distinctions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/continuous-monitoring-during-induction-is-critical-for-the-safety-of-both-mother-and-baby/"><u>Continuous Monitoring During Induction Is Critical for the Safety of Both Mother and Baby.</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-youtube-videos-without-spending-a-penny-the-best-tools-for-2024/"><u>Elevate Your YouTube Videos Without Spending a Penny - The Best Tools for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-of-the-fugetek-ft-568-premium-quality-and-durability-in-a-top-tier-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: Premium Quality and Durability in a Top-Tier Selfie Stick</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-blur-resolving-call-of-duty-warzone-screen-shimmer/"><u>Fixing the Blur: Resolving Call of Duty Warzone Screen Shimmer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-implement-bots-on-your-discord-server/"><u>How to Seamlessly Implement Bots on Your Discord Server</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-skip-persistent-sign-in-errors-in-ms-teams/"><u>How to Skip Persistent Sign-In Errors in MS Teams</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-11-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme 11 Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-next-years-cyber-landscape-predictions-and-tips/"><u>Navigating Next Year's Cyber Landscape: Predictions and Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/order-of-the-phoenix-film-how-to-watch-all-harry-potter-movies-sequentially/"><u>Order of the Phoenix (Film): How to Watch All Harry Potter Movies Sequentially</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simplified-techniques-for-shrinking-your-quicktime-media-files/"><u>Simplified Techniques for Shrinking Your QuickTime Media Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-activating-the-microphone-in-your-meta-quest-headset/"><u>The Ultimate Tutorial on Activating the Microphone in Your Meta Quest Headset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-mxf-in-mp3-senza-costi-con-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma I File MXF in MP3 Senza Costi Con Il Servizio Di Conversione Online Di Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-for-scanning-files-directly-from-a-printer-onto-your-computer/"><u>Ultimate Troubleshooting for Scanning Files Directly From a Printer Onto Your Computer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-charting-the-course-to-prodigy-status-for-ajey-carryminati/"><u>[New] 2024 Approved Charting the Course to Prodigy Status for Ajey (CarryMinati)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-who-takes-the-crown-in-action-camera-warfare/"><u>[New] 2024 Approved Who Takes the Crown in Action Camera Warfare?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-declutter-your-tiktok-library-editing-tips-inside/"><u>[New] Declutter Your TikTok Library - Editing Tips Inside</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aiffmovavi/"><u>無限量 AIFF格式自動優化：Movavi的無障礙免費線上轉換器</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-fixes-for-users-facing-problems-on-the-tiktok-platform/"><u>Common Fixes for Users Facing Problems on the TikTok Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/control-your-pcs-social-side-with-these-simple-tips-to-turn-on-or-off-network-discovery-on-windows-11/"><u>Control Your PC's Social Side with These Simple Tips to Turn On or Off Network Discovery on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-our-favorite-apps-to-boost-students-success-in-school-projects/"><u>Discover Our Favorite Apps to Boost Students' Success in School Projects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-fans-of-your-posts-on-instagram-the-complete-strategy/"><u>Discovering Fans of Your Posts on Instagram - The Complete Strategy</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-repair-your-pcs-defective-power-unit-a-step-by-step-guide-from-yl-computing/"><u>How to Repair Your PC's Defective Power Unit: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-dual-authentication-for-your-gmail-account/"><u>How to Set Up Dual Authentication for Your Gmail Account</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/optimal-facebook-video-downloader-top-5-revealed/"><u>Optimal Facebook Video Downloader Top 5 Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-a-budget-friendly-computer-with-ease-navigating-dells-academic-discount-program/"><u>Score a Budget-Friendly Computer with Ease: Navigating Dell’s Academic Discount Program</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-top-value-hd-petcam-a-petcube-showcase/"><u>The Top Value HD Petcam: A Petcube Showcase</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-your-ultimate-cheat-sheet-to-bsod-error-codes/"><u>Unraveling the Mystery: Your Ultimate Cheat Sheet to BSOD Error Codes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-best-mac-methods-for-recording-roblox-games/"><u>Unveiling Best Mac Methods for Recording Roblox Games</u></a></li>
 </ul></div>
 

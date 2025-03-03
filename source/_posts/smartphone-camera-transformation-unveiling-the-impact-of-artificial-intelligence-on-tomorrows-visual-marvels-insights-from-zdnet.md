@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights From ZDNet"
-date: 2025-02-08T23:24:27.992Z
-updated: 2025-02-11T22:14:05.024Z
+date: 2025-03-02T00:33:30.949Z
+updated: 2025-03-02T21:15:42.448Z
 tags:
   - apple
 categories:
@@ -56,10 +56,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -80,10 +76,6 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -103,10 +95,6 @@ Then there's the [Samsung Galaxy S23](https://shop-links.co/link/?url=https%3A%2
 Many smartphones today capture 8K video directly into phone storage. These include the [Samsung Galaxy S23](https://www.zdnet.com/article/samsung-galaxy-s23-plus-review/) (8K was supported as far back as the [S20](https://www.zdnet.com/article/galaxy-s20-s20-plus-s20-ultra-prices-specs-release-date-and-more-you-need-to-know/)), the [Asus ZenFone 9](https://www.zdnet.com/article/asus-zenfone-9-review/), the [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/) can all record 8K video directly into the device.
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
 
@@ -168,10 +156,6 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Quality-of-life enhancements
 
 Smartphone cameras are not only taking better and better pictures and videos, but they're also becoming easier to use at the same time. Here are a few quality-of-life enhancements that make smartphone cameras more helpful to their users. 
@@ -193,10 +177,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -254,14 +234,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-examining-realities-intertwined-what-is-mixed-reality/"><u>[New] Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-ranking-the-best-no-cost-tiktok-to-mp3-conversion-services/"><u>[Updated] 2024 Approved Ranking the Best No-Cost TikTok to MP3 Conversion Services</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-no-cash-needed-for-youtube-audio-check-out-this-list-of-23-crackers/"><u>2024 Approved No Cash Needed for YouTube Audio? Check Out This List of 23 Crackers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-6-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-100-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor 100 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-remove-your-pin-from-windows-11/"><u>How to Remove Your PIN From Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-dnssddll-file-not-detected-a-comprehensive-guide/"><u>Resolving dnssd.dll File Not Detected: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-superior-smartwatch-programs-for-your-android-device/"><u>Ultimate List of Superior Smartwatch Programs for Your Android Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-snapchats-emoji-code-a-comprehensive-user-manual/"><u>Understanding Snapchat's Emoji Code: A Comprehensive User Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-boosting-youtube-view-count-quickly-for-2024/"><u>[New] From Zero to Hero Boosting YouTube View Count Quickly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[Updated] In 2024, How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-turnback-artisan-hub/"><u>[Updated] In 2024, Turnback Artisan Hub</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-narrative-basics-explanation/"><u>[Updated] Narrative Basics Explanation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-years-finest-photo-framers-and-organizers-compilation/"><u>2024 Approved The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/easy-guide-step-by-step-process-of-setting-up-your-new-network-card-tips-from-yl-computing/"><u>Easy Guide: Step-by-Step Process of Setting Up Your New Network Card - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expanding-accessibility-microsoft-broadens-windows-11-compatibility-with-additional-pc-models/"><u>Expanding Accessibility: Microsoft Broadens Windows 11 Compatibility with Additional PC Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-entering-administrative-login-on-windows-11-systems/"><u>Expert Tips for Entering Administrative Login on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/five-effective-methods-to-correct-memory-integrity-errors-on-windows-11-systems/"><u>Five Effective Methods to Correct Memory Integrity Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-arc-browser-a-beautiful-competitor-to-chrome-now-available-for-windows-users/"><u>Introducing Arc Browser: A Beautiful Competitor to Chrome Now Available for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-microsoft-copilot-now-equipped-with-advanced-video-editing-tools/"><u>Introducing Microsoft Copilot: Now Equipped with Advanced Video Editing Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-upgraded-sticky-notes-experience-in-microsoft-windows-1nvite-to-discover-how-it-improves-your-note-taking-journey/"><u>Introducing the Upgraded Sticky Notes Experience in Microsoft Windows 1Nvite to Discover How It Improves Your Note-Taking Journey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/microsofts-commitment-elevating-the-gaming-experience-on-arm-powered-windows-portables/"><u>Microsoft's Commitment: Elevating the Gaming Experience on ARM-Powered Windows Portables</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-the-security-risks-of-modern-office-software-by-microsoft/"><u>Navigating Through the Security Risks of Modern Office Software by Microsoft</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-from-watermarks-7-reliable-video-merger-solutions/"><u>New In 2024, Free From Watermarks 7 Reliable Video Merger Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/os-bridging-virtualmix-pro/"><u>OS-Bridging VirtualMix Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-location-is-not-available-issue-in-windows-1110/"><u>Resolving 'Location Is Not Available' Issue in Windows 11/10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-the-ring-battery-doorbell-plus-experience/"><u>Unboxing and Testing: The Ring Battery Doorbell Plus Experience</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-top-dangers-of-investing-in-digital-assets-insights-from-yl-computing/"><u>Understanding the Top Dangers of Investing in Digital Assets: Insights From YL Computing</u></a></li>
 </ul></div>
 

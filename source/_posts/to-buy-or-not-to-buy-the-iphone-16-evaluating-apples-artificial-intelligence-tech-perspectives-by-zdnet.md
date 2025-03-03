@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not to Buy the iPhone 16: Evaluating Apple’s Artificial Intelligence Tech | Perspectives by ZDNet"
-date: 2025-02-05T20:35:47.858Z
-updated: 2025-02-11T18:54:11.963Z
+date: 2025-02-28T17:32:58.788Z
+updated: 2025-03-02T23:24:19.474Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Intelligence?
 
 Apple
@@ -39,10 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -62,10 +54,6 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -95,10 +83,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -122,10 +106,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -210,20 +190,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide-for-2024/"><u>[New] Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-your-daily-dose-of-humor-and-heartbreak-from-instagram-memes/"><u>[Updated] 2024 Approved Your Daily Dose of Humor & Heartbreak From Instagram Memes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-free-macdvd-to-music-converter-effortless-mp3mp4-extraction-from-dvds-using-macx/"><u>1. Free MacDVD-to-Music Converter: Effortless MP3/MP4 Extraction From DVDs Using MacX</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-utilizing-gmails-tools-to-filter-messages-and-expand-contact-list-efficiently/"><u>Boost Productivity: Utilizing Gmail's Tools to Filter Messages & Expand Contact List Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-to-overcome-the-there-was-a-problem-reboot-glitch-on-your-computer/"><u>Effective Fixes to Overcome the 'There Was a Problem' Reboot Glitch on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-and-enjoy-the-ultimate-list-of-places-to-view-your-fav-music-clips/"><u>Find & Enjoy: The Ultimate List of Places to View Your Fav Music Clips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/full-method-how-to-unlike-all-songs-on-spotify-at-once/"><u>Full Method: How to Unlike All Songs on Spotify at Once</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a1x-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A1x 5G FRP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>In 2024, Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-avcodecdll-cannot-be-found-expert-strategies-and-repairs/"><u>Overcoming 'Avcodec.dll Cannot Be Found' - Expert Strategies and Repairs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-rising-popularity-understanding-the-renewed-interest-in-openstack-and-kata-containers/"><u>The Rising Popularity: Understanding the Renewed Interest in OpenStack & Kata Containers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-eliminating-sound-echo-issues-in-discord-on-your-computer/"><u>Ultimate Guide: Eliminating Sound Echo Issues in Discord on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-bass-management-an-in-depth-guide-on-its-functionality/"><u>Understanding Bass Management: An In-Depth Guide on Its Functionality</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion-in-2024/"><u>Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-fog-no-more-secrets-for-crisp-clean-filming/"><u>[New] 2024 Approved Fog No More Secrets for Crisp, Clean Filming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-10-websites-for-premium-quality-vector-stock-images/"><u>[New] Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inshots-music-integration-techniques/"><u>[Updated] InShot's Music Integration Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/9-must-ask-inquiries-for-savvy-shoppers-in-the-ev-marketplace/"><u>9 Must-Ask Inquiries for Savvy Shoppers in the EV Marketplace</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clearing-up-the-buzz-essential-techniques-for-resolving-outriders-sound-malfunctions/"><u>Clearing Up the Buzz: Essential Techniques for Resolving Outriders Sound Malfunctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-on-how-to-eliminate-windows-system-reserved-area/"><u>Complete Tutorial on How to Eliminate Windows System Reserved Area</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-difference-between-neo-qled-and-oled-televisions/"><u>Decoding the Difference Between Neo QLED and OLED Televisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-initiating-mac-os-xs-rescue-mode-boot-sequence/"><u>Easy Tips for Initiating Mac OS X's Rescue Mode Boot Sequence</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elaborate-assessment-of-simplified-hdr-processing-for-2024/"><u>Elaborate Assessment of Simplified HDR Processing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-best-non-gmail-email-options-dominating-2024/"><u>Explore the Best Non-Gmail Email Options Dominating 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-why-call-of-duty-warzone-ignores-gpu-in-windows-11-setup/"><u>Fix: Why Call of Duty Warzone Ignores GPU in Windows 11 Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-missing-ksuserdll-errors-in-windows-easy-solutions/"><u>Fixing Missing ksuser.dll Errors in Windows – Easy Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-ipados-and-macos-integration-apple-collaborates-with-openai-for-chatgpt-availability-zdnet/"><u>IOS, iPadOS & MacOS Integration: Apple Collaborates with OpenAI for ChatGPT Availability | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-investing-in-minecraft-realms-a-smart-move/"><u>Is Investing in Minecraft Realms a Smart Move?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-on-your-pc/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-details-samsung-galaxy-z-fold-6-launch-pricing-and-specifications/"><u>Unfolding the Details: Samsung Galaxy Z Fold 6 Launch Pricing & Specifications</u></a></li>
 </ul></div>
 

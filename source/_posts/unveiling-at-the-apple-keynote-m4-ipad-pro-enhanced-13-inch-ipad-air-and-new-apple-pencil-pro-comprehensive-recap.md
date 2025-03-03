@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Apple Keynote: M4 iPad Pro, Enhanced 13-Inch iPad Air & New Apple Pencil Pro - Comprehensive Recap"
-date: 2025-02-07T22:03:01.009Z
-updated: 2025-02-11T20:11:35.207Z
+date: 2025-02-24T19:54:27.117Z
+updated: 2025-03-03T02:08:22.757Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
 
@@ -55,10 +51,6 @@ Apple
 Like previous generations, Apple is making the latest iPad Pro available in 11-inch and 13-inch sizes. This iPad Pro is the thinnest Apple product ever, the company says. The 11-inch model is 5.3mm thick, while the 13-inch model is 5.1mm thick, making it thinner than even the iPod Nano.
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
 
@@ -92,19 +84,11 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -121,10 +105,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,20 +140,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-10-leading-mobile-vr-headsets-ranked/"><u>[New] 2024 Approved 10 Leading Mobile VR Headsets Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-powerdirector-2024-reviewed/"><u>[New] Mastering PowerDirector 2024 Reviewed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturereview-station/"><u>[Updated] CaptureReview Station</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-time-bending-tips-iphone-video-reversal-hacks-for-2024/"><u>[Updated] Time-Bending Tips IPhone Video Reversal Hacks for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-wwdc-2025-highlights-and-updates-all-the-latest-tech-news/"><u>Apple WWDC 2025 Highlights & Updates: All the Latest Tech News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-buyers-handbook-choosing-the-perfect-laptop-or-desktop-for-academics/"><u>Comprehensive Buyer's Handbook: Choosing the Perfect Laptop or Desktop for Academics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-androids-ai-capabilities-an-insight-into-system-intelligence/"><u>Exploring Android's AI Capabilities: An Insight Into System Intelligence</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-game-14-must-see-vids-for-youtube-gaming-success/"><u>In 2024, Elevate Your Game 14 Must-See Vids for YouTube Gaming Success</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-organization-on-mac-top-8-metadata-editors/"><u>New 2024 Approved Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/projector-shopping-heres-what-you-need-to-know/"><u>Projector Shopping? Here's What You Need To Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-msstdfmtdll-file-not-detected-issue/"><u>Solving the Msstdfmt.dll File Not Detected Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-using-the-chatgpt-copilot-add-on-effectively/"><u>The Comprehensive Guide to Using the ChatGPT Copilot Add-On Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-top-5-gps-applications-to-enhance-your-iphone-experience/"><u>The Ultimate Selection of Top 5 GPS Applications to Enhance Your iPhone Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-correcting-error-in-moderation-within-chatgpt-services/"><u>Troubleshooting Tips: Correcting 'Error in Moderation' Within ChatGPT Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-on-applying-cc-rights-effectively/"><u>[New] 2024 Approved A Step-by-Step Guide on Applying CC Rights Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fabulous-critique-and-diverse-suggestions/"><u>[New] Fabulous Critique & Diverse Suggestions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/facing-off-against-zombies-in-7-days-to-die-an-exciting-platform-sandbox-experience/"><u>Facing Off Against Zombies in '7 Days to Die' - An Exciting Platform Sandbox Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-spark-go-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Spark Go (2023) to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-android-flip-digital-content-sequence/"><u>Master Android Flip Digital Content Sequence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-hues-a-collection-of-the-best-11-video-tutorials-for-2024/"><u>Mastering Hues A Collection of the Best 11 Video Tutorials for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-twitter-the-ultimate-guide-to-earning-cryptocurrency-advice/"><u>Mastering Twitter: The Ultimate Guide to Earning Cryptocurrency Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/orion-spacecraft-returns-from-lunar-mission-a-closer-look-at-nasas-historic-journey/"><u>Orion Spacecraft Returns From Lunar Mission: A Closer Look at NASA’s Historic Journey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pioneering-ai-imaging-with-adobes-new-venture-into-firefly-artificial-intelligence-systems/"><u>Pioneering AI Imaging with Adobe's New Venture Into Firefly Artificial Intelligence Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preparing-your-residence-for-electric-vehicle-ev-charger-installation-a-step-by-step-guide/"><u>Preparing Your Residence for Electric Vehicle (EV) Charger Installation: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/recent-updates-may-impact-tax-credits-for-popular-choices-in-the-electric-vehicle-market/"><u>Recent Updates May Impact Tax Credits for Popular Choices in the Electric Vehicle Market</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/self-driving-claims-halted-by-tesla-in-certain-american-states-due-to-regulatory-compliance/"><u>Self-Driving Claims Halted by Tesla in Certain American States Due to Regulatory Compliance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-installing-third-party-software-directly-on-oculus-quest/"><u>Step-by-Step Guide: Installing Third-Party Software Directly on Oculus Quest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taking-gardening-to-new-heights-a-comprehensive-guide-using-perplexity-tools/"><u>Taking Gardening to New Heights: A Comprehensive Guide Using Perplexity Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-decline-of-user-satisfaction-in-apples-recent-self-service-repair-scheme/"><u>The Decline of User Satisfaction in Apple's Recent Self-Service Repair Scheme</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-elite-top-1aturals-in-online-dominance-meet-the-10-biggest-websites-ever/"><u>The Elite Top 1Aturals in Online Dominance: Meet The 10 Biggest Websites Ever.</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-is-the-intel-hd-software-not-functioning/"><u>Troubleshooting Guide: Why Is the Intel HD Software Not Functioning?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-vn-video-editor-mobile-app-review-editing-on-the-go/"><u>Updated 2024 Approved VN Video Editor Mobile App Review Editing on the Go</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/verschieben-sie-ihre-sql-server-databases-ein-umfassender-leitfaden-mit-5-methoden/"><u>Verschieben Sie Ihre SQL Server Databases: Ein Umfassender Leitfaden Mit 5 Methoden</u></a></li>
 </ul></div>
 

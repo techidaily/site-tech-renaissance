@@ -1,7 +1,7 @@
 ---
 title: What’s the Shift to Electric Vehicles All About?
-date: 2024-08-12T03:45:04.853Z
-updated: 2024-08-13T03:45:04.853Z
+date: 2025-02-26T22:19:03.615Z
+updated: 2025-03-02T18:03:55.062Z
 categories:
   - BestProducts
 description: This Article Describes What’s the Shift to Electric Vehicles All About?
@@ -17,14 +17,6 @@ thumbnail: https://www.lifewire.com/thmb/fdLBsDKA-1jXAU0_a62fc7RaW5o=/400x300/fi
 
  Some of the biggest automakers in the world have already gone all-in on electric, and some states have now put an expiration date on the internal combustion engine, beyond which you’ll only be able to buy EVs. While these individual forces can push and pull in different directions, the number of EVs on the road continues to increase every year.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ##  What Happened to Electric Vehicles? 
 
  While the current shift to electric vehicles is just getting started, electric vehicles aren’t a recent innovation. Electric vehicles have been around just as long as gas-powered vehicles, and some of the very first automobiles were battery-powered. At the turn of the 20th century, there were actually more electric vehicles on the road than gas-powered vehicles.
@@ -33,15 +25,8 @@ thumbnail: https://www.lifewire.com/thmb/fdLBsDKA-1jXAU0_a62fc7RaW5o=/400x300/fi
 
 [  Electric Vehicles: A Short History Lesson ](https://www.lifewire.com/electric-vehicles-a-short-history-lesson-5202203) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Advances in Battery Technology Opened a Door 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![VW production facility showing numerous EV batteries ready to use in new vehicles.](https://www.lifewire.com/thmb/bNBl_0YANXpNIRw-Gem1diRiaPA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/VWBatteryFactory_SeanGallup_Getty_CROPPEDVERTICAL-fcacc0a93c964a578bb231e036cd6c09.jpg) 
 
 Sean Gallup/Getty
@@ -72,9 +57,6 @@ Sean Gallup/Getty
 
 ##  Building Out a Nationwide Charging Infrastructure 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Electric vehicle charging station sign on top of a public charging station with palm trees in background.](https://www.lifewire.com/thmb/QAuPQ7W17btjbCyOCAgZD45qta0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVChargingstationsignontopofstation_Chuyn_Getty._REDUCEDVERTICALjpg-f8cf27a9296d4bb68a20b6bc14fa02c9.jpg) 
 
 Chuyn/Getty
@@ -91,9 +73,6 @@ Chuyn/Getty
 
  More recently,[ the Biden administration has backed a plan to install 500,000 chargers](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-biden-administration-advances-electric-vehicle-charging-infrastructure/) at 28,000 charging stations in the coming years. That’s more than five times the current capacity of the nationwide charging infrastructure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ##  Automakers Don’t Want to Get Left Behind 
 
  The automotive industry is massive, and it moves much slower than the vehicles it produces. Automakers are often slow to adopt new technologies, and big changes don’t often happen overnight. With that in mind, the major automobile manufacturers have to make their bets early, or risk getting left behind when change actually does come.
@@ -106,9 +85,6 @@ Chuyn/Getty
 
  However, Ford has committed $29 billion to its electric push, and Volkswagen has earmarked more than $35 billion along with a pledge to offer 70 new fully electric models by 2028\. Rolls Royce, owned by BMW, announced it will produce only electric cars by 2030, joining other premium brands like Volkswagen's Bentley, Jaguar's Land Rover, and Mercedes Benz Daimler.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Changing Tide of Consumer Acceptance and Interest 
 
 ![Woman in driver's seat holding car key of her new electric car](https://www.lifewire.com/thmb/49XVIDSGZsozOOD1qH6kmPndJ3Y=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/WomanincarwithkeystonewEV_aquaArtsstudio_Getty-7096572366fc4341a7826e888a83d510.jpg) 
@@ -139,8 +115,6 @@ aquaArts studio/Getty
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +122,21 @@ aquaArts studio/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-building-a-strong-introduction-examples-and-methods/"><u>[New] Building a Strong Introduction Examples & Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-igtv-success-guide-three-methods-to-convert-and-share-videos-for-2024/"><u>[New] IGTV Success Guide Three Methods to Convert and Share Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft/"><u>[New] Navigating Tiny Worlds 5 Ways to Zoom In on Minecraft</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-finding-yt-comments-tips-for-desktop-iphone-android-users/"><u>[Updated] Finding YT Comments Tips for Desktop, iPhone, Android Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-wireless-earbuds-to-a-hewlett-packard-laptop-easy-steps/"><u>Connecting Wireless Earbuds to a Hewlett Packard Laptop - Easy Steps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-correct-x3daudiodll-disappeared-or-undetected-errors/"><u>Effective Strategies to Correct 'x3daudio.dll' Disappeared or Undetected Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-silence-to-symphony-the-ultimate-beginners-manual-on-home-audio-systems/"><u>From Silence to Symphony: The Ultimate Beginner's Manual on Home Audio Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y27-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y27 5G?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-google-home-a-step-by-step-guide-for-desktop-usage/"><u>Mastering Google Home: A Step-by-Step Guide for Desktop Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-network-paths-with-ease-expert-insights-into-using-tracert-on-your-pc/"><u>Navigating Network Paths with Ease: Expert Insights Into Using 'Tracert' On Your PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-iphone-converter-top-6-free-applications-to-use-for-2024/"><u>The Ultimate iPhone Converter Top 6 Free Applications to Use for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-5-pro-digital-cameras-for-smooth-twitch-broadcasts/"><u>Top 5 Pro Digital Cameras for Smooth Twitch Broadcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-reducing-computer-fan-sounds-and-vibrations/"><u>Troubleshooting Steps for Reducing Computer Fan Sounds and Vibrations</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-htc-u23-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your HTC U23 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

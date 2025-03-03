@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights by ZDNET"
-date: 2025-02-09T00:46:41.705Z
-updated: 2025-02-11T18:37:33.201Z
+date: 2025-02-23T19:02:35.088Z
+updated: 2025-03-03T00:37:47.701Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -62,24 +58,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-pros-and-experts-choice-discover-the-finest-12-stock-photography-sites/"><u>[New] Pros and Experts' Choice Discover the Finest 12 Stock Photography Sites</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-youtube-ad-creators/"><u>[Updated] 2024 Approved Best YouTube Ad Creators</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-a-comprehensible-breakdown-for-youtube-annotation-and-card-implementation/"><u>[Updated] A Comprehensible Breakdown for YouTube Annotation and Card Implementation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-screener-info-deconverter/"><u>[Updated] Screener Info Deconverter</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722892289870-all-you-need-to-know-about-apples-latest-wearable-audio-tech-rumors-and-specs-included/"><u>All You Need to Know About Apple's Latest Wearable Audio Tech, Rumors & Specs Included</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/el-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Moto G73 5G FRP?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/installing-microsoft-office-365-seamlessly-a-step-by-step-process-for-windows-and-mac-users/"><u>Installing Microsoft Office 365 Seamlessly - A Step-by-Step Process for Windows and Mac Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-pinning-messages-in-your-instagram-stories/"><u>Mastering the Art of Pinning Messages in Your Instagram Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-remedy-of-kernel32dll-failures-on-windows-platform/"><u>Mastering the Remedy of Kernel32.dll Failures on Windows Platform</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-top-notch-screen-tech-exclusive-laptop-sale-covered-by-zdnet-awaits-your-clicks-now/"><u>Score a Steal with Top-Notch Screen Tech: Exclusive Laptop Sale Covered by ZDNet Awaits Your Clicks Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-headphone-connectivity-issues-on-your-windows-eb-os-device/"><u>Solving Headphone Connectivity Issues on Your Windows Eb OS Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-command-line-interface-within-any-folder/"><u>Step-by-Step Guide: Accessing Command Line Interface Within Any Folder</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reviving-your-waterlogged-apple-device/"><u>Step-by-Step Guide: Reviving Your Waterlogged Apple Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-free-web-based-calendar-apps-we-love/"><u>Top 4 Free Web-Based Calendar Apps We Love</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722890047303-trouble-with-physxloaderdll-heres-how-you-can-solve-the-absence-issue/"><u>Trouble with PhysXLoader.dll? Here’s How You Can Solve the Absence Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-apple-watch-display/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Apple Watch Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-iphone-15-pro-maxs-resilience-to-water-fact-or-myth/"><u>Understanding iPhone 15 Pro Max's Resilience to Water – Fact or Myth?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-high-speed-to-serenity-making-captivating-slow-movies-on-instagram/"><u>[New] From High-Speed to Serenity Making Captivating Slow Movies on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>[Updated] In 2024, Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-skype-interview-techniques-the-ultimate-guide-to-success-in-2-2024/"><u>Essential Skype Interview Techniques: The Ultimate Guide to Success in 2지 2024년</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-gps-functionality-across-different-ipad-releases/"><u>Exploring GPS Functionality Across Different iPad Releases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-latest-windows-improvements-in-july-2024-service-pack-and-patches/"><u>Exploring the Latest Windows Improvements in July 2024 Service Pack and Patches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-lost-in-a-good-story-find-out-which-are-this-years-top-8-ereader-applications-2/"><u>Get Lost in a Good Story - Find Out Which Are This Year's Top 8 eReader Applications (2#)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11/10</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oneplus-open-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-understanding-the-world-of-vsco-photo-editor/"><u>In 2024, Full Understanding The World of VSCO Photo Editor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-way-to-update-your-amd-radeon-rx-460-drivers/"><u>Quick and Easy Way to Update Your AMD Radeon RX 460 Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rev-up-your-pcs-pace-expert-strategies-to-speed-up-windows-11-sluggishness/"><u>Rev Up Your PC's Pace: Expert Strategies to Speed Up Windows 11 Sluggishness</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roku-roaming-guide-seamless-streaming-experience-in-hotels-and-dormitories/"><u>Roku Roaming Guide: Seamless Streaming Experience in Hotels and Dormitories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text/"><u>The Cream of the Crop Top 8 Sites for Rich 3D & Text</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-past-versions-of-websites-how-to-manual-for-leveraging-the-wayback-machine/"><u>Unlocking Past Versions of Websites: How-To Manual for Leveraging the Wayback Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zoom-and-tv-integration-easy-steps-for-sharing-meetings-on-the-big-screen/"><u>Zoom and TV Integration: Easy Steps for Sharing Meetings on the Big Screen</u></a></li>
 </ul></div>
 

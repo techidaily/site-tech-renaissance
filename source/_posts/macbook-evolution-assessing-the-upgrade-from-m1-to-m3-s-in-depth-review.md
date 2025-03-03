@@ -1,7 +1,7 @@
 ---
 title: "MacBook Evolution: Assessing the Upgrade From M1 to M3 'S In-Depth Review"
-date: 2025-01-04T08:23:35.885Z
-updated: 2025-01-11T07:27:05.084Z
+date: 2025-02-24T21:51:52.101Z
+updated: 2025-03-02T22:43:51.050Z
 tags:
   - apple
 categories:
@@ -74,19 +74,11 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C897edf32-4d54-4731-a0de-3986662b4a90%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
 
@@ -94,17 +86,9 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You're working outside or in other very bright environments
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
 
@@ -119,10 +103,6 @@ If you're working in a very fast-paced environment (say, live sports or entertai
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C897edf32-4d54-4731-a0de-3986662b4a90%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -158,22 +138,17 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-xsplit-collection-direct-download-guide-and-review-for-2024/"><u>[New] XSplit Collection Direct Download Guide & Review for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-restore-audio-in-twitters-video-tweets/"><u>[Updated] In 2024, How to Restore Audio in Twitter's Video Tweets</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-android-options-10-gb-emulation-tools/"><u>2024 Approved Best Android Options 10 GB Emulation Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/all-you-need-to-know-about-youtube-shorts-fund-for-2024/"><u>All You Need to Know About YouTube Shorts Fund for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clock-comeback-strategies-repair-missing-windows-time-service/"><u>Clock Comeback Strategies: Repair Missing Windows Time Service</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-no-cost-voip-services-for-2n24/"><u>Discover the Ultimate List of No-Cost VoIP Services for 2N24</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dont-miss-a-buzzer-beater-comprehensive-mens-ncaa-march-madness-and-final-four-radio-highlights/"><u>Don’t Miss a Buzzer-Beater: Comprehensive Men's NCAA March Madness and Final Four Radio Highlights!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-g-to-i-transfer-tactics-how-to-migrate-google-photos-to-icloud-effortlessly/"><u>From G-to-I Transfer Tactics: How To Migrate Google Photos to iCloud Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-plugging-in-to-power-up-a-comprehensive-overview-of-at-home-ev-charging/"><u>From Plugging In to Power Up: A Comprehensive Overview of At-Home EV Charging</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-fixing-the-missing-cygwin1dll-error-on-your-computer/"><u>Guide to Fixing the Missing cygwin1.dll Error on Your Computer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-secure-your-free-lut-resources-top-ten-list/"><u>In 2024, Secure Your Free LUT Resources - Top Ten List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/moto-z2-unpacked-a-smartphones-triumph/"><u>Moto Z2 Unpacked A Smartphone's Triumph</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-waters-of-education-savings-a-step-by-step-to-snagging-a-tidal-academic-discount/"><u>Navigating the Waters of Education Savings: A Step-by-Step to Snagging a Tidal Academic Discount</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/portable-apps-integration-guide-for-w11/"><u>Portable Apps Integration Guide for W11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-offers-score-the-latest-gadgets-this-amazon-prime-weekend/"><u>Unbeatable Offers: Score the Latest Gadgets This Amazon Prime Weekend</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-anywhere-with-these-12-free-mobile-movies-apps/"><u>Watch Anywhere with These 12 Free Mobile Movies Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-authoritative-resource-streamlining-screencasts-on-the-go-with-mobizen/"><u>[Updated] 2024 Approved Authoritative Resource Streamlining Screencasts on the Go With Mobizen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-virtual-venue-video-archivist/"><u>[Updated] 2024 Approved Virtual Venue Video Archivist</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-authorized-streaming-systems/"><u>2024 Approved Advanced Authorized Streaming Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-connect-and-use-your-printer-across-various-gadgets-a-comprehensive-tutorial/"><u>Easily Connect and Use Your Printer Across Various Gadgets – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-server-interaction-with-easy-bot-integration-on-discord/"><u>Elevate Your Server Interaction with Easy Bot Integration on Discord</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-x100-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo X100 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-asus-z370-e-driver-updates-easy-steps-inside/"><u>Get the Newest ASUS Z370-E Driver Updates – Easy Steps Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-change-the-time-on-a-kindle-paperwhite/"><u>How to Change the Time on a Kindle Paperwhite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-elite-selection-expertly-chosen-best-apps-for-your-android-smartwatch/"><u>The Elite Selection: Expertly Chosen Best Apps for Your Android Smartwatch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-experts-guide-to-free-hard-disk-analysis-software-fresh-picks-for-july-2024/"><u>The Expert's Guide to Free Hard Disk Analysis Software - Fresh Picks for July 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/standing-the-impact-of-youtube-money-changes/"><u>Understanding the Impact of YouTube Money Changes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/visual-branding-on-youtubes-iconography-and-images/"><u>Visual Branding on YouTubes Iconography and Images</u></a></li>
 </ul></div>
 

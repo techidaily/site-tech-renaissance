@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Secret Project: Crafting an Encrypted Operating System for Enhanced AI Data Center Security – Unveiled Insights"
-date: 2025-02-05T19:41:21.638Z
-updated: 2025-02-11T17:11:00.269Z
+date: 2025-02-23T19:56:14.429Z
+updated: 2025-03-02T16:07:05.919Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is expected at WWDC 2024?
 
 WWDC is typically the event in which Apple takes the wraps off the next major versions of its assorted operating systems. That means we should anticipate demos of iOS 18, iPadOS 18, MacOS 15, WatchOS 11, tvOS 18, and VisionOS 2.0\. 
@@ -51,10 +47,6 @@ The event provides developers with access to experts, along with highlights of n
 **Also: [10 things I'd like to see in VisionOS 2.0](https://www.zdnet.com/article/10-things-id-like-to-see-in-visionos-2-0/)**
 
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
 
@@ -72,10 +64,6 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Don't forget the other acronym: RCS
 
 Prakhar Khanna/ZDNET
@@ -85,10 +73,6 @@ To the surprise of many, except for the European Commission, Apple [announced la
 **Also: [DOJ sues Apple: What it could mean for iPhone users and iOS developers](https://www.zdnet.com/article/doj-sues-apple-what-it-could-mean-for-iphone-users-and-ios-developers/)**
 
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
 
@@ -128,19 +112,20 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-conquering-viewersphere-channels-that-rule-the-net/"><u>[New] 2024 Approved Conquering Viewersphere Channels that Rule the Net</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-leading-narrative-construction-sphere/"><u>[New] 2024 Approved Leading Narrative Construction Sphere</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-switching-onoff-comment-functionality-on-youtube/"><u>[New] Switching On/Off Comment Functionality on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-typography-and-layout-the-top-10-for-ae/"><u>[Updated] In 2024, Mastering Typography & Layout The Top 10 For AE</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-502-bad-gateway-mistake-and-how-to-resolve-it/"><u>Decoding the 502 Bad Gateway Mistake and How to Resolve It</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/hello-in-german-10plus-german-greetings-beyond-hallo/"><u>Hello in German: 10+ German Greetings Beyond Hallo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206205090-how-to-restore-functionality-in-malfunctioning-arrow-keys-on-your-keyboard/"><u>How To Restore Functionality in Malfunctioning Arrow Keys on Your Keyboard!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-note-30-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Note 30 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-where-the-best-youtube-symbols-are-hidden/"><u>In 2024, Where the Best YouTube Symbols Are Hidden</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-device-managers-code-eror-a-step-by-step-guide/"><u>Resolving Device Manager's Code Eror: A Step-by-Step Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-the-premier-defense-ready-email-solutions-on-the-market/"><u>Uncover the Premier Defense-Ready Email Solutions on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-excitement-dive-into-the-details-of-samsungs-new-smartphone-line-up/"><u>Unveiling Excitement: Dive Into the Details of Samsung's New Smartphone Line-Up</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/updating-or-changing-the-default-audio-alerts-on-your-gmail-messages/"><u>Updating or Changing the Default Audio Alerts on Your Gmail Messages</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-make-videos-with-music-for-tiktok-in-2024/"><u>[Updated] How To Make Videos With Music for Tiktok, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>[Updated] In 2024, Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-social-network-harmony-integrating-instagram-and-facebook/"><u>[Updated] In 2024, Social Network Harmony Integrating Instagram & Facebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>2024 Approved Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-seamless-integration-of-text-with-image-editing-tools/"><u>2024 Approved Seamless Integration of Text with Image Editing Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-line-chat-app-features-an-insiders-review-guide/"><u>Exploring LINE Chat App Features: An Insider's Review Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-defy-2-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Defy 2</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-best-practices-elevating-your-virtual-identity-on-facebook/"><u>In 2024, Best Practices Elevating Your Virtual Identity on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-maintaining-privacy-by-removing-pictures-from-facebook/"><u>Master the Art of Maintaining Privacy by Removing Pictures From Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-files-with-command-line-tools-a-beginners-approach/"><u>Navigating Through Files with Command Line Tools: A Beginner's Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-beginners-handbook-for-linking-up-your-newest-chromecast-remote/"><u>The Beginner's Handbook for Linking Up Your Newest Chromecast Remote</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-helperdll-not-found-issues-in-windows/"><u>The Ultimate Fix for 'Helper.dll Not Found' Issues in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-engagement-mastering-instagram-stories/"><u>The Ultimate Guide to Engagement Mastering Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-secure-your-instagram-verification-badge/"><u>Ultimate Guide: Steps to Secure Your Instagram Verification Badge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxdvd-remboursement-logiciel-politique-detaillee-par-digiarty/"><u>WinXDVD Remboursement Logiciel: Politique Détaillée Par Digiarty</u></a></li>
 </ul></div>
 

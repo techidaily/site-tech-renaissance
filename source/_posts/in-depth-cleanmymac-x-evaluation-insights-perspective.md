@@ -1,7 +1,7 @@
 ---
 title: "In-Depth CleanMyMac X Evaluation: Insights Perspective"
-date: 2025-02-07T21:42:33.639Z
-updated: 2025-02-11T20:36:50.165Z
+date: 2025-02-26T20:58:52.426Z
+updated: 2025-03-02T16:49:00.841Z
 tags:
   - apple
 categories:
@@ -38,19 +38,11 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What makes a phone ZDNET recommended?
 
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Design and ergonomics
 
@@ -61,10 +53,6 @@ How a phone looks and feels can greatly influence the overall experience. There'
 But also, how does the phone feel when it's tucked in your tight jeans or lightweight shorts? When testing and recommending phones, we consider design and ergonomics heavily, understanding that not everyone wants the biggest and most premium-feeling option out there. For example, a device with a plastic casing will serve you better than an all-glass build if you're a construction worker or someone who's often outdoors.
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance
 
@@ -86,10 +74,6 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery life and charging
 
 Kerry Wan/ZDNET
@@ -97,10 +81,6 @@ Kerry Wan/ZDNET
 It's also important for us to evaluate how long phones last under light, moderate, and heavy usage, how long they take to recharge, and how they do it (wired, wireless, or both). We typically judge the endurance of phones based on screen-on time (SOT); that's the total amount of time the screen is turned on, whether you're scrolling through TikTok or typing an email. The higher the SOT, the longer the phone lasts.
 
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Special features
 
@@ -148,21 +128,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-memorable-experiences-with-vr-escapades/"><u>[New] 2024 Approved Crafting Memorable Experiences with VR Escapades</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-viral-video-voyage-unveiling-the-trendiest-tweets-of-2023/"><u>[New] 2024 Approved Viral Video Voyage Unveiling the Trendiest Tweets of 2023</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-blueprint-for-effective-metaverse-engagement/"><u>[Updated] Blueprint for Effective Metaverse Engagement</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726227624623-2024app/"><u>2024年度流行的高效照片去背軟體及App選拔 [最新影像編輯優選]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/elevate-your-mind-while-you-multitask-top-15-ideas-for-podcast-lovers/"><u>Elevate Your Mind While You Multitask Top 15 Ideas for Podcast Lovers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/endless-skies-of-tamriel-fixing-the-looped-load-screens-in-skyim/"><u>Endless Skies of Tamriel? Fixing the Looped Load Screens in Skyim</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exposing-hidden-files-in-macos-the-ultimate-terminal-command-tutorial/"><u>Exposing Hidden Files in macOS - The Ultimate Terminal Command Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-criticalprocessdied-error-0xc0000185-in-windows/"><u>Fixing the CRITICAL_PROCESS_DIED Error (0XC0000185) in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722898263157-handling-iphone-email-problems-heres-what-you-need-to-know/"><u>Handling iPhone Email Problems? Here's What You Need to Know!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-quick-guide-to-starting-an-instagram-live-show/"><u>In 2024, Quick Guide to Starting an Instagram Live Show</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/leading-free-console-reproduction-devices/"><u>Leading Free Console Reproduction Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/masterful-platformers-the-top-6-super-mario-bros-games-to-play-on-windows-and-mac/"><u>Masterful Platformers: The Top 6 Super Mario Bros Games to Play on Windows and Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/next-gen-pixel-device-unveiling-price-forecasts-expected-launch-date-and-insider-speculation/"><u>Next-Gen Pixel Device Unveiling: Price Forecasts, Expected Launch Date & Insider Speculation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx940dll-file-not-present-mishap-on-your-pc/"><u>Resolving d3dx9_40.dll File Not Present Mishap on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-fixing-stop-error-code-0x00000078-phase0exception/"><u>Step-by-Step Solution for Fixing STOP Error Code 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210380502-9781737410614-the-fun-of-dying/"><u>The Fun of Dying | Free Book</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unlock-advanced-features-of-obs-studio-on-android-platforms-for-2024/"><u>[New] Unlock Advanced Features of OBS Studio on Android Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-newfrontiersincameratech/"><u>[Updated] 2024 Approved NewFrontiersInCameraTech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-brilliance-bunch-leading-gk-video-channels/"><u>[Updated] In 2024, Brilliance Bunch Leading GK Video Channels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-11x-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from 11X 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/child-friendly-chatting-activating-and-managing-parent-lock-on-discord-platforms/"><u>Child-Friendly Chatting: Activating and Managing Parent Lock on Discord Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-virtual-reality-biking-must-haves/"><u>In 2024, Top 10 Virtual Reality Biking Must-Haves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-voice-commands-guiding-siri-to-read-aloud-your-texts-on-apple-devices/"><u>Mastering Voice Commands: Guiding Siri to Read Aloud Your Texts on Apple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-website-access-overcoming-a-401-authentication-failure/"><u>Mastering Website Access: Overcoming a 401 Authentication Failure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/meme-architectural-genius-top-picks/"><u>Meme Architectural Genius Top Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/storing-your-stories-and-snaps-safely-on-ios-devices/"><u>Storing Your Stories and Snaps Safely on iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-samsung-galaxy-s25-leaked-info-price-forecasts-and-launch-details-unveiled/"><u>Upcoming Samsung Galaxy S25 Leaked Info: Price Forecasts & Launch Details Unveiled</u></a></li>
 </ul></div>
 

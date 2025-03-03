@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Your MacBook Model Numbers with Ease
-date: 2024-08-12T03:44:53.116Z
-updated: 2024-08-13T03:44:53.116Z
+date: 2025-02-24T23:42:31.154Z
+updated: 2025-03-02T18:54:35.949Z
 categories:
   - BestProducts
 description: This Article Describes Unlock the Secrets of Your MacBook Model Numbers with Ease
@@ -10,10 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 ---
 
 ## MacBook Users' Secret: Prevent Automatic Sleep Mode with a Simply Closed Lid
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### What to Know
 
 * **System Settings** \>**Lock Screen** \>**Turn display off on power adapter when inactive** \>**Never** .
@@ -22,29 +18,15 @@ The ultimate burning program for all your needs!</a>
 
  This article explains how to prevent your MacBook from sleeping when the lid is closed.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## How to Keep Your MacBook On When Closed
 
  You'll need to change a few settings to stop your MacBook from going to sleep with the lid closed.  
 
 1. Click**System Settings** or**System Preferences** from the Apple menu in the upper left corner.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Apple menu on a MacBook](https://www.lifewire.com/thmb/l1I1ckMK4T1_Bb8Nx1Ws760pXLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macos-apple-menu-6e1d16f2da7f416bb5b09df2e105dc93.png)
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
@@ -56,19 +38,12 @@ The ultimate burning program for all your needs!</a>
 
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Does My MacBook Sleep When I Close the Lid?
 
  Your MacBook sleeps when you close the lid for several reasons, depending on whether it's plugged in. When plugged in, it sleeps to help conserve energy and allow it to charge more quickly, as it uses much less power while asleep. When running on battery power, it sleeps when you close the lid to conserve battery power. Since you typically don't need to use your MacBook when the lid is closed, the default setting is for the display to turn off and the MacBook to sleep whenever the lid is closed.
 
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
 
  Apple only provides you with one way to keep your MacBook from sleeping with the lid closed: tweak the[energy-saver settings](https://www.lifewire.com/use-energy-saver-preferences-pane-2260733) , connect the battery charger, and plug in an external monitor.
@@ -104,8 +79,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +86,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-vhs-illusions-transforming-video-artistry-for-2024/"><u>[Updated] Essential VHS Illusions Transforming Video Artistry for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-10-techniques-for-youtube-to-mp4-conversion/"><u>[Updated] Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-gain-on-ig-unveiling-high-payoff-content-strategies/"><u>2024 Approved Gain on IG Unveiling High-Payoff Content Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-setting-up-an-alternate-email-address-on-gmail/"><u>A Step-by-Step Guide: Setting Up an Alternate Email Address on Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722862616590-colorful-organization-on-the-mac-learn-to-change-folder-colors-today/"><u>Colorful Organization on the Mac: Learn to Change Folder Colors Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-education-apps-the-ultimate-list/"><u>Discover the Premier Education Apps - The Ultimate List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-ussd-technology-an-insight-into-unstructured-supplementary-service-data-systems/"><u>Exploring USSD Technology: An Insight Into Unstructured Supplementary Service Data Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Asus ROG Phone 8 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-pioneering-the-path-to-financial-independence-on-social-media-platforms/"><u>In 2024, Pioneering the Path to Financial Independence on Social Media Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-mov-capture-potential-on-windows-10/"><u>In 2024, Unlocking MOV Capture Potential on Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-24-hot-picks-amazing-family-films-to-watch-on-amazon-prime-video-today/"><u>July '24 Hot Picks: Amazing Family Films to Watch on Amazon Prime Video Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-connect-all-your-gadgets-using-just-one-mobile-number/"><u>Seamlessly Connect All Your Gadgets Using Just One Mobile Number</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-updating-logitech-g13-gameboard-with-new-driver/"><u>Step-by-Step Guide for Updating Logitech G13 Gameboard with New Driver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-recover-a-lost-msvcrt10dll-file/"><u>Troubleshooting Guide: How to Recover a Lost msvcrt10.dll File</u></a></li>
+</ul></div>
 

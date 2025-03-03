@@ -1,7 +1,7 @@
 ---
 title: "Section 3B: Five Facts to Remember"
-date: 2025-02-06T20:46:02.452Z
-updated: 2025-02-11T21:13:40.909Z
+date: 2025-02-24T19:59:41.405Z
+updated: 2025-03-02T22:08:21.043Z
 tags:
   - apple
 categories:
@@ -61,10 +61,6 @@ Stalkerware is typically used to spy on someone as an individual and watch what 
 
 Finally, there's **government-grade commercial spyware**. [Pegasus](https://www.zdnet.com/article/nso-groups-pegasus-spyware-used-against-journalists-political-activists-worldwide-report/) is one of the most well-known variants, sold to governments as a tool for combating terrorism and for law enforcement purposes. Pegasus was ultimately found on smartphones belonging to journalists, activists, political dissidents, and lawyers. Unless you're part of a group of specific interest to ethically challenged governments, it's unlikely that commercial-grade spyware will impact you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the warning signs of a spyware infection attempt?
 
 There are several signs to watch for that might indicate you are being targeted by a spyware or stalkerware operator. 
@@ -80,10 +76,6 @@ To catch a victim unaware, phishing messages will lure you into clicking a link 
 When it comes to stalkerware, initial infection messages may be more personal and tailored to the victim. Physical access or the victim's accidental installation of spyware is necessary. However, installing some variants of stalkerware can take mere moments.
 
 If your phone goes missing or has been out of your possession for a time, and reappears with different settings or changes that you do not recognize, this may be an indicator that your device has been tampered with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the typical signs that spyware is on my phone?
 
@@ -164,10 +156,6 @@ Government-grade spyware can be more difficult to detect. However, as noted in a
 * **Use a** [**trusted, paid VPN service**](https://www.zdnet.com/article/best-vpn/) **and install an app that warns when your device has been jailbroken. Some AV apps will also** perform this check.
 * **GrapheneOS**: It is also recommended that individuals who suspect a Pegasus infection make use of a secondary device, preferably running the Android-based [GrapheneOS](https://grapheneos.org/), for secure communication.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I keep spyware and stalkerware off my device in the first place?
 
 Unfortunately, no mobile device is completely protected against the scourge of spyware. However, we have provided some tips below to mitigate the risk of future infections:
@@ -182,10 +170,6 @@ Unfortunately, no mobile device is completely protected against the scourge of s
 * **Do not jailbreak your device**: Jailbreaking not only voids your warranty but can also allow malicious apps and software to have a deep foothold in your operating system, which may make removal extremely difficult or impossible.
 * **Enable multi-factor authentication (MFA):** When account activity and logins require further consent from a mobile device, this can also help protect individual accounts. (However, spyware may intercept the codes sent during [2FA](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/) protocols.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are Google and Apple doing to protect Android and iOS devices?
 
 Google and Apple are generally quick to tackle malicious apps that manage to avoid the privacy and security protections imposed in their respective official app stores. 
@@ -199,10 +183,6 @@ Since then, Google has banned stalkerware ads, and the firm's [Threat Analysis G
 Apple has [cracked down](https://www.zdnet.com/article/apple-refutes-anti-competitive-parent-control-app-claims-says-removal-was-for-security-user-privacy/) on parental control apps, citing privacy-invading functions as the reason for removal. The company offers its own parental device control service called [Screen Time](https://www.cnet.com/how-to/ios-12-screen-time-and-stronger-parental-controls/) for parents who want to limit their child's device usage. Furthermore, the company does not allow [sideloading](https://www.apple.com/privacy/docs/Building%5Fa%5FTrusted%5FEcosystem%5Ffor%5FMillions%5Fof%5FApps%5FA%5FThreat%5FAnalysis%5Fof%5FSideloading.pdf) \-- that is, the installing of third-party apps from sources other than Apple's App Store, and is quick to remove any iOS apps that display privacy-eroding functionality.
 
 In 2022, Apple revealed the details of a [$10 million grant](https://www.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/) to research ways to combat state-sponsored spyware. Recently, the company [issued an alert](https://www.forbes.com/sites/kateoflahertyuk/2024/04/12/apple-issues-new-spyware-attack-warning-to-iphone-users/) to iPhone users in 92 countries, warning them of remote, targeted attacks launched by spyware operators. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are parental control apps spyware?
 
@@ -251,24 +231,22 @@ However, they are limited in scope and you may not be able to use them once a ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>[New] 2024 Approved Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-group-gallery-gatherer/"><u>[New] In 2024, Group Gallery Gatherer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-insider-guide-recording-full-desktop-scenes-in-w8/"><u>[New] Insider Guide Recording Full Desktop Scenes in W8</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-female-gamers-on-youtube-2024-updated/"><u>[New] Top 10 Female Gamers on YouTube | 2024 Updated</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-timing-your-podcast-release-effectively/"><u>[Updated] Timing Your Podcast Release Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/block-mystery-callers-on-your-iphone-a-step-by-step-instructional-article/"><u>Block Mystery Callers on Your iPhone: A Step-by-Step Instructional Article</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-correcting-the-vcompdll-missing-file-error/"><u>Comprehensive Guide: Correcting the Vcomp.dll Missing File Error</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-access-to-ai-chatbots-via-quoras-poe/"><u>Effortless Access to AI Chatbots via Quora's POE</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-linksys-ae1200-drivers-instantly-start-here/"><u>Get Your Linksys AE1200 Drivers Instantly - Start Here</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-permanently-remove-images-from-your-facebook-profile-page/"><u>How to Permanently Remove Images From Your Facebook Profile Page</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-dual-security-for-gmail-with-2-factor-auth/"><u>How to Set Up Dual Security for Gmail with 2 Factor Auth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-cloud-entertainment-the-definitive-guide-for-xbox-game-pass-ultimate-users/"><u>Navigating Cloud Entertainment: The Definitive Guide for Xbox Game Pass Ultimate Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-power-cycle-your-iphone-15-troubleshooting-tips/"><u>Simple Steps to Power Cycle Your iPhone 15 - Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-accessing-fandango-movies-via-apple-tv-for-a-cozy-night-in/"><u>Step-by-Step Tutorial: Accessing Fandango Movies via Apple TV for a Cozy Night In</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-for-optimizing-your-digital-television-signal-using-interior-antennas/"><u>The Ultimate Guide for Optimizing Your Digital Television Signal Using Interior Antennas</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram-for-2024/"><u>The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twit-tumble-sharing-videos-seamlessly/"><u>Twit-Tumble Sharing Videos Seamlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/typing-the-heart-emoji-with-ascii-keys-a-comprehensive-tutorial/"><u>Typing the Heart Emoji with ASCII Keys - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-inside-look-how-does-vr-headgear-work/"><u>[New] In 2024, Inside Look How Does VR Headgear Work?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-step-by-step-instruction-for-wm6-install/"><u>[New] Step-by-Step Instruction for WM6 Install</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook-for-2024/"><u>[Updated] The Key to Earning on YouTube In-Depth Ad Revenue Guidebook for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-system-sharing-quick-and-effective-techniques-for-transferring-files/"><u>2024 Approved Seamless System Sharing Quick and Effective Techniques for Transferring Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-who-to-unfollow-on-x-the-ultimate-guide-for-optimal-social-media-management/"><u>Deciding Who to Unfollow on X: The Ultimate Guide for Optimal Social Media Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxgidll-reemerge-easy-fixes-for-windows-11-users/"><u>Dxgi.dll Reemerge: Easy Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-link-up-a-users-guide-to-connecting-oculus-quest-2-and-phones/"><u>Effortless Link-Up: A User's Guide to Connecting Oculus Quest 2 and Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-broken-xbox-series-x-or-s-headset-connections/"><u>Expert Tips for Fixing Broken Xbox Series X or S Headset Connections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-battle-of-mobile-platforms-apple-app-store-against-google-play-services/"><u>Exploring the Battle of Mobile Platforms: Apple App Store Against Google Play Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-hot-30i-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Hot 30i</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-x-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone X Smoothly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-lite-unveiled-anticipated-launch-details-cost-estimates-and-leaked-features/"><u>Meta Quest 3 Lite Unveiled: Anticipated Launch Details, Cost Estimates & Leaked Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/paramountplus-unsubscribing-process-explained-in-detail/"><u>Paramount+ Unsubscribing Process Explained in Detail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-made-easy-a-comprehensive-tutorial-on-samsung-soundbar-setup/"><u>Resetting Made Easy: A Comprehensive Tutorial on Samsung Soundbar Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-to-flagging-messages-as-read-in-gmail/"><u>The Complete Guide to Flagging Messages as Read in Gmail</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-complete-guide-to-uploading-virtual-realities-editing-and-publishing-360-degree-vids/"><u>The Complete Guide to Uploading Virtual Realities Editing & Publishing 360-Degree Vids</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-glitches-fixing-the-rdr2-errgfxstate-mistake/"><u>Troubleshooting Graphics Glitches: Fixing the RDR2 ERR_GFX_STATE Mistake</u></a></li>
 </ul></div>
 

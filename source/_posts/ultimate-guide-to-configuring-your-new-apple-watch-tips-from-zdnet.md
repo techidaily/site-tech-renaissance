@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2025-02-10T23:30:38.554Z
-updated: 2025-02-11T17:40:24.489Z
+date: 2025-02-28T21:37:59.210Z
+updated: 2025-03-02T19:26:13.042Z
 tags:
   - apple
 categories:
@@ -54,10 +54,6 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
@@ -71,10 +67,6 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -118,27 +110,15 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,20 +159,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-speedy-execution-tactics-for-fb-video-success-for-2024/"><u>[New] Speedy Execution Tactics for FB Video Success for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevating-impact-refined-techniques-in-ppt-presentation-speaking/"><u>2024 Approved Elevating Impact Refined Techniques in PPT Presentation Speaking</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balancing-act-camera-gimbals-for-drones/"><u>Balancing Act Camera Gimbals for Drones</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-efficient-methods-for-compiling-songs-on-youtube-for-2024/"><u>Discover Efficient Methods for Compiling Songs on YouTube for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dominate-apple-tv-secrets-to-skyrocketing-success/"><u>Dominate Apple TV - Secrets to Skyrocketing Success</u></a></li>
-<li><a href="https://fox-http.techidaily.com/easy-color-techniques-for-professional-outputs/"><u>Easy Color Techniques for Professional Outputs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-evolution-from-streaming-giant-to-dvd-rentals-a-look-at-netflixs-former-business-model/"><u>Exploring the Evolution From Streaming Giant to DVD Rentals: A Look at Netflix's Former Business Model</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-pro-max-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Max Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-instagrams-secrets-for-creating-must-watch-unboxings/"><u>In 2024, Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/keep-your-macbook-active-with-lid-closed-a-step-by-step-guide/"><u>Keep Your MacBook Active with Lid Closed: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sonys-automotort-ambition-the-afeela-car-insider-info-on-cost-estimates-market-entry-date-and-technical-specifications/"><u>Sony's Automotort Ambition - The Afeela Car: Insider Info on Cost Estimates, Market Entry Date & Technical Specifications!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-stop-code-0x0000003d-on-windows/"><u>Step-by-Step Solutions for Fixing Stop Code 0X0000003D on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-on-the-big-screen-easy-setup-steps/"><u>Streaming TikTok Videos on the Big Screen: Easy Setup Steps</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-fundamentals-of-captivating-video-scripts/"><u>The Fundamentals of Captivating Video Scripts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-discreet-watcher-of-social-media-life-for-2024/"><u>[New] Discreet Watcher of Social Media Life for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-inshot-guide-successfully-load-tracks-into-videos/"><u>[New] In 2024, InShot Guide Successfully Load Tracks Into Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[Updated] 2024 Approved Influence Unleashed 5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-revolutionize-your-podcast-reach-with-smart-seo/"><u>[Updated] 2024 Approved Revolutionize Your Podcast Reach with Smart SEO</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-solutions-for-fixing-problems-with-your-zoom-devices-camera/"><u>DIY Solutions for Fixing Problems with Your Zoom Device's Camera</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-fixes-for-the-common-missing-propsysdll-problem/"><u>Expert Fixes for the Common 'Missing Propsys.dll' Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fitting-your-full-vision-into-an-insta-worthy-post-a-step-by-step-process/"><u>Fitting Your Full Vision Into an Insta-Worthy Post: A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-google-showcase-news-stories-speculations-and-key-releases-unveiled/"><u>Future Google Showcase: News Stories, Speculations, and Key Releases Unveiled</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros-for-2024/"><u>Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-repair-of-code-39-errors-in-your-windows-setup/"><u>Mastering the Repair of Code 39 Errors in Your Windows Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/newly-revised-july-2024-linksys-default-login-information-a-complete-overview/"><u>Newly Revised July 2024 Linksys Default Login Information - A Complete Overview</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfect-your-instagram-vocal-presence-quickly-for-2024/"><u>Perfect Your Instagram Vocal Presence Quickly for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-anleitung-zum-ubertragen-eines-benutzerkontos-von-windows-11-zu-einem-anderen-datentrager/"><u>Schritt-Für-Schritt-Anleitung Zum Übertragen Eines Benutzerkontos Von Windows 11 Zu Einem Anderen Datenträger</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-use-of-microsoft-store-app-on-win11/"><u>Simplifying Use of Microsoft Store App on Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722556254392-site-local-multicast-addresses-are-not-intended-for-routing-beyond-a-single-site/"><u>Site-Local Multicast Addresses Are Not Intended for Routing Beyond a Single Site</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixing-errors-when-gsdll32dll-is-not-detected/"><u>Troubleshooting and Fixing Errors When gsdll32.dll Is Not Detected</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-value-of-installing-a-wi-fi-mesh-network-in-your-home-or-office/"><u>What's the Value of Installing a Wi-Fi Mesh Network in Your Home or Office?</u></a></li>
 </ul></div>
 

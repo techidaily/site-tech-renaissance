@@ -1,7 +1,7 @@
 ---
 title: "Voice-Activated Help: Enable Siri's Text-Reading Feature on iPhone & MacBook"
-date: 2024-08-12T03:37:41.705Z
-updated: 2024-08-13T03:37:41.705Z
+date: 2025-02-28T20:32:05.106Z
+updated: 2025-03-03T01:14:22.019Z
 categories:
   - BestProducts
 description: "This Article Describes Voice-Activated Help: Enable Siri's Text-Reading Feature on iPhone & MacBook"
@@ -10,9 +10,6 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 ---
 
 ## Voice-Activated Help: Enable Siri's Text-Reading Feature on iPhone & MacBook
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * On an iPhone, go to**Settings > Accessibility** \>**Spoken Content** to enable**Speak Selection** and**Speak Screen** .
@@ -36,34 +33,19 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 
  Enabling**Highlight Content** in the**Spoken Content** settings helps you follow the words as Siri read them. Change the highlight colors if you don’t like the default blue. It’s a handy feature for reviewing documents on the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make Siri Read Text on macOS
 
  Spoken content works a bit differently on macOS. It's again an accessibility feature that uses text to speech to read what’s on the screen. On the macOS, it's activated by a keyboard shortcut instead of a direct Siri command.
 
 1. Select**Apple menu** \>**System Preferences.**  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A Mac desktop with System Preferences displayed on a menu](https://www.lifewire.com/thmb/JePVkwZGU-m6dF4Y0a30lGySjqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent-7d71e81fd5954ab2afde7e7e9a5a9784.jpg)
 2. Select**Accessibility** \>**Spoken Content** . Check the**Speak selection** box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Mac accessibility settings with the Spoken Content option highlighted](https://www.lifewire.com/thmb/c0bq7RNNBDrxDv0vfw_qc6WWYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent2-9f3887c708684f8b9cfec0b0e387a86f.jpg)
 3. Select**Options** to change the keyboard shortcut if required.  
 ![macOS Accessibility Options](https://www.lifewire.com/thmb/I7B33RXXHsUmsee6IPS_Ab4Rq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Accessibility-Options-978adbae8c8049ee8577a2f30724ffe4.jpg)
 4. Leave the other options to their defaults or change them to have words, sentences, or both highlighted as your Mac speaks. Underlined or highlighted sentences mark the spoken sentences to help your eyes track them. Select the pop-up menu for**Highlight content** and choose**Never** to disable highlighted text.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![The Highlight Content options in Mac with "Never" highlighted](https://www.lifewire.com/thmb/0jTMxiH3ijI6Sd2taHnCjACVvGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent3-bea1792702df4aacbd9dadfd0458b9e1.jpg)
 5. Select the**Show controller** pop-up menu to choose the behavior of the controller. By default, the controller will appear with the spoken content and allow you to set the speed. Use the buttons to play, pause, skip ahead or back, or stop the narration. The**turtle** icon on the left slows down the speaking rate while the**rabbit** boosts it.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac Show Controller menu options with 'Automatically' highlighted](https://www.lifewire.com/thmb/0Sz__njRMCAB-J-Y3iumEA-7bSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent4-aefe0f45f6be477c9210d77742d541ce.jpg)
 6. Use the keyboard shortcut**Option** +**Esc** to make macOS read the selected text.
 
@@ -96,8 +78,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +85,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-essential-guide-windows-movie-maker-in-animation-production-for-2024/"><u>[New] Essential Guide Windows Movie Maker in Animation Production for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/einvent-your-youtube-presence-a-guide-to-elevated-subscription-rates/"><u>[New] Reinvent Your YouTube Presence A Guide to Elevated Subscription Rates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-why-photo-booth-videos-freeze-suddenly/"><u>[Updated] Exploring Why Photo Booth Videos Freeze Suddenly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionizing-content-creation-the-future-of-live-video-on-facebook/"><u>[Updated] Revolutionizing Content Creation The Future of Live Video on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-transforming-channels-via-youtube-music-upload/"><u>2024 Approved Transforming Channels via Youtube Music Upload</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722886049547-accidentally-sent-heres-how-you-can-retrieve-your-emails-in-outlook/"><u>Accidentally Sent? Here's How You Can Retrieve Your Emails in Outlook!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10-for-2024/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-i-send-and-receive-imessages-on-my-android-phone/"><u>How Can I Send and Receive iMessages on My Android Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a18-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo A18</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimize-and-revitalize-your-computer-overcoming-windows/"><u>Optimize and Revitalize Your Computer: Overcoming Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-or-unavailable-helperdll-easy-repair-tips/"><u>Overcoming Missing or Unavailable Helper.dll – Easy Repair Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-the-7-most-effective-techniques-to-enhance-your-computers-speed/"><u>Quick Fixes: The 7 Most Effective Techniques to Enhance Your Computer's Speed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-lagging-deathloop-gameplay-performance-on-pc/"><u>Resolved: Fixes for Lagging Deathloop Gameplay Performance on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-fifa-19-pc-game-crashes/"><u>Resolved: How to Fix FIFA 19 PC Game Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-the-newly-released-samsung-galaxy-watch-7-pricing-specs-and-release-updates/"><u>The Comprehensive Guide to the Newly Released Samsung Galaxy Watch #7 - Pricing, Specs and Release Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-guide-to-free-drive-diagnosis-apps-latest-picks/"><u>The Essential Guide to Free Drive Diagnosis Apps: Latest Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-quintessential-quintet-free-malicious-software-busters/"><u>Unveiling The Quintessential Quintet: Free Malicious Software Busters</u></a></li>
+</ul></div>
 

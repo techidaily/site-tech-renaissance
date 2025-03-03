@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Screenshots and Social Shares on Nintendo Switch Gaming Console
-date: 2024-08-12T03:44:13.462Z
-updated: 2024-08-13T03:44:13.462Z
+date: 2025-02-28T16:26:56.848Z
+updated: 2025-03-02T16:22:13.279Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Screenshots and Social Shares on Nintendo Switch Gaming Console
@@ -15,9 +15,6 @@ Close
 
  When you've just achieved something impressive in your favorite[ Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) game, it's great to be able to take a screen capture of your progress and share it with others. Here's how to take Nintendo Switch screenshots, and what you need to know about sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Take a Screenshot on Nintendo Switch 
 
  Taking a screenshot is super easy with the Nintendo Switch, provided you know what button to press: 
@@ -27,16 +24,10 @@ Close
 
  Once you've pressed the screenshot button on either controller, you'll hear a camera shutter sound and a notification will pop up in the top left of your Switch's screen stating "Capture Taken."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  How to View Your Screenshots on the Nintendo Switch 
 
  All of your screenshots can be found in the Nintendo Switch's Album App. To view your screenshots, select the**Album** icon (looks like a box with a sideways heat) at the bottom of the Switch's Home Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Nintendo Switch menu with Album icon highlighted](https://www.lifewire.com/thmb/0scsqhdtsDWWhch7A2fBE4vhorA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AlbumIcon-daad21bac77a4c01ab38c9eb76d033d4.jpg) 
 
  If you have many screenshots, you can filter them within the album so it's easier to look through. Tap**Filter** or press the**Y** button, then select which filter you want to use. You can choose to look at:
@@ -47,9 +38,6 @@ Close
 * MicroSD Card: Images stored on your Switch's removable microSD card
 * Specific Game Screenshots: So you can browse according to the game you played.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Edit a Screenshot on Your Nintendo Switch 
 
  It's possible to add text to your screenshots before sharing them. Here's how.
@@ -67,10 +55,6 @@ Close
 ![A screenshot of New Super Mario Bros with added 'test' text.](https://www.lifewire.com/thmb/18MN13p_GR1iteeV1A557Nh2KVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendoswitchscreenshot1-5c45c6ad4cedfd00017ffb6b.jpg)  
  A copy of your screenshot without the text is saved onto your Switch for future reference.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ##  How to Share the Screenshot on Facebook or X (formerly Twitter) 
 
  Once you've selected the screenshot, you can share it easily with others using a couple of different methods. 
@@ -85,9 +69,6 @@ Close
 4. Enter a comment or tweet, then select**Post** to send the screenshot to your social media account.
 5. A message will appear confirming you've successfully shared a Nintendo Switch screenshot. Go check your social media account to be sure!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Copy a Screenshot to a MicroSD Card 
 
  Sometimes, you might want to move your screenshots to a microSD card rather than leave it on your console. This is useful because you can remove the microSD card and place it into your PC or laptop, like you can with a digital camera's memory card.
@@ -120,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +108,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-a-compreayers-guide-to-smooth-and-clear-xbox-screen-recordings/"><u>[New] A Compreayer’s Guide to Smooth and Clear Xbox Screen Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-hide-identity-blurred-face-artistry-for-2024/"><u>[New] Hide Identity Blurred Face Artistry for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-best-facebook-video-downloader-and-addons-for-firefox/"><u>[New] In 2024, Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>[New] In 2024, Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-a-world-of-literature-for-free-with-these-17-book-download-portals/"><u>Access a World of Literature for Free with These 17 Book Download Portals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/battle-of-laptops-a-detailed-look-at-where-lgs-gram-pro-excels-over-the-macbook-air-in-performance-portability-and-battery-life/"><u>Battle of Laptops: A Detailed Look at Where LG's Gram Pro Excels Over the MacBook Air in Performance, Portability & Battery Life</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-locate-or-retrieve-a-lost-forgotten-or-unknown-email-address/"><u>How to Locate or Retrieve a Lost, Forgotten, or Unknown Email Address</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-external-display-not-recognized-problem-in-windows/"><u>Overcoming External Display Not Recognized Problem in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premium-areas-for-collaborative-ai-creativity/"><u>Premium Areas for Collaborative AI Creativity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-solution-resolving-your-magic-mouse-tracking-glitches/"><u>Quick Solution: Resolving Your Magic Mouse Tracking Glitches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-jvm-dll-error-comprehensive-guide/"><u>Resolving JVM DLL Error: Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-the-ocidll-missing-file-issue-a-step-by-step-guide/"><u>Solve the OCI.DLL Missing File Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/valuation-of-a-million-viewing-on-youtube/"><u>Valuation of a Million-Viewing on YouTube</u></a></li>
+</ul></div>
 

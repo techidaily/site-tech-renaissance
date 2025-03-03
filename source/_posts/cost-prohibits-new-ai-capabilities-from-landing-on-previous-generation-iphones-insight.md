@@ -1,7 +1,7 @@
 ---
 title: Cost Prohibits New AI Capabilities From Landing on Previous Generation iPhones - Insight
-date: 2025-02-07T21:40:36.187Z
-updated: 2025-02-11T20:25:21.316Z
+date: 2025-02-24T16:16:57.241Z
+updated: 2025-03-02T17:19:02.672Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The cost of GPU processing
 
 Advanced AI features require substantial computational power, typically provided by high-performance GPUs. For instance, [NVIDIA's MGX with GH 200 and Grace Hopper superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) designed for AI training, inference, 5G, and HPC cost around $65,000 each. Deploying these servers regionally to support lower-end devices would be prohibitively expensive. Apple would easily need thousands of these units to support its entire user base, resulting in astronomical costs likely passed on to consumers through service fees.
@@ -48,10 +44,6 @@ Advanced AI features require substantial computational power, typically provided
 
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple's approach to Private Cloud Compute (PCC)
 
 For the initial rollout of Apple Intelligence, the company has chosen a hybrid approach to balance cost and performance, combining on-device processing with [Private Cloud Compute](https://www.zdnet.com/article/heres-how-apples-keeping-your-cloud-processed-ai-data-safe-and-why-it-matters/) (PCC). On-device processing utilizes the A17 Pro chip in the iPhone 15 Pro line and the M-series chips in iPads and Macs to enhance security and privacy. For more demanding tasks, PCC allows cloud operations while maintaining user privacy. PCC is designed with custom Apple silicon and a robust operating system to ensure personal data security and prevent unauthorized access.
@@ -59,10 +51,6 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 **Also: [Here's how Apple's keeping your cloud-processed AI data safe (and why it matters)](https://www.zdnet.com/article/heres-how-apples-keeping-your-cloud-processed-ai-data-safe-and-why-it-matters/)**
 
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The challenges of edge computing
 
@@ -73,10 +61,6 @@ Apple is currently focused on rolling out its [Generative AI services](https://w
 While NVIDIA is a major player in the GPU server space, others include traditional x86 Intel-based and Arm-based server providers like Qualcomm and Ampere. These servers can also use NVIDIA GPUs, but Apple likely wants to control the integration with its operating system and silicon to deploy AI computing. Additionally, the supply chain from NVIDIA or any other HPC server vendor is likely insufficient to meet Apple's large-scale deployment requirements.
 
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
 
@@ -120,22 +104,18 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-icicle-illusions-winter-games-showcase-for-2024/"><u>[New] Icicle Illusions Winter Games Showcase for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-hitman-3-connection-failed-error/"><u>[Solved] Hitman 3 Connection Failed Error</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-fundamentals-of-sports-video-editing/"><u>[Updated] The Fundamentals of Sports Video Editing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-english-dubbed-taiwanese-drama-sites-top-picks-for-binge-worthy-entertainment/"><u>Best Free English Dubbed Taiwanese Drama Sites: Top Picks for Binge-Worthy Entertainment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chronological-adventure-the-best-way-to-experience-the-x-men-universe-on-screen/"><u>Chronological Adventure: The Best Way to Experience the X-Men Universe on Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-network-reach-premier-range-extender-picks/"><u>Enhance Your Network Reach: Premier Range Extender Picks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-edited-essence-unlocking-techniques-for-visual-impact/"><u>In 2024, The Edited Essence Unlocking Techniques for Visual Impact</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-the-hype-samsung-galaxy-rings-pricing-specifications-release-timeline-and-recent-news/"><u>Inside the Hype: Samsung Galaxy Ring's Pricing, Specifications, Release Timeline, and Recent News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/kickstarting-your-digital-journey-initial-steps-after-buying-a-new-computer/"><u>Kickstarting Your Digital Journey: Initial Steps After Buying a New Computer</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/logitech-g533-examined-standout-quality-wireless-headphones/"><u>Logitech G533 Examined: Standout Quality Wireless Headphones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/masterclass-navigating-through-the-best-cricket-livestreams-for-2024/"><u>Masterclass Navigating Through the Best Cricket Livestreams for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209844909-9781911134145-quareia-the-adept/"><u>Quareia The Adept | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rise-to-the-challenge-elite-tips-for-conquering-subway-surfers-gameplay/"><u>Rise to the Challenge: Elite Tips for Conquering Subway Surfers Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-on-utilizing-iphone-emojis-like-a-pro/"><u>The Complete Tutorial on Utilizing iPhone Emojis Like a Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-savings-on-apple-products-for-july-2eb4-exclusive-offers-on-iphones-apple-watches-and-more-insider-deals-from-zdnet/"><u>Top Savings on Apple Products for July 2Eb4: Exclusive Offers on iPhones, Apple Watches, and More | Insider Deals From ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-solving-netflixs-ui-800-3-display-problem/"><u>Troubleshooting Tips for Solving Netflix's UI-800-3 Display Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-top-favorites-the-best-free-email-services-available-today/"><u>Unveiling Our Top Favorites: The Best Free Email Services Available Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ten-instagram-feeds-blending-funny-and-sentimental-posts/"><u>[Updated] 2024 Approved Ten Instagram Feeds Blending Funny & Sentimental Posts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-decode-your-insta-performance-a-complete-look-at-user-behavior/"><u>[Updated] In 2024, Decode Your Insta Performance A Complete Look at User Behavior</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-dissecting-freelens-studio-a-user-perspective/"><u>[Updated] In 2024, Dissecting Freelens Studio A User Perspective</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-parts-to-project-designing-your-own-4k-pc-workstation-for-2024/"><u>From Parts to Project Designing Your Own 4K PC Workstation for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-a2-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo A2 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-installing-the-missing-drivers-for-seamless-media-playback/"><u>Quick Guide: Installing the Missing Drivers for Seamless Media Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transforming-cbr-files-into-mobi-format/"><u>Step-by-Step Guide: Transforming CBR Files Into MOBI Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-unlocking-your-drm-protected-ebooks-audiobooks-and-pdfs/"><u>Step-by-Step Instructions for Unlocking Your DRM-Protected eBooks, Audiobooks & PDFs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/superior-screens-for-digital-artists-top-picks/"><u>Superior Screens for Digital Artists – Top Picks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-prime-choice-top-ps3-emulators-pc-users/"><u>The Prime Choice Top PS3 Emulators PC Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-any-audio-format-with-top-ranking-audible-converters-online/"><u>Transform Any Audio Format with Top-Ranking Audible Converters Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-word-files-into-ebooks-a-step-by-steps-guide-with-calibres-conversion-tool/"><u>Transform Your Word Files Into eBooks: A Step-by-Steps Guide with Calibre's Conversion Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-how-to-bypass-drm-on-e-books-and-digital-files-epub-pdf-azw/"><u>Ultimate Guide: How to Bypass DRM on E-Books and Digital Files (ePUB, PDF, AZW)</u></a></li>
 </ul></div>
 

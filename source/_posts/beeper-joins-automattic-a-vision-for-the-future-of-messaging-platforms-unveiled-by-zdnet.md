@@ -1,7 +1,7 @@
 ---
 title: "Beeper Joins Automattic: A Vision for the Future of Messaging Platforms Unveiled by ZDNet"
-date: 2025-02-05T16:50:25.016Z
-updated: 2025-02-12T02:16:48.645Z
+date: 2025-02-24T17:19:30.495Z
+updated: 2025-03-02T20:58:50.687Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ There's a reason the Apple Watch is acclaimed as one of the best smartwatches in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. A less-distracting extension of your iPhone
 
 Jason Hiner/ZDNET
@@ -61,10 +57,6 @@ This benefit was especially true on the beach. My brother and I ventured out int
 The watch is also a great way to reduce distractions. When you have your phone on you, the temptation to "open Instagram quickly to see what's going on" is real. An Apple Watch can't entertain those same temptations and limits what you can do. Those restrictions may be inconvenient, but it's also freeing. I love walking around with my watch on instead of carrying my phone, knowing I'll eventually check the non-important apps on my phone while staying current with what's really important.
 
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. A truly great fitness-tracking experience
 
@@ -96,10 +88,6 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Navigating with Apple Maps
 
 Can you use other smartwatches to navigate to a new destination? You absolutely can. Am I unjustifiably biased towards the Apple Watch for having my favorite navigation experience? Yes, I am.
@@ -109,10 +97,6 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 **Also: [Apple Maps vs. Google Maps, which is best?](https://www.zdnet.com/article/apple-maps-vs-google-maps/)**
 
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
 
@@ -127,10 +111,6 @@ Everything about watchOS is amazing. It's fast, fluid, easy to use, and has a hu
 The platform just works the way you'd expect. When paired to your iPhone, so many of your settings will sync with your Apple Watch that it'll feel like you've customized the device without diving into settings. App notifications, Focus modes, Wi-Fi networks, and more all sync with your watch automatically, allowing you to hit the ground running when you strap your Apple Watch to your wrist.
 
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -166,22 +146,15 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-innovative-iosandroid-apps-for-photo-writing/"><u>[New] 2024 Approved Innovative iOS/Android Apps for Photo-Writing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio/"><u>[New] The Art of Customizing Windows Photos App Intertwining Visuals & Audio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-money-on-youtube-shorts-effective-practical-ways/"><u>[Updated] 2024 Approved How to Make Money on YouTube Shorts? [Effective Practical Ways]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-sns-hdr-pros-features-vs-competitors/"><u>[Updated] Understanding SNS HDR Pro’s Features Vs. Competitors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-major-pitfalls-on-your-iphone-essential-tips-to-save-your-apple-vision-pro-experience/"><u>Avoiding Major Pitfalls on Your iPhone - Essential Tips to Save Your Apple Vision Pro Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-iphoneipad-photo-quality-a-step-by-step-guide/"><u>Boosting iPhone/iPad Photo Quality: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-correcting-a-504-gateway-timeout-error/"><u>Comprehensive Solutions for Correcting a 504 Gateway Timeout Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-5-must-try-free-apps-to-learn-a-new-language/"><u>Discover 5 Must-Try Free Apps to Learn a New Language</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-apples-fall-event-highlights-m4-mac-mini-unveiling-revolutionary-ipads-and-advancements-in-ai-with-siri-analysis/"><u>Exploring Apple's Fall Event Highlights: M4 Mac Mini Unveiling, Revolutionary iPads & Advancements in AI with Siri | Analysis</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-15-pro-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Pro Max Device from iCloud</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-smart-television-selection-and-purchase-ideal-options-for-your-home-viewing-pleasure/"><u>Master the Art of Smart Television Selection & Purchase - Ideal Options for Your Home Viewing Pleasure</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-of-using-minecraft-realms-worth-your-time-or-money/"><u>Pros and Cons of Using Minecraft Realms - Worth Your Time or Money?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-jvmdll-cannot-be-launched-a-step-by-step-fix-guide-for-windows-users/"><u>Resolving 'JVM.dll Cannot Be Launched': A Step-by-Step Fix Guide for Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-streaming-guide-on-casting-disneyplus-onto-your-chromecast-device/"><u>Seamless Streaming: Guide on Casting Disney+ Onto Your Chromecast Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-color-shifts-and-warping-visuals-on-your-pc-display/"><u>Solving the Issue of Color Shifts & Warping Visuals on Your PC Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-resolve-stop-error-0x0000001d-no-spin-lock/"><u>Step-by-Step Guide to Resolve STOP Error 0X0000001D (No Spin Lock)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-about-genius-widecam-f100-image-clarity-and-sound-echo-concerns/"><u>Unveiling the Truth About Genius WideCam F100 - Image Clarity and Sound Echo Concerns</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3httpsdhgatesjvio5g6yb2/"><u>[Meta Quest 3](https://dhgate.sjv.io/5g6yb2)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-essential-android-ad-blocking-the-top-7-app-list/"><u>[Updated] In 2024, Essential Android Ad Blocking The Top 7 App List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-the-remote-effective-techniques-to-manually-navigate-your-roku-tv-interface/"><u>Bypassing the Remote: Effective Techniques to Manually Navigate Your Roku TV Interface</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-streaming-multiple-video-formats-avi-mkv-etc-with-airplay/"><u>Easy Guide: Streaming Multiple Video Formats (AVI, MKV, Etc.) With AirPlay</u></a></li>
+<li><a href="https://fox-info.techidaily.com/meme-masterpieces-iphones-here/"><u>Meme Masterpieces, iPhones Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-upgrading-to-amd-radeon-driver-2410/"><u>Step-by-Step Instructions for Upgrading to AMD Radeon Driver 24.10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/story-2-the-predator-introduction-pitfall/"><u>Story 2: The Predator Introduction Pitfall</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Review: In-Depth Computer and Gadget Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiled-now-the-cutting-edge-of-macbook-innovation-revealed/"><u>Unveiled Now: The Cutting-Edge of MacBook Innovation Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/viral-visions-behind-the-meme/"><u>Viral Visions Behind the Meme</u></a></li>
 </ul></div>
 

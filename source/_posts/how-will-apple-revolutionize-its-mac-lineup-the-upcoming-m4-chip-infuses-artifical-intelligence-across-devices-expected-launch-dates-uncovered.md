@@ -1,7 +1,7 @@
 ---
 title: How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered
-date: 2025-02-08T00:58:17.527Z
-updated: 2025-02-11T17:52:52.750Z
+date: 2025-02-23T16:04:52.545Z
+updated: 2025-03-03T00:53:27.514Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -111,10 +99,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -162,10 +146,6 @@ Jason Hiner/ZDNET
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## tvOS 18
 
 Actor and music title insights on tvOS
@@ -210,20 +190,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exceptional-7-dslr-devices-for-expert-video-content-creators-for-2024/"><u>[New] Exceptional 7 DSLR Devices For Expert Video Content Creators for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-elevating-obs-studios-impact-top-5-editing-techniques-revealed/"><u>[New] In 2024, Elevating OBS Studio's Impact Top 5 Editing Techniques Revealed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-your-archive-converting-snapchats-ephemeral-snaps-for-2024/"><u>[New] Streamlining Your Archive Converting Snapchat's Ephemeral Snaps for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-quick-fixes-for-missing-sound-in-obs/"><u>[Updated] 2024 Approved Quick Fixes for Missing Sound in OBS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-trust-your-phones-durability-iphone-15-wet-test-results/"><u>Can You Trust Your Phone's Durability: IPhone 15 Wet Test Results</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-understanding-lg-channels-must-know-details/"><u>Comprehensive Guide To Understanding LG Channels: Must-Know Details</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-inception-to-now-exploring-the-evolution-of-ipad-operating-systems/"><u>From Inception to Now: Exploring the Evolution of iPad Operating Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-repair-ac1s1t16dll-errors-quickly/"><u>How to Address and Repair 'Ac1S1T16.dll' Errors Quickly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>In 2024, Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 6 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-new-pixel-buds-pro-2-by-google-pricing-insights-and-anticipated-release-date-shared/"><u>Inside Scoop on the New Pixel Buds Pro 2 by Google - Pricing Insights & Anticipated Release Date Shared</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-network-diagnostics-a-guide-to-utilizing-the-tracert-tool-on-windows/"><u>Mastering Network Diagnostics: A Guide to Utilizing the Tracert Tool on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-start-to-setting-up-one-click-logins-for-windows-users/"><u>Quick Start to Setting Up One-Click Logins for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-implementing-copilot-within-microsoft-teams/"><u>The Ultimate Tutorial for Implementing Copilot Within Microsoft Teams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715701092312-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-10-heavy-lift-drones/"><u>[New] 2024 Approved Top 10 Heavy Lift Drones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-easy-steps-to-free-online-and-offline-animation/"><u>[Updated] 2024 Approved Easy Steps to Free Online & Offline Animation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-effortless-snaptweet-videos-from-twitter/"><u>[Updated] 2024 Approved Effortless SnapTweet Videos From Twitter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-joining-twitter-conversations-successfully/"><u>A Beginner's Guide: Joining Twitter Conversations Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722867079646-apples-rumored-personal-robot-specs-pricing-and-scheduled-debut-details/"><u>Apple's Rumored Personal Robot: Specs, Pricing, and Scheduled Debut Details</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chromebook-freeze-issues-heres-how-to-resolve-in-8-steps/"><u>Chromebook Freeze Issues? Here's How to Resolve in 8 Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-reappears-post-win11-blackout/"><u>Cursor Reappears Post-Win11 Blackout</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-install-insignia-ns-pcy5bma2-printer-drivers-for-windows-operating-systems/"><u>Easy Install: Insignia NS-PCY5BMA2 Printer Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-login-errors-effectively/"><u>Fixing Windows 11 Login Errors Effectively</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-a-beginners-guide-to-quantum-hdr-systems/"><u>In 2024, A Beginner’s Guide to Quantum HDR Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensive-guide-to-10-best-meme-patterns/"><u>In 2024, The Comprehensive Guide to #10 Best Meme Patterns</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-and-simple-tips-for-securing-an-apple-store-appointment-online/"><u>Quick and Simple Tips for Securing an Apple Store Appointment Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-wi-fi-standards-exploring-80211-be-through-80211-a/"><u>The Comprehensive Guide to Wi-Fi Standards: Exploring 802.11 Be Through 802.11 A</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-page-not-found-404-error-and-solutions-for-a-seamless-user-experience/"><u>Understanding the 'Page Not Found' (404) Error & Solutions for a Seamless User Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unraveling-hazkis-mysteries-repair-made-easy/"><u>Unraveling Hazki's Mysteries: Repair Made Easy</u></a></li>
 </ul></div>
 

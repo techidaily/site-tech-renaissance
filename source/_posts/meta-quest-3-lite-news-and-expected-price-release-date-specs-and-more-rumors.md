@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Lite: News and Expected Price, Release Date, Specs; and More Rumors"
-date: 2024-08-12T03:39:58.740Z
-updated: 2024-08-13T03:39:58.740Z
+date: 2025-02-24T01:01:01.887Z
+updated: 2025-03-02T18:30:45.274Z
 categories:
   - BestProducts
 description: "This Article Describes Meta Quest 3 Lite: News and Expected Price, Release Date, Specs; and More Rumors"
@@ -21,16 +21,10 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
@@ -39,18 +33,12 @@ August 13 is our best guess.
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
 
 [The Best Streaming Devices of 2024](https://www.lifewire.com/best-streaming-devices-8682806)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 9to5Google
@@ -67,16 +55,10 @@ August 13 is our best guess.
 
  The device doesn't look that much bigger than the remote, so we're not sure what, if anything, is different about the internal hardware.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -87,14 +69,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +82,26 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-dipping-into-the-dynamics-of-digital-image-dimensions-for-2024/"><u>[New] Dipping Into the Dynamics of Digital Image Dimensions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-20-youtube-time-savers-that-will-skyrocket-engagement-rates/"><u>[Updated] 2024 Approved 20 YouTube Time Savers That Will Skyrocket Engagement Rates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>[Updated] 2024 Approved From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-master-the-art-of-discussion-in-google-meet-spaces/"><u>[Updated] 2024 Approved Master the Art of Discussion in Google Meet Spaces</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-complete-roadmap-implementing-subtitle-track-within-mp4s-for-2024/"><u>[Updated] Complete Roadmap Implementing Subtitle Track Within MP4s for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-color-grading-with-luts-in-premiere-pro-for-2024/"><u>Advanced Color Grading with LUTs in Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bringing-retro-tech-jargon-back-to-life-with-affordable-laptops-a-closer-look-by-zdnet/"><u>Bringing Retro Tech Jargon Back to Life with Affordable Laptops - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-modify-picture-scales-on-your-desktop-computer-and-laptop/"><u>How to Modify Picture Scales on Your Desktop Computer & Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-complete-system-restore-on-windows-7-without-using-a-disc/"><u>How to Perform a Complete System Restore on Windows 7 Without Using a Disc</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-swiftly-verify-the-version-of-your-nvidia-graphics-card-driver/"><u>How to Swiftly Verify the Version of Your NVIDIA Graphics Card Driver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-use-ps3-controller-on-pc-no-motioninjoy/"><u>How to Use PS3 Controller on PC (NO MotioninJoy)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hxtsrexe-in-windows-11-what-is-it-and-how-to-fix-it-solved/"><u>HxTsr.exe in Windows 11 - What Is It and How to Fix It? [Solved]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-8-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 8 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-90-gt-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor 90 GT Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-basics-of-pc-drivers-proven-methods-for-correcting-windows-driver-glitches/"><u>Mastering the Basics of PC Drivers: Proven Methods for Correcting Window's Driver Glitches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-brother-printer-configuration-in-minutes/"><u>Mastering the Brother Printer Configuration in Minutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/nordvpn-exclusive-offer-grab-your-vpn-at-a-steal-with-75-savings-and-extra-10-off/"><u>NordVPN Exclusive Offer: Grab Your VPN at a Steal With 75% Savings & Extra $10 Off!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-how-to-identify-your-motherboard-model-effortlessly/"><u>Quick Guide: How to Identify Your Motherboard Model Effortlessly</u></a></li>
+</ul></div>
 

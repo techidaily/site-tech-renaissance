@@ -1,7 +1,7 @@
 ---
 title: How to Block YouTube on iPad
-date: 2024-08-12T03:37:37.415Z
-updated: 2024-08-13T03:37:37.415Z
+date: 2025-02-27T00:59:49.650Z
+updated: 2025-03-02T19:05:42.430Z
 categories:
   - BestProducts
 description: This Article Describes How to Block YouTube on iPad
@@ -10,9 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 ---
 
 ## Code 28 Hiccups on Your PC? Here's How to Fix Them
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * Code 28 errors are usually caused by missing drivers for the piece of hardware that the error appears on in Device Manager.
@@ -21,34 +18,16 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix a Code 28 Error
 
  Any of Microsoft's operating systems could experience a Code 28 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more. These directions apply to all of those Windows versions.
 
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Restart menu in Windows 10](https://www.lifewire.com/thmb/BfpzNB-2PZs2XbtmfAqOhjUL7Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c8032ed46e0fb00019b8ed8.jpg)  
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
  Undo the change, restart your PC, and then check again for the Code 28 error.  
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
@@ -59,9 +38,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
  It's also possible that the device is not compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.  
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -74,9 +50,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  Details on Device Manager error codes like Code 28 are available in the_Device Status_ area in the device's properties and will almost always look like this:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
@@ -110,8 +83,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +90,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-pros-approach-to-documenting-overwatch-battles/"><u>[New] The Pro's Approach to Documenting Overwatch Battles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-uncomplicated-capture-efficient-screenshots-on-dell-for-2024/"><u>[New] Uncomplicated Capture Efficient Screenshots on Dell for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turbo-tracker-fastest-image-browser-w10/"><u>[Updated] Turbo Tracker - Fastest Image Browser W10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connectivity-issues-with-your-printer-and-ipad-tips-for-successful-pairing/"><u>Connectivity Issues with Your Printer and iPad: Tips for Successful Pairing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-fixes-for-when-your-vizio-tv-cant-find-a-wi-fi-signal-heres-how/"><u>DIY Fixes for When Your Vizio TV Can't Find a Wi-Fi Signal – Here’s How</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-of-the-telegram-application/"><u>Exploring the Features of the Telegram Application</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-phone-without-pin-by-drfone-android/"><u>How to Unlock Meizu Phone without PIN</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-kinemaster-guide-to-green-screening/"><u>In 2024, The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovate-your-writing-process-using-these-nine-insights-on-chatgpt/"><u>Innovate Your Writing Process Using These Nine Insights on ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-app-store-vs-google-play-a-detailed-feature-comparison/"><u>IOS App Store Vs. Google Play: A Detailed Feature Comparison</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/resolving-dvd-shrinks-due-to-insufficient-space-a-step-by-step-guide/"><u>Resolving 'DVD Shrinks Due to Insufficient Space': A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-the-roku-channel-on-other-devices-a-comprehensive-guide/"><u>Streaming the Roku Channel on Other Devices: A Comprehensive Guide</u></a></li>
+</ul></div>
 

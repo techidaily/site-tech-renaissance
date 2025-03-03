@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2025-02-10T20:34:48.055Z
-updated: 2025-02-11T16:46:35.605Z
+date: 2025-03-01T20:27:07.340Z
+updated: 2025-03-02T17:16:23.764Z
 tags:
   - apple
 categories:
@@ -30,19 +30,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,19 +50,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +63,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,20 +106,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-discovering-windows-10s-game-changing-advances/"><u>[New] Discovering Windows 10’S Game-Changing Advances</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-wacom-software-quickly-for-a-smooth-experience/"><u>Download Wacom Software Quickly for a Smooth Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-captivating-ipadiphone-mystery-game-series-related-to-the-room-and-myst/"><u>Explore Captivating iPad/iPhone Mystery Game Series Related to 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722902918775-high-quality-tech-products-at-unbeatable-prices-for-the-discerning-shopper/"><u>High-Quality Tech Products at Unbeatable Prices for the Discerning Shopper</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-non-working-usb-mobile-hotspot-problems/"><u>How To Resolve Non-Working USB Mobile Hotspot Problems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-effortless-gif-to-video-conversion-best-5-top-online-services/"><u>In 2024, Effortless GIF-to-Video Conversion Best 5 Top Online Services</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/indonesian-greetings-decoded-for-travelers-and-locals-alike/"><u>Indonesian Greetings Decoded for Travelers and Locals Alike</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-for-windows-users/"><u>Mastering Microsoft Teams: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970858-9781803412320-self-awareness-and-meditation/"><u>Self-Awareness and Meditation | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210768256-9781639190843-todo-el-zodiaco-piscis/"><u>Todo el Zodiaco. Piscis | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-66-twitter-accounts-for-unbeatable-travel-deals-and-insider-tips/"><u>Top 66 Twitter Accounts for Unbeatable Travel Deals and Insider Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-test-drives-the-ultimate-guide-to-holy-stone-racing-cartoon-vehicles-for-family-entertainment/"><u>Unboxing & Test Drives: The Ultimate Guide to Holy Stone Racing Cartoon Vehicles for Family Entertainment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-of-social-spread-how-to-find-out-whos-shared-your-post-on-facebook/"><u>Unlock the Secrets of Social Spread: How to Find Out Who's Shared Your Post on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/analyzing-your-youtube-viewer-demographics-a-step-by-step-approach/"><u>Analyzing Your YouTube Viewer Demographics: A Step-by-Step Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-experience-achieving-ultra-smooth-gameplay-with-ps5-at-120-fps/"><u>Elevate Your Experience: Achieving Ultra Smooth Gameplay with PS5 at 120 FPS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-chatgpt-breaks-understanding-and-usage/"><u>Exploring the World of ChatGPT Breaks: Understanding and Usage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage-for-2024/"><u>Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-sony-xperia-10-v-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Sony Xperia 10 V to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 6 Plus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-pioneering-path-of-vr-technology/"><u>In 2024, The Pioneering Path of VR Technology</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pros-secret-windows-11-gems-uncovered-for-2024/"><u>Pro's Secret Windows 11 Gems Uncovered for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-enter-and-exit-iphones-dfurecovery-modes/"><u>Steps to Enter & Exit iPhone's DFU/Recovery Modes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-vpn-issue-step-by-step-guide-for-resolving-error-800-on-clients-and-servers/"><u>Tackling VPN Issue: Step-by-Step Guide for Resolving Error 800 on Clients and Servers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-operating-the-measure-application-on-android-phones/"><u>The Ultimate Tutorial: Operating the Measure Application on Android Phones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/virtual-realities-google-cardboard-meets-samsung-gear-for-2024/"><u>Virtual Realities Google Cardboard Meets Samsung Gear for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-page-not-found-mean-unraveling-the-mystery-of-404-errors/"><u>What Does 'Page Not Found' Mean? Unraveling the Mystery of 404 Errors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/webmpg/"><u>オンラインフリーでWebムービーを高画質MPG変換 - モバヴィ技術</u></a></li>
 </ul></div>
 

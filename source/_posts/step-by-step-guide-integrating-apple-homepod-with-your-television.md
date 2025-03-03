@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating Apple HomePod with Your Television"
-date: 2025-02-06T19:33:39.862Z
-updated: 2025-02-11T22:28:20.708Z
+date: 2025-03-02T00:02:51.994Z
+updated: 2025-03-02T16:12:52.851Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Integrating Apple HomePod with Your Television"
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -41,26 +37,14 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -71,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -122,16 +102,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>2024 Approved From Zero to Meme Hero Crafting Engaging GIFs</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-review-is-it-a-smart-investment-top-5-benefits-explained/"><u>ChatGPT Plus Review: Is It a Smart Investment? Top 5 Benefits Explained!</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-buyers-with-ai-at-microsofts-digital-marketplace/"><u>Empowering Buyers with AI at Microsoft's Digital Marketplace</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722889758036-how-to-quickly-solve-missing-mscorwksdll-errors-on-your-computer-best-practices/"><u>How to Quickly Solve Missing mscorwks.dll Errors on Your Computer – Best Practices!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/premier-smartwatch-programs-for-the-android-user-experience/"><u>Premier Smartwatch Programs for the Android User Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-downloading-and-updating-your-canoscan-lide-220-printer-software/"><u>Step-by-Step Instructions: Downloading and Updating Your CanoScan LiDE 220 Printer Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-6-greatest-super-mario-pc-game-runs/"><u>The Ultimate Selection: 6 Greatest Super Mario PC Game Runs</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-n3-flip-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find N3 Flip Reset Code | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-exclusive-access-to-the-top-rated-gaming-sound-experience-on-amazon-now-just-150-sharp/"><u>Unbeatable Bargain Alert: Exclusive Access to the Top-Rated Gaming Sound Experience on Amazon - Now Just $150 Sharp</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-next-for-google-the-rumored-pixel-n-release-features-and-estimates/"><u>What's Next for Google: The Rumored Pixel N Release, Features and Estimates.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-content-management-for-instagram-profiles-for-2024/"><u>[New] YouTube Content Management for Instagram Profiles for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>[Updated] In 2024, Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-flip-the-like-ratio-with-squared-up-social-media-content/"><u>2024 Approved Flip the Like Ratio with Squared-Up Social Media Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/charting-new-horizebs-with-cutting-edge-verizon-5g-solutions/"><u>Charting New Horizebs with Cutting-Edge Verizon 5G Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-methods-to-fix-corrupted-or-lost-d3dx934dll-in-windows/"><u>Effective Methods to Fix Corrupted or Lost d3dx9_34.dll in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-your-keyboard-when-playing-pathfinder-wrath-of-the-righteus/"><u>Expert Tips for Fixing Your Keyboard When Playing Pathfinder - Wrath of the Righteus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-fix-and-prevent-fm20dll-errors-for-smooth-system-performance/"><u>Expert Tips to Fix and Prevent fm20.dll Errors for Smooth System Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-evolution-a-complete-breakdown-of-each-macos-release/"><u>Exploring Apple's Evolution: A Complete Breakdown of Each macOS Release</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restrict-or-block-youtube-content-on-your-ipad/"><u>How to Restrict or Block YouTube Content on Your iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-nine-essential-live-gaming-services/"><u>In 2024, Best Nine Essential Live Gaming Services</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-v27e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo V27e For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-quickclip-editor-for-2024/"><u>New QuickClip Editor for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-unfolds-with-samsung-galaxy-z-fold-n7-release-info-expected-rrp-and-whats-inside-this-flexible-marvel/"><u>The Future Unfolds with Samsung Galaxy Z Fold N°7: Release Info, Expected RRP, and What's Inside This Flexible Marvel?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android-for-2024/"><u>The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turning-off-windows-11s-news-feed-a-step-by-step-guide/"><u>Turning Off Windows 11'S News Feed: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

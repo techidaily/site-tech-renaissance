@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2025-02-05T17:51:24.293Z
-updated: 2025-02-11T17:05:58.795Z
+date: 2025-02-25T19:28:15.876Z
+updated: 2025-03-03T01:48:07.725Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -53,10 +49,6 @@ Three additional instances of the IPC Template Type were deployed between April 
 Repairing the damage from a flaw like this is a painfully tedious process that requires manually rebooting every affected PC into the Windows Recovery Environment and then deleting the defective file from the PC using the old-school command line interface. If the PC in question has its system drive protected by Microsoft's BitLocker encryption software, as virtually all business PCs do, the fix requires one extra step: entering a unique 48-character BitLocker recovery key to gain access to the drive and allow the removal of the faulty CrowdStrike driver.
 
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## We've seen this movie before
 
@@ -94,10 +86,6 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## CrowdStrike's QA failed
 
 Surprisingly, this isn't CrowdStrike's first faulty Falcon sensor update this year.
@@ -123,10 +111,6 @@ Given recent events, some of those customers might be wondering whether that "br
 As part of its initial response, CrowdStrike says it plans to take additional measures to improve "software resiliency and testing." More importantly, it plans to implement a "staggered deployment strategy ... in which updates are gradually deployed to larger portions of the sensor base, starting with a canary deployment." The company also committed to provide customers with "greater control over the delivery of Rapid Response Content updates by allowing granular selection of when and where these updates are deployed."
 
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
 
@@ -176,20 +160,14 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-the-art-mastering-storytelling-in-scripts/"><u>[New] 2024 Approved Elevating the Art Mastering Storytelling in Scripts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubers-toolkit-essential-setup-guidelines-for-2024/"><u>[Updated] Youtubers' Toolkit Essential Setup Guidelines for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>2024 Approved Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advanced-secure-login-for-icloud-emails-with-2fa-technology/"><u>Advanced Secure Login for iCloud Emails with 2FA Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-evs-as-eco-friendly-as-they-claim-a-deep-dive-into-their-green-credentials/"><u>Are EVs as 'Eco-Friendly' As They Claim? A Deep Dive Into Their Green Credentials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-windows-11-battery-details-a-step-by-step-user-manual-on-utilizing-reports/"><u>Dive Into Windows 11 Battery Details - A Step-by-Step User Manual on Utilizing Reports</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-theme-changes-for-a-stylish-windows-11-desktop/"><u>Effortless Theme Changes for a Stylish Windows 11 Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-screen-captures-adding-sound-in-the-snipping-tool-max-156/"><u>Elevate Your Screen Captures: Adding Sound in the Snipping Tool (Max 156)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improve-performance-and-fix-issues-with-amd-radeon-download-v2n10-graphics-card-drivers/"><u>Improve Performance & Fix Issues With AMD Radeon - Download V2n.10 Graphics Card Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/interrupting-infinity-tips-for-preventing-unending-plays-in-apple-music/"><u>Interrupting Infinity: Tips for Preventing Unending Plays in Apple Music</u></a></li>
-<li><a href="https://techtrends.techidaily.com/key-specifications-for-building-or-buying-an-ideal-gaming-pc-system/"><u>Key Specifications for Building or Buying an Ideal Gaming PC System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-26-premium-and-gratis-pc-tidy-up-tools-of-2024/"><u>Top 26 Premium and Gratis PC Tidy-Up Tools of 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-high-definition-entertainment-do-i-really-need-a-blu-ray-player/"><u>Unlocking High Definition Entertainment: Do I Really Need a Blu-Ray Player?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725286193628-windows-11-dvd/"><u>Windows 11 DVDコピー手順集：スマートフォンへのダビングガイド</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-vlogging-quality-the-ultimate-12-recommended-cam-picks/"><u>[New] 2024 Approved Elevate Vlogging Quality - The Ultimate 12 Recommended Cam Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-fifa-visuals-key-youtube-video-trends/"><u>[Updated] 2024 Approved FIFA Visuals Key YouTube Video Trends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-hangouts-decoded-a-comprehensive-overview-of-its-features-and-history/"><u>Google Hangouts Decoded: A Comprehensive Overview of Its Features & History</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/high-quality-tech-products-at-unbeatable-prices-for-the-discerning-shopper/"><u>High-Quality Tech Products at Unbeatable Prices for the Discerning Shopper.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>In 2024, Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-overcome-issues-with-your-instagram-stories/"><u>Step-by-Step Guide to Overcome Issues With Your Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-connecting-your-firestick-controller/"><u>Step-by-Step Instructions for Connecting Your Firestick Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-and-the-future-of-gaming-formats/"><u>Xbox S and the Future of Gaming Formats</u></a></li>
 </ul></div>
 

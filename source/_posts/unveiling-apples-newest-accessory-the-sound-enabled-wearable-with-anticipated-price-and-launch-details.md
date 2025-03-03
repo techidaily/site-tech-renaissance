@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Newest Accessory: The Sound-Enabled Wearable with Anticipated Price & Launch Details"
-date: 2024-08-12T03:44:00.145Z
-updated: 2024-08-13T03:44:00.145Z
+date: 2025-02-28T23:48:35.264Z
+updated: 2025-03-02T22:24:49.453Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling Apple's Newest Accessory: The Sound-Enabled Wearable with Anticipated Price & Launch Details"
@@ -21,18 +21,12 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
@@ -49,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 Apple, Inc / USPTO
@@ -63,9 +54,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -74,18 +62,12 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -96,14 +78,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +91,20 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-heroic-journeys-unleashed-the-premier-game-collection-for-2024/"><u>[New] Heroic Journeys Unleashed The Premier Game Collection for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-meditative-tunes-compilation-top-10-legal-streams/"><u>[Updated] Meditative Tunes Compilation - Top 10 Legal Streams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/17-great-sites-to-download-free-books/"><u>17 Great Sites to Download Free Books</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-films-without-cost-discover-crackles-library-of-on-demand-content/"><u>Enjoy Films Without Cost – Discover Crackle's Library of On-Demand Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-sequential-visual-showcase-for-2024/"><u>Instagram's Sequential Visual Showcase for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/interactive-playtime-experience-the-ultimate-game-with-philips-49-oled-curved-display/"><u>Interactive Playtime: Experience the Ultimate Game with Philips 49 OLED Curved Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-adding-domains-safely-on-your-mac-mail-application/"><u>Mastering the Art of Adding Domains Safely on Your Mac Mail Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-mscorwksdll-error-a-comprehensive-guide/"><u>Resolving mscorwks.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-downloading-and-converting-russian-accelerator-videos-and-audio-in-mp4-avi-mp3/"><u>Step-by-Step Guide: Downloading and Converting Russian Accelerator Videos & Audio in MP4, AVI, MP3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-patch-tuesday-how-it-works-and-why-it-matters-for-your-cybersecurity/"><u>The Essentials of Patch Tuesday: How It Works and Why It Matters for Your Cybersecurity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-smartwatch-rumors-decoded-forecasted-price-release-date-and-expected-technical-details-for-tech-enthusiasts/"><u>Upcoming Google Pixel Smartwatch Rumors Decoded – Forecasted Price, Release Date & Expected Technical Details for Tech Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-star-level-stabilization-tools-listed/"><u>YouTube Star-Level Stabilization Tools Listed</u></a></li>
+</ul></div>
 

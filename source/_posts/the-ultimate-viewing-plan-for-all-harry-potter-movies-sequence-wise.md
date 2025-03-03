@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Viewing Plan for All Harry Potter Movies, Sequence-Wise
-date: 2024-08-12T03:42:09.660Z
-updated: 2024-08-13T03:42:09.660Z
+date: 2025-02-24T00:18:37.464Z
+updated: 2025-03-02T22:54:28.217Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Viewing Plan for All Harry Potter Movies, Sequence-Wise
@@ -28,9 +28,6 @@ thumbnail: https://www.lifewire.com/thmb/1J5Zp6z8fkbB-KYhJqRQNt3ssEY=/400x300/fi
 
  The whole gang is there: ambitious Lois Lane who inexplicably can’t spell, Clark Kent’s gee-whiz disguise marked by oversized glasses and his hair parted on the opposite side, Jimmy Olsen’s trusty camera and enthusiasm, and the no-nonsense_Daily Planet_ editor Perry White.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
  Keystone / Getty Images
@@ -55,9 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/1J5Zp6z8fkbB-KYhJqRQNt3ssEY=/400x300/fi
 | _Justice League_ (2017)                     | Aquaman, Batman, Cyborg, the Flash, Superman, and Wonder Woman join up to save Earth from an alien invasion.                   | Max                |
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
@@ -76,9 +70,6 @@ thumbnail: https://www.lifewire.com/thmb/1J5Zp6z8fkbB-KYhJqRQNt3ssEY=/400x300/fi
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### DC Extended Universe
 
  The DCEU ran from 2013 (_Man of Steel_ ) to 2023 (_Aquaman and the Lost Kingdom_ ). Henry Cavill plays Superman in this franchise, and the character appears in several installments.
@@ -96,9 +87,6 @@ thumbnail: https://www.lifewire.com/thmb/1J5Zp6z8fkbB-KYhJqRQNt3ssEY=/400x300/fi
 | _Peacemaker_ (TV-2022)                      | Brad Abramenko plays Superman in a non-speaking role.                                                | Max                |
 | _The Flash_ (2023)                          | Cavill–along with several other former Superman actors–appears in a multiversal hub.                 | Max                |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Alternate Ways to View the 'Superman' Movies
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
@@ -109,18 +97,12 @@ thumbnail: https://www.lifewire.com/thmb/1J5Zp6z8fkbB-KYhJqRQNt3ssEY=/400x300/fi
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .
@@ -149,8 +131,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +138,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/driver-resolved-installed-missing-graphics-adapter-in-win10/"><u>[DRIVER RESOLVED] Installed Missing Graphics Adapter in Win10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-voice-recording-mastery-with-ipad-tools/"><u>[New] 2024 Approved Voice Recording Mastery with iPad Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-economic-expressiveness-in-video-theming-tools/"><u>[Updated] 2024 Approved Economic Expressiveness in Video Theming Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-mastering-the-art-of-screenshotting-on-your-hp-computer/"><u>Easy Steps for Mastering the Art of Screenshotting on Your HP Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-unlike-all-songs-on-spotify-a-users-guide/"><u>Efficiently Unlike All Songs on Spotify: A User's Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-inbox-with-mozilla-thunderbirds-update-52-features/"><u>Enhance Your Inbox with Mozilla Thunderbird's Update 52 Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhanced-printing-experience-with-new-printer-drivers-for-windows-10-released/"><u>Enhanced Printing Experience with New Printer Drivers for Windows 10 Released</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-intriguing-podcast-openers/"><u>In 2024, Formulating Intriguing Podcast Openers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-tv-using-chromecast/"><u>Step-by-Step Guide: Streaming Disney+ on Your TV Using Chromecast</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-a2plus-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi A2+ ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-practices-for-removing-old-x-previously-twitter-contacts-from-your-network/"><u>The Best Practices for Removing Old X (Previously Twitter) Contacts From Your Network</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-effective-chatgpt-cues-found-on-github/"><u>Ultimate List of Effective ChatGPT Cues Found on GitHub</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-narzo-n55-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme Narzo N55</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error - Causes and Solutions</u></a></li>
+</ul></div>
 

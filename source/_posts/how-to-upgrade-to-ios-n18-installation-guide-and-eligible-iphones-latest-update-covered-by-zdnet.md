@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2025-02-05T20:43:18.396Z
-updated: 2025-02-12T00:04:06.916Z
+date: 2025-03-01T18:17:57.620Z
+updated: 2025-03-02T19:10:30.946Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,22 +105,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-to-trending-youtubers/"><u>[New] 2024 Approved Charting the Course to Trending YouTubers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-detailed-look-into-the-lg-bp350ayering-and-user-experience-for-2024/"><u>[Updated] Detailed Look Into the LG BP350'ayering and User Experience for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-yt-buzz-top-music-video-responses-and-why-they-roar-for-2024/"><u>[Updated] YT Buzz Top Music Video Responses & Why They Roar for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-forge-funny-online-content-on-the-fly/"><u>2024 Approved Forge Funny Online Content on the Fly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/80211-standards-explained-80211be-80211ax-80211ac-80211bgn-80211a/"><u>802.11 Standards Explained: 802.11Be, 802.11Ax, 802.11Ac, 802.11B/G/N, 802.11A</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726228120118-flvm4a/"><u>最適な無償FLVからM4Aへのオンライン変換方法：ムヴァビの紹介</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-methods-for-rectifying-uneven-colors-and-warped-images-on-your-pc-display/"><u>DIY Methods for Rectifying Uneven Colors & Warped Images on Your PC Display</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .dotx file</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-you-stop-your-mac-from-going-into-sleep-mode-easily/"><u>How Can You Stop Your Mac From Going Into Sleep Mode Easily?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-14-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 14 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo A79 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preserving-the-past-digitally-how-to-efficiently-use-wayback-machine/"><u>Preserving the Past Digitally: How to Efficiently Use Wayback Machine</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cket-your-channels-reach-secure-a-10k-views-milestone-for-2024/"><u>Skyrocket Your Channel's Reach Secure a 10K Views Milestone for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/social-media-jargon-unraveled-what-does-it-mean-to-retweet-versus-a-re-tweet-on-twitter/"><u>Social Media Jargon Unraveled: What Does It Mean to 'Retweet' Versus a 'Re-Tweet' On Twitter?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-ftd2xxdll-file-not-found-complete-guide/"><u>Solving the ftd2XX.dll File Not Found - Complete Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-step-by-step-on-getting-in-touch-with-snapchat-help-desk/"><u>The Complete Step-by-Step on Getting in Touch with Snapchat Help Desk</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-6-student-favorites-apps-to-boost-homework-efficiency/"><u>The Ultimate List of 6 Student Favorites: Apps to Boost Homework Efficiency</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ountering-harshness-maintaining-poise-online-for-2024/"><u>[New] Countering Harshness Maintaining Poise Online for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-your-cameras-magic-review-and-best-free-options/"><u>[New] In 2024, Capturing Your Camera's Magic – Review & Best FREE Options</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-creative-ways-to-enhance-your-fb-video-ads/"><u>[New] In 2024, Discover Creative Ways to Enhance Your FB Video Ads</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-tips-for-shaping-images-with-photoshop-curves/"><u>2024 Approved Tips for Shaping Images with Photoshop Curves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-models-mini-vs-air-key-distinctions-explored/"><u>Comparing iPad Models: Mini vs Air - Key Distinctions Explored</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-edge-filmmaking-techniques-youtubes-insights-and-competitors/"><u>Cutting-Edge Filmmaking Techniques YouTube's Insights & Competitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descargas-gratuitas-de-conversion-de-archivos-como-transformar-tu-video-mp3-en-formato-mov-sin-coste/"><u>Descargas Gratuitas De Conversión De Archivos: Cómo Transformar Tu Vídeo MP3 en Formato MOV Sin Coste</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-10-best-complimentary-email-accounts-for-you/"><u>Discovering the 10 Best Complimentary Email Accounts for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-tutorial-how-to-take-off-and-install-new-glass-cover-on-phones/"><u>DIY Tutorial: How to Take Off and Install New Glass Cover on Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-handling-vpn-error-800-across-client-and-server-platforms/"><u>Effective Fixes for Handling VPN Error 800 Across Client and Server Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-leading-photographic-enhancers/"><u>In 2024, Android's Leading Photographic Enhancers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-secure-your-free-green-screen-assets-with-these-top-8-sites/"><u>In 2024, Secure Your FREE Green Screen Assets with These Top 8 Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-return-calls-on-secured-and-disguised-numbers/"><u>Mastering the Art of Return Calls on Secured and Disguised Numbers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-globe-trotting-the-finest-8-planning-apps-for-adventurers/"><u>Navigating Globe-Trotting: The Finest 8 Planning Apps for Adventurers</u></a></li>
+<li><a href="https://win-premium.techidaily.com/navigating-the-complexities-of-crypto-regulations-insights-from-yl-software-experts/"><u>Navigating the Complexities of Crypto Regulations: Insights From YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/real-time-commentary-on-ncaa-tournament-highlights-and-intense-final-four-showdown/"><u>Real-Time Commentary on NCAA Tournament Highlights & Intense Final Four Showdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-servers-and-racks-the-ultimate-guide-to-the-leading-models/"><u>Top-Rated Servers & Racks: The Ultimate Guide to the Leading Models</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights From ZDNet"
-date: 2025-02-09T21:30:53.822Z
-updated: 2025-02-11T16:21:24.348Z
+date: 2025-02-23T18:22:23.889Z
+updated: 2025-03-02T23:54:24.218Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -63,10 +59,6 @@ Don't buy these devices:
 
 ## **The 'Nice' list**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple iPhone 16**
 
 iPhone 16
@@ -74,10 +66,6 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -130,10 +118,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -148,10 +132,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -214,20 +194,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-psd-overhaul-techniques/"><u>[Updated] 2024 Approved Expert PSD Overhaul Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-easy-guide-to-boost-your-videos-speed-in-snapchat-for-2024/"><u>[Updated] Easy Guide to Boost Your Videos Speed in Snapchat for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-learn-to-negate-video-ordering-in-android/"><u>[Updated] Learn To Negate Video Ordering in Android</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>[Updated] ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-make-invisible-apps-visible-on-an-iphone-easily/"><u>Discover How to Make Invisible Apps Visible on an iPhone Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-setting-the-correct-time-on-your-amazon-kindle-paperwhite/"><u>Easy Tips for Setting the Correct Time on Your Amazon Kindle Paperwhite</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-wake-up-call-the-top-7-alarm-app-choices/"><u>Find Your Perfect Wake-Up Call: The Top 7 Alarm App Choices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hp-laptop-screenshotting-made-easy-step-by-step-instructions/"><u>HP Laptop Screenshotting Made Easy: Step-by-Step Instructions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-filters-applying-them-to-old-memories-for-2024/"><u>Mastering Instagram Filters Applying Them to Old Memories for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-resolution-of-directx-errors-for-a-smooth-run-of-battlefield-2042/"><u>Mastering the Resolution of DirectX Errors for a Smooth Run of Battlefield 2042</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/methods-to-improve-camera-video-resolution/"><u>Methods to Improve Camera Video Resolution</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-streaming-made-easy-how-to-connect-and-control-your-chromecast-remote/"><u>Seamless Streaming Made Easy: How to Connect and Control Your Chromecast Remote</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-destinations-for-purchasing-cellphones-a-comprehensive-guide/"><u>Top Destinations for Purchasing Cellphones: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-elite-huion-inspiroy-g10t-sketching-device-a-blend-of-elegance-and-power/"><u>Unboxing & Testing the Elite Huion Inspiroy G10T Sketching Device – A Blend of Elegance & Power</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-might-you-experience-issues-with-your-automobiles-speakers-exploring-the-reasons/"><u>Why Might You Experience Issues with Your Automobile's Speakers? Exploring the Reasons</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-meme-crafters-guide-to-kinemaster-for-2024/"><u>[Updated] Meme Crafters' Guide to KineMaster for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y27s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y27s to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/7-unbeatable-free-web-based-faxing-platforms-you-cant-miss/"><u>7 Unbeatable Free Web-Based Faxing Platforms You Can't Miss</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fur-windows-111087-verfugbare-kostenlose-synchronisationsoptionen-als-ersatz-fur-chronosync/"><u>Für Windows 11/10/8/7 Verfügbare Kostenlose Synchronisationsoptionen Als Ersatz Für ChronoSync</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-gt-5-240w-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme GT 5 (240W).</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/icloud-photo-management-a-step-by-step-guide-to-deleting-images-from-cloud-while-preserving-iphone-copies/"><u>ICloud Photo Management: A Step-by-Step Guide to Deleting Images From Cloud While Preserving iPhone Copies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tranquil-repos-no-pressure-pc-games/"><u>In 2024, Tranquil Repos No-Pressure PC Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/live-coverage-of-mens-ncaa-tournament-from-march-madness-to-the-elite-eight/"><u>Live Coverage of Men's NCAA Tournament: From March Madness to The Elite Eight!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-becoming-a-voice-removal-specialist-a-step-by-step-approach-for-2024/"><u>New Becoming a Voice Removal Specialist A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-moving-your-images-from-google-photos-to-icloud/"><u>Step-by-Step Guide: Moving Your Images From Google Photos to iCloud</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-5-best-secure-email-services/"><u>The 5 Best Secure Email Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-invisible-fortress-using-nightshade-to-guard-artistic-expression/"><u>The Invisible Fortress: Using Nightshade to Guard Artistic Expression</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-502-bad-gateway-error-causes-and-solutions/"><u>Understanding the 502 Bad Gateway Error: Causes & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-instagram-insights-viewing-photos-without-signing-up/"><u>Unlocking Instagram Insights: Viewing Photos Without Signing Up</u></a></li>
 </ul></div>
 

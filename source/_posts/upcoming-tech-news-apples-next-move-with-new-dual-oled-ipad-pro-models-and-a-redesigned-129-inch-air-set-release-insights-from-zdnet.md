@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights From ZDNet"
-date: 2025-02-09T16:17:20.105Z
-updated: 2025-02-11T23:04:40.076Z
+date: 2025-03-01T00:56:52.579Z
+updated: 2025-03-02T17:15:29.170Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ Apple/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPad Pro
 
@@ -54,27 +50,15 @@ Pricing is still up in the air, according to Kuo. If the price of the new 10.9-i
 
 Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo forecasts. The shipments will be slightly less than those of the existing Pro models, due to their higher prices and to possible cannibalization from the 12.9-inch iPad Air.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPad Air
 
 Speaking of the [iPad Air](https://www.zdnet.com/article/apple-ipad-air-fifth-generation-review/), two new versions of this model are slated for mass production in the first quarter of 2024, according to Kuo. The 12.9-inch Air is a brand-new model. Though it will stick with LED rather than move to mini-LED, it will use an Oxide backplane (the same as the current mini-LED iPad Pro). The 10.9-inch iPad Air will use an a-Si (amorphous silicon) backplane. Oxide backplanes provide better display performance than a-Si backplanes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPad Mini
 
 Kuo didn't provide any concrete details on the 2024 [iPad mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/). His only forecast is that mass production of next year's iPad mini model will be delayed to the second quarter, a change from the previous estimate of the first quarter.
 
 **Also: [The best small tablets you can buy](https://www.zdnet.com/article/best-small-tablet/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPad
 
@@ -122,24 +106,20 @@ One hiccup is that the global tablet market has seen better days, with [third-qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-soundtracking-dreams-an-overview-of-magix-fx/"><u>[New] Soundtracking Dreams An Overview of Magix FX</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-exploring-the-functionalities-in-free2x-cam-tech/"><u>[Updated] 2024 Approved Exploring the Functionalities in Free2X Cam Tech</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>2024 Approved Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-tutorial-for-resolving-the-missing-mss32dll-file-problem/"><u>A Step-by-Step Tutorial for Resolving the Missing mss32.dll File Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ace-your-reading-routine-changing-kindle-paperwhite-display-hours-easily/"><u>Ace Your Reading Routine: Changing Kindle Paperwhite Display Hours Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/blue-screen-of-death-codes-explained-your-full-reference-list/"><u>Blue Screen of Death Codes Explained: Your Full Reference List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-critical-error-handling-hal-initialization-failure-stop-0x0000005c/"><u>Fixing the Critical Error: Handling HAL Initialization Failure (STOP 0X0000005C)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-access-a-world-of-content-anywhere-anyplace-with-the-leading-6-best-and-cost-free-tools-to-download-youtubes-short-videos/"><u>In 2024, Access a World of Content Anywhere, Anyplace with the Leading 6 Best and Cost-Free Tools to Download YouTubes' Short Videos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xr-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone XR without the Previous Owner?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-m6-pro-4g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco M6 Pro 4G Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y100-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y100 5G Without PUK Codes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>In 2024, The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-hidden-navigation-shortcuts-learn-how-to-enable-and-use-your-devices-discreet-path-bar/"><u>Master Hidden Navigation Shortcuts: Learn How to Enable and Use Your Device's Discreet Path Bar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-youtube-a-video-journey-through-the-paths-of-virality-8-secrets-revealed/"><u>Mastering YouTube: A Video Journey Through the Paths of Virality (8 Secrets Revealed)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prepare-your-arsenal-upcoming-2024-enhancements-for-rainbow-six-siege/"><u>Prepare Your Arsenal: Upcoming 2024 Enhancements for Rainbow Six Siege</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-when-your-iphone-wont-make-a-sound-during-call/"><u>Step-by-Step Solutions for When Your iPhone Won't Make a Sound During Call</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-complete-guide-to-iphone-silhouette-mastery/"><u>The Complete Guide to iPhone Silhouette Mastery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-msvcr100dll-not-found-tips-and-tricks-inside/"><u>The Ultimate Fix for 'MSVCR100.DLL' Not Found – Tips and Tricks Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-latest-samsung-galaxy-z-fold-6-unveiled-pricing-launch-timeline-and-detailed-specifications/"><u>Unfolding the Latest - Samsung Galaxy Z Fold 6 Unveiled: Pricing, Launch Timeline & Detailed Specifications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-obs-versus-streamlabs-the-live-stream-software-duel/"><u>[New] 2024 Approved OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-compre-written-in-clear-language-this-ultimate-guide-explores-all-facets-of-using-the-iphone-xs-animoji-feature/"><u>[New] Compre Written in Clear Language, This Ultimate Guide Explores All Facets of Using the iPhone X's Animoji Feature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-faithful-frequencies-free-christian-music-downloads/"><u>[New] Faithful Frequencies Free Christian Music Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastery-of-podcast-rss-feeds-a-step-by-step-tutorial/"><u>[New] Mastery of Podcast RSS Feeds A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-examining-performance-of-dji-raptor-eyewear/"><u>[Updated] Examining Performance of DJI Raptor Eyewear</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-fond-memories-old-phone-xxs-photography/"><u>[Updated] In 2024, Fond Memories Old Phone Xx's Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-hulu-channels-through-lgs-smart-tv-interface-made-easy/"><u>Accessing Hulu Channels Through LG's Smart TV Interface Made Easy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/googles-next-move-in-the-market-unveiling-predicted-specs-and-potential-release-dates-for-streaming-stick/"><u>Google's Next Move in the Market? Unveiling Predicted Specs and Potential Release Dates for Streaming Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-discord-parental-controls/"><u>How to Set Up Discord Parental Controls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-troubleshoot-and-correct-horizontal-banding-issues-in-computer-imagery/"><u>How to Troubleshoot and Correct Horizontal Banding Issues in Computer Imagery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-best-free-downloader-turn-youtube-audio-into-premium-mp3s/"><u>In 2024, Best Free Downloader Turn YouTube Audio Into Premium MP3s</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/raphic-mind-numbing-youtube-factsfigures-and-statistics/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-how-to-simplifying-tasks-with-split-screen-techniques/"><u>Macbook Air How-To: Simplifying Tasks with Split Screen Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-correcting-the-ftd2xxdll-file-not-located-issue/"><u>Solutions for Correcting the 'Ftd2xx.dll File Not Located' Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-2024s-most-exceptional-tv-streamers/"><u>The Ultimate Selection of 2024’S Most Exceptional TV Streamers</u></a></li>
 </ul></div>
 

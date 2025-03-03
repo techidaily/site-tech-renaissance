@@ -1,7 +1,7 @@
 ---
 title: "Connect with the World of Sports: Watching ESPN + on an LG TV"
-date: 2024-08-12T03:39:23.726Z
-updated: 2024-08-13T03:39:23.726Z
+date: 2025-03-01T18:32:50.329Z
+updated: 2025-03-03T01:08:24.250Z
 categories:
   - BestProducts
 description: "This Article Describes Connect with the World of Sports: Watching ESPN + on an LG TV"
@@ -10,18 +10,6 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 ---
 
 ## Connect with the World of Sports: Watching ESPN + on an LG TV
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * There's no ESPN+ app for LG TVs, so you'll need to use a streaming box or hook your computer up to the TV.
@@ -38,42 +26,26 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
  Another option is to connect a streaming device that supports Hulu such as a Roku, Amazon Fire Stick, Apple TV, or Xfinity Flex. PlayStation and Xbox consoles also support the Hulu app, so you can also stream Hulu on your connected game system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Connect a Computer to Your LG TV
 
  Plug your computer directly into a video input port on your LG TV to use the screen as a monitor. You can then stream ESPN+ in a web browser and watch on your TV.
 
  You'll need a converter if your computer only has a DVI or VGA port and your TV only accepts HDMI cables. If you're not using an HDMI cable, you'll require an adapter (such as a 3.5mm-to-RCA cable) that plugs into your speaker port and splits it into the audio component cable.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cast ESPN+ From the Google Chrome Browser
 
  First,[connect your TV to the same Wi-Fi network](https://www.lifewire.com/connect-smart-tv-to-wifi-4587350) as your computer. Go to the ESPN+ website, start playing content, then select the**Cast** icon in the upper-right of the video player and choose your LG TV.
 
  If your TV doesn't have built-in Wi-Fi, you can[add Wi-Fi to your TV](https://www.lifewire.com/internet-enable-your-tv-3276356) with an internet-enabled Blu-ray player or video game console.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Cast ESPN+ to a TV From the Mobile App
 
  Ensure your mobile device and LG TV are connected to your home Wi-Fi network. Start playing content in the app, select the**Cast** icon in the upper-right of the video player, then choose your LG TV.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Watch ESPN Plus With a Streaming Device
 
  Even if your TV is already smart, you can connect other streaming devices or set-top boxes by plugging them into the HDMI port on your LG TV. Download the ESPN+ app for your Roku, Apple TV, Xfinity, or Amazon Fire TV streaming device to start watching on your TV. Depending on your device, you may be prompted to connect your ESPN+ account to your TV with an activation code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![The LG logo on a black background next to the ESPN+ logo on a white background with a torn-paper effect between them](https://www.lifewire.com/thmb/H8yCqpLCbXU4xF2tZcRN0Yqu5XU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-ESPN-Plus2-5a613f28564249e38ef803888f21e257.jpg)
 
 ## Watch ESPN+ on a Gaming Console
@@ -119,8 +91,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +98,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>[Updated] Capture Stunning Colors Top 11 Methods for Professional Grading & Correction</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-curating-tunes-a-comprehensive-guide-to-youtube-lists/"><u>[Updated] In 2024, Curating Tunes A Comprehensive Guide to YouTube Lists</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-behind-the-lens-on-your-macbook-webcam/"><u>2024 Approved Behind the Lens on Your MacBook Webcam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-boot-velocity-on-windows-10-top-tips-and-tricks/"><u>Boosting Boot Velocity on Windows 10 - Top Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-logitech-mouse-malfunctions-on-windows-11-pcs-heres-how-to-get-them-working-again/"><u>Common Logitech Mouse Malfunctions on Windows 11 PCs? Here's How to Get Them Working Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-troubleshooting-tips-when-your-logitech-mouse-fails-to-work-on-windows-10/"><u>Common Troubleshooting Tips When Your Logitech Mouse Fails to Work on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-how-to-install-and-update-directx-12-on-your-windows-10-pc/"><u>Complete Guide: How to Install and Update DirectX 12 on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-enabling-and-using-remote-desktop-on-your-windows-10-pc/"><u>Complete Tutorial: Enabling and Using Remote Desktop on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-converter-pgm-naar-tiff-professioneel-online-image-konvertiering-mit-movavi/"><u>Gratis Converter PGM Naar TIFF: Professioneel Online Image Konvertiering Mit Movavi</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-to-youtubes-latest-income-strategies-for-2024/"><u>Guide to YouTube's Latest Income Strategies for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-storage-errors-on-windows-11-tackling-the-fat-file-system-failures/"><u>Overcoming Storage Errors on Windows 11: Tackling the FAT File System Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-settings-the-drivers-rebooting-roadmap/"><u>Tailoring Screen Settings: The Drivers' Rebooting Roadmap</u></a></li>
+</ul></div>
 

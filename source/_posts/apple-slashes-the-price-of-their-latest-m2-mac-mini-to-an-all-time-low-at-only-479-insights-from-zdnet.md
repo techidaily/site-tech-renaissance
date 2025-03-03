@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2025-02-05T20:46:02.941Z
-updated: 2025-02-11T16:21:49.256Z
+date: 2025-02-28T19:22:14.246Z
+updated: 2025-03-02T19:59:59.767Z
 tags:
   - apple
 categories:
@@ -46,10 +46,6 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## It's the camera, stupid
 
 The company's first gambit is: "iPhone 15 captures up to 4x the resolution of iPhone 12for a new level of detail and color."
@@ -65,10 +61,6 @@ Moreover, there's a tiny number 2 next to this claim. I search at the bottom of 
 Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having a third camera." So we're still on the camera and picture-taking? I suppose that's really the main contemporary use for a smartphone. It's a camera with a phone attached.
 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## And it's the movies
 
@@ -87,10 +79,6 @@ Next, Apple tries: "The A16 Bionic chip has a GPU that's up to 40% faster than t
 Apple explains: "Longer battery life lets you watch up to 3 more hours of video than iPhone 12." But there's a tiny number 3 next to it. This footnote offers: "All battery claims depend on network configuration and many other factors; actual results will vary. Battery has limited recharge cycles and may eventually need to be replaced. Battery life and charge cycles vary by use and settings."
 
 That's the thing when people buy phones. They prefer actual results. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
 
@@ -150,24 +138,19 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-list-screen-recorders-for-expert-users-for-2024/"><u>[New] A-List Screen Recorders for Expert Users for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-subtitle-savant-strategies-for-unparalleled-srt-file-creation/"><u>[New] Subtitle Savant Strategies for Unparalleled SRT File Creation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>[Updated] The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>2024 Approved Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/3-mejores-herramientas-gratuitas-de-transferencia-de-dvd-a-mp4aviwmv-en-windows-11-como-transformar-su-biblioteca-de-dvd-sin-gastos/"><u>3 Mejores Herramientas Gratuitas De Transferencia De DVD a MP4/AVI/WMV en Windows 11 | Cómo Transformar Su Biblioteca De DVD Sin Gastos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-x-unveiled-anticipated-costs-launch-timeline-and-features-whats-next/"><u>Apple Watch Series X Unveiled: Anticipated Costs, Launch Timeline & Features – What's Next?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-binge-worthy-series-on-discovery-plus-for-julys-top-picks/"><u>Best Binge-Worthy Series on Discovery Plus for July's Top Picks!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/boost-creativity-explore-more-than-5-dynamic-js-theme-options-for-web-design-using-tailwind-and-creative-tim-templates/"><u>Boost Creativity: Explore More than 5 Dynamic Js Theme Options for Web Design Using Tailwind & Creative Tim Templates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/celebrate-labor-day-in-style-expert-advice-on-throwing-a-memorable-holiday-event-featuring-zdnet-strategies/"><u>Celebrate Labor Day in Style: Expert Advice on Throwing a Memorable Holiday Event - Featuring ZDNET Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-record-and-send-voicemail-on-your-apple-device/"><u>Easy Ways to Record and Send Voicemail on Your Apple Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-unparalleled-audio-the-15-premier-films-with-dolby-atmos-sound-for-home-viewing/"><u>Enjoy Unparalleled Audio: The 15 Premier Films with Dolby Atmos Sound for Home Viewing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-s18e-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo S18e Through Google Earth?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/izing-youtube-profits-transitioning-from-ads-to-accounts/"><u>Maximizing YouTube Profits Transitioning From Ads to Accounts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-remove-filmora-watermark/"><u>New In 2024, How to Remove Filmora Watermark</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ordering-your-star-wars-adventure-a-step-by-step-disneyplus-tutorial/"><u>Ordering Your Star Wars Adventure: A Step-by-Step Disney+ Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-network-not-registered-issues-on-your-samsung-galaxy-device/"><u>Resolving 'Network Not Registered' Issues on Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-itinerary-for-enjoying-jrr-tolkiens-epic-saga-on-screen/"><u>Step-by-Step Itinerary for Enjoying J.R.R. Tolkien's Epic Saga on Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-network-diagnostics-how-to-execute-the-tracert-tool-in-windows/"><u>Unlocking Network Diagnostics: How to Execute the Tracert Tool in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-secrets-behind-video-streaming-equipment/"><u>Unraveling the Secrets Behind Video Streaming Equipment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-live-streamed-gaming-sessions-for-2024/"><u>[Updated] Mastering Live-Streamed Gaming Sessions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/799-google-pixel-9-shines-bright-in-this-years-android-showcase/"><u>$799 Google Pixel 9 Shines Bright in This Year's Android Showcase</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/15-snapchat-mastery-techniques-you-cant-miss-for-2024/"><u>15 Snapchat Mastery Techniques You Can't Miss for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-atandt-wireless-worldwide-connectivity-rules/"><u>A Comprehensive Guide to AT&T Wireless Worldwide Connectivity Rules</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-when-you-cant-find-d3dx930dll-on-your-system/"><u>Effective Solutions for When You Can’t Find d3dx9_30.dll on Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-skype-setup-10-tips-to-ensure-uninterrupted-calls/"><u>Effortless Skype Setup: 10 Tips to Ensure Uninterrupted Calls</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XR Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-13-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 13 and iPad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-5-v-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 5 V Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-printing-docx-documents-on-your-windows-computer-tips-from-yl-computing/"><u>Step-by-Step Guide: Printing .docx Documents on Your Windows Computer - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taylor-swift-on-the-big-screen-the-ultimate-viewing-order/"><u>Taylor Swift on the Big Screen: The Ultimate Viewing Order</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-handbrake-tutorial-setting-the-perfect-bitrate-and-quality-for-your-videos/"><u>The Ultimate Handbrake Tutorial: Setting the Perfect Bitrate & Quality for Your Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-how-to-overcome-a-failed-system-clock-cmos-verification/"><u>Troubleshooting Techniques: How to Overcome a Failed System Clock (CMOS) Verification</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trusted-veilig-media-software-explore-movavi-video-editor/"><u>Trusted Veilig Media Software - Explore Movavi Video Editor</u></a></li>
 </ul></div>
 

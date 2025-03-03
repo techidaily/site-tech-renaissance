@@ -1,7 +1,7 @@
 ---
 title: President's Day Super Deals Extended! Shop the Top Offers on Amazon, Walmart & More Insider Tips
-date: 2025-01-08T21:10:28.977Z
-updated: 2025-01-10T21:56:03.468Z
+date: 2025-03-01T19:49:19.561Z
+updated: 2025-03-02T23:30:35.788Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Amazon Fire HD 8 Kids Pro Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09BG63ZMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $100 (save $50 at Amazon)
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $85 (save $45 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Presidents Day tech deals still live
 
 June Wan/ZDNET
@@ -67,10 +63,6 @@ June Wan/ZDNET
 * [Amazon Fire HD 10 Kids Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BL5SZ3VV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $150 (save $40 at Amazon)
 * [Asus TUF Gameing A17 Laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430%253FItem%253DN82E16834236430): $1,350 (save $450 at Newegg)
 * [Asus Gaming Desktop Predator Orion 3000](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Facer-po3-650-ub91-predator-orion-3000%252Fp%252FN82E16883101905%253FItem%253DN82E16883101905): $700 (save $500 at Newegg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Presidents Day headphones deals still live
 
@@ -130,27 +122,15 @@ Arlo
 * [iDoo Queen Air Mattress](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C8TF4VK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $70 (save $46 at Amazon)
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $40 (save $40 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When is President's Day?
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -202,16 +182,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-4k-brilliance-top-tips-for-selecting-a-superior-monitor/"><u>[New] 4K Brilliance Top Tips for Selecting a Superior Monitor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>[New] Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-echoes-in-the-digital-abyss-understanding-vr-ar-and-mr-for-2024/"><u>[Updated] Echoes in the Digital Abyss Understanding VR, AR, and MR for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essential-handbook-to-planning-zoom-sessions/"><u>[Updated] The Essential Handbook to Planning Zoom Sessions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/10-websites-for-premium-quality-vector-stock-images/"><u>10 Websites for Premium-Quality Vector Stock Images</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-tos-for-immersive-nba-livestream-watching/"><u>2024 Approved How-To's for Immersive NBA Livestream Watching</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722876876536-change-your-discord-icon-easily-detailed-instructions-inside/"><u>Change Your Discord Icon Easily: Detailed Instructions Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722848683855-compatibility-insight-can-ps4-games-be-used-with-the-next-gen-ps5/"><u>Compatibility Insight: Can PS4 Games Be Used With The Next-Gen PS5?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartphones-tablets-and-books-your-ultimate-guide-to-modern-reading-and-tech-essentials/"><u>Smartphones, Tablets & Books: Your Ultimate Guide to Modern Reading and Tech Essentials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/spotting-and-handling-fake-friend-requests-proactive-strategies/"><u>Spotting and Handling Fake Friend Requests: Proactive Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-perfect-computing-velocity-you-need/"><u>Unveiling the Perfect Computing Velocity You Need</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-the-world-class-editor-a-complete-guide-to-vivacuts-offerings/"><u>[New] Inside the World-Class Editor A Complete Guide to VivaCut's Offerings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cross-compatibility-mastery-how-to-use-and-enjoy-android-apps-on-windows-11-systems/"><u>Cross-Compatibility Mastery: How to Use and Enjoy Android Apps on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repair-what-to-do-when-a-macbook-pro-keyboard-stops-working/"><u>DIY Repair: What to Do When a MacBook Pro Keyboard Stops Working</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capturing-joy-in-switchs-best-card-choices/"><u>In 2024, Capturing Joy in Switch's Best Card Choices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-investment-worthy-asmr-sound-for-every-fan/"><u>In 2024, Investment-Worthy ASMR Sound for Every Fan</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-step-by-step-turn-your-images-darker/"><u>In 2024, Step-by-Step Turn Your Images Darker</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-gamers-tools-premium-gear-lists-on-youtube/"><u>In 2024, Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-issues-with-a-missing-wininetdll-file-effective-solutions/"><u>Resolving Issues with a Missing Wininet.dll File: Effective Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/savvy-short-message-practices-for-optimal-data-usage/"><u>Savvy Short Message Practices for Optimal Data Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/siris-text-voice-feature-demystified-a-comprehensive-guide-for-ios-and-mac-users/"><u>Siri's Text Voice Feature Demystified – A Comprehensive Guide for iOS and Mac Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unleashing-potential-the-extensive-functionality-of-samsung-gear-s3-frontier-examined-in-depth/"><u>Unleashing Potential: The Extensive Functionality of Samsung Gear S3 Frontier Examined in Depth</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-sets-them-apart-exploring-differences-between-home-theatre-and-stereo-receivers/"><u>What Sets Them Apart? Exploring Differences Between Home Theatre and Stereo Receivers</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-defender-a-robust-shield-against-identity-theft-according-to-yl-software-professionals/"><u>Windows Defender: A Robust Shield Against Identity Theft, According to YL Software Professionals</u></a></li>
 </ul></div>
 

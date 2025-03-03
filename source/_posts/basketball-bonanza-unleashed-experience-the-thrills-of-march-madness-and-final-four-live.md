@@ -1,7 +1,7 @@
 ---
 title: "Basketball Bonanza Unleashed: Experience the Thrills of March Madness & Final Four Live!"
-date: 2024-08-12T03:42:35.894Z
-updated: 2024-08-13T03:42:35.894Z
+date: 2025-03-01T17:46:47.971Z
+updated: 2025-03-02T19:45:07.063Z
 categories:
   - BestProducts
 description: "This Article Describes Basketball Bonanza Unleashed: Experience the Thrills of March Madness & Final Four Live!"
@@ -10,9 +10,6 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 ---
 
 ## Enhance Your Email Experience with Unique Gmail Alert Tones – Learn How
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -30,19 +27,10 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
  If you're using the Notifier for Gmail Chrome extension:
 
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -50,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b20
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -97,8 +79,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +86,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-6-masterpieces-designing-mc-village-homes/"><u>[New] 2024 Approved Top 6 Masterpieces Designing MC Village Homes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secrets-to-updating-your-facebook-banner-for-2024/"><u>[New] Secrets to Updating Your Facebook Banner for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-passive-watchers-to-profit-youtube-monetization/"><u>[Updated] From Passive Watchers To Profit YouTube Monetization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-hours-of-light-long-exposure-iphone-tips/"><u>2024 Approved Harnessing Hours of Light Long-Exposure iPhone Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-16-sneak-peek-anticipated-features-launch-dates-and-potential-costs-free-trial/"><u>Android 16 Sneak Peek: Anticipated Features, Launch Dates & Potential Costs - Free Trial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-desktop-with-these-15-free-windows-11-styles-and-themes/"><u>Enhance Your Desktop with These 15 Free Windows 11 Styles and Themes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-view-tiktok-content-on-a-big-tv-for-an-enhanced-experience/"><u>How to View TikTok Content on a Big TV for an Enhanced Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-simple-techniques-for-downloading-youtube-content/"><u>In 2024, Simple Techniques for Downloading YouTube Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimal-frequency-when-is-it-time-to-upgrade-your-mobile-device/"><u>Optimal Frequency: When Is It Time to Upgrade Your Mobile Device?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-connectivity-a-users-manual-to-freshen-up-network-setups-on-a-mac/"><u>Resetting Connectivity: A User's Manual to Freshen Up Network Setups on a Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-s24plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy S24+? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-concealed-ios-apps-tips-and-tricks-for-iphone-users/"><u>Unlocking Concealed iOS Apps – Tips and Tricks for iPhone Users</u></a></li>
+</ul></div>
 

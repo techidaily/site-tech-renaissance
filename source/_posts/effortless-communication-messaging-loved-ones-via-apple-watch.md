@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2025-02-08T19:31:42.702Z
-updated: 2025-02-12T02:01:38.284Z
+date: 2025-02-28T23:38:44.547Z
+updated: 2025-03-02T23:16:35.491Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -43,10 +39,6 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -76,10 +68,6 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -96,10 +84,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -107,10 +91,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -154,18 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-choose-best-free-youtube-video-editor-apps-on-ios-for-2024/"><u>[New] How to Choose Best-Free YouTube Video Editor Apps on iOS for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-post-twitter-videos-on-snapchat/"><u>[New] In 2024, How to Post Twitter Videos on Snapchat?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-gamers-choice-best-alternatives-to-official-recorder/"><u>[Updated] Gamer's Choice Best Alternatives to Official Recorder</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-recommendations-the-top-10-sports-apps-for-live-tennis-games/"><u>[Updated] Premier Recommendations The Top 10 Sports Apps for Live Tennis Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-instant-recording-sight-and-sound-fused/"><u>2024 Approved Instant Recording Sight & Sound Fused</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-wont-connect-to-cellular-service-heres-how-to-fix-it/"><u>Apple Watch Won't Connect to Cellular Service? Here's How to Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-of-ai-unlocking-knowledge-through-lifewires-15-free-online-self-taught-courses/"><u>Explore the World of AI: Unlocking Knowledge Through Lifewire's 15 Free Online Self-Taught Courses</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-effective-strategies-to-document-competitive-play/"><u>In 2024, Effective Strategies to Document Competitive Play</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/installing-your-favorite-streams-a-comprehensive-walkthrough-for-the-ccloud-addon-on-kodi-leia-update/"><u>Installing Your Favorite Streams: A Comprehensive Walkthrough for the cCloud Addon on Kodi Leia Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-dealing-with-missing-boot-manager-challenges/"><u>Quick Fixes for Dealing with Missing Boot Manager Challenges</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-airpods-to-your-macbook-air/"><u>Step-by-Step Guide: Linking AirPods to Your MacBook Air</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-adding-new-adventures-with-oculus-quest-2-meta-purchases/"><u>The Ultimate Guide to Adding New Adventures with Oculus Quest 2 Meta Purchases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watching-netflix-on-a-nintendo-switch-is-it-possible/"><u>Watching Netflix on a Nintendo Switch - Is It Possible?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-the-essentials-of-your-youtube-tv-experience/"><u>[New] 2024 Approved Decoding the Essentials of Your YouTube TV Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-the-top-7-innovative-apps-for-effortless-youtube-live-broadcasts-on-iphone-and-android/"><u>[Updated] 2024 Approved Explore the Top 7 Innovative Apps for Effortless YouTube LIVE Broadcasts on iPhone and Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-joke-jingles-top-online-ringtone-sources/"><u>[Updated] 2024 Approved Joke Jingles Top Online Ringtone Sources</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-art-of-applying-skin-secrets-establishing-an-online-beauty-platform/"><u>[Updated] In 2024, The Art of Applying Skin Secrets Establishing an Online Beauty Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-photos-removing-backdrops-with-ease/"><u>2024 Approved Transform Your Photos Removing Backdrops with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-and-gaming-are-they-compatible-with-your-nintendo-switch/"><u>AirPods and Gaming: Are They Compatible With Your Nintendo Switch?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-control-win11-rgb-settings/"><u>How to Control Win11 RGB Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-versus-android-determining-the-best-tech-companion-for-you/"><u>IPhone Versus Android: Determining The Best Tech Companion For You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-troubleshooting-effective-ways-to-resolve-error-code-nw-1-19/"><u>Netflix Troubleshooting: Effective Ways to Resolve Error Code NW-1-19</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-complete-online-video-editing-course-from-basics-to-advanced-techniques/"><u>New The Complete Online Video Editing Course From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-need-for-glasses-learn-how-to-stream-3d-movie-magic-with-fandango-in-your-living-room/"><u>No Need for Glasses! Learn How to Stream 3D Movie Magic with Fandango in Your Living Room</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixelperfect-toolkit-guidebook-for-2024/"><u>PixelPerfect Toolkit Guidebook for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-of-the-curve-expert-hardware-analysis-by-toms-team/"><u>Stay Ahead of the Curve: Expert Hardware Analysis by Tom's Team</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-microsoft-office-suite-on-your-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Office Suite on Your Computer</u></a></li>
 </ul></div>
 

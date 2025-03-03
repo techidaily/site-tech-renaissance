@@ -1,7 +1,7 @@
 ---
 title: How Can Switching to an RTX GPU Improve Your PC Experience?
-date: 2024-08-12T03:44:40.381Z
-updated: 2024-08-13T03:44:40.381Z
+date: 2025-02-26T19:09:25.135Z
+updated: 2025-03-02T18:55:21.471Z
 categories:
   - BestProducts
 description: This Article Describes How Can Switching to an RTX GPU Improve Your PC Experience?
@@ -27,30 +27,15 @@ thumbnail: https://www.lifewire.com/thmb/OxEaC2oCaxLR5dEf3iKlaNR-BRk=/400x300/fi
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -61,10 +46,6 @@ thumbnail: https://www.lifewire.com/thmb/OxEaC2oCaxLR5dEf3iKlaNR-BRk=/400x300/fi
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -102,8 +83,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +90,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-video-dimension-guide-for-best-video-format-2023/"><u>[New] 2024 Approved Instagram Video Dimension [Guide for Best Video Format 2023]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-the-foremost-android-alternatives-for-playstation-2-emulation/"><u>[New] 2024 Approved Unveiling The Foremost Android Alternatives for PlayStation 2 Emulation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-velocity-ventures-discover-the-freshest-5-virtual-race-titles/"><u>[New] Velocity Ventures Discover the Freshest 5 Virtual Race Titles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-video-recording-and-editing-software-for-new-gamers/"><u>2024 Approved Essential Video Recording & Editing Software for New Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/emoji-essentials-for-iphone-users-from-basic-to-advanced-techniques/"><u>Emoji Essentials for iPhone Users: From Basic to Advanced Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enablingdisabling-network-discovery-on-your-pc-a-guide-for-windows-11-users/"><u>Enabling/Disabling Network Discovery on Your PC: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fix-streaming-hiccups-for-mkv-videos-across-different-software-including-vlc-player/"><u>Fix Streaming Hiccups for MKV Videos Across Different Software Including VLC Player</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-sluggishness-on-windows-11-tips-and-tricks-for-quicker-operation/"><u>Fixing Sluggishness on Windows 11: Tips and Tricks for Quicker Operation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-missing-physxloaderdll-files-in-windows/"><u>How to Correctly Address Missing PhysXLoader.dll Files in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-regain-access-to-your-steam-friends-connectivity-issues-resolved/"><u>How to Regain Access to Your Steam Friends: Connectivity Issues Resolved</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-red-magic-9-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Red Magic 9 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-tesla-robotaxi-price-predictions-launch-date-and-vehicle-details-recent-buzz/"><u>Inside Look at Tesla Robotaxi: Price Predictions, Launch Date & Vehicle Details - Recent Buzz</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-lg-channels-with-ease-vital-knowledge-everyone-should-have/"><u>Navigating LG Channels with Ease: Vital Knowledge Everyone Should Have</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-pip-functionality-in-apples-browsers/"><u>Navigating PIP Functionality in Apple's Browsers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimal-picture-mode-selection-on-your-samsung-qled-4k-television/"><u>Optimal Picture Mode Selection on Your Samsung QLED 4K Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-photoshops-scratch-disk-is-full-problem-a-step-by-step-guide/"><u>Overcoming Photoshop's 'Scratch Disk Is Full' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-enjoying-the-samsung-unpacked-presentation-on-your-device-at-home/"><u>Step-by-Step Guide: Enjoying the Samsung Unpacked Presentation on Your Device at Home</u></a></li>
+</ul></div>
 

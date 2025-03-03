@@ -1,7 +1,7 @@
 ---
 title: "New Horizons in Mobile Payments: How Apple Extends iPhone NFC for Enhanced Third-Party Integration | Explore Usage Impact"
-date: 2025-01-07T07:53:33.513Z
-updated: 2025-01-11T03:10:56.396Z
+date: 2025-02-27T01:46:00.706Z
+updated: 2025-03-02T19:46:28.183Z
 tags:
   - apple
 categories:
@@ -55,10 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -75,10 +71,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -90,10 +82,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -131,10 +119,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -165,10 +149,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,19 +190,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-become-a-kinemaster-meme-wizard/"><u>[Updated] Become a KineMaster Meme Wizard</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>2024 Approved The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-windows-11-mov-to-avi-conversion-tutorial/"><u>2024 Approved Windows 11 MOV to AVI Conversion Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-and-chat-essential-tips-for-enabling-whatsapp-on-macos/"><u>Connect and Chat: Essential Tips for Enabling WhatsApp on macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-guide-steps-to-successfully-change-your-ipads-battery/"><u>DIY Guide: Steps to Successfully Change Your iPad's Battery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-take-yourself-off-of-tiktok-a-detailed-walkthrough/"><u>Easy Steps to Take Yourself Off of TikTok – A Detailed Walkthrough</u></a></li>
-<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-high-definition-audio-codec-on-windows-10-solved/"><u>How to Install IDT High Definition Audio Codec on Windows 10 - Solved</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mass-movement-mastery-the-drone-top-list/"><u>In 2024, Mass Movement Mastery The Drone Top List</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-the-troubleshooting-of-device-driver-problems-halting-windows-10-performance/"><u>Master the Troubleshooting of 'Device Driver' Problems Halting Windows 10 Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Excessive CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-clearing-your-macs-dns-history/"><u>Step-by-Step Guide: Clearing Your Mac's DNS History</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-administrative-access-a-guide-to-dealing-with-trustedinstaller-in-windows-11/"><u>Unlock Administrative Access: A Guide to Dealing with TrustedInstaller in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-facebook-from-inception-to-favorites-and-essential-characteristics/"><u>Unveiling Facebook: From Inception to Favorites and Essential Characteristics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-innovate-with-windows-10s-newest-apps-and-games-for-2024/"><u>[Updated] Innovate with Windows 10'S Newest Apps and Games for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/create-your-own-custom-iphone-ringtones-with-our-free-m4r-editor/"><u>Create Your Own Custom iPhone Ringtones with Our Free M4R Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-way-to-detach-or-delete-apps-in-mac-os-x-environment/"><u>Easy Way to Detach or Delete Apps in Mac OS X Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gameplay-ps1-mastery-on-pc-with-duckstations-aid/"><u>Elevate Your Gameplay: PS1 Mastery on PC with Duckstation's Aid</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/energy-efficiency-and-strength-in-numbers-running-multiple-nvidia-rtx-4090-gpus-with-cooler-masters-mx-mighty-power-supplies/"><u>Energy Efficiency & Strength in Numbers: Running Multiple NVIDIA RTX 4090 GPUs with Cooler Master’s MX Mighty Power Supplies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nubia-red-magic-8s-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nubia Red Magic 8S Pro Phone Screen?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-when-your-system-cant-locate-libeay32dll-file/"><u>How to Repair When Your System Can't Locate Libeay32.dll File</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intellectual-frontier-can-computers-triumph/"><u>Intellectual Frontier: Can Computers Triumph?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tricks-to-block-and-filter-calls-with-hidden-caller-ids-securely/"><u>IPhone Tricks to Block and Filter Calls with Hidden Caller IDs Securely</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-emoji-communication-on-snapchat-a-comprehensive-guide-for-newbies/"><u>Mastering Emoji Communication on Snapchat: A Comprehensive Guide for Newbies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-fixes-for-code-41-conflicts-within-device/"><u>Mastering Fixes for Code 41 Conflicts Within Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722866514907-mastering-pet-gaze-enhancement-tips-for-stunning-shots/"><u>Mastering Pet Gaze Enhancement: Tips for Stunning Shots</u></a></li>
+<li><a href="https://facebook.techidaily.com/networking-smarts-facebook-for-professional-development/"><u>Networking Smarts: Facebook for Professional Development</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969388563-step-by-step-broadcom-gigabit-lan-driver-download-for-windows-11-with-troubleshooting-tips/"><u>Step-by-Step Broadcom Gigabit LAN Driver Download for Windows 11 with TroubleShooting Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-invisible-wi-fi-networks-on-your-devices/"><u>Step-by-Step Fix for Invisible Wi-Fi Networks on Your Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-and-considerations-prior-to-investing-in-video-capturing-equipment/"><u>Top Tips and Considerations Prior to Investing in Video Capturing Equipment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-potential-of-artificial-intelligence-with-these-15-gratis-independent-online-classes/"><u>Unlock the Potential of Artificial Intelligence with These 15 Gratis, Independent Online Classes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-fake-tech-real-versus-sham-chatgpt-tools/"><u>Unraveling Fake Tech: Real Versus Sham ChatGPT Tools</u></a></li>
 </ul></div>
 

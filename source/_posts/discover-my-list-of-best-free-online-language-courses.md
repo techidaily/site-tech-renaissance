@@ -1,7 +1,7 @@
 ---
 title: Discover My List of Best Free Online Language Courses
-date: 2024-08-12T03:43:10.672Z
-updated: 2024-08-13T03:43:10.672Z
+date: 2025-02-26T19:35:40.975Z
+updated: 2025-03-02T16:40:30.979Z
 categories:
   - BestProducts
 description: This Article Describes Discover My List of Best Free Online Language Courses
@@ -52,9 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
  As you can see above,[IPv6](https://www.lifewire.com/ipv4-vs-ipv6-4780834) IP addresses use colons. If you're not sure which one to use for Google's servers or any of the others on this page, stick with IPv4.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Control D: 76.76.2.0 & 76.76.10.0
 
 ![A list of free DNS options at Control D](https://www.lifewire.com/thmb/W1PoIB20e3W5hSR-CYEJ_oBCo-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/control-d-free-dns-2f558b21cde84ae5a686dece15e913c0.png)
@@ -73,9 +70,6 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
 ### Quad9: 9.9.9.9 & 149.112.112.112
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Quad9 website](https://www.lifewire.com/thmb/iRlEKiR8f7CmoRJ2O1dytTs_Exw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quad9-d6eaf2378c0149b497e6792759186953.jpg)
 
 [Quad9](https://www.quad9.net/) has free public DNS servers that protect your computer and other devices from cyber threats by immediately and automatically blocking access to unsafe websites. One thing I appreciated while researching this company is that it works without storing your personal data; their website clearly states that when you use Quad9, "no data containing your IP address is ever logged."
@@ -92,9 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
 ### OpenDNS: 208.67.222.222 & 208.67.220.220
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![OpenDNS public DNS server website](https://www.lifewire.com/thmb/5votPFdjy1TRMp-5wxWdB3e_74c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opendns-518a9ef00d6a4215964245aa4dfd6688.png)
 
  Used by tens of millions of users around the world,[OpenDNS](https://www.opendns.com/) claims 100 percent reliability and uptime (since 2006!). They offer two sets of free public DNS servers, one of which is just for parental controls with dozens of filtering options.
@@ -127,19 +118,8 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
  There are setup directions for all your devices through the link above. Another way to use it is through the[1.1.1.1 app](https://one.one.one.one/) , which provides quick DNS setup on mobile and desktop devices; it also doubles as a VPN.[1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) can block malware (1.1.1.2) or malware and adult content (1.1.1.3). It[supports DNS over HTTPS and TLS](https://developers.cloudflare.com/1.1.1.1/encryption/) as well.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### AdGuard DNS: 94.140.14.14 & 94.140.15.15
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![AdGuard DNS website](https://www.lifewire.com/thmb/VGFWb-Sg7jSxs7MM04dHcD40dbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adguard-dns-b78348dab9e240bc94d94fd9be62e8e6.png)
 
 [AdGuard DNS](https://adguard-dns.io/en/public-dns.html) has three sets of DNS servers, each with different features. Two are designed to block ads in games, videos, apps, and web pages. I used these "Default" servers for several months to block ads and trackers, and I was pleased with its performance, despite ads slipping through at times:
@@ -154,14 +134,8 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
  There are also "Family protection" servers (94.140.14.15 and 2a10:50c0::bad1:ff) that block adult content, plus everything included in the "Default" servers. Non-filtering servers are available if you're not interested in blocking anything: 94.140.14.140 and 2a10:50c0::1:ff. These servers are also available as DNS over HTTPS, TLS, and QUIC, as well as DNSCrypt. Compared to[paid AdGuard DNS plans](https://adguard-dns.io/en/license.html) , free users have zero customer support and limited monthly requests, device access, rules, and servers.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### CleanBrowsing: 185.228.168.9 & 185.228.169.9
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![CleanBrowsing public DNS servers](https://www.lifewire.com/thmb/vXD5OF-pxtI8y-8lcOMqbwGDDAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cleanbrowsing-44622bf548554faa886745618c97b08a.png)
 
 [CleanBrowsing has three free public DNS server options](https://cleanbrowsing.org/filters/) : a security filter, adult filter, and family filter. These are the DNS servers for the security filter, the most basic of the three that updates hourly to block malware and phishing sites:
@@ -176,14 +150,8 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
  The adult filter (185.228.168.10) prevents access to adult domains, and the family filter (185.228.168.168) blocks proxies, VPNs, and mixed adult content. They both also block the same domains supported by the security filter. For more features, subscribe to one of the[CleanBrowsing premium plans](https://cleanbrowsing.org/pricing/) . This service supports DoH and DoT as well.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Alternate DNS: 76.76.19.19 & 76.223.122.150
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
 
 [Alternate DNS](https://alternate-dns.com/) is a free public DNS service that blocks ads before they reach your network. It works pretty well in my experience, but it's not 100 percent perfect.
@@ -198,9 +166,6 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
  You can[sign up with Alternate DNS for free](https://alternate-dns.com/registration%5Ffree.php) , but there's also a[Family Premium DNS](https://alternate-dns.com/family-premium.php) option that blocks adult content.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Use Different DNS Servers?
 
  One reason you might want to change the DNS servers assigned by your ISP is if you suspect there's a problem with the ones you're using now. An easy way to test for a DNS server issue is by typing a[website's IP address](https://www.lifewire.com/find-the-ip-address-of-a-web-site-818155) into the browser. If you can reach the website with the IP address, but not the name, then the DNS server is likely having issues.
@@ -267,8 +232,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,4 +239,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-yt-insider-tips-from-chroma-keying-to-cinematic-creations/"><u>[New] 2024 Approved YT Insider Tips From Chroma Keying to Cinematic Creations</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-earnings-explorer-what-you-get-for-watching-one-million-videos/"><u>[New] In 2024, Earnings Explorer What You Get for Watching One Million Videos?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>[New] In 2024, The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-final-word-on-vegaspro-2019-for-2024/"><u>[New] The Final Word on VegasPro 2019 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-your-footage-with-optimal-aspect-ratios/"><u>2024 Approved Harmonizing Your Footage With Optimal Aspect Ratios</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-swift-srt-to-text-transformation/"><u>2024 Approved Master the Art of Swift SRT to Text Transformation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advancing-into-a-new-era-of-high-speed-internet-with-verizon-ebg/"><u>Advancing Into a New Era of High-Speed Internet with Verizon Ebg</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypass-the-hurdles-correcting-errors-when-user32dll-is-unavailable/"><u>Bypass the Hurdles: Correcting Errors When User32.dll Is Unavailable</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correcting-zlibdll-not-found-errors-effective-techniques-and-tips/"><u>Correcting zlib.dll Not Found Errors: Effective Techniques and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enter-the-viral-world-of-tiktoks-on-your-flat-screen-a-step-by-step-guide-to-connect-your-phone-and-tv/"><u>Enter the Viral World of TikToks on Your Flat Screen - A Step-by-Step Guide to Connect Your Phone and TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-how-to-optimize-your-television-or-home-theater-for-the-ultimate-super-bowl-experience/"><u>Expert Advice: How to Optimize Your Television or Home Theater for the Ultimate Super Bowl Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-asmr-apps-android-and-ios-edition/"><u>In 2024, Essential ASMR Apps Android & iOS Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-the-switch-making-your-graphic-style-a-sticker-on-every-platform-for-2024/"><u>Master the Switch Making Your Graphic Style a Sticker on Every Platform for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-internet-searches-methods-to-retrieve-phone-numbers-ethically/"><u>Mastering Internet Searches: Methods to Retrieve Phone Numbers Ethically</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-puzzle-of-a-dysfunctional-search-in-windows-11/"><u>Solving the Puzzle of a Dysfunctional Search in Windows 11</u></a></li>
+</ul></div>
 

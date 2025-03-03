@@ -1,7 +1,7 @@
 ---
 title: Expert Techniques for Handling Server Unauthorized Responses (401)
-date: 2024-08-12T03:37:13.050Z
-updated: 2024-08-13T03:37:13.050Z
+date: 2025-02-25T16:54:26.603Z
+updated: 2025-03-02T16:43:29.377Z
 categories:
   - BestProducts
 description: This Article Describes Expert Techniques for Handling Server Unauthorized Responses (401)
@@ -25,43 +25,20 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
 These instructions only work with a single page of code.
 
 1. Open the document you want the code to appear in, and select**Insert** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
@@ -112,8 +89,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +96,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/everaging-youtube-insights-for-content-growth-for-2024/"><u>[New] Leveraging YouTube Insights for Content Growth for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-your-video-meetings-to-life-how-to-link-a-zoom-session-to-your-tv/"><u>Bring Your Video Meetings to Life – How to Link a Zoom Session to Your TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-signal-and-whatsapp-a-comprehensive-feature-breakdown/"><u>Choosing Between Signal and WhatsApp: A Comprehensive Feature Breakdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-finest-alternatives-to-gmail-the-ultimate-list-for-202n4/"><u>Discover the Finest Alternatives to Gmail: The Ultimate List for 202N4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-privacy-and-security-unveiling-apples-techniques-for-protecting-your-ai-processed-cloud-data-zdnet/"><u>Ensuring Privacy and Security: Unveiling Apple's Techniques for Protecting Your AI Processed Cloud Data | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-missing-action-buttons-on-microsoft-written-language-english/"><u>How to Fix Missing Action Buttons on Microsoft' Written Language: English</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps4-controller-flashes-explained-identifying-blue-white-red-and-orange-signals/"><u>PS4 Controller Flashes Explained: Identifying Blue, White, Red, and Orange Signals</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-directions-for-watching-taylor-swifts-cinematic-works-in-a-series/"><u>Step-by-Step Directions for Watching Taylor Swift's Cinematic Works in a Series</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-your-own-wireless-cinema-experience-in-the-dorm/"><u>Step-by-Step Guide: Setting Up Your Own Wireless Cinema Experience in the Dorm</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-free-options-that-outshine-skype/"><u>The Ultimate List: Free Options That Outshine Skype</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-reconnecting-your-fallout-76-game-on-pc/"><u>Troubleshooting Steps: Reconnecting Your Fallout 76 Game on PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ate-speaker-change-tech-for-internet-showbiz-pros/"><u>Ultimate Speaker Change Tech for Internet Showbiz Pros</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-productivity-with-the-best-deals-on-lenovo-laptops-tailored-for-hybrid-workers-save-an-extra-1000-today/"><u>Unlock Productivity with the Best Deals on Lenovo Laptops Tailored for Hybrid Workers – Save an Extra $1,000 Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-mozilla-thunderbird-v52-the-next-evolution-of-secure-reliable-messaging/"><u>Unveiling Mozilla Thunderbird v52 – The Next Evolution of Secure, Reliable Messaging</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-free-dvd-player-software-for-windows-10-our-top-10-recommendations-for-2024/"><u>Updated Free DVD Player Software for Windows 10 Our Top 10 Recommendations for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-final-cut-pro-essentials-how-to-use-the-ken-burns-effect-to-enhance-your-video-storytelling/"><u>Updated In 2024, Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722898554652-xbox-series-xs-headset-wont-work-heres-how-you-can-repair-it/"><u>Xbox Series X/S Headset Won't Work? Here’s How You Can Repair It!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2025-02-10T17:42:59.641Z
-updated: 2025-02-12T01:28:34.480Z
+date: 2025-02-27T23:29:38.035Z
+updated: 2025-03-02T17:34:34.238Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -104,10 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +109,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -150,10 +138,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +190,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-from-zero-to-hero-navigating-youtubes-growth-journey/"><u>[New] From Zero to Hero Navigating Youtube's Growth Journey</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-skyrocketing-traffic-the-ultimate-guide-to-youtube-outros-partnerships/"><u>[New] Skyrocketing Traffic The Ultimate Guide to YouTube Outros Partnerships</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-accelerating-expertise-in-social-media-strategies-with-reddit-guidance/"><u>[Updated] Accelerating Expertise in Social Media Strategies with Reddit Guidance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-insight-into-high-end-hdr-cameras/"><u>Comprehensive Insight Into High-End HDR Cameras</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-tech-showdown-what-sets-the-ipad-pro-apart-from-the-macbook-air/"><u>Decoding the Tech Showdown: What Sets the iPad Pro Apart From the MacBook Air?</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-anti-redirect-software-malwarefox-browser-cleaner-eliminate-redirection-threats/"><u>Effective Anti-Redirect Software: MalwareFox Browser Cleaner – Eliminate Redirection Threats</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-insight-on-the-latest-snappy-driver-installer-v113-assessment/"><u>Expert Insight on the Latest Snappy Driver Installer (v1.13) Assessment</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/expert-walkthrough-for-running-windows-operating-systems-on-steam-deck-windows-10-and-windows-11-compatibility-guide/"><u>Expert Walkthrough for Running Windows Operating Systems on Steam Deck - Windows 10 & Windows 11 Compatibility Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-starting-point-decoding-display-resolution-basics/"><u>In 2024, Starting Point Decoding Display Resolution Basics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/no-cable-no-phone-no-problem-secrets-to-stay-connected-online/"><u>No Cable? No Phone? No Problem: Secrets to Stay Connected Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/no-more-intrusive-warnings-deactivating-emergency-alerts-on-iphone/"><u>No More Intrusive Warnings: Deactivating Emergency Alerts on iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-screen-time-experience-the-magic-of-harry-potter-in-order/"><u>Sequential Screen Time: Experience the Magic of Harry Potter in Order</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snappydriver-update-113-insights-and-overall-impression/"><u>SnappyDriver Update 1.13 Insights and Overall Impression</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-take-if-you-cant-access-your-instagram-account-anymore/"><u>Steps to Take if You Can't Access Your Instagram Account Anymore</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/storing-image-frames-from-videos-on-windows-11-for-2024/"><u>Storing Image Frames From Videos on Windows 11 for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-picks-best-family-friendly-films-streaming-on-amazon-prime-video-in-july-2024/"><u>Top Picks: Best Family-Friendly Films Streaming on Amazon Prime Video in July 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-issues-with-non-responsive-macos-applications/"><u>Ultimate Guide: Resolving Issues with Non-Responsive macOS Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unstoppable-by-water-discover-the-premier-phone-armor-solutions/"><u>Unstoppable by Water - Discover the Premier Phone Armor Solutions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-free-video-editing-software-with-split-screen-capability-online-and-offline-for-2024/"><u>Updated Free Video Editing Software with Split Screen Capability Online & Offline for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-viewing-experience-diving-into-the-perks-and-limitations-of-hulu-and-huluplus/"><u>Choosing Your Viewing Experience: Diving Into the Perks and Limitations of Hulu and Hulu+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-titans-a-detailed-look-at-the-apple-app-store-and-google-play/"><u>Comparing Titans: A Detailed Look at the Apple App Store and Google Play</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-itel-a60-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Itel A60? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-apple-iphone-stores-images-can-you-retrieve-deleted-pics-unveiling-8-solutions/"><u>How Apple iPhone Stores Images: Can You Retrieve Deleted Pics? Unveiling 8 Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-narzo-n55-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme Narzo N55 to Protect Your Individual Information</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-narrating-your-journey-channeling-authenticity-online/"><u>In 2024, Narrating Your Journey Channeling Authenticity Online.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-school-explorer-revival-strategies/"><u>Old-School Explorer Revival Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-tips-to-supercharge-your-pcs-performance-the-top-7-ways/"><u>Quick Tips to Supercharge Your PC's Performance – The Top 7 Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-securing-and-listing-new-domains-in-macos-mail/"><u>The Ultimate Guide to Securing and Listing New Domains in macOS Mail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887140426-ultimate-selection-our-favourite-6-journal-apps-revealed/"><u>Ultimate Selection: Our Favourite 6 Journal Apps Revealed!</u></a></li>
 </ul></div>
 

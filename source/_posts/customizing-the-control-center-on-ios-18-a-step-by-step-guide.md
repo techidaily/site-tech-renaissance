@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Center on iOS 18: A Step-by-Step Guide"
-date: 2025-02-10T19:46:12.618Z
-updated: 2025-02-11T16:24:54.107Z
+date: 2025-02-23T21:11:53.317Z
+updated: 2025-03-02T21:43:07.351Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -39,10 +35,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,19 +50,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +63,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,15 +106,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-improving-vimeo-playback-pace-for-2024/"><u>[New] Improving Vimeo Playback Pace for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc/"><u>[New] Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-hdcp-issues-causes-solutions-and-prevention-tips/"><u>Demystifying HDCP Issues: Causes, Solutions & Prevention Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-casting-content-from-apple-devices-to-hdtvs-using-airplay/"><u>Guide to Casting Content From Apple Devices to HDTVs Using AirPlay</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rical-insights-top-educational-yt-creators-for-2024/"><u>Historical Insights Top Educational YT Creators for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-optimize-your-instagram-stories-for-engagement/"><u>How to Optimize Your Instagram Stories for Engagement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-swap-out-your-avatar-in-discord-quick-and-easy-steps/"><u>How to Swap Out Your Avatar in Discord – Quick & Easy Steps</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-cache-purification-in-multiple-browsing-environments/"><u>Mastering the Art of Cache Purification in Multiple Browsing Environments</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view/"><u>[New] Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-cyber-currents-videos-flow-on-twitter-wave/"><u>[New] In 2024, Cyber Currents Videos Flow on Twitter Wave</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-dive-into-dynamic-footage-the-review-of-polaroid-cubeplus/"><u>[Updated] In 2024, Dive Into Dynamic Footage The Review of Polaroid Cube+</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/exploring-every-aspect-of-androids-recording-technology-for-2024/"><u>Exploring Every Aspect of Android's Recording Technology for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-issues-with-persistent-drm-problems/"><u>How to Fix Issues with Persistent DRM Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-graphic-design-tools-by-adobe-unleashing-creativity-and-efficiency/"><u>Innovative Graphic Design Tools by Adobe: Unleashing Creativity and Efficiency</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-into-requiem-music-answers-to-your-most-frequent-questions-unveiled/"><u>Insights Into Requiem Music: Answers to Your Most Frequent Questions Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lernen-sie-wie-sie-mit-macx-video-converter-pro-videos-auf-ihrem-mac-herunterladen-und-konvertieren/"><u>Lernen Sie, Wie Sie Mit MacX Video Converter Pro Videos Auf Ihrem Mac Herunterladen Und Konvertieren</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-mastery-the-ultimate-guide-to-optimizing-your-apple-experience/"><u>Mac Mastery: The Ultimate Guide to Optimizing Your Apple Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/migrating-sony-ebooks-to-your-kobo-device-a-step-by-step-guide/"><u>Migrating Sony eBooks to Your Kobo Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-service-policies-a-deep-dive-into-usage-guidelnates/"><u>Navigating Service Policies: A Deep Dive Into Usage Guidelnates</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-gt-10-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix GT 10 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
 </ul></div>
 

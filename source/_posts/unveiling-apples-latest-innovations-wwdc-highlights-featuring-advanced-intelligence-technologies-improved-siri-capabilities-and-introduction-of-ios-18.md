@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Innovations: WWDC Highlights Featuring Advanced Intelligence Technologies, Improved Siri Capabilities and Introduction of iOS 18"
-date: 2025-02-08T20:39:41.252Z
-updated: 2025-02-11T23:45:32.893Z
+date: 2025-02-25T20:15:38.860Z
+updated: 2025-03-02T21:04:49.054Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is expected at WWDC 2024?
 
 WWDC is typically the event in which Apple takes the wraps off the next major versions of its assorted operating systems. That means we should anticipate demos of iOS 18, iPadOS 18, MacOS 15, WatchOS 11, tvOS 18, and VisionOS 2.0\. 
@@ -51,10 +47,6 @@ The event provides developers with access to experts, along with highlights of n
 **Also: [10 things I'd like to see in VisionOS 2.0](https://www.zdnet.com/article/10-things-id-like-to-see-in-visionos-2-0/)**
 
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
 
@@ -72,10 +64,6 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Don't forget the other acronym: RCS
 
 Prakhar Khanna/ZDNET
@@ -85,10 +73,6 @@ To the surprise of many, except for the European Commission, Apple [announced la
 **Also: [DOJ sues Apple: What it could mean for iPhone users and iOS developers](https://www.zdnet.com/article/doj-sues-apple-what-it-could-mean-for-iphone-users-and-ios-developers/)**
 
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
 
@@ -128,17 +112,24 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-newfrontiersincameratech/"><u>[New] 2024 Approved NewFrontiersInCameraTech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/freshly-updated-get-the-newest-amd-radeon-hd-7870-drivers-for-your-windows-11-system/"><u>Freshly Updated - Get the Newest AMD Radeon HD 7870 Drivers for Your Windows 11 System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gaming-themed-treasures-the-perfect-kids-consoles-and-accessories-guide/"><u>Gaming-Themed Treasures: The Perfect Kid's Consoles and Accessories Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-troubleshoot-and-resolve-libgdk-win32-20-0dll-missing-errors-in-windows/"><u>How to Troubleshoot and Resolve libgdk-win32-2.0-0.dll Missing Errors in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immerse-in-advanced-technology-tcls-growth-of-smart-tv-collection-with-newly-introduced-q-and-s-class-19-stunning-variants/"><u>Immerse in Advanced Technology: TCL's Growth of Smart TV Collection with Newly Introduced Q & S Class - 19 Stunning Variants</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-11-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 11 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-claude-ai-superior-to-chatgpt-analyzing-top-tier-artificial-intelligence-conversationalists/"><u>Is Claude AI Superior to ChatGPT? Analyzing Top-Tier Artificial Intelligence Conversationalists</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-to-game-excellence-learn-5-strategies-to-optimize-games-on-a-mac/"><u>Journey to Game Excellence - Learn 5 Strategies to Optimize Games on a Mac</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smoothing-glitches-out-in-win10-elan-touchpad-setup/"><u>Smoothing Glitches Out in Win10, Elan Touchpad Setup</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-new-wave-of-coding-excellence-av1-vs-vp9-face-off-for-2024/"><u>The New Wave of Coding Excellence AV1 vs VP9 Face-Off for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watching-the-lord-of-the-rings-trilogy-the-right-way-and-order/"><u>Watching 'The Lord of the Rings' Trilogy – The Right Way and Order!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-video-editing-apps-for-youtube-creators/"><u>[Updated] In 2024, Essential Video Editing Apps for YouTube Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-saving-and-showcasing-gifs-on-your-iphone-device/"><u>2024 Approved Seamlessly Saving and Showcasing GIFs on Your iPhone Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-responsive-windows-11-context-items/"><u>Addressing Non-Responsive Windows 11 Context Items</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-imessage-gaming-trends-the-7-most-popular-choices/"><u>Best iMessage Gaming Trends: The 7 Most Popular Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-digital-tools-your-go-to-resource-for-tech-insights-from-toms-hardware/"><u>Decoding Digital Tools: Your Go-To Resource for Tech Insights From Tom's Hardware</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-for-fixing-non-opening-optical-media-drive-problems-in-your-computer/"><u>Easy Solutions for Fixing Non-Opening Optical Media Drive Problems in Your Computer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-a-clear-image-addressing-line-issues-in-modern-television-screens/"><u>How to Restore a Clear Image: Addressing Line Issues in Modern Television Screens</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-icy-images-cozier-cinematics-best-bgs-selection/"><u>In 2024, Icy Images, Cozier Cinematics Best Bgs Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-google-pixel-9-teasers-of-specs-pricing-and-expected-arrival-date/"><u>Inside Scoop on the Google Pixel 9 - Teasers of Specs, Pricing, and Expected Arrival Date</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-something-amiss-with-aol-mail-or-is-it-user-error/"><u>Is Something Amiss With AOL Mail or Is It User Error?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/james-bond-cinematic-journey-how-to-watch-his-adventures-in-sequence/"><u>James Bond Cinematic Journey: How to Watch His Adventures in Sequence</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-security-camera-solutions-2023s-best-picks/"><u>New 2024 Approved Free Security Camera Solutions 2023S Best Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-buds-pro-2-can-we-confirm-the-release-date-new-rumors-on-features-and-pricing-strategy/"><u>Pixel Buds Pro 2: Can We Confirm the Release Date? New Rumors on Features and Pricing Strategy</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209645573-9781620558706-the-magian-tarok-3rd-ed/"><u>The Magian Tarok (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-must-watch-lgbtqplus-series-streaming-on-netflix-in-july-2024/"><u>Top Picks: Must-Watch LGBTQ+ Series Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-pubg-audio-gameplay-fast-for-2024/"><u>Transform Your PUBG Audio Gameplay Fast for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-your-profile-on-facebook-even-if-you-forgot-both-e-mail-and-phone-number/"><u>Unlocking Your Profile on Facebook Even If You Forgot Both E-Mail and Phone Number</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-beat-decoding-utilizing-web-resources-for-rhythmic-analysis-of-songs/"><u>Updated Beat Decoding Utilizing Web Resources for Rhythmic Analysis of Songs</u></a></li>
 </ul></div>
 

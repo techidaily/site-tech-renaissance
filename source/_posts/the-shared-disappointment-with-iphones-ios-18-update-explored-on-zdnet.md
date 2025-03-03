@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2025-02-09T22:43:27.937Z
-updated: 2025-02-11T23:16:16.140Z
+date: 2025-02-28T20:32:40.323Z
+updated: 2025-03-02T19:35:27.883Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Video scroll bar and playback options
 
 Allison Jewell/ZDNET
@@ -61,10 +57,6 @@ Thankfully, the new Photos app on iOS 18 features a more accurate scroll bar to 
 When you do find the perfect take, the editing menu now allows an option to slow down high frame rate videos to get on-the-dot cutting. 
 
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
 
@@ -82,10 +74,6 @@ For example, during the Apple launch, my phone was essentially exploding with co
 
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Filter button
 
 iDownloadBlog/ZDNET
@@ -100,20 +88,12 @@ To narrow content more, you can also filter to favorites, previously edited cont
 
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Honorable mentions
 
 * A 'utilities' option categorizes documents, receipts, QR codes, and more in one place to maximize your workflow.
 * People and pets can now be recognized into frequent groups and organized in a collection.
 * Trips can now organize content from locations and put them into one collection.
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
 
@@ -175,20 +155,22 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-varieties-of-aerial-robotics/"><u>[New] Varieties of Aerial Robotics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snickerslide-lighten-up-your-online-presence/"><u>[Updated] SnickerSlide Lighten Up Your Online Presence</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streaming-social-feeds-on-your-smart-tv-whats-next/"><u>2024 Approved Streaming Social Feeds on Your Smart TV What's Next?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/creating-shared-musical-experiences-with-friends-through-spotify/"><u>Creating Shared Musical Experiences with Friends Through Spotify</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elevate-your-facebook-profile-with-these-11-superior-tools-for-2024/"><u>Elevate Your Facebook Profile with These 11 Superior Tools for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/freshly-compiled-list-of-standard-passwords-for-d-link-products-july-2024-edition/"><u>Freshly Compiled List of Standard Passwords for D-Link Products - July 2024 Edition</u></a></li>
-<li><a href="https://fox-place.techidaily.com/guida-passo-passo-per-riconquistare-le-parti-disperse-del-tuo-hard-drive-seagate-con-windows/"><u>Guida Passo-Passo per Riconquistare Le Parti Disperse Del Tuo Hard Drive Seagate Con Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-obtaining-canon-scandisk-drivers-at-zero-expense-for-windows-pcs/"><u>Guide to Obtaining Canon ScanDisk Drivers at Zero Expense for Windows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-block-no-caller-id-calls-on-iphone/"><u>How to Block No Caller ID Calls on iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/msi-mystic-light-failure-on-windows-how-to-restore-proper-functionality/"><u>MSI Mystic Light Failure on Windows - How to Restore Proper Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-propsysdll-file-cannot-be-located-issues/"><u>Solutions for Resolving 'Propsys.dll File Cannot Be Located' Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/superior-ai-conversational-tools-top-alternatives-to-chategpt/"><u>Superior AI Conversational Tools: Top Alternatives to ChateGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-facebook-decoded-understanding-its-birth-appeal-and-main-functions/"><u>The Essentials of Facebook Decoded: Understanding Its Birth, Appeal, and Main Functions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranked-gaming-systems-in-2nnd-2024/"><u>Top-Ranked Gaming Systems in 2Nnd 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-channels-optimal-use-of-templated-content-in-yt-descs/"><u>[New] In 2024, Elevate Your Channels Optimal Use of Templated Content in YT Descs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-hd-video-preservation-devices/"><u>[New] In 2024, Elite HD Video Preservation Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhance-user-experience-top-free-speech-to-text-apps-for-mac-revealed-for-2024/"><u>[Updated] Enhance User Experience Top Free Speech-to-Text Apps for Mac Revealed for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>[Updated] In 2024, Unleash Creativity Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-guide-to-perfect-portraits-with-background-blur/"><u>2024 Approved A Guide to Perfect Portraits with Background Blur</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-buys-for-extreme-weather-shooting-top-7-edition/"><u>2024 Approved Best Buys for Extreme Weather Shooting, Top 7 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-signal-and-whatsapp-key-distinctions-explored/"><u>Comparing Signal and WhatsApp: Key Distinctions Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-fixing-401-errors-to-restore-secure-website-access/"><u>Expert Advice: Fixing 401 Errors to Restore Secure Website Access</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-focusing-capabilities-in-your-iphone-camera-effective-solutions/"><u>How to Restore Focusing Capabilities in Your iPhone Camera – Effective Solutions</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-a79-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A79 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-missing-or-not-found-msvcr71dll-file-issues/"><u>Solutions for Resolving 'Missing or Not Found' MSVCR71.DLL File Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-customizing-your-windows-11-taskbar-hue/"><u>Step-by-Step Guide: Customizing Your Windows 11 Taskbar Hue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-downloading-and-watching-fandango-movies-from-your-couch-with-amazon-fire-tv/"><u>Step-by-Step Guide: Downloading and Watching Fandango Movies From Your Couch with Amazon Fire TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-nvidias-geforce-error-x0001-on-windows/"><u>Strategies to Solve Nvidia's GeForce Error X0001 on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/student-exclusive-deals-how-to-score-big-savings-on-your-next-dell-purchase/"><u>Student-Exclusive Deals: How to Score Big Savings on Your Next Dell Purchase</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/charge-your-media-download-sounds-for-editing/"><u>Supercharge Your Media Download Sounds for Editing!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-are-streaming-devices-and-how-do-they-work/"><u>What Are Streaming Devices and How Do They Work?</u></a></li>
 </ul></div>
 

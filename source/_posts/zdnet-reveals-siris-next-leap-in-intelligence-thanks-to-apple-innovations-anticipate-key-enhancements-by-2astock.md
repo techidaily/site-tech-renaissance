@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Siri's Next Leap in Intelligence Thanks to Apple Innovations, Anticipate Key Enhancements by 2Astock"
-date: 2025-02-06T22:22:50.203Z
-updated: 2025-02-11T21:24:12.879Z
+date: 2025-02-23T21:45:46.883Z
+updated: 2025-03-02T20:17:57.604Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
 
@@ -48,10 +44,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Foldables are getting better (and cheaper)
 
 The Motorola Razr 2023 was the most affordable foldable phone last year, selling for as low as $499.
@@ -68,10 +60,6 @@ Now that the major players have entered the competition, the big question this y
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Qi2 bridges a long-standing gap in charging
 
 The iPhone 15 Pro (left) next to the Samsung Galaxy S23 Ultra (right).
@@ -87,10 +75,6 @@ The Wireless Power Consortium (WPC), a committee that consists of Apple, Samsung
 The adoption of such technology bridges a longstanding gap between MagSafe-compatible devices (iPhone 12 and up) and ones without the feature, allowing Android users to also reap the benefits of [magnet-based charging accessories](https://www.zdnet.com/article/the-12-best-mobile-accessories-at-ces-2024-so-far-iphone-call-recorder-qi2-chargers-and-more/). Accessory makers like [Anker](https://www.zdnet.com/article/ankers-latest-wireless-charging-accessories-are-all-in-on-qi2-heres-why-that-matters/) and Satechi have already begun rolling out Qi2-compatible docks and charging pads. Now, it's on phone manufacturers to foot the second half of the bill by integrating the proper coils on the back of their devices. Expect those to arrive very soon.
 
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
 
@@ -109,10 +93,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,14 +148,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-download-install-and-utilize-obs-effectively-on-a-macpc/"><u>[New] Download, Install, and Utilize OBS Effectively on a MacPC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-photogenius-ai-suite-elevate-your-edits/"><u>[Updated] PhotoGenius AI Suite Elevate Your Edits</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-freebie-animation-tools/"><u>2024 Approved The Ultimate Guide to Freebie Animation Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-techniques-for-taking-off-and-installing-new-glass-on-phone-screens/"><u>DIY Techniques for Taking Off and Installing New Glass on Phone Screens</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/gentle-guides-to-nocturnal-nirvana-top-asmr-talents/"><u>Gentle Guides to Nocturnal Nirvana Top ASMR Talents</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-and-enable-an-instagram-account-thats-offline/"><u>How to Recover and Enable an Instagram Account That's Offline</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g23-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G23 Phone without Google Account?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-how-to-bulk-select-emails-in-gmail/"><u>Step-by-Step Guide: How to Bulk Select Emails in Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-reinitiate-network-settings-on-macos-devices/"><u>Step-by-Step Tutorial: Reinitiate Network Settings on macOS Devices 🖥️🔄</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-stellar-highlight-photos-on-instagram/"><u>[New] 2024 Approved Crafting Stellar Highlight Photos on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-life-in-motion-complete-slomo-app-review-2024/"><u>[Updated] Capturing Life in Motion Complete SloMo App Review, 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-alternatives-google-vr-vs-samsung-tech-for-2024/"><u>[Updated] Exploring Alternatives Google VR Vs. Samsung Tech for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-push-notifications-with-reddit-wisdom/"><u>[Updated] Mastering the Art of Push Notifications with Reddit Wisdom</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-smoothest-android-3d-video-streaming/"><u>[Updated] Smoothest Android 3D Video Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-aether-defining-its-nature-and-pathways-to-involvement/"><u>Demystifying Aether: Defining Its Nature and Pathways to Involvement</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/guia-paso-a-paso-como-hacer-una-copia-de-seguridad-y-restaurar-la-particion-o-volumen-del-disco/"><u>Guía Paso a Paso: Cómo Hacer Una Copia De Seguridad Y Restaurar La Partición O Volumen Del Disco</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-how-to-translate-instagram-videos-for-global-engagement/"><u>New How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-stadia-headset-connection-issue-a-step-by-step-guide/"><u>Solving the Stadia Headset Connection Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-pairing-your-bluetooth-speaker-with-a-pc-or-laptop/"><u>Step-by-Step Guide: Pairing Your Bluetooth Speaker with a PC or Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-journey-of-ios-a-detailed-review-of-its-progress-from-version-10-to-180/"><u>The Journey of iOS: A Detailed Review of Its Progress From Version 1.0 to 18.0</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-arm-compatible-windows-applications-a-game-changer-in-tech-insights-from-zdnet/"><u>Upcoming ARM-Compatible Windows Applications: A Game Changer in Tech - Insights From ZDNet</u></a></li>
 </ul></div>
 

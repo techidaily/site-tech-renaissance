@@ -1,7 +1,7 @@
 ---
 title: "Easy Setup: Automating Login Processes in Windows Operating Systems"
-date: 2024-08-12T03:40:07.251Z
-updated: 2024-08-13T03:40:07.251Z
+date: 2025-02-26T17:20:23.224Z
+updated: 2025-03-02T22:33:29.849Z
 categories:
   - BestProducts
 description: "This Article Describes Easy Setup: Automating Login Processes in Windows Operating Systems"
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
  This article explains all the different ways to make Windows 11 screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -32,9 +28,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -43,16 +36,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The fullscreen screenshot will be saved to your**Pictures** \>**Screenshots** folder. One way to navigate to that folder is to quickly search for**folders: screenshots** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -66,9 +53,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Full screen** : Press to capture the whole screen. It's identical to using**PrtScr** .
 * **Freeform** : You draw a shape that contains what you'd like to capture. This is useful if the rectangular snip is too restrictive to capture what you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -79,9 +63,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -127,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +115,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-scenes-to-screenings-filming-across-os-ecosystems-for-2024/"><u>[New] From Scenes to Screenings Filming Across OS Ecosystems for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crescendo-creations-adding-audio-magic-to-instagram-stories/"><u>[Updated] In 2024, Crescendo Creations Adding Audio Magic to Instagram Stories</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728466181158-ssd/"><u>大容量SSDへの容量アップ - 無料ガイド：交換手順とポイント</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-optimize-windows-11-effectively/"><u>How to Optimize Windows 11 Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-quickly-reclaim-lost-data-a-comprehensive-guide-for-retrieving-removed-files-from-an-sd-memory-card-infographic-tutorial/"><u>How to Quickly Reclaim Lost Data: A Comprehensive Guide for Retrieving Removed Files From an SD Memory Card [Infographic Tutorial]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-your-lenovo-keyboard-light-issues-a-step-by-step-guide/"><u>How to Repair Your Lenovo Keyboard Light Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-your-logitech-mouse-problems-when-using-windows-10/"><u>How to Resolve Your Logitech Mouse Problems When Using Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-solve-desktop-icons-moving-quick-and-easy/"><u>How to Solve Desktop Icons Moving | Quick & Easy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-add-and-configure-a-new-video-card-on-your-computer-system/"><u>How to Successfully Add and Configure a New Video Card on Your Computer System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p2035-compatibility-and-driver-solutions-for-windows-systems/"><u>HP LaserJet P2035 Compatibility and Driver Solutions for Windows Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-3d-animation-software-free-and-paid-recommended/"><u>In 2024, Best 3D Animation Software Free and Paid Recommended</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-reduce-video-size-for-free-10-best-online-compressors/"><u>New Reduce Video Size for Free 10 Best Online Compressors</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-mkv-videos-into-high-quality-av1-format/"><u>Step-by-Step Guide: Transforming MKV Videos Into High-Quality AV1 Format</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209625088-9781250200464-the-power-of-heart/"><u>The Power of Heart | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-app-start-issue-qt-plugin-not-available/"><u>Troubleshooting App Start Issue: Qt Plugin Not Available</u></a></li>
+</ul></div>
 

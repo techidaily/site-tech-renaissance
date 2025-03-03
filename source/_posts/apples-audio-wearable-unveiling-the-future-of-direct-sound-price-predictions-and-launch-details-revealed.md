@@ -1,7 +1,7 @@
 ---
 title: "Apple's Audio Wearable: Unveiling the Future of Direct Sound – Price Predictions and Launch Details Revealed"
-date: 2024-08-12T03:45:10.726Z
-updated: 2024-08-13T03:45:10.726Z
+date: 2025-02-27T20:06:19.182Z
+updated: 2025-03-02T17:47:19.531Z
 categories:
   - BestProducts
 description: "This Article Describes Apple's Audio Wearable: Unveiling the Future of Direct Sound – Price Predictions and Launch Details Revealed"
@@ -21,31 +21,16 @@ thumbnail: https://thmb.techidaily.com/614e0e5c423fbfce776b4242bea85cadda084bd0e
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
@@ -54,14 +39,6 @@ thumbnail: https://thmb.techidaily.com/614e0e5c423fbfce776b4242bea85cadda084bd0e
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
@@ -85,18 +62,12 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -107,14 +78,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +91,22 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-speedy-tactics-for-disorganized-youtube-song-listings/"><u>[New] 2024 Approved Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-shorts-earning-strategies-what-you-need-how-much-you-can-make/"><u>[New] 2024 Approved Youtube Shorts Earning Strategies What You Need, How Much You Can Make</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-style-the-essential-guide-to-instagram-story-magnification/"><u>[New] Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-real-time-revelations-does-software-trump-hardware/"><u>[Updated] Real-Time Revelations Does Software Trump Hardware?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-ipads-and-texting-a-comprehensive-guide-to-sending-messages-effortlessly/"><u>All About iPads & Texting: A Comprehensive Guide to Sending Messages Effortlessly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/best-tales-woven-on-airwaves/"><u>Best Tales Woven on Airwaves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-range-of-ipads-with-embedded-satellite-positioning-identifying-models-with-gps/"><u>Discover the Range of iPads with Embedded Satellite Positioning - Identifying Models With GPS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-lgs-multimedia-channels-and-platforms/"><u>Inside Look at LG's Multimedia Channels and Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/fic-profits-from-youtube-universal-strategies-unveiled-for-2024/"><u>Prolific Profits From YouTube Universal Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-diagnosing-and-repairing-a-502-bad-gateway-issue/"><u>Quick Guide: Diagnosing & Repairing a 502 Bad Gateway Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-boot-manager-issues-expert-tips-on-fixing-bootmgr-is-missing/"><u>Resolve Boot Manager Issues: Expert Tips on Fixing 'BOOTMGR Is Missing'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-401-unauthorized-mistake-a-step-by-step-guide/"><u>Resolving the 401 Unauthorized Mistake: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sizzling-success-or-burnt-disaster-dive-into-our-comprehensive-review-of-overcooked-2/"><u>Sizzling Success or Burnt Disaster? Dive Into Our Comprehensive Review of Overcooked! 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-instagram-a-complete-overview/"><u>Understanding Instagram: A Complete Overview</u></a></li>
+</ul></div>
 

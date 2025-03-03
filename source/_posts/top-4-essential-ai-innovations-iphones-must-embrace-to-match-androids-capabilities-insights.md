@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Essential AI Innovations iPhones Must Embrace to Match Android's Capabilities: Insights"
-date: 2025-02-07T01:43:51.515Z
-updated: 2025-02-11T20:39:00.474Z
+date: 2025-02-23T18:09:08.298Z
+updated: 2025-03-02T16:48:07.343Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,20 +110,21 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-shorts-profitability-secrets/"><u>[New] Youtube Shorts Profitability Secrets</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-explosion-supercharge-with-content-likes-and-videos/"><u>[Updated] In 2024, Insta Explosion Supercharge with Content, Likes & Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/battle-of-the-titans-a-comprehensive-look-at-ipad-pro-versus-surface-pro/"><u>Battle of the Titans: A Comprehensive Look at iPad Pro versus Surface Pro</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/decoding-tech-troubles-the-puzzle-of-an-undroppable-exterior-hard-disk/"><u>Decoding Tech Troubles: The Puzzle of an Undroppable Exterior Hard Disk</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 11X 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/joining-forces-in-pokemon-go-a-friends-journey-to-mastery/"><u>Joining Forces in 'Pokémon Go': A Friend's Journey to Mastery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/logitech-keyboards-unveiled-the-simple-way-to-capture-your-screen-perfectly-in-every-shot/"><u>Logitech Keyboards Unveiled: The Simple Way to Capture Your Screen Perfectly in Every Shot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pro-tips-keeping-your-laptop-stocked-with-popular-netflix-shows-and-movies/"><u>Pro Tips: Keeping Your Laptop Stocked With Popular Netflix Shows and Movies</u></a></li>
-<li><a href="https://facebook.techidaily.com/setting-boundaries-on-social-media-images/"><u>Setting Boundaries on Social Media Images</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-level-in-autonomous-rides-explore-rumored-details-about-teslas-upcoming-robotaxi/"><u>The Next Level in Autonomous Rides: Explore Rumored Details About Tesla's Upcoming Robotaxi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-techniques-for-recording-and-sharing-ps4-gameplay-footage/"><u>Ultimate Techniques for Recording and Sharing PS4 Gameplay Footage</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-users-guide-how-to-create-photo-talking-videos-with-the-best-tools/"><u>Updated 2024 Approved Users Guide How To Create Photo Talking Videos With the Best Tools?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-new-in-ipados-18-discover-release-information-zero-cost-feature-upgrades-and-fresh-news/"><u>What's New in iPadOS 18? Discover Release Information, Zero Cost Feature Upgrades & Fresh News!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-ringtones-picks-high-quality-destinations/"><u>[New] Ideal Ringtones Picks High-Quality Destinations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-using-youtube-in-education/"><u>[New] The Ultimate Guide to Using YouTube in Education</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-vr-game-creators-to-watch/"><u>[Updated] In 2024, Top VR Game Creators To Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-alert-apple-m2-macbook-air-sold-on-amazon-under-900-before-the-prime-day-frenzy-tech-news-by-wired/"><u>Exclusive Deal Alert: Apple M2 MacBook Air Sold on Amazon Under $900 - Before the Prime Day Frenzy! | Tech News by Wired</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-volume-reduction-a-system-friendly-approach/"><u>In 2024, Smooth Volume Reduction A System-Friendly Approach</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-win10s-elite-screen-recording-and-capture-software-selection/"><u>In 2024, Win10's Elite Screen Recording & Capture Software Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/podcasts-versus-video-based-platforms-who-wins-for-2024/"><u>Podcasts versus Video-Based Platforms – Who Wins for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-repairing-lgs-incompatible-usb-drivers-on-various-windows-systems-win11-win8-and-win7/"><u>Step-by-Step Guide to Repairing LG's Incompatible USB Drivers on Various Windows Systems (Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-chroma-spectrum-now-crystal-clear-on-4k/"><u>The Ultimate Chroma Spectrum, Now Crystal Clear on 4K</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-when-your-nvidia-control-panel-wont-launch-on-windows/"><u>Troubleshooting Steps When Your NVIDIA Control Panel Won't Launch on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-resolving-the-black-monitor-dilemma-beforeafter-accessing-windows-11/"><u>Troubleshooting Tips for Resolving the Black Monitor Dilemma Before/After Accessing Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tutorial-how-to-deactivate-individual-keys-or-key-combinations-on-windows-pc/"><u>Tutorial: How To Deactivate Individual Keys Or Key Combinations On Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-access-your-pcs-core-admin-login-in-windows-10-and-11/"><u>Ultimate Tutorial: Access Your PC's Core - Admin Login in Windows 10 & 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-powershell-access-in-windows-11-explore-these-9-effective-techniques/"><u>Unlocking PowerShell Access in Windows 11: Explore These 9 Effective Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-door-top-12-methods-for-accessing-windows-11s-file-explorer/"><u>Unlocking the Door: Top 12 Methods for Accessing Windows 11'S File Explorer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unrivaled-performance-in-depth-review-of-ugreen-revodok-max-213-thunderbolt-4-dock-ruling-the-skies-alone/"><u>Unrivaled Performance: In-Depth Review of Ugreen RevoDok MAX 213 Thunderbolt 4 Dock - Ruling the Skies Alone</u></a></li>
 </ul></div>
 

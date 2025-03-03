@@ -1,7 +1,7 @@
 ---
 title: "All About Apple's Latest Audio-Enabled Wearable: Expected Retail Price, Arrival Date, Specs Deep Dive & Whispered Theories"
-date: 2024-08-12T03:42:34.801Z
-updated: 2024-08-13T03:42:34.801Z
+date: 2025-02-25T01:12:50.161Z
+updated: 2025-03-02T23:11:33.888Z
 categories:
   - BestProducts
 description: "This Article Describes All About Apple's Latest Audio-Enabled Wearable: Expected Retail Price, Arrival Date, Specs Deep Dive & Whispered Theories"
@@ -27,16 +27,10 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
@@ -49,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 Apple, Inc / USPTO
@@ -63,9 +54,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -74,18 +62,12 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -96,14 +78,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +91,24 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-collage-creation/"><u>[Updated] Mastering the Art of Collage Creation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-insights-how-to-make-your-videos-a-hit/"><u>2024 Approved Instagram Insights How to Make Your Videos a Hit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assemble-comic-memes-with-giphy-for-2024/"><u>Assemble Comic Memes with Giphy for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-get-mozilla-thunderbird-running-again/"><u>Comprehensive Guide to Get Mozilla Thunderbird Running Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-vod-gratuit-convertissez-des-fichiers-ogm-en-vob-facilement-grace-a-movavi/"><u>Conversion VOD Gratuit : Convertissez Des Fichiers OGM en VOB Facilement Grâce À Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-usb-device-not-detected-effective-strategies-to-resolve-the-problem-once-and-for-all/"><u>Dealing with 'USB Device Not Detected': Effective Strategies to Resolve the Problem Once and For All</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-samsung-galaxy-watch-7-unveiling-costs-launch-timeline-features-and-latest-updates/"><u>Discover the Samsung Galaxy Watch 7: Unveiling Costs, Launch Timeline, Features & Latest Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-role-of-wireless-service-providers-in-communication-technology/"><u>Exploring the Role of Wireless Service Providers in Communication Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-address-msvcr71dll-not-detected-or-lacking/"><u>How to Address Msvcr71.dll Not Detected or Lacking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-13-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi 13 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-email-writing-skills-fixing-spell-check-glitches-in-outlook/"><u>Reviving Your Email Writing Skills: Fixing Spell Check Glitches in Outlook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-top-5-iphone-podcast-software/"><u>The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-etop-rated-alarm-clock-applications-to-enhance-your-morning-routine/"><u>The Ultimate List: ETop-Rated Alarm Clock Applications to Enhance Your Morning Routine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-audio-issues-on-your-chromecast/"><u>Troubleshooting Guide: Resolving Audio Issues on Your Chromecast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-issues-with-the-valorant-in-game-voice-communication-feature/"><u>Troubleshooting Steps for Resolving Issues with the Valorant In-Game Voice Communication Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-a-nonfunctional-microsoft-edge-web-browsing-experience/"><u>Troubleshooting Techniques for a Nonfunctional Microsoft Edge Web Browsing Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-creative-potential-with-expert-macro-video-cinematography-guidance-for-2024/"><u>Unlock Creative Potential with Expert Macro Video Cinematography Guidance for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hands-On Review: ESR Halolock's Durable Multi-Card Wallet & Sturdy Adjustable Stand for iPhones"
-date: 2025-02-07T23:42:48.807Z
-updated: 2025-02-11T22:36:56.694Z
+date: 2025-02-27T01:22:19.679Z
+updated: 2025-03-02T23:04:47.626Z
 tags:
   - apple
 categories:
@@ -20,17 +20,9 @@ You may think that giving your kids a [phone](https://www.zdnet.com/article/best
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best kids' phone right now?
 
 While there are some phones on the market made specifically for kids, other smartphones provide basic and affordable features that could be useful to your child. ZDNET rounded up the kid-friendly phones, with the best overall pick being [Apple iPhone SE](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-se%2F4.7-inch-display-128gb-red-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), but we also included devices from Samsung, Gabb, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best phone for kids in 2024
 
@@ -49,10 +41,6 @@ Cons
 * Old design
 
 ## Apple iPhone SE (3rd gen)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best phone for kids overall
 
@@ -82,10 +70,6 @@ Pros
 Cons 
 * Somewhat slow performance
 * Low internal storage
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Moto G Pure
 
@@ -145,10 +129,6 @@ Cons
 
 ## Gabb Phone 3 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best budget phone for kids
 
 The Gabb Phone 3 Pro was made specifically with kids in mind, and it has kids-centric features parents will approve of. These include 100 Gabb-reviewed, parent-managed apps (but no social media or internet), clean music streaming from Gabb Music, and Gabb Messenger, which filters text messages for safer communication. Other third-party apps can be additionally downloaded, but app downloads are entirely controlled by the parent. 
@@ -177,10 +157,6 @@ Cons
 * Pricey
 * No microSD card support
 * No wireless charging support
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google Pixel 6a 5G
 
@@ -242,10 +218,6 @@ Here's how the best phones for kids compare on price, screen size, and operating
 | Google Pixel 6a 5G    | $349               | 6.1-inches      | Android              |
 | Bark Phone            | Starting at $39/mo | 6.6-inches      | Android              |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right phone for your kid?
 
 Deciding which phone is right for your kid depends on a few factors, including age, overall cost, and which operating system you prefer. Once you know those details, you can narrow down your search and make a choice based on personal preference. 
@@ -297,10 +269,6 @@ Google Family Link offers the same functionality, or you can add your child to G
 
 **Also: [Did you lose a device? Here's how to track it](https://www.zdnet.com/article/how-to-gps-track-a-phone/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are there alternative phones for kids worth considering?
 
 Of course! There are countless phones for children available. From [refurbished iPhones to used devices](https://www.zdnet.com/article/best-old-phone/) off of Swappa, or a similar second-hand website. The [iPhone 12](https://www.zdnet.com/product/apple-iphone-12/) is the oldest device currently sold by Apple, but it's $599 and comes with an older processor and arguably a worse camera than the iPhone SE. However, it has a larger display, Face ID and comes in tons of colors. 
@@ -351,24 +319,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services/"><u>2024 Approved Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-thumbnails-guide-what-size-yields-success/"><u>2024 Approved The Ultimate Thumbnails Guide What Size Yields Success?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-device-efficiency-disabling-run-time-android-application-activities/"><u>Boosting Device Efficiency: Disabling Run-Time Android Application Activities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/causes-and-remedies-for-service-unavailable-dealing-with-http-503-errors-effectively/"><u>Causes and Remedies for 'Service Unavailable': Dealing with HTTP 503 Errors Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ideal-note-capturing-tools-on-ipad-and-ipad-pro/"><u>Discover the Ideal Note-Capturing Tools on iPad and iPad Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-intrigue-with-these-13-favorite-criminal-case-podcasts/"><u>Dive Into Intrigue with These 13 Favorite Criminal Case Podcasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-instagrams-world-everything-you-need-to-know/"><u>Exploring Instagram's World: Everything You Need to Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-update-a-samsung-smart-tv/"><u>How to Update a Samsung Smart TV</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-ideal-titles-and-sizes-maximizing-click-through-rates/"><u>In 2024, Ideal Titles & Sizes Maximizing Click Through Rates</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-anonymization-in-multimedia-a-step-by-step-approach-updated/"><u>New In 2024, Audio Anonymization in Multimedia A Step-by-Step Approach (Updated)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/scripting-a-compelling-tiktok-parting-message/"><u>Scripting a Compelling TikTok Parting Message</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-developer-unverified-issue-a-step-by-step-guide-for-mac-users/"><u>Solving the 'Developer Unverified' Issue: A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-acquiring-and-applying-sound-card-drivers-in-windows/"><u>Step-by-Step Tutorial: Acquiring and Applying Sound Card Drivers in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-kid-friendly-film-destinations-your-guide-to-watching-movies-online-for-free/"><u>Top 6 Kid-Friendly Film Destinations: Your Guide to Watching Movies Online for Free</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-eliminating-horizontal-and-vertical-lines-from-your-television-display/"><u>Ultimate Guide: Eliminating Horizontal and Vertical Lines From Your Television Display</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade-for-2024/"><u>Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-whiteboard-animation-software-for-windows-mac-and-beyond/"><u>Updated 2024 Approved The Ultimate List of Free Whiteboard Animation Software for Windows, Mac, and Beyond</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warcraft-3-reforged-pc-crashes-top-5-solutions/"><u>Warcraft 3 Reforged PC Crashes? Top 5 Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-an-introduction-to-effective-image-previews-for-2024/"><u>[New] An Introduction to Effective Image Previews for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-engagement-interpreting-youtube-video-data-for-2024/"><u>[New] Boosting Engagement Interpreting YouTube Video Data for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rime-streamer-gear-essential-livestream-tools-unveiled-for-2024/"><u>[New] Prime Streamer Gear Essential Livestream Tools Unveiled for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blissful-onboarding-guide-for-new-users/"><u>Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-everything-about-the-newest-playstation-portable-availability-pricing-specifications-and-retailers/"><u>Discover Everything About the Newest PlayStation Portable - Availability, Pricing, Specifications & Retailers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-new-asus-z790-ayw-motherboard-unbeatable-value-for-ddr5-enthusiasts-seeking-overclocking-performance/"><u>Discover the New Asus Z790-AYW Motherboard: Unbeatable Value for DDR5 Enthusiasts Seeking Overclocking Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-your-systems-msvcr100dll-not-found-problem-today/"><u>Eliminate Your System's 'MSVCR100.dll Not Found' Problem Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-d3dx9-dll-file-not-found-issue-a-comprehensive-guide/"><u>Fixing The D3DX9 DLL File Not Found Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-schedule-posts-on-xtwitter/"><u>How to Schedule Posts on X/Twitter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x90s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo X90S Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-robotic-skies-varieties/"><u>In 2024, Robotic Skies' Varieties</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-to-adding-fusion-extension-in-kodi-versions-19-and-18/"><u>Step-by-Step Guide to Adding Fusion Extension in Kodi Versions 19 and 18</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-blocking-youtube-streaming-on-the-ipad-platform/"><u>Step-by-Step Tutorial: Blocking YouTube Streaming on the iPad Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-perfect-process-how-to-successfully-reboot-a-macbook-pro/"><u>The Perfect Process: How to Successfully Reboot a MacBook Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-failed-email-reception-on-yahoo-mail/"><u>Troubleshooting Failed Email Reception on Yahoo Mail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-risks-of-centralizing-government-operations-with-leading-technology-corporates/"><u>Understanding the Risks of Centralizing Government Operations with Leading Technology Corporates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-go-2024-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark Go (2024) Users</u></a></li>
 </ul></div>
 

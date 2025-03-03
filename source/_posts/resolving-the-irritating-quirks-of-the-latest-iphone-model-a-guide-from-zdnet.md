@@ -1,7 +1,7 @@
 ---
 title: Resolving the Irritating Quirks of the Latest iPhone Model - A Guide From ZDNet
-date: 2025-02-04T22:04:31.867Z
-updated: 2025-02-12T00:28:15.281Z
+date: 2025-02-28T23:36:54.207Z
+updated: 2025-03-03T00:20:58.732Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ All of the watches in this list have at least a certification for 5 ATM and/or a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What is the best waterproof smartwatch right now?
 
@@ -110,10 +106,6 @@ Pros
 Cons 
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Garmin Quatix 7 Pro
 
 ### Best waterproof Garmin smartwatch overall
@@ -145,10 +137,6 @@ Cons
 * Expensive
 
 ## Garmin Venu 3S
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best waterproof Garmin smartwatch for most people
 
@@ -207,10 +195,6 @@ Pros
 Cons 
 * Limited notification and app support
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Coros Apex 2 Pro
 
 ### Best waterproof smartwatch for long battery life
@@ -243,15 +227,7 @@ Cons
 * Questionable heart rate readings
 * One size available
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suunto Race
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch with lap counter
 
@@ -301,10 +277,6 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Coros Apex 2 Pro               | A watch with a very long battery life that relieves you of any battery anxiety. It is also smaller so less of an issue while swimming, surfing, or paddling.                                                                                                                                     |
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -329,10 +301,6 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
@@ -350,10 +318,6 @@ After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-
 Health and fitness tracking have been the areas with the most innovations and improvements in the last few years. While these watches are not medical devices, they have sensors, algorithms, and applications that help you track trends in your heart rate, stress levels, and blood oxygen levels, even allowing you to detect when ovulation occurs. You can use it as a basic ECG to check if further investigation is needed. The latest Galaxy Watch 5 can also measure your body composition; testing indicates it matches other methods reasonably well.
 
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative waterproof smartwatches worth considering?
 
@@ -403,18 +367,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-step-by-step-guide-to-achieving-the-perfectly-loops-youtube-videos/"><u>[Updated] In 2024, Step-By-Step Guide to Achieving the Perfectly Loops YouTube Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y55s-5g-2023-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y55s 5G (2023) to Roku | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/d-the-scenes-insider-knowledge-for-youtube-video-production/"><u>Behind the Scenes Insider Knowledge for YouTube Video Production</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversione-facile-e-veloce-da-mxf-a-formati-video-piu-diffusi-mp4-mov-avi-per-utenti-mac/"><u>Conversione Facile E Veloce Da MXF a Formati Video Più Diffusi: MP4, MOV, AVI per Utenti Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/golden-five-best-dvd-makers-for-macos-sierra/"><u>Golden Five Best DVD Makers for macOS Sierra</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-discovering-the-best-a-list-of-top-live-tv-streamers/"><u>In 2024, Discovering the Best A List of Top Live TV Streamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-on-screen-typist-functionality-in-windows-10-a-how-to-guide/"><u>Mastering the On-Screen Typist Functionality in Windows 10 - A How-To Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-evolution-from-discs-to-streaming-unveiling-netflixs-dvd-offering-phase/"><u>The Evolution From Discs to Streaming: Unveiling Netflix's DVD Offering Phase</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-10-must-follow-tips-when-skype-fails-to-connect/"><u>The Ultimate Checklist: 10 Must-Follow Tips When Skype Fails To Connect</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-search-tools-to-locate-any-person-online-effortlessly/"><u>Top 8 Search Tools to Locate Any Person Online Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-speaker-malfunctions-in-microsoft-presentations/"><u>Troubleshooting Speaker Malfunctions in Microsoft Presentations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-net-neutrality-an-essential-guide/"><u>Understanding Net Neutrality: An Essential Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-tech-gear-our-top-18-webcam-recording-innovations-reviewed/"><u>[New] Ideal Tech Gear Our Top 18 Webcam Recording Innovations Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/olly-jingles-list-of-laugh-out-loud-short-video-suggestions-for-2024/"><u>[New] Jolly Jingles List of Laugh Out Loud, Short Video Suggestions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-best-free-cloud-based-video-editing-tools-for-2024/"><u>[Updated] The Best Free, Cloud-Based Video Editing Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-how-to-transform-acsm-files-into-epub-format-without-drm-protection/"><u>1. How to Transform ACSM Files Into EPUB Format without DRM Protection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2022s-ice-showcase-a-look-at-the-best-performers-for-2024/"><u>2022'S Ice Showcase A Look at the Best Performers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-accessing-azw4-files-for-a-superior-reading-experience-on-your-kindle-paperwhite-or-voyage-device/"><u>A Step-by-Step Guide to Accessing AZW4 Files for a Superior Reading Experience on Your Kindle Paperwhite or Voyage Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-without-cost-explore-our-comprehensive-selection-of-free-resources/"><u>Access Without Cost: Explore Our Comprehensive Selection of Free Resources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/d-link-device-security-guide-default-password-catalog-july-2024-update/"><u>D-Link Device Security Guide: Default Password Catalog – July 2024 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-disabling-gpgpu-task-prioritization-windows-wise/"><u>Delving Into Disabling GPGPU Task Prioritization Windows-Wise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-gratuity-in-humor-tools/"><u>In 2024, Unleash Creativity Gratuity in Humor Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/pioneering-psychological-advancements-isbms-innovative-cbt-approach/"><u>Pioneering Psychological Advancements: ISBM's Innovative CBT Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-mac-to-tv-casting-techniques-using-apples-airplay-feature/"><u>Seamless Mac to TV Casting Techniques Using Apple's AirPlay Feature</u></a></li>
 </ul></div>
 

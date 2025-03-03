@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2025-02-07T00:56:15.337Z
-updated: 2025-02-11T21:15:49.724Z
+date: 2025-02-28T21:23:36.666Z
+updated: 2025-03-02T16:36:16.426Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,18 +105,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-becoming-a-savvy-vr-tour-connoisseur/"><u>[New] Becoming a Savvy VR Tour Connoisseur</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/prinkle-life-into-text-two-methods-for-bouncing-effects/"><u>[New] Sprinkle Life Into Text Two Methods for Bouncing Effects</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers/"><u>[Updated] Unveiling the Mysteries of IG Metrics An Essential Toolkit for Marketers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-pursuit-of-clarity-with-benq-sw320s-4k-screen/"><u>2024 Approved In Pursuit of Clarity with BenQ SW320's 4K Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-nstep-guide-to-fixing-system-problems-detected-by-post/"><u>A Step-by-nStep Guide to Fixing System Problems Detected by POST</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elite-selection-of-servers-rack-systems-unveiled/"><u>Elite Selection of Servers Rack Systems Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-ray-tracing-revolutionizing-realistic-renderings/"><u>Exploring Ray Tracing: Revolutionizing Realistic Renderings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-hp-laserjet-pro-m402n-printing-software-on-your-windows-computer/"><u>How to Successfully Install HP LaserJet Pro M402n Printing Software on Your Windows Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transferring-data-from-your-pc-to-xbox-one-with-an-external-hard-drive/"><u>Step-by-Step Guide: Transferring Data From Your PC to Xbox One with an External Hard Drive</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-15-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 15 Plus? 5 Tips You Must Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-perform-a-hardware-reset-on-your-lenovo-notebook/"><u>Ultimate Guide: Steps to Perform a Hardware Reset on Your Lenovo Notebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-elegance-affordable-options-for-cutting-edge-technology-marvels/"><u>Unlocking Elegance: Affordable Options for Cutting-Edge Technology Marvels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-thumbnail-size-mastery-for-higher-traffic-videos/"><u>[New] Thumbnail Size Mastery for Higher Traffic Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>2024 Approved Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-k55-support-download-the-latest-drivers-and-enhancements/"><u>Corsair K55 Support - Download the Latest Drivers & Enhancements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-these-stunningly-surprising-emoji-insights/"><u>Discover These Stunningly Surprising Emoji Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-library-enjoying-wide-range-content-on-apple-tv-with-vlc-tool/"><u>Expand Your Library: Enjoying Wide-Range Content on Apple TV with VLC Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-12-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 12 Pro and iPad?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-spark-10c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Spark 10C to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quip-kernel-memomaker-suite/"><u>In 2024, Quip Kernel MemoMaker Suite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-airplay-a-step-by-step-tutorial-for-sharing-your-macs-screen-on-a-television/"><u>Mastering AirPlay: A Step-by-Step Tutorial for Sharing Your Mac's Screen on a Television</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Plus Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-screen-casting-onto-your-lg-flat-panel/"><u>Step-by-Step Instructions for Screen Casting Onto Your LG Flat Panel</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-with-filmora-x-you-can-create-such-transparent-background-reaction-videos-without-such-expensive-material-for-2024/"><u>Updated With Filmora X, You Can Create Such Transparent Background Reaction Videos without Such Expensive Material for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-streaming-connect-your-mac-to-the-tv-with-airplay/"><u>Wireless Streaming: Connect Your Mac to the TV with AirPlay</u></a></li>
 </ul></div>
 

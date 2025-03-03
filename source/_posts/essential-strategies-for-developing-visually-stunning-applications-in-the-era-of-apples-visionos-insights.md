@@ -1,7 +1,7 @@
 ---
 title: Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights
-date: 2025-02-04T23:10:48.732Z
-updated: 2025-02-11T22:10:27.253Z
+date: 2025-02-26T18:17:23.452Z
+updated: 2025-03-02T16:38:11.137Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ Let's dig in, shall we?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Gradual immersion
 
 Apple recommends you gradually introduce users to your app, starting with a window view within the augmented reality environment. 
@@ -74,19 +70,11 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
 
@@ -98,19 +86,11 @@ To that end, even if you're building a non-entertainment app that would normally
 
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  6\. Focus on key details, but don't overwhelm
 
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -159,24 +139,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-buzzing-tracks-ultimate-backdrops-for-youtube-shorts/"><u>[New] In 2024, Buzzing Tracks Ultimate Backdrops for YouTube Shorts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-speedy-surfing-tips-for-youtubes-playback-speed-control/"><u>[New] In 2024, Speedy Surfing Tips for YouTube's Playback Speed Control</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-revolutionize-visual-content-leading-montage-tools-for-phones-for-2024/"><u>[New] Revolutionize Visual Content Leading Montage Tools for Phones for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-videotwitter-audible-direct-download/"><u>[New] VideoTwitter Audible Direct Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehvew-of-excellent-twitter-platform-extensions-choosing-the-right-one/"><u>A Comprehvew of Excellent Twitter Platform Extensions - Choosing the Right One</u></a></li>
-<li><a href="https://win-answers.techidaily.com/biomutant-stability-hacks-and-fixes-top-troubleshooting-strategies-of-2024/"><u>Biomutant Stability Hacks & Fixes: Top Troubleshooting Strategies of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-the-playstation-5-console-ps5-slim-vs-standard-model/"><u>Comparing the PlayStation 5 Console: PS5 Slim Vs. Standard Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/creating-an-official-account-for-playstation-network-a-step-by-step-tutorial/"><u>Creating an Official Account for PlayStation Network - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-steps-changing-your-kindle-paperwhites-system-clock-settings/"><u>Effortless Steps: Changing Your Kindle Paperwhite's System Clock Settings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-advice-on-itunes-video-capturing-for-2024/"><u>Expert Advice on iTunes Video Capturing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-innovation-at-samsung-unpacked-2-announcements-release-dates-and-pre-leak-hints/"><u>Get Ready for Innovation at Samsung Unpacked 2지 - Announcements, Release Dates & Pre-Leak Hints</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 Ultra To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-v30-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme V30 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-line-messaging-application-reviews/"><u>In-Depth Analysis: Line Messaging Application Reviews</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-edit-like-a-pro-best-1080p-video-editing-tools-for-stunning-videos/"><u>New Edit Like a Pro Best 1080P Video Editing Tools for Stunning Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199735565-regular-documentation-of-calibration-checks-is-essential-for-audits-and-maintaining-traceability/"><u>Regular Documentation of Calibration Checks Is Essential for Audits and Maintaining Traceability.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revisit-the-magic-top-picks-for-80s-movie-buffs-looking-for-a-trip-down-memory-lane/"><u>Revisit the Magic: Top Picks for '80S Movie Buffs Looking for a Trip Down Memory Lane</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-improve-your-iphones-picture-quality-by-correcting-the-focus-problem/"><u>Troubleshoot and Improve Your iPhone's Picture Quality by Correcting the Focus Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-enhancing-photography-on-iphone-and-ipad/"><u>Ultimate Guide: Enhancing Photography on iPhone & iPad</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-m1-pro-vs-m1-max-examining-the-advancements-in-apples-cpu-technology/"><u>[New] 2024 Approved M1 Pro Vs. M1 Max Examining the Advancements in Apple's CPU Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-pure-sound-capture-on-your-mac/"><u>[New] In 2024, Pure Sound Capture on Your Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-art-of-dual-careers-youtuber-and-full-time-employee/"><u>[Updated] 2024 Approved The Art of Dual Careers YouTuber & Full-Time Employee</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-social-media-presence-10-key-steps-for-an-insta-viral-effect/"><u>Boost Your Social Media Presence: 10 Key Steps for an Insta-Viral Effect</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-control-over-screen-dpi-in-windows-11-fix/"><u>Enhanced Control Over Screen DPI in Windows 11 Fix</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-tecno-pova-6-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Tecno Pova 6 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/instrucciones-detalladas-para-migrar-de-windows-10-a-windows-11-sin-coste/"><u>Instrucciones Detalladas Para Migrar De Windows 10 a Windows 11 Sin Coste</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-stories-step-by-step-recording-guide-for-2024/"><u>Mastering Instagram Stories Step-by-Step Recording Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-logitech-g533-headset-microphone-problems-step-by-step-solutions/"><u>Resolve Your Logitech G533 Headset Microphone Problems - Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-steams-disk-writing-issue-effective-strategies-and-tips/"><u>Solving Steam's Disk Writing Issue: Effective Strategies and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-common-issues-a-guide-to-solving-tiktok-problems/"><u>Troubleshooting Common Issues: A Guide to Solving TikTok Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-500-internal-server-mistake/"><u>Ultimate Guide: Resolving the 500 Internal Server Mistake</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-melody-eraser-pro-craft-personalized-instrumental-compositions/"><u>Updated Melody Eraser Pro Craft Personalized Instrumental Compositions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-are-connected-televisions-and-why-should-you-care/"><u>What Are Connected Televisions and Why Should You Care?</u></a></li>
 </ul></div>
 
